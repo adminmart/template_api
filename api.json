@@ -927,4 +927,32 @@
     "livePreview": "https://jamstackthemes.dev/demo/theme/next-landing-vpn/",
     "templateName": "Tailwind VPN Landingpage"
   }
+  ,
+   {
+    "id": 72,
+    "price": 0,
+    "popularity" : 2,
+    "appType": "landingpage",
+    "details": "https://jamstackthemes.dev/theme/next-saas-starter/",
+    "category": "NextJs",
+    "imageAlt": "blazity-next-saas-starter",
+    "imageSrc": "https://jamstackthemes.dev/capture/blazity-next-saas-starter.png",
+    "subtitle": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
+    "livePreview": "https://jamstackthemes.dev/demo/theme/next-saas-starter/",
+    "templateName": "Next SaaS Starter"
+  }
+  ,
+  {
+   "id": 73,
+   "price": 0,
+   "popularity" : 2,
+   "appType": "landingpage",
+   "details": "https://jamstackthemes.dev/theme/nextacular/",
+   "category": "NextJs",
+   "imageAlt": "arjayosma-nextacular",
+   "imageSrc": "https://jamstackthemes.dev/capture/arjayosma-nextacular.png",
+   "subtitle": "An open-source starter kit built with modern full-stack technologies.",
+   "livePreview": "https://jamstackthemes.dev/demo/theme/nextacular/",
+   "templateName": "Nextacular"
+ }
 ]
