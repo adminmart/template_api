@@ -861,7 +861,7 @@
    {
     "id": 67,
     "price": 0,
-    "popularity" : 1,
+    "popularity" : 2,
     "appType": "website",
     "details": "https://jamstackthemes.dev/theme/next-hull/",
     "category": "NextJs",
