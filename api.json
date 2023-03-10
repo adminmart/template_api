@@ -913,4 +913,18 @@
     "livePreview": "https://jamstackthemes.dev/demo/theme/blog-nextjs-template/",
     "templateName": "Minimal Blog | NextJS"
   }
+  ,
+   {
+    "id": 71,
+    "price": 0,
+    "popularity" : 2,
+    "appType": "landingpage",
+    "details": "https://jamstackthemes.dev/theme/next-landing-vpn/",
+    "category": "NextJs",
+    "imageAlt": "naufaldi-next-landing-vpn",
+    "imageSrc": "https://jamstackthemes.dev/capture/naufaldi-next-landing-vpn.png",
+    "subtitle": "An Open Source Landingpage For VPN or Apps.",
+    "livePreview": "https://jamstackthemes.dev/demo/theme/next-landing-vpn/",
+    "templateName": "Tailwind VPN Landingpage"
+  }
 ]
