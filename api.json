@@ -885,4 +885,18 @@
     "livePreview": "https://jamstackthemes.dev/demo/theme/theme-nextjs-bea/",
     "templateName": "Prezly Bea Theme"
   }
+  ,
+   {
+    "id": 69,
+    "price": 0,
+    "popularity" : 2,
+    "appType": "website",
+    "details": "https://jamstackthemes.dev/theme/next-react-storefront/",
+    "category": "NextJs",
+    "imageAlt": "saleor-react-storefront",
+    "imageSrc": "https://jamstackthemes.dev/capture/saleor-react-storefront.png",
+    "subtitle": "An open-source storefront in React.js with Next.js.",
+    "livePreview": "https://jamstackthemes.dev/demo/theme/next-react-storefront/",
+    "templateName": "React Storefront"
+  }
 ]
