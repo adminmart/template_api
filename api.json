@@ -899,4 +899,18 @@
     "livePreview": "https://jamstackthemes.dev/demo/theme/next-react-storefront/",
     "templateName": "React Storefront"
   }
+  ,
+   {
+    "id": 70,
+    "price": 0,
+    "popularity" : 2,
+    "appType": "website",
+    "details": "https://jamstackthemes.dev/theme/blog-nextjs-template/",
+    "category": "NextJs",
+    "imageAlt": "jaymehta20-nextjs-blog-page",
+    "imageSrc": "https://jamstackthemes.dev/capture/jaymehta20-nextjs-blog-page.png",
+    "subtitle": "A simple blog site created with NextJs",
+    "livePreview": "https://jamstackthemes.dev/demo/theme/blog-nextjs-template/",
+    "templateName": "Minimal Blog | NextJS"
+  }
 ]
