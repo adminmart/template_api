@@ -861,7 +861,7 @@
    {
     "id": 67,
     "price": 0,
-    "popularity" : 3,
+    "popularity" : 2,
     "appType": "website",
     "details": "https://jamstackthemes.dev/theme/next-hull/",
     "category": "NextJs",
@@ -870,5 +870,19 @@
     "subtitle": "Headless Shopify starter powered by Next.js + Sanity.io",
     "livePreview": "https://jamstackthemes.dev/demo/theme/next-hull/",
     "templateName": "HULL"
+  }
+  ,
+   {
+    "id": 68,
+    "price": 0,
+    "popularity" : 2,
+    "appType": "website",
+    "details": "https://jamstackthemes.dev/theme/theme-nextjs-bea/",
+    "category": "NextJs",
+    "imageAlt": "prezly-theme-nextjs-bea",
+    "imageSrc": "https://jamstackthemes.dev/capture/prezly-theme-nextjs-bea.png",
+    "subtitle": "News site built with NextJS, Typescript and Prezly SDK",
+    "livePreview": "https://jamstackthemes.dev/demo/theme/theme-nextjs-bea/",
+    "templateName": "Prezly Bea Theme"
   }
 ]
