@@ -857,4 +857,18 @@
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/xtreme-vuejs-free/landingpage/index.html",
     "templateName": "Xtreme Bootstrap Vue Admin Lite"
   }
+  ,
+   {
+    "id": 67,
+    "price": 0,
+    "popularity" : 1,
+    "appType": "website",
+    "details": "https://jamstackthemes.dev/theme/next-hull/",
+    "category": "NextJs",
+    "imageAlt": "Headless Shopify",
+    "imageSrc": "https://jamstackthemes.dev/capture/ndimatteo-hull.png",
+    "subtitle": "Headless Shopify starter powered by Next.js + Sanity.io",
+    "livePreview": "https://jamstackthemes.dev/demo/theme/next-hull/",
+    "templateName": "HULL"
+  }
 ]
