@@ -863,12 +863,12 @@
     "price": 0,
     "popularity" : 2,
     "appType": "website",
-    "details": "https://jamstackthemes.dev/theme/next-hull/",
+    "details": "https://github.com/ndimatteo/HULL",
     "category": "NextJs",
     "imageAlt": "Headless Shopify",
     "imageSrc": "https://jamstackthemes.dev/capture/ndimatteo-hull.png",
     "subtitle": "Headless Shopify starter powered by Next.js + Sanity.io",
-    "livePreview": "https://jamstackthemes.dev/demo/theme/next-hull/",
+    "livePreview": "https://hull.dev/",
     "templateName": "HULL"
   }
   ,
@@ -877,12 +877,12 @@
     "price": 0,
     "popularity" : 2,
     "appType": "website",
-    "details": "https://jamstackthemes.dev/theme/theme-nextjs-bea/",
+    "details": "https://github.com/prezly/theme-nextjs-bea",
     "category": "NextJs",
     "imageAlt": "prezly-theme-nextjs-bea",
     "imageSrc": "https://jamstackthemes.dev/capture/prezly-theme-nextjs-bea.png",
     "subtitle": "News site built with NextJS, Typescript and Prezly SDK",
-    "livePreview": "https://jamstackthemes.dev/demo/theme/theme-nextjs-bea/",
+    "livePreview": "https://theme-nextjs-bea-the-good-newsroom.vercel.app/",
     "templateName": "Prezly Bea Theme"
   }
   ,
@@ -891,12 +891,12 @@
     "price": 0,
     "popularity" : 2,
     "appType": "website",
-    "details": "https://jamstackthemes.dev/theme/next-react-storefront/",
+    "details": "https://github.com/saleor/react-storefront",
     "category": "NextJs",
     "imageAlt": "saleor-react-storefront",
     "imageSrc": "https://jamstackthemes.dev/capture/saleor-react-storefront.png",
     "subtitle": "An open-source storefront in React.js with Next.js.",
-    "livePreview": "https://jamstackthemes.dev/demo/theme/next-react-storefront/",
+    "livePreview": "https://demo.saleor.io/default-channel/en-US/",
     "templateName": "React Storefront"
   }
   ,
@@ -905,12 +905,12 @@
     "price": 0,
     "popularity" : 2,
     "appType": "website",
-    "details": "https://jamstackthemes.dev/theme/blog-nextjs-template/",
+    "details": "https://github.com/jaymehta20/nextjs-blog-page",
     "category": "NextJs",
     "imageAlt": "jaymehta20-nextjs-blog-page",
     "imageSrc": "https://jamstackthemes.dev/capture/jaymehta20-nextjs-blog-page.png",
     "subtitle": "A simple blog site created with NextJs",
-    "livePreview": "https://jamstackthemes.dev/demo/theme/blog-nextjs-template/",
+    "livePreview": "https://nextjs-blog-page.vercel.app/",
     "templateName": "Minimal Blog | NextJS"
   }
   ,
@@ -919,12 +919,12 @@
     "price": 0,
     "popularity" : 2,
     "appType": "landingpage",
-    "details": "https://jamstackthemes.dev/theme/next-landing-vpn/",
+    "details": "https://github.com/naufaldi/next-landing-vpn",
     "category": "NextJs",
     "imageAlt": "naufaldi-next-landing-vpn",
     "imageSrc": "https://jamstackthemes.dev/capture/naufaldi-next-landing-vpn.png",
     "subtitle": "An Open Source Landingpage For VPN or Apps.",
-    "livePreview": "https://jamstackthemes.dev/demo/theme/next-landing-vpn/",
+    "livePreview": "https://next-landing-vpn.vercel.app/",
     "templateName": "Tailwind VPN Landingpage"
   }
   ,
@@ -933,12 +933,12 @@
     "price": 0,
     "popularity" : 2,
     "appType": "landingpage",
-    "details": "https://jamstackthemes.dev/theme/next-saas-starter/",
+    "details": "https://github.com/Blazity/next-saas-starter",
     "category": "NextJs",
     "imageAlt": "blazity-next-saas-starter",
     "imageSrc": "https://jamstackthemes.dev/capture/blazity-next-saas-starter.png",
     "subtitle": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
-    "livePreview": "https://jamstackthemes.dev/demo/theme/next-saas-starter/",
+    "livePreview": "https://next-saas-starter-ashy.vercel.app/",
     "templateName": "Next SaaS Starter"
   }
   ,
@@ -947,12 +947,12 @@
    "price": 0,
    "popularity" : 2,
    "appType": "landingpage",
-   "details": "https://jamstackthemes.dev/theme/nextacular/",
+   "details": "https://github.com/nextacular/nextacular",
    "category": "NextJs",
    "imageAlt": "arjayosma-nextacular",
    "imageSrc": "https://jamstackthemes.dev/capture/arjayosma-nextacular.png",
    "subtitle": "An open-source starter kit built with modern full-stack technologies.",
-   "livePreview": "https://jamstackthemes.dev/demo/theme/nextacular/",
+   "livePreview": "https://nextacular.co/",
    "templateName": "Nextacular"
  }
 ]
