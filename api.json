@@ -2,24 +2,24 @@
   {
     "id": 1,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/freedash-bootstrap-5-admin-template/",
     "category": "Bootstrap",
     "imageAlt": "bootstrap-5-admin-template",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/freedash-bootstrap-5-admin-template.png",
-    "subtitle": "FreeDash Bootstrap 5 Admin Template",
+    "subtitle": "An Open Source Bootstrap 5 Admin Template",
     "livePreview": "https://demos.adminmart.com/free/bootstrap/freedash-lite/landingpage/index.html",
     "templateName": "FreeDash Bootstrap 5 Admin Template"
   },
   {
     "id": 2,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/",
     "category": "Bootstrap",
-    "imageAlt": "Modernize Bootstrap 5 Admin",
+    "imageAlt": "Free - Open Source Bootstrap 5 Admin Dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modenize-free-bootstrap-admin-template.png",
     "subtitle": "Modernize Free Bootstrap 5 Admin Template",
     "livePreview": "https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html",
@@ -28,91 +28,91 @@
   {
     "id": 3,
     "price": 59,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/",
     "category": "Nuxt",
     "imageAlt": "modernize-nuxt-js-admin-dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png",
-    "subtitle": "Admin and dashboard",
+    "subtitle": "Nuxt.Js + Typescript + Vuetify Admin Template",
     "livePreview": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/#product-demo-section",
     "templateName": "Modernize Nuxt Js Admin Dashboard"
   },
   {
     "id": 4,
     "price": 59,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/#product-demo-section",
     "category": "Bootstrap",
     "imageAlt": "Modernize Bootstrap 5 Admin Template",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png",
-    "subtitle": "Modernize Bootstrap 5 Admin Template",
+    "subtitle": "Premium Bootstrap 5 Admin Template",
     "livePreview": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/#product-demo-section",
     "templateName": "Modernize Bootstrap 5 Admin Template"
   },
   {
     "id": 5,
     "price": 59,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/",
     "category": "Vuetify",
     "imageAlt": "Modernize-vuetify-admin-dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard.png",
-    "subtitle": "Admin and dashboard",
+    "subtitle": "Vue3 Admin and dashboard",
     "livePreview": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/#product-demo-section",
     "templateName": "Modernize Vuetify 3 & Vue 3 Admin Dashboard"
   },
   {
     "id": 6,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/",
     "category": "Nuxt",
     "imageAlt": "modernize-free-nuxt-admin-dashboard-am",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am.png",
-    "subtitle": "Admin and dashboard",
+    "subtitle": "Free Nuxt3  Admin and dashboard Template",
     "livePreview": "https://modernize-nuxtjs-free.netlify.app/",
     "templateName": "Modernize Free NuxtJs Admin Dashboard Template"
   },
   {
     "id": 7,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/",
     "category": "Vuetify",
     "imageAlt": "modernize-free-vuetify-admin-dashboard-am",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-vuetify-admin-dashboard-am.png",
-    "subtitle": "Admin and dashboard",
+    "subtitle": "Free Vuetify + Vue js Admin and dashboard Template",
     "livePreview": "https://modernize-vue3-free.netlify.app/",
     "templateName": "Modernize Free Vuetify + Vue js Admin Dashboard"
   },
   {
     "id": 8,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-react-mui-dashboard/",
     "category": "React",
     "imageAlt": "modernize-free-react-admin-dashboard-am",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/01/modernize-free-react-admin-dashboard-am.png",
-    "subtitle": "Modernize Free React MUI Dashboard",
+    "subtitle": "Free - Opensource MUI React Admin Dashboard Theme",
     "livePreview": "https://modernize-react-free.netlify.app/dashboard",
     "templateName": "Modernize Free React MUI Dashboard"
   },
   {
     "id": 9,
     "price": 59,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-react-mui-dashboard-theme/",
     "category": "React",
     "imageAlt": "Modernize React MUI Dashboard Theme",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/01/image_2023_01_26T10_19_25_019Z.png",
-    "subtitle": "Modernize Free React MUI Dashboard",
+    "subtitle": "Premium React MUI Admin Panel Template",
     "livePreview": "https://adminmart.com/product/modernize-react-mui-dashboard-theme/#product-demo-section",
     "templateName": "Modernize React MUI Dashboard Theme"
   },
@@ -125,14 +125,14 @@
     "category": "NextJs",
     "imageAlt": "nextjs-flexy",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/04/nextjs-flexy.jpg",
-    "subtitle": "NextJs with Material UI",
+    "subtitle": "Premium NextJs with Material UI",
     "livePreview": "https://flexy-next-js-dashboard.vercel.app/dashboards/dashboard1",
     "templateName": "Flexy NextJs Dashboard – Material UI"
   },
   {
     "id": 11,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
@@ -145,7 +145,7 @@
   {
     "id": 12,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
@@ -158,33 +158,33 @@
   {
     "id": 13,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
     "imageAlt": "Monster NextJs Admin Dashboard",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monsternextjs.jpg",
-    "subtitle": "NextJs Based Admin Template",
+    "subtitle": "Next.Js Based Admin Template",
     "livePreview": "https://monster-nextjs-admin.vercel.app/dashboards/modern",
     "templateName": "Monster NextJs Admin Dashboard"
   },
   {
     "id": 14,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/",
     "category": "NextJs",
     "imageAlt": " Flexy Next Js Free Admin Template",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/flexy-nextjs-free.jpg",
-    "subtitle": "Material UI Based Next Js Template",
+    "subtitle": "An Open Source MUI Based NextJs Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/flexy-nextjs-admin-free-dist/landingpage/",
     "templateName": "Flexy Next Js Free Admin Template"
   },
   {
     "id": 15,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/nextkit-nextjs-free-uikit/",
     "category": "NextJs",
@@ -197,7 +197,7 @@
   {
     "id": 16,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-next-js-free-admin-template/",
     "category": "NextJs",
@@ -210,7 +210,7 @@
   {
     "id": 17,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-next-js-free-admin-template/",
     "category": "NextJs",
@@ -223,20 +223,20 @@
   {
     "id": 18,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-next-js-free-admin-template/",
     "category": "NextJs",
     "imageAlt": "Monster Next Js Free Dashboard",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monster-free-nextjs.jpg",
-    "subtitle": "Free Next Js Admin Dashboard",
+    "subtitle": "Free Next Js Admin Apnel Dashboard",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/monster-nextjs-admin-free-dist/landingpage/",
     "templateName": "Monster Next Js Free Dashboard"
   },
   {
     "id": 19,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-react-redux-admin/#demos",
     "category": "React",
@@ -249,7 +249,7 @@
   {
     "id": 20,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-react-redux-admin/#demos",
     "category": "React",
@@ -262,7 +262,7 @@
   {
     "id": 21,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/#demos",
     "category": "React",
@@ -275,7 +275,7 @@
   {
     "id": 22,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-react-redux-admin/#demos",
     "category": "React",
@@ -288,7 +288,7 @@
   {
     "id": 23,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-react-admin/#demos",
     "category": "React",
@@ -301,7 +301,7 @@
   {
     "id": 24,
     "price": 79,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/react-bundle/#demos",
     "category": "React",
@@ -314,7 +314,7 @@
   {
     "id": 25,
     "price": 49,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-react-dashboard/#demos",
     "category": "React",
@@ -327,7 +327,7 @@
   {
     "id": 26,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-react-admin-lite/",
     "category": "React",
@@ -340,20 +340,20 @@
   {
     "id": 27,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-react-admin-lite/",
     "category": "React",
     "imageAlt": "MaterialPro React Admin Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-lite-y.jpg",
-    "subtitle": "Free React Dashboard Template with hooks",
+    "subtitle": "Free React Dashboard Template Admin Panel",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/materialpro-react-free/landingpage/index.html",
     "templateName": "MaterialPro React Admin Lite"
   },
   {
     "id": 28,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-react-admin-lite/",
     "category": "React",
@@ -366,7 +366,7 @@
   {
     "id": 29,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/wrapkit-react-lite/",
     "category": "React",
@@ -379,7 +379,7 @@
   {
     "id": 30,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/free-material-ui-template/",
     "category": "React",
@@ -392,20 +392,20 @@
   {
     "id": 31,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-free-react-dashboard/",
     "category": "React",
     "imageAlt": "ample-react-dashboard-lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-dashboard-lite.jpg",
-    "subtitle": "Free React Dashboard Theme",
+    "subtitle": "Free React Admin Dashboard Panel Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/ample-react-free/landingpage/index.html",
     "templateName": "Ample React Dashboard Lite"
   },
   {
     "id": 32,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-react-admin-lite/",
     "category": "React",
@@ -418,7 +418,7 @@
   {
     "id": 33,
     "price": 59,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=4",
     "category": "Vuetify",
@@ -431,7 +431,7 @@
   {
     "id": 34,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=4",
     "category": "Vuetify",
@@ -444,7 +444,7 @@
   {
     "id": 35,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-vuetify-admin/#demos",
     "category": "Vue",
@@ -457,7 +457,7 @@
   {
     "id": 36,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/#demos",
     "category": "Vue",
@@ -470,7 +470,7 @@
   {
     "id": 37,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/#demos",
     "category": "Vue",
@@ -483,7 +483,7 @@
   {
     "id": 38,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-vuetify-dashboard/#demos",
     "category": "Vue",
@@ -496,7 +496,7 @@
   {
     "id": 39,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-vuejs-admin/#demos",
     "category": "Vue",
@@ -509,7 +509,7 @@
   {
     "id": 40,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-vuetify-admin-lite/",
     "category": "Vuetify",
@@ -522,7 +522,7 @@
   {
     "id": 41,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/",
     "category": "Vuetify",
@@ -535,7 +535,7 @@
   {
     "id": 42,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/",
     "category": "Vuetify",
@@ -548,7 +548,7 @@
   {
     "id": 43,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-bootstrap-vue-admin-lite/",
     "category": "Vue",
@@ -561,7 +561,7 @@
   {
     "id": 44,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-vuejs-admin-free/",
     "category": "Vue",
@@ -574,7 +574,7 @@
   {
     "id": 45,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-nextjs-admin-template/",
     "category": "NextJs",
@@ -587,7 +587,7 @@
   {
     "id": 46,
     "price": 59,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-next-js-admin-dashboard/",
     "category": "NextJs",
@@ -600,7 +600,7 @@
   {
     "id": 47,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro/#demos",
     "category": "Bootstrap",
@@ -613,7 +613,7 @@
   {
     "id": 48,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ampleadmin/#demos",
     "category": "Bootstrap",
@@ -626,7 +626,7 @@
   {
     "id": 49,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monsteradmin/#demos",
     "category": "Bootstrap",
@@ -639,7 +639,7 @@
   {
     "id": 50,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro/#demos",
     "category": "Bootstrap",
@@ -652,7 +652,7 @@
   {
     "id": 51,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtremeadmin/#demos",
     "category": "Bootstrap",
@@ -665,7 +665,7 @@
   {
     "id": 52,
     "price": 79,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/mega-bundle/#demos",
     "category": "Bootstrap",
@@ -678,7 +678,7 @@
   {
     "id": 53,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/niceadmin/#demos",
     "category": "Bootstrap",
@@ -691,7 +691,7 @@
   {
     "id": 54,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/elegant-admin/#demos",
     "category": "Bootstrap",
@@ -704,7 +704,7 @@
   {
     "id": 55,
     "price": 49,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/wp-content/uploads/edd/2021/05/flexy.jpg",
     "category": "Bootstrap",
@@ -717,7 +717,7 @@
   {
     "id": 56,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-admin-lite/",
     "category": "Bootstrap",
@@ -730,7 +730,7 @@
   {
     "id": 57,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://matrixadmin.wrappixel.com/",
     "category": "Bootstrap",
@@ -743,7 +743,7 @@
   {
     "id": 58,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-admin-lite/",
     "category": "Bootstrap",
@@ -756,7 +756,7 @@
   {
     "id": 59,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-lite/",
     "category": "Bootstrap",
@@ -769,7 +769,7 @@
   {
     "id": 60,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-admin-lite/",
     "category": "Bootstrap",
@@ -782,7 +782,7 @@
   {
     "id": 61,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/niceadmin-lite/",
     "category": "Bootstrap",
@@ -795,7 +795,7 @@
   {
     "id": 62,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminwrap-lite/",
     "category": "Bootstrap",
@@ -808,7 +808,7 @@
   {
     "id": 63,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/elegant-admin-lite/",
     "category": "Bootstrap",
@@ -821,7 +821,7 @@
   {
     "id": 64,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-free/",
     "category": "Bootstrap",
@@ -834,7 +834,7 @@
   {
     "id": 65,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-admin-lite/",
     "category": "Bootstrap",
@@ -844,10 +844,10 @@
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/flexy-bootstrap-free/landingpage/index.html",
     "templateName": "Flexy Bootstrap Admin Lite"
   },
-   {
+  {
     "id": 66,
     "price": 0,
-    "popularity" : 1,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-vuejs-admin/#demos",
     "category": "Vue",
@@ -856,12 +856,11 @@
     "subtitle": "Free Vuejs Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/xtreme-vuejs-free/landingpage/index.html",
     "templateName": "Xtreme Bootstrap Vue Admin Lite"
-  }
-  ,
-   {
+  },
+  {
     "id": 67,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "website",
     "details": "https://github.com/ndimatteo/HULL",
     "category": "NextJs",
@@ -870,12 +869,11 @@
     "subtitle": "Headless Shopify starter powered by Next.js + Sanity.io",
     "livePreview": "https://hull.dev/",
     "templateName": "HULL"
-  }
-  ,
-   {
+  },
+  {
     "id": 68,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "website",
     "details": "https://github.com/prezly/theme-nextjs-bea",
     "category": "NextJs",
@@ -884,12 +882,11 @@
     "subtitle": "News site built with NextJS, Typescript and Prezly SDK",
     "livePreview": "https://theme-nextjs-bea-the-good-newsroom.vercel.app/",
     "templateName": "Prezly Bea Theme"
-  }
-  ,
-   {
+  },
+  {
     "id": 69,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "website",
     "details": "https://github.com/saleor/react-storefront",
     "category": "NextJs",
@@ -898,12 +895,11 @@
     "subtitle": "An open-source storefront in React.js with Next.js.",
     "livePreview": "https://demo.saleor.io/default-channel/en-US/",
     "templateName": "React Storefront"
-  }
-  ,
-   {
+  },
+  {
     "id": 70,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "website",
     "details": "https://github.com/jaymehta20/nextjs-blog-page",
     "category": "NextJs",
@@ -912,12 +908,11 @@
     "subtitle": "A simple blog site created with NextJs",
     "livePreview": "https://nextjs-blog-page.vercel.app/",
     "templateName": "Minimal Blog | NextJS"
-  }
-  ,
-   {
+  },
+  {
     "id": 71,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "landingpage",
     "details": "https://github.com/naufaldi/next-landing-vpn",
     "category": "NextJs",
@@ -926,12 +921,11 @@
     "subtitle": "An Open Source Landingpage For VPN or Apps.",
     "livePreview": "https://next-landing-vpn.vercel.app/",
     "templateName": "Tailwind VPN Landingpage"
-  }
-  ,
-   {
+  },
+  {
     "id": 72,
     "price": 0,
-    "popularity" : 2,
+    "popularity": 2,
     "appType": "landingpage",
     "details": "https://github.com/Blazity/next-saas-starter",
     "category": "NextJs",
@@ -940,19 +934,18 @@
     "subtitle": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
     "livePreview": "https://next-saas-starter-ashy.vercel.app/",
     "templateName": "Next SaaS Starter"
-  }
-  ,
+  },
   {
-   "id": 73,
-   "price": 0,
-   "popularity" : 2,
-   "appType": "landingpage",
-   "details": "https://github.com/nextacular/nextacular",
-   "category": "NextJs",
-   "imageAlt": "arjayosma-nextacular",
-   "imageSrc": "https://jamstackthemes.dev/capture/arjayosma-nextacular.png",
-   "subtitle": "An open-source starter kit built with modern full-stack technologies.",
-   "livePreview": "https://nextacular.co/",
-   "templateName": "Nextacular"
- }
+    "id": 73,
+    "price": 0,
+    "popularity": 2,
+    "appType": "landingpage",
+    "details": "https://github.com/nextacular/nextacular",
+    "category": "NextJs",
+    "imageAlt": "arjayosma-nextacular",
+    "imageSrc": "https://jamstackthemes.dev/capture/arjayosma-nextacular.png",
+    "subtitle": "An open-source starter kit built with modern full-stack technologies.",
+    "livePreview": "https://nextacular.co/",
+    "templateName": "Nextacular"
+  }
 ]
