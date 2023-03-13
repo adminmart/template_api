@@ -947,5 +947,44 @@
     "subtitle": "An open-source starter kit built with modern full-stack technologies.",
     "livePreview": "https://nextacular.co/",
     "templateName": "Nextacular"
-  }
+  },
+   {
+   "id": 74,
+   "price": 0,
+   "popularity" : 2,
+   "appType": "website",
+   "details": "https://github.com/atlamors/portfolio?ref=statichunt.com",
+   "category": "NextJs",
+   "imageAlt": "Andrew Nelson",
+   "imageSrc": "https://camo.githubusercontent.com/e9d3ee61c4be40ea3e579a5a8da8608fc1a2c4bdf69d752e19c473f266696d21/68747470733a2f2f7777772e616e647265776e656c736f6e2e6e65742f696d672f707265766965772e706e67",
+   "subtitle": "An open source portfolio site built on Nextjs and React.",
+   "livePreview": "https://andrewnelson.net/",
+   "templateName": "Andrew Nelson"
+ },
+ {
+  "id": 75,
+  "price": 0,
+  "popularity" : 2,
+  "appType": "website",
+  "details": "https://github.com/enjidev/enji.dev?ref=statichunt.com",
+  "category": "NextJs",
+  "imageAlt": "Enji Dev",
+  "imageSrc": "https://camo.githubusercontent.com/e9d3ee61c4be40ea3e579a5a8da8608fc1a2c4bdf69d752e19c473f266696d21/68747470733a2f2f7777772e616e647265776e656c736f6e2e6e65742f696d672f707265766965772e706e67",
+  "subtitle": "A monorepo for my personal website and projects, built with Turborepo + pnpm ",
+  "livePreview": "https://enji.dev/",
+  "templateName": "Enji Dev"
+},
+{
+  "id": 76,
+  "price": 0,
+  "popularity" : 2,
+  "appType": "website",
+  "details": "https://github.com/transitive-bullshit/nextjs-notion-starter-kit?ref=statichunt.com",
+  "category": "NextJs",
+  "imageAlt": "Notion",
+  "imageSrc": "https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg",
+  "subtitle": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
+  "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
+  "templateName": "Notion"
+}
 ]
