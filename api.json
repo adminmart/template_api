@@ -986,5 +986,31 @@
   "subtitle": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
   "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
   "templateName": "Notion"
+},
+{
+  "id": 77,
+  "price": 0,
+  "popularity" : 2,
+  "appType": "landingpage",
+  "details": "https://adminmart.com/product/desgy-solution-free-next-js-template/",
+  "category": "NextJs",
+  "imageAlt": "desgy",
+  "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/desgy-solutions-next-js-free-landing-page.png",
+  "subtitle": "Desgy Solution Free Next Js Template",
+  "livePreview": "https://desgy-solutions-nextjs.netlify.app/",
+  "templateName": "Desgy Solution Free Next Js Template"
+},
+{
+  "id": 78,
+  "price": 0,
+  "popularity" : 2,
+  "appType": "landingpage",
+  "details": "https://adminmart.com/product/si-educational-next-js/",
+  "category": "NextJs",
+  "imageAlt": "Educational",
+  "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/si-educational-next-js-free-landing-page.png",
+  "subtitle": "Si Educational Free Next Js Template",
+  "livePreview": "https://si-educational-nextjs.netlify.app/",
+  "templateName": "Si Educational Free Next Js Template"
 }
 ]
