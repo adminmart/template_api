@@ -93,7 +93,7 @@
   {
     "id": 8,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-react-mui-dashboard/",
     "category": "React",
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "price": 59,
-    "popularity": 2,
+    "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-react-mui-dashboard-theme/",
     "category": "React",
@@ -990,7 +990,7 @@
 {
   "id": 77,
   "price": 0,
-  "popularity" : 1,
+  "popularity": 1,
   "appType": "landingpage",
   "details": "https://adminmart.com/product/desgy-solution-free-next-js-template/",
   "category": "NextJs",
@@ -1003,7 +1003,7 @@
 {
   "id": 78,
   "price": 0,
-  "popularity" : 1,
+  "popularity": 1,
   "appType": "landingpage",
   "details": "https://adminmart.com/product/si-educational-next-js/",
   "category": "NextJs",
