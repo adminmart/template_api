@@ -990,7 +990,7 @@
 {
   "id": 77,
   "price": 0,
-  "popularity" : 2,
+  "popularity" : 1,
   "appType": "landingpage",
   "details": "https://adminmart.com/product/desgy-solution-free-next-js-template/",
   "category": "NextJs",
@@ -1003,7 +1003,7 @@
 {
   "id": 78,
   "price": 0,
-  "popularity" : 2,
+  "popularity" : 1,
   "appType": "landingpage",
   "details": "https://adminmart.com/product/si-educational-next-js/",
   "category": "NextJs",
