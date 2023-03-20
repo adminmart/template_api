@@ -1036,7 +1036,7 @@
   "imageAlt": "bigspring",
   "imageSrc": "https://camo.githubusercontent.com/8420623d3615b45b5541f2beb33efc0d20d2b2bcf26297c461d04c4b8ebd81e9/68747470733a2f2f64656d6f2e6765746875676f7468656d65732e636f6d2f7468756d626e61696c732f626967737072696e672d6c696768742e706e67",
   "subtitle": "Bigspring is a web development company Nextjs template with Tailwind CSS.",
-  "livePreview": "https://statichunt.com/demo/nextjs-bigspring-light",
+  "livePreview": "https://themefisher.com/products/bigspring-light-nextjs",
   "templateName": "Bigspring Light Nextjs"
 },
 {
@@ -1049,7 +1049,7 @@
   "imageAlt": "bookworm",
   "imageSrc": "https://camo.githubusercontent.com/15f71c4b303f444f5f5a8f273697c8ba1db86d8eb2696a4508d0d4d4c9869a5c/68747470733a2f2f64656d6f2e6765746875676f7468656d65732e636f6d2f7468756d626e61696c732f626f6f6b776f726d2d6c696768742e706e67",
   "subtitle": "Bookworm is a minimal NextJs Tailwind blog starter template.",
-  "livePreview": "https://statichunt.com/demo/nextjs-bookworm-light",
+  "livePreview": "https://bookworm-light-nextjs.vercel.app/?ref=statichunt.com",
   "templateName": "Bookworm Light Nextjs"
 },
 {
@@ -1062,7 +1062,7 @@
   "imageAlt": "Brendan Glancy",
   "imageSrc": "https://user-images.githubusercontent.com/61941978/218782582-2109dfb4-3625-42f7-8857-365c538e4319.png",
   "subtitle": "Software Developer Portfolio Template built with Next.js bootstrap.",
-  "livePreview": "https://statichunt.com/demo/nextjs-brendan-glancy",
+  "livePreview": "https://brendanglancy.software/?ref=statichunt.com",
   "templateName": "Brendan Glancy Nextjs"
 }
 ]
