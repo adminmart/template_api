@@ -1012,5 +1012,18 @@
   "subtitle": "Si Educational Free Next Js Template",
   "livePreview": "https://si-educational-nextjs.netlify.app/",
   "templateName": "Si Educational Free Next Js Template"
+},
+{
+  "id": 79,
+  "price": 0,
+  "popularity": 1,
+  "appType": "landingpage",
+  "details": "https://adminmart.com/product/crypto-free-next-js-template/",
+  "category": "NextJs",
+  "imageAlt": "crypto",
+  "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/crypto-next-js-tailwind-landing-page.png",
+  "subtitle": "Crypto Free NextJs Tailwind Template",
+  "livePreview": "https://crypto-nextjs.netlify.app/",
+  "templateName": "Crypto Free NextJs Tailwind Template"
 }
 ]
