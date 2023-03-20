@@ -1051,5 +1051,18 @@
   "subtitle": "Bookworm is a minimal NextJs Tailwind blog starter template.",
   "livePreview": "https://statichunt.com/demo/nextjs-bookworm-light",
   "templateName": "Bookworm Light Nextjs"
+},
+{
+  "id": 82,
+  "price": 0,
+  "popularity": 2,
+  "appType": "website",
+  "details": "https://github.com/BrendanGlancy/dev-port?ref=statichunt.com",
+  "category": "NextJs",
+  "imageAlt": "Brendan Glancy",
+  "imageSrc": "https://user-images.githubusercontent.com/61941978/218782582-2109dfb4-3625-42f7-8857-365c538e4319.png",
+  "subtitle": "Software Developer Portfolio Template built with Next.js bootstrap.",
+  "livePreview": "https://statichunt.com/demo/nextjs-brendan-glancy",
+  "templateName": "Brendan Glancy Nextjs"
 }
 ]
