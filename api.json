@@ -1036,7 +1036,7 @@
   "imageAlt": "bigspring",
   "imageSrc": "https://camo.githubusercontent.com/8420623d3615b45b5541f2beb33efc0d20d2b2bcf26297c461d04c4b8ebd81e9/68747470733a2f2f64656d6f2e6765746875676f7468656d65732e636f6d2f7468756d626e61696c732f626967737072696e672d6c696768742e706e67",
   "subtitle": "Bigspring is a web development company Nextjs template with Tailwind CSS.",
-  "livePreview": "https://themefisher.com/products/bigspring-light-nextjs",
+  "livePreview": "https://bigspring-light-nextjs.vercel.app/",
   "templateName": "Bigspring Light Nextjs"
 },
 {
