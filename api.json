@@ -1064,5 +1064,18 @@
   "subtitle": "Software Developer Portfolio Template built with Next.js bootstrap.",
   "livePreview": "https://brendanglancy.software/?ref=statichunt.com",
   "templateName": "Brendan Glancy Nextjs"
+},
+{
+  "id": 83,
+  "price": 0,
+  "popularity": 2,
+  "appType": "website",
+  "details": "https://github.com/zeon-studio/astroplate?ref=statichunt.com",
+  "category": "NextJs",
+  "imageAlt": "Astro-Plate",
+  "imageSrc": "https://astroplate.netlify.app/images/banner.png",
+  "subtitle": "Astroplate is a free starter template built with Astro and TailwindCSS.",
+  "livePreview": "https://astroplate.netlify.app/",
+  "templateName": "Astroplate Free Starter Template"
 }
 ]
