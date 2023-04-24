@@ -8,9 +8,12 @@
     "category": "Bootstrap",
     "imageAlt": "bootstrap-5-admin-template",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/freedash-bootstrap-5-admin-template.png",
-    "subtitle": "Best Open Source Bootstrap 5 Admin Template",
+    "subtitle": "Best Open-Source Bootstrap 5 Admin Template",
     "livePreview": "https://demos.adminmart.com/free/bootstrap/freedash-lite/landingpage/index.html",
-    "templateName": "FreeDash Bootstrap 5 Admin Template"
+    "templateName": "FreeDash Bootstrap 5 Admin Template",
+    "description": "If you're looking for a free and stylish admin template, then FreeDash Bootstrap 5 is perfect. It has many added features and a simple but sleek design that will help your project look professional and engaging.",
+    "features": ["Bootstrap 5","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process","1 Basic Dashboard","Forms Variations","Table Variations","Charts Examples","3 Useful Application","Login and Register Page Added"],
+    "createdOn": "24-Feb-2023"
   },
   {
     "id": 2,
