@@ -1,84 +1,99 @@
 [
   {
-    "id": 1,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://adminmart.com/product/freedash-bootstrap-5-admin-template/",
-    "category": "Bootstrap",
-    "imageAlt": "bootstrap-5-admin-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/freedash-bootstrap-5-admin-template.png",
-    "subtitle": "Best Open-Source Bootstrap 5 Admin Template",
-    "livePreview": "https://demos.adminmart.com/free/bootstrap/freedash-lite/landingpage/index.html",
-    "templateName": "FreeDash Bootstrap 5 Admin Template",
-    "description": "If you're looking for a free and stylish admin template, then FreeDash Bootstrap 5 is perfect. It has many added features and a simple but sleek design that will help your project look professional and engaging.",
-    "features": ["Bootstrap 5","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process","1 Basic Dashboard","Forms Variations","Table Variations","Charts Examples","3 Useful Application","Login and Register Page Added"],
-    "createdOn": "24-Feb-2023"
+     "id": 1,
+     "price": 0,
+     "popularity": 1,
+     "appType": "admin-template",
+     "details": "https://adminmart.com/product/freedash-bootstrap-5-admin-template/",
+     "category": "Bootstrap",
+     "imageAlt": "bootstrap-5-admin-template",
+     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/freedash-bootstrap-5-admin-template.png",
+     "subtitle": "Best Free Open-Source Bootstrap 5 Admin Dashboard Template",
+     "livePreview": "https://demos.adminmart.com/free/bootstrap/freedash-lite/landingpage/index.html",
+     "templateName": "FreeDash Bootstrap 5 Admin Template",
+     "description": "If you're seeking a free Bootstrap 5 Admin Dashboard Template that is both attractive and neatly crafted and has a number of extra features, look no further. An incredible web app may be created using the free FreeDash Bootstrap 5 Admin Template. It features a very clean, straightforward design that will offer your upcoming project a polished, interesting appearance. This developer-friendly, highly adaptable, and free bootstrap admin template is simple to use. What more could you want when it makes it possible to quickly and easily construct web apps? Every developer's worst fear is creating a web application from scratch, but every developer's fantasy is to receive a free bootstrap template like this.",
+     "features": ["Bootstrap 5","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process","1 Basic Dashboard","Forms Variations","Table Variations","Charts Examples","3 Useful Application","Login and Register Page Added"],
+     "createdOn": "24-Feb-2023"
   },
   {
-    "id": 2,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/",
-    "category": "Bootstrap",
-    "imageAlt": "Free - Open Source Bootstrap 5 Admin Dashboard",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modenize-free-bootstrap-admin-template.png",
-    "subtitle": "Modernize Free Bootstrap 5 Admin Template",
-    "livePreview": "https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html",
-    "templateName": "Modernize Free Bootstrap 5 Admin Template"
+     "id": 2,
+     "price": 0,
+     "popularity": 1,
+     "appType": "admin-template",
+     "details": "https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/",
+     "category": "Bootstrap",
+     "imageAlt": "Free - Open Source Bootstrap 5 Admin Dashboard",
+     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modenize-free-bootstrap-admin-template.png",
+     "subtitle": "Modernize Free Bootstrap 5 Admin Template",
+     "livePreview": "https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html",
+     "templateName": "Modernize Free Bootstrap 5 Admin Template",
+     "description": "",
+     "features": [],
+     "createdOn": ""
   },
   {
-    "id": 3,
-    "price": 59,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/",
-    "category": "Nuxt",
-    "imageAlt": "modernize-nuxt-js-admin-dashboard",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png",
-    "subtitle": "Nuxt.Js + Typescript + Vuetify Admin Template",
-    "livePreview": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/#product-demo-section",
-    "templateName": "Modernize Nuxt Js Admin Dashboard"
+     "id": 3,
+     "price": 59,
+     "popularity": 1,
+     "appType": "admin-template",
+     "details": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/",
+     "category": "Nuxt",
+     "imageAlt": "modernize-nuxt-js-admin-dashboard",
+     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png",
+     "subtitle": "Nuxt.Js + Typescript + Vuetify Admin Template",
+     "livePreview": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/#product-demo-section",
+     "templateName": "Modernize Nuxt Js Admin Dashboard",
+     "description": "",
+     "features": [],
+     "createdOn": ""
   },
   {
-    "id": 4,
-    "price": 59,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/#product-demo-section",
-    "category": "Bootstrap",
-    "imageAlt": "Modernize Bootstrap 5 Admin Template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png",
-    "subtitle": "Premium Bootstrap 5 Admin Template",
-    "livePreview": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/#product-demo-section",
-    "templateName": "Modernize Bootstrap 5 Admin Template"
+     "id": 4,
+     "price": 59,
+     "popularity": 1,
+     "appType": "admin-template",
+     "details": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/#product-demo-section",
+     "category": "Bootstrap",
+     "imageAlt": "Modernize Bootstrap 5 Admin Template",
+     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png",
+     "subtitle": "Premium Bootstrap 5 Admin Template",
+     "livePreview": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/#product-demo-section",
+     "templateName": "Modernize Bootstrap 5 Admin Template",
+     "description": "",
+     "features": [],
+     "createdOn": ""
   },
   {
-    "id": 5,
-    "price": 59,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/",
-    "category": "Vuetify",
-    "imageAlt": "Modernize-vuetify-admin-dashboard",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard.png",
-    "subtitle": "Vue3 Admin and dashboard",
-    "livePreview": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/#product-demo-section",
-    "templateName": "Modernize Vuetify 3 & Vue 3 Admin Dashboard"
+     "id": 5,
+     "price": 59,
+     "popularity": 1,
+     "appType": "admin-template",
+     "details": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/",
+     "category": "Vuetify",
+     "imageAlt": "Modernize-vuetify-admin-dashboard",
+     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard.png",
+     "subtitle": "Vue3 Admin and dashboard",
+     "livePreview": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/#product-demo-section",
+     "templateName": "Modernize Vuetify 3 & Vue 3 Admin Dashboard",
+     "description": "",
+     "features": [],
+     "createdOn": ""
   },
   {
-    "id": 6,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/",
-    "category": "Nuxt",
-    "imageAlt": "modernize-free-nuxt-admin-dashboard-am",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am.png",
-    "subtitle": "Free Nuxt3  Admin and dashboard Template",
-    "livePreview": "https://modernize-nuxtjs-free.netlify.app/",
-    "templateName": "Modernize Free NuxtJs Admin Dashboard Template"
+     "id": 6,
+     "price": 0,
+     "popularity": 1,
+     "appType": "admin-template",
+     "details": "https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/",
+     "category": "Nuxt",
+     "imageAlt": "modernize-free-nuxt-admin-dashboard-am",
+     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am.png",
+     "subtitle": "Free Nuxt3  Admin and dashboard Template",
+     "livePreview": "https://modernize-nuxtjs-free.netlify.app/",
+     "templateName": "Modernize Free NuxtJs Admin Dashboard Template",
+     "description": "",
+     "features": [],
+     "createdOn": ""
   },
   {
     "id": 7,
@@ -91,7 +106,10 @@
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-vuetify-admin-dashboard-am.png",
     "subtitle": "Free Vuetify + Vue js Admin and dashboard Template",
     "livePreview": "https://modernize-vue3-free.netlify.app/",
-    "templateName": "Modernize Free Vuetify + Vue js Admin Dashboard"
+    "templateName": "Modernize Free Vuetify + Vue js Admin Dashboard",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 8,
@@ -102,9 +120,12 @@
     "category": "React",
     "imageAlt": "modernize-free-react-admin-dashboard-am",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/01/modernize-free-react-admin-dashboard-am.png",
-    "subtitle": "Free - Opensource MUI React Admin Dashboard Theme",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://modernize-react-free.netlify.app/dashboard",
-    "templateName": "Modernize Free React MUI Dashboard"
+    "templateName": "Modernize Free React MUI Dashboard",
+    "description": "There is no need to search further if you're seeking a free React Admin Template that is attractive and neatly built and has a number of extra features. You may create a fantastic web app using this free template Modernize React MUI Dashboard Template. It features a very clean, straightforward design that will offer your upcoming project a polished, interesting appearance. This is a developer-friendly, incredibly configurable, and incredibly simple-to-use React Admin Template. What more could you want when it makes it possible to quickly and easily construct web apps? Every developer's worst fear is creating a web application from scratch, but every developer's fantasy is to receive a free React Template like this.",
+    "features": ["React 18+","Code Splitting","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process","1 Basic Dashboard","Icons Page","Material UI","Some Basic UI Components"],
+    "createdOn": "11-Jan-2023"
   },
   {
     "id": 9,
@@ -115,9 +136,12 @@
     "category": "React",
     "imageAlt": "Modernize React MUI Dashboard Theme",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/01/image_2023_01_26T10_19_25_019Z.png",
-    "subtitle": "Premium React MUI Admin Panel Template",
+    "subtitle": "Premium React MUI Admin Dashboard Template",
     "livePreview": "https://adminmart.com/product/modernize-react-mui-dashboard-theme/#product-demo-section",
-    "templateName": "Modernize React MUI Dashboard Theme"
+    "templateName": "Modernize React MUI Dashboard Theme",
+    "description": "Do you require a premium React Admin Template that is jam-packed with features and is highly adaptable for developers? If so, there is no need for you to go any further because this Modernise React MUI Admin Dashboard Template contains all of the features you require. You will receive a distinctive yet lovely Material UI React Admin Template because it was created by adhering to best practices and industry standards. High scalability, quick development, and simplicity of use are all features of this premium template. With the help of this template, you can easily design any application you desire. It is one of the best React Admin Templates accessible in the premium category since it offers all the flexibility and ease you could ask for.",
+    "features": ["Easy Folder Structure","Organized Code Structure","The Hassle-Free Setup Process","2+ Stunning Dashboards","9+ Ready-to-Use Applications","2 Auth Methods- JWT + Firebase","React 18+","Code Splitting","Google Fonts","RTL Ready","i18n Support","Redux Toolkit","Axios Mock API","Figma Design Files"],
+    "createdOn": "18-Jan-2023"
   },
   {
     "id": 10,
@@ -128,9 +152,12 @@
     "category": "NextJs",
     "imageAlt": "nextjs-flexy",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/04/nextjs-flexy.jpg",
-    "subtitle": "Premium NextJs with Material UI",
+    "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://flexy-next-js-dashboard.vercel.app/dashboards/dashboard1",
-    "templateName": "Flexy NextJs Dashboard – Material UI"
+    "templateName": "Flexy NextJs Dashboard - Material UI",
+    "description": "NextJs Kit comes with MUI Core components that will help you to build faster and more beautiful frontend pages. Each component is fully customizable, responsive, and easy to integrate. If you want to use Flexy NextJs Material plugins out of the box, that's possible, but you can also create new pages all your own with ease.",
+    "features": ["Material UI with NextJs","RTL Version","3 Unique Demos","PSDs for Dashboard Pages","2+ Unique Dashboards","100+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark and Light Themes","React Redux","Axios Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","5 Color Skins"],
+    "createdOn": "13-Apr-2022"
   },
   {
     "id": 11,
@@ -141,9 +168,12 @@
     "category": "NextJs",
     "imageAlt": "Ample NextJs Admin Dashboard",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/ample.jpg",
-    "subtitle": "Premium Next Js Dashboard Template",
+    "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://ample-nextjs-admin.vercel.app/dashboards/dashboard1",
-    "templateName": "Ample NextJs Admin Dashboard"
+    "templateName": "Ample NextJs Admin Dashboard",
+    "description": "The one to be on the lookout for is the Ample NextJs Admin Dashboard Template. With the help of this next.js + redux dashboard template, you can give your WebApps a captivating appearance. The two key elements of flexibility and user experience have quickly increased the demand for this admin template. The NextJs admin premium template is pricey, completely customizable, and built with crucial React framework elements. You can access a range of parts, plugins, elements, and widgets when you purchase a responsive React admin dashboard. In addition, a variety of color schemes, page templates, dashboard settings, UI components, and much more are available and popular among businesses and developers.",
+    "features": ["RTL Dashboard Version","5 Unique Demos","PSDs for Dashboard Pages","7+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark and Light Sidebar Themes","React Redux Toolkit","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","6 Color Skins"],
+    "createdOn": "05-Feb-2022"
   },
   {
     "id": 12,
@@ -152,11 +182,14 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
-    "imageAlt": "Premium Next.js Template",
+    "imageAlt": "Xtreme NextJs Template",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/xtreme-nextjs-image.jpg",
-    "subtitle": "Premium Next.js Template",
+    "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://xtreme-nextjs-admin.vercel.app/dashboards/classic",
-    "templateName": "Xtreme NextJs Admin Template"
+    "templateName": "Xtreme NextJs Admin Template",
+    "description": "React Framework, a JavaScript package used to develop user interfaces based UI components is the basis for this Xtreme NextJs Admin Dashboard Template. A dark and light sidebar design, five distinct demos, a wide range of components, PSDs for admin dashboard pages, 3000+ font icons, an RTL dashboard version, and many more features can be found in the premium NextJS dashboard template. It offers fully responsive pages that enable web apps to function smoothly across all platforms and browsers. The user experience is more interactive thanks to the template's selection of application designs, which includes email, chat, contact, calendar, shop, ticket, and notes applications. The structure's thorough documentation makes customization simple.",
+    "features": ["RTL Dashboard Version","5 Unique Demos","PSDs for Dashboard Pages","5+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark and Light Sidebar Themes","React Redux","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","6 Color Skins"],
+    "createdOn": "03-Feb-2022"
   },
   {
     "id": 13,
@@ -167,9 +200,12 @@
     "category": "NextJs",
     "imageAlt": "Monster NextJs Admin Dashboard",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monsternextjs.jpg",
-    "subtitle": "Next.Js Based Admin Template",
+    "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://monster-nextjs-admin.vercel.app/dashboards/modern",
-    "templateName": "Monster NextJs Admin Dashboard"
+    "templateName": "Monster NextJs Admin Dashboard",
+    "description": "You can easily construct beautiful web applications and products with the aid of the premium Monster NextJs Admin Dashboard Template, which is built on the React Hooks and Redux Toolkit. It is simple to customize and SEO-friendly. This NextJs template includes a lot of features and components that are ready to use. The Monster NextJs Admin Dashboard Template is the greatest alternative for building your project because it offers numerous color possibilities, 50+ page layouts and 5 ready-to-use dashboard versions, charts, tables, and forms, among other features. It includes a Firebase demo and a package that demonstrates login before the dashboard. Additionally, Monster's NextJs react admin template was created by top designers in the field to provide you with the finest user experience.",
+    "features": ["RTL Dashboard Version","5 Unique Demos","Firebase Demo Added","PSDs for Dashboard Pages","5+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Used Redux Toolkit For Store Management","Dark and Light Sidebar Themes","React Redux","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","6 Color Skins"],
+    "createdOn": "28-Jan-2022"
   },
   {
     "id": 14,
@@ -178,11 +214,14 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/",
     "category": "NextJs",
-    "imageAlt": " Flexy Next Js Free Admin Template",
+    "imageAlt": " Flexy NextJs Free Admin Template",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/flexy-nextjs-free.jpg",
-    "subtitle": "An Open Source MUI Based NextJs Template",
+    "subtitle": "Free & Open-Source MUI NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/flexy-nextjs-admin-free-dist/landingpage/",
-    "templateName": "Flexy Next Js Free Admin Template"
+    "templateName": "Flexy NextJs Free Admin Template",
+    "description": "React Material-UI, the Most Popular Framework is used to build this Flexy NextJs Admin Dashboard Template. The web app's appearance and feel can be customized in the free version thanks to its attractive grid architecture. It is a meticulously handcrafted basic admin template that features a contemporary, modular style. People adore this react dashboard since it is well renowned for delivering a seamless user experience while assisting in the execution of complicated needs. It rapidly provides UI components, imaginative pages, and an environment that is user-friendly.",
+    "features": ["Created with NextJs React Framework","MUI (Material UI)","8+ Readymade UI Component Pages","MUI (5) Enabled Framework","Unlimited Google Web Fonts","Retina Ready Templates","SCSS Base CSS Framework","Search Engine Optimized Code That Enhances Your Web Application's SEO Score","Lightning-Fast Performance"],
+    "createdOn": "20-Jan-2022"
   },
   {
     "id": 15,
@@ -191,11 +230,14 @@
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/nextkit-nextjs-free-uikit/",
     "category": "NextJs",
-    "imageAlt": "Nextkit – Nextjs Free UI Kit",
+    "imageAlt": "Nextkit - Nextjs Free UI Kit",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nextkit-nextjs-free-uikit.jpg",
-    "subtitle": "Free Next.js based website UI Kit",
+    "subtitle": "Free & Open-Source NextJs Website UI Kit",
     "livePreview": "https://next-kit-free.vercel.app/",
-    "templateName": "Nextkit – Nextjs Free UI Kit"
+    "templateName": "Nextkit - Nextjs Free UI Kit",
+    "description": "Free NextJs UI Kit Website Template: Nextkit React. You may use it to make beautiful websites, landing pages, home pages, and more. It includes ready-to-use UI Blocks & Elements that can assist elevate the look and feel of your project. Reactstrap, a responsive React Framework, is the foundation on which Nextkit is constructed. One-level dropdown menus and an attractive grid are included in the Free NextJs UI Kit so you may play with how the web app looks and feels. Clean code and thorough documentation will quickly bring even a beginner developer up to speed.",
+    "features": ["Created with NextJs React Framework with Reactstrap (Bootstrap)","17+ Readymade UI Blocks","25 Essential UI Elements","Reactstrap Enabled Framework","Unlimited Google Web Fonts","Retina Ready Templates","SCSS Base CSS Framework","One-Level Dropdown Menus","Search Engine Optimized Code That Enhances Your Web Application's SEO Score","Lightning-Fast Performance"],
+    "createdOn": "15-Sep-2021"
   },
   {
     "id": 16,
@@ -204,11 +246,14 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-next-js-free-admin-template/",
     "category": "NextJs",
-    "imageAlt": " Xtreme Next Js Free Admin",
+    "imageAlt": " Xtreme NextJs Free Admin",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/xtreme-next-js-free.jpg",
-    "subtitle": "Free Next Js Admin Template",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/xtreme-nextjs-admin-free-dist/landingpage/index.html",
-    "templateName": "Xtreme Next Js Free Admin"
+    "templateName": "Xtreme NextJs Free Admin",
+    "description": "This free NextJs React Admin Dashboard Template is called Xtreme Admin. You can design beautiful backend applications and more using them. It includes ready-to-use UI Blocks & Elements that can assist elevate the look and feel of your project. Reactstrap is a responsive React Framework that is used to build Xtreme NextJs. The web app's appearance and feel can be customized in the free version thanks to its attractive grid architecture. Clean coding and ease of customization will quickly bring even a beginner developer up to speed. We've put up a list of the top React templates available online that is sure to satisfy your demands.",
+    "features": ["Created with NextJs React Framework with Reactstrap (Bootstrap)","8+ Readymade UI Component Pages","Reactstrap Enabled Framework","Unlimited Google Web Fonts","Retina Ready Templates","SCSS Base CSS Framework","Search Engine Optimized Code That Enhances Your Web Application's SEO Score","Lightning-Fast Performance"],
+    "createdOn": "17-Jan-2022"
   },
   {
     "id": 17,
@@ -217,11 +262,14 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-next-js-free-admin-template/",
     "category": "NextJs",
-    "imageAlt": "Ample Admin Free Next Js Template",
+    "imageAlt": "Ample Admin Free NextJs Template",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/ample-admin-nextjs-free.jpg",
-    "subtitle": "Next Js Free Dashboard Template",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/ample-nextjs-admin-free-dist/landingpage/index.html",
-    "templateName": "Ample Admin Free Next Js Template"
+    "templateName": "Ample Admin Free NextJs Template",
+    "description": "Many people suffer financially and are unable to invest in a premium theme. Ample NextJs Admin is there for people to help with their personal as well as commercial undertakings. You may design a user interface with a spectacular appearance and feel by using the ideal color combinations and page themes. The web app's appearance and feel can be customized in the free version thanks to its attractive grid architecture. With the help of this NextJs Dashboard Template, it enables you to carry out projects with constrained features. Downloading and using it for both personal and professional projects is free. If your project calls for additional features and alternatives.",
+    "features": ["Created with NextJs React Framework with Reactstrap (Bootstrap)","8+ Readymade UI Component Pages","Reactstrap Enabled Framework","Unlimited Google Web Fonts","Retina Ready Templates","SCSS Base CSS Framework","Search Engine Optimized Code That Enhances Your Web Application's SEO Score","Lightning-Fast Performance"],
+    "createdOn": "18-Jan-2022"
   },
   {
     "id": 18,
@@ -230,37 +278,46 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-next-js-free-admin-template/",
     "category": "NextJs",
-    "imageAlt": "Monster Next Js Free Dashboard",
+    "imageAlt": "Monster NextJs Free Dashboard",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monster-free-nextjs.jpg",
-    "subtitle": "Free Next Js Admin Apnel Dashboard",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/monster-nextjs-admin-free-dist/landingpage/",
-    "templateName": "Monster Next Js Free Dashboard"
+    "templateName": "Monster NextJs Free Dashboard",
+    "description": "The Monster NextJs Admin Lite React Dashboard Template features hooks to design a lovely and attractive admin interface. The appearance and feel can be customized in the free version, thanks to its attractive grid architecture. It is a meticulously handcrafted basic admin template that features a contemporary, modular style. Downloading and using it for both personal and professional projects is totally free. You can purchase the premium edition of Monster NextJs Admin if your project requires additional features and options. There are many wonderful features in it. You should check out the Monster NextJs Admin Premium edition to learn more about its incredible features.",
+    "features": ["Created with NextJs React Framework with Reactstrap (Bootstrap)","8+ Readymade UI Component Pages","Reactstrap Enabled Framework","Unlimited Google Web Fonts","Retina Ready Templates","SCSS Base CSS Framework","Search Engine Optimized Code That Enhances Your Web Application's SEO Score","Lightning-Fast Performance"],
+    "createdOn": "18-Jan-2022"
   },
   {
-    "id": 19,
-    "price": 49,
-    "popularity": 2,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/materialpro-react-redux-admin/#demos",
-    "category": "React",
-    "imageAlt": "MaterialPro React Redux Admin",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-admin-y.jpg",
-    "subtitle": "React Redux-Toolkit Admin",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/materialpro-react/main/dashboards/dashboard2",
-    "templateName": "MaterialPro React Redux Admin"
+      "id": 19,
+      "price": 49,
+      "popularity": 2,
+      "appType": "admin-template",
+      "details": "https://www.wrappixel.com/templates/materialpro-react-redux-admin/#demos",
+      "category": "React",
+      "imageAlt": "MaterialPro React Redux Admin",
+      "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-admin-y.jpg",
+      "subtitle": "Premium React-Redux Toolkit Admin Dashboard Template",
+      "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/materialpro-react/main/dashboards/dashboard2",
+      "templateName": "MaterialPro React Redux Admin",
+      "description": "Finding the best flexible React Admin Template requires sorting through a great deal of information. With its modular architecture and React Framework foundation, MaterialPro React Redux Admin Template gives its users a cutting-edge experience with complete customization choices. The fluid, Material UI-designed admin panel comes with ready-to-use plugins and a wealth of useful widgets, components, and features built on the React Framework. This React-Redux Admin Template is carefully crafted with attention to every last detail and is suitable for retail weather analytics, weather data analytics, and weather forecast admin template. In addition, the MaterialPro React Redux Admin Template has a variety of dashboards, 5+ distinct demonstrations, and pre-defined color palettes.",
+      "features": ["RTL Dashboard Version","5 Unique Demos","PSDs & XD for Dashboard Pages","5+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark and Light Sidebar Themes","React Redux with Redux Thunk to applyMiddleware","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","6 Color Skins"],
+      "createdOn": "14-Nov-2018"
   },
   {
-    "id": 20,
-    "price": 49,
-    "popularity": 2,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-react-redux-admin/#demos",
-    "category": "React",
-    "imageAlt": "Xtreme React Dashboard Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg",
-    "subtitle": "React dashboard with redux-toolkit",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/xtreme-react/main/dashboards/classic",
-    "templateName": "Xtreme React Dashboard Template"
+      "id": 20,
+      "price": 49,
+      "popularity": 2,
+      "appType": "admin-template",
+      "details": "https://www.wrappixel.com/templates/xtreme-react-redux-admin/#demos",
+      "category": "React",
+      "imageAlt": "Xtreme React Dashboard Template",
+      "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg",
+      "subtitle": "Premium React Admin Dashboard Template",
+      "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/xtreme-react/main/dashboards/classic",
+      "templateName": "Xtreme React Dashboard Template",
+      "description": "The one to watch out for when it comes to vibrancy and great appearance is Xtreme React Dashboard Admin Template. You may give your WebApps a captivating appearance by using this React-Redux dashboard design. The two key elements of flexibility and user experience have quickly increased the demand for this Admin Template. The Premium React Admin Template is cost-effective, completely customizable, and built with key React Framework elements. You can access a range of parts, plugins, features, and widgets when you purchase a responsive React Admin Dashboard. In addition, a variety of color schemes, page templates, dashboard settings, UI components, and much more are available and popular among businesses and developers.",
+      "features": ["RTL Dashboard Version","5 Unique Demos","PSDs & XD for Dashboard Pages","5+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark and Light Sidebar Themes","React Redux with Redux Thunk to applyMiddleware","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","6 Color Skins"],
+      "createdOn": "06-Oct-2018"
   },
   {
     "id": 21,
@@ -271,9 +328,12 @@
     "category": "React",
     "imageAlt": "Flexy React Material Dashboard",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/07/flexy-react-admin.jpg",
-    "subtitle": "Built With React Material UI v5 + Next Js",
+    "subtitle": "Premium Material UI React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/flexy-react/stylish/#/dashboards/dashboard1",
-    "templateName": "Flexy React Material Dashboard"
+    "templateName": "Flexy React Material Dashboard",
+    "description": "Want to purchase one of the most popular Material-UI React Framework which is the responsive template? The modular design, React with Redux framework, and SaSS base CSS are the foundations of this Flexy React Admin Dashboard Template. Along with a tonne of features like customization options, table examples, beautiful 100+ font icons, page templates, color schemes, and numerous more integrated plugins, this theme makes use of the Material UI. People adore this Flexy React Admin Template because it is well known for providing users with a seamless experience while assisting in the execution of difficult requirements through modern design. It rapidly provides UI components, imaginative pages, and an environment that is user-friendly. With its characteristics making it the most well-liked among developers worldwide, this specific react-redux admin template is well-known and respected.",
+    "features": ["Material UI React","RTL Version","3 Unique Demos","PSDs for Dashboard Pages","2+ Unique Dashboards","100+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Themes","React redux","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","5 Color Skins"],
+    "createdOn": "25-Jun-2021"
   },
   {
     "id": 22,
@@ -284,9 +344,12 @@
     "category": "React",
     "imageAlt": "AdminPro React Redux Admin",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-y.jpg",
-    "subtitle": "React Redux Template with Redux-Toolkit",
+    "subtitle": "Premium React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/adminpro-react/main/dashboards/modern",
-    "templateName": "AdminPro React Redux Admin"
+    "templateName": "AdminPro React Redux Admin",
+    "description": "What if you need a React-Redux UI Admin Dashboard Template on a tight budget for your high-yielding web app project? Based on the requirements of the project and the anticipated features, it is very challenging to locate the appropriate Admin Template. But just for you, We have expertly created AdminPro React Redux Admin Dashboard Template, which satisfies all the demands. Due to its React foundation and modular design, this responsive react-redux admin template supports lifetime updates, design flexibility, and compatibility across many devices. As a result, you receive choices for complete customization, different dashboards, demos, color schemes, page templates, and other creative ready-to-use UI elements. With its functionality and features, a product with such a smooth, simple form and appealing architecture offers an exhilarating user experience.",
+    "features": ["RTL Dashboard Version","5 Unique Demos","PSDs for Dashboard Pages","5+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Sidebar Themes","React Redux with Redux Thunk to applyMiddleware","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","6 Color Skins"],
+    "createdOn": "31-July-2019"
   },
   {
     "id": 23,
@@ -297,9 +360,12 @@
     "category": "React",
     "imageAlt": "monster-react-admin-template-y-20",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-template-y-20.jpg",
-    "subtitle": "With React hooks & Redux Toolkit",
+    "subtitle": "Premium React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/adminpro-react/main/dashboards/modern",
-    "templateName": "Monster React Admin Template"
+    "templateName": "Monster React Admin Template",
+    "description": "You can easily construct beautiful web applications and products with the aid of the Premium Admin Dashboard Template like this Monster React Template, which is built on React hooks and Redux. It has beautiful interface designs to provide people with a fantastic experience when using your application or product. This React hooks template has numerous pre-built components and functionalities and is simple to customize. As it offers five ready-to-use dashboard variations, light and dark color options, and different page layouts, charts, tables, and forms, among other features, the Monster React hooks admin dashboard template is the perfect solution for creating your project. You may finish your work more quickly as a result of not having to bother about creating the aforementioned components from scratch.",
+    "features": ["RTL Dashboard Version","5 Unique Demos","PSDs for Dashboard Pages","5+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Sidebar Themes","React Redux with Redux Thunk to applyMiddleware","Axios-Based Apps to Make API Call","Widgets and UI Components","Validation Forms","Application Designs","6 Color Skins"],
+    "createdOn": "16-Jun-2020"
   },
   {
     "id": 24,
@@ -310,9 +376,12 @@
     "category": "React",
     "imageAlt": "React Mega Bundle",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/10/react-bundle-wrappixel-y.jpg",
-    "subtitle": "Bundle of 5 Only React Dashboards",
+    "subtitle": "Bundle of 5 Premium React Admin Dashboard Templates",
     "livePreview": "https://www.wrappixel.com/templates/react-bundle/#demos",
-    "templateName": "React Mega Bundle"
+    "templateName": "React Mega Bundle",
+    "description": "Five of the greatest and most well-designed Premium React Admin Dashboard Templates are included in this React Mega Bundle, which can be used to develop visually attractive and highly functioning React web applications. This package would be the greatest option for you if you are a developer or agency because you can use it for future projects and it is available at an 80% discount. You may be guaranteed to get the greatest user interface designs and clean, flexible code by using our React Themes. You can start working on your project much more quickly thanks to it. About 20+ different unique dashboard variations, 15+ different demo variations, light and dark color schemes, RTL support, 100+ ready-to-use components, forms, tables, charts, widgets, and other features are included in this React Mega Bundle.",
+    "features": ["20+ Dashboard Variations","5 React Templates","PSDs for Dashboard Pages","250+ Widgets & Components","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Sidebar Themes","Megamenu","Data Table Export to PDF, Excel, CSV","Widgets & UI Components","Validation Forms","Application Designs","6 Color Skins"],
+    "createdOn": "27-Oct-2020"
   },
   {
     "id": 25,
@@ -323,9 +392,12 @@
     "category": "React",
     "imageAlt": "Ample React Dashboard Template",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-admin-template-y.png",
-    "subtitle": "React Admin Dashboard Themes",
+    "subtitle": "Premium React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/ample-react/main/dashboards/dashboard1",
-    "templateName": "Ample React Dashboard Template"
+    "templateName": "Ample React Dashboard Template",
+    "description": "Want to get one of the most popular React Templates that is also fully responsive and uses React Bootstrap? A modular design, the React with Redux Framework, and SaSS base CSS are the foundations of WrapPixel's very own Ample React Redux Dashboard. Along with a tonne of features like customization options, table examples, fantastic 2000+ font icons, sidebar variants, page templates, color schemes, and many other integrated plugins, this theme makes use of the Webpack and Babel compilers. People adore this Ample React Dashboard Template since it is renowned for delivering a seamless user experience while assisting in the execution of difficult needs. It rapidly provides UI components, imaginative pages, and an environment that is user-friendly. With its characteristics making it the most well-liked among developers worldwide, this specific React-Redux Admin Template is well-known and respected.",
+    "features": ["RTL Dashboard Version","5 Unique Demos","PSDs for Dashboard Pages","5+ Unique Dashboards","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Sidebar Themes","React Redux with Redux Thunk to applyMiddleware","Axios-Based Apps to Make API Call","Widgets & UI Components","Validation Forms","Application Designs","6 color Skins"],
+    "createdOn": "16-Sep-2020"
   },
   {
     "id": 26,
@@ -336,9 +408,12 @@
     "category": "React",
     "imageAlt": "Xtreme React Admin Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-lite-y.jpg",
-    "subtitle": "Free React Admin Template with hooks",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/xtreme-react-free/landingpage/index.html",
-    "templateName": "Xtreme React Admin Lite"
+    "templateName": "Xtreme React Admin Lite",
+    "description": "One of the best React Native Themes that combine aesthetics and functionality is Xtreme React Admin Lite Template. Additionally, you can choose from a wide variety of customized page versions and UI elements, which can help you advance your projects. This React Dashboard Template's plugins and customizations all work together flawlessly to produce robust and gorgeous admin pages. Although there are several React Templates available, this Xtreme React Admin Lite is certain to grab your attention because of its wealth of appealing features. The free version includes more than 100 font icons, and the Sass-based CSS makes it simple to expand upon.",
+    "features": ["7 Page Templates","10 UI Components","Integrated Plugins","Lifetime Free Updates","Ready-to-Use Widgets","100+ Font Icons","Sass Base CSS","1 to 2 Chart Options","6.4.0 Bootstrap Version"],
+    "createdOn": "06-Oct-2018"
   },
   {
     "id": 27,
@@ -349,9 +424,12 @@
     "category": "React",
     "imageAlt": "MaterialPro React Admin Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-lite-y.jpg",
-    "subtitle": "Free React Dashboard Template Admin Panel",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/materialpro-react-free/landingpage/index.html",
-    "templateName": "MaterialPro React Admin Lite"
+    "templateName": "MaterialPro React Admin Lite",
+    "description": "This stunning React Admin Dashboard Template is MaterialPro React Admin Lite, which has been meticulously handcrafted. It was constructed using a modern, modular design idea. Downloading and using MaterialPro React Admin Lite for both personal and commercial projects is totally free. You may purchase MaterialPro React Premium Version for medium to large-scale projects, which contains a selection of dashboards, demos, application designs, several page templates, and form, and table designs, and will help you construct your projects more quickly and easily.",
+    "features": ["7 Page Templates","10 UI Components","Integrated Plugins","6 Months Free Updates","Ready-to-Use Widgets","100+ Font Icons","Sass Base CSS","1 to 2 Chart Options","Reactstrap Version 9"],
+    "createdOn": "18-Jul-2019"
   },
   {
     "id": 28,
@@ -362,9 +440,12 @@
     "category": "React",
     "imageAlt": "AdminPro React Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-lite-y.jpg",
-    "subtitle": "Free React Dashboard Template with Hooks",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/adminpro-react-free/landingpage/index.html",
-    "templateName": "AdminPro React Lite"
+    "templateName": "AdminPro React Lite",
+    "description": "The sleek Admin Template of this year is called AdminPro React Admin Lite. It was constructed using a modern, modular design. Downloading and using AdminPro React Admin Lite for both personal and business projects is totally free. You can get the premium edition of AdminPro React if your project requires additional features and options. There are many wonderful features in it. You should check out the AdminPro React Premium edition to learn more about its incredible features.",
+    "features": ["7 Page Templates","10 UI Components","Integrated Plugins","6 Months Free Updates","Ready-to-Use Widgets","100+ Font Icons","Sass Base CSS","1 to 2 Chart Options","Reactstrap Version 9"],
+    "createdOn": "09-Aug-2019"
   },
   {
     "id": 29,
@@ -377,7 +458,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/wrapkit-react-lite-y.jpg",
     "subtitle": "Free React Website Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/wrapkit-react-free/#/",
-    "templateName": "WrapKit React Lite UI Kit"
+    "templateName": "WrapKit React Lite UI Kit",
+    "description": "A complete responsive web development website template is WrapKit UI Kit. You may quickly test out and create full web-based applications and dashboards with its assistance. It can be altered and improved to produce numerous prototypes at no cost. When the prototype meets your approval, you can upgrade to the complete version for usage in commerce. You can choose from a variety of additional live demos and a myriad of other features in the pro edition. You can customize the web app's appearance and feel using the one-level dropdown menus and beautiful grid design that are included in the free version. Clean code and thorough documentation will quickly bring even a beginner developer up to speed.",
+    "features": ["17+ Readymade UI Blocks","25 Essential UI Elements","Reactstrap Enabled Framework","Unlimited Google Web Fonts","Retina Ready Templates","SaSS Base CSS Framework","One-Level Dropdown Menus","W3C Validated Code","Search Engine Optimized Code That Enhances Your Web Application's SEO Score","Lightning-Fast Performance"],
+    "createdOn": "02-Dec-2019"
   },
   {
     "id": 30,
@@ -388,9 +472,12 @@
     "category": "React",
     "imageAlt": "Flexy React Material Admin Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/07/flexy-react-admin-free.jpg",
-    "subtitle": "Free Admin built with React Material UI",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/flexy-react-free/landingpage/index.html",
-    "templateName": "Flexy React Material Admin Lite"
+    "templateName": "Flexy React Material Admin Lite",
+    "description": "The Flexy React Dashboard Lite is sleek, adaptable, and meticulously handcrafted simple Admin Template. Downloading and using Flexy React Dashboard Lite for both personal and business projects is totally free. You can get the premium edition of Flexy React Dashboard if your project requires additional features and settings. There are many wonderful features in it. You can visit its Premium edition to learn more about its incredible features.",
+    "features": ["7 Page Templates","10 UI Components","Integrated Plugins","6 Months Free Updates","Ready-to-Use Widgets","100+ Font Icons","Sass Base CSS","1 to 2 Chart Options","Material UI Version 5"],
+    "createdOn": "28-Jun-2021"
   },
   {
     "id": 31,
@@ -401,9 +488,12 @@
     "category": "React",
     "imageAlt": "ample-react-dashboard-lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-dashboard-lite.jpg",
-    "subtitle": "Free React Admin Dashboard Panel Template",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/ample-react-free/landingpage/index.html",
-    "templateName": "Ample React Dashboard Lite"
+    "templateName": "Ample React Dashboard Lite",
+    "description": "Many people suffer financially and are unable to invest in a premium theme. They can use Ample React Dashboard Lite, a free React modular Dashboard Template, for both personal and professional projects. This lovely React Theme is constructed using React Technology, SaSS base CSS, and a modular and contemporary design approach. You may design a UI (user interface) with a spectacular appearance and feel by using the ideal color combinations and page themes. This React Template Dashboard aids in the execution of projects with constrained functionality. If you're looking for a full complement of features with the latest widgets, tools, and components, the pro version is available and gives you total control.",
+    "features": ["7 Page Templates","10 UI Components","Integrated Plugins","6 Months Free Updates","Ready-to-Use Widgets","100+ Font Icons","Sass Base CSS","1 to 2 Chart Options","Bootstrap Version 5.1","Reactstrap Version 9"],
+    "createdOn": "21-Sep-2020"
   },
   {
     "id": 32,
@@ -414,9 +504,12 @@
     "category": "React",
     "imageAlt": "Monster React Admin Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-lite-template-y-20.jpg",
-    "subtitle": "Free React Dashboard Template with Hooks",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/monster-react-free/landingpage/index.html",
-    "templateName": "Monster React Admin Lite"
+    "templateName": "Monster React Admin Lite",
+    "description": "The Monster React Admin Lite is a sleek, modular, and meticulously handcrafted simple Admin Template based on React Framework. Downloading and using Monster React Admin Lite for both personal and professional projects is totally Free. You can purchase the premium edition of Monster React Admin if your project requires additional features and options. There are many wonderful features in it. You should check out the Monster React Admin Premium edition to learn more about its actual potential.",
+    "features": ["7 Page Templates","10 UI Components","Integrated Plugins","6 Months Free Updates","Ready-to-Use Widgets","100+ Font Icons","Sass Base CSS","1 to 2 Chart Options","Reactstrap Version 9"],
+    "createdOn": "27-Jun-2020"
   },
   {
     "id": 33,
@@ -429,7 +522,10 @@
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard.png",
     "subtitle": "Modernize Vuetify Dashboard Template",
     "livePreview": "https://modernize-vuejs.adminmart.com/",
-    "templateName": "Modernize Vuetify Dashboard Template"
+    "templateName": "Modernize Vuetify Dashboard Template",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 34,
@@ -442,7 +538,10 @@
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-vuetify-admin-dashboard-am.png",
     "subtitle": "Modernize Free Vuetify Dashboard Theme",
     "livePreview": "https://modernize-vue3-free.netlify.app/",
-    "templateName": "Modernize Free Vuetify Dashboard Theme"
+    "templateName": "Modernize Free Vuetify Dashboard Theme",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 35,
@@ -455,7 +554,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-dashboard-template-20.jpg",
     "subtitle": "Vue 3 + Vuetify 3 + Vite + Typescript",
     "livePreview": "https://materialpro-vue3-dark.vercel.app/dashboards/analytical",
-    "templateName": "MaterialPro Vue3 Admin Dashboard"
+    "templateName": "MaterialPro Vue3 Admin Dashboard",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 36,
@@ -468,7 +570,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-lite-y.jpg",
     "subtitle": "VueJs Dashboard Template",
     "livePreview": "https://materialpro-vue3-dark.vercel.app/dashboards/analytical",
-    "templateName": "Xtreme Bootstrap Vue Admin"
+    "templateName": "Xtreme Bootstrap Vue Admin",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 37,
@@ -481,7 +586,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/10/adminpro-vuetify-dasboard-template-y.jpg",
     "subtitle": "Vue3 + Vite + Vuetify + Typescript",
     "livePreview": "https://adminpro-vuetify-main.netlify.app/dashboards/minimal",
-    "templateName": "AdminPro Vue3 + Vuetify Dashboard"
+    "templateName": "AdminPro Vue3 + Vuetify Dashboard",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 38,
@@ -494,7 +602,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/03/fley-vue.jpg",
     "subtitle": "Vue3 + Vite + Vuetify 3 + Typescript",
     "livePreview": "https://flexy-vue3-main-admin.vercel.app/dashboards/analytical",
-    "templateName": "Flexy Vuetify Vue3 Dashboard"
+    "templateName": "Flexy Vuetify Vue3 Dashboard",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 39,
@@ -507,7 +618,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2021/06/monster-vue-pro.jpg",
     "subtitle": "VueJs Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/vuejs/monster-vuejs/main/dashboard/modern-dashboard",
-    "templateName": "Monster Bootstrap VueJs Admin"
+    "templateName": "Monster Bootstrap VueJs Admin",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 40,
@@ -520,7 +634,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-lite-admin-wp-20.jpg",
     "subtitle": "Free Vuetify Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/materialpro-vuejs-free/landingpage/index.html",
-    "templateName": "MaterialPro Vuetify Admin Lite"
+    "templateName": "MaterialPro Vuetify Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 41,
@@ -529,11 +646,14 @@
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/",
     "category": "Vuetify",
-    "imageAlt": "NextKit – Nuxt 3 + Vuetify 3 Free UI Kit",
+    "imageAlt": "NextKit - Nuxt 3 + Vuetify 3 Free UI Kit",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nuxtjs-free-ui-kit.jpg",
     "subtitle": "Free Nuxt.js / Vuetify based website UI Kit",
     "livePreview": "https://nextkit-nuxtjs-free-uikit.vercel.app/",
-    "templateName": "NextKit – Nuxt 3 + Vuetify 3 Free UI Kit"
+    "templateName": "NextKit - Nuxt 3 + Vuetify 3 Free UI Kit",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 42,
@@ -546,7 +666,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/11/feature_image.jpg",
     "subtitle": "Free Vuetify Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/adminpro-vuejs-free/landingpage/index.html",
-    "templateName": "AdminPro VueJs Lite"
+    "templateName": "AdminPro VueJs Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 43,
@@ -559,7 +682,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2021/06/monstervue-free.jpg",
     "subtitle": "Free Vuejs Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/monster-vuejs-free/landingpage/index.html",
-    "templateName": "Monster Bootstrap Vue Admin Lite"
+    "templateName": "Monster Bootstrap Vue Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 44,
@@ -572,7 +698,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2022/07/flexy-vuejs-free.jpg",
     "subtitle": "Free Vue3 + Vuetify 3 Dashboard",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/flexy-vuejs-free/landingpage/index.html",
-    "templateName": "Flexy VueJs free Admin Template"
+    "templateName": "Flexy VueJs free Admin Template",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 45,
@@ -583,9 +712,12 @@
     "category": "NextJs",
     "imageAlt": "free-next-js-admin-template",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "subtitle": "Modernize Free Next Js Admin Template",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.adminmart.com/free/nextjs/modernize-nextjs-free/landingpage/index.html",
-    "templateName": "Modernize Free Next Js Admin Template"
+    "templateName": "Modernize Free NextJs Admin Template",
+    "description": "Look no further than the free NextJs Template called Modernise NextJs Admin Dashboard Template. A striking and tastefully designed NextJs Admin Template with a number of attractive features. Modernise NextJs Template has a modern appearance. Your subsequent project will seem polished and interesting thanks to this template. It comes with everything you need to build a fantastic online application.",
+    "features": ["React 18+","NextJs 13+","Material UI","1 Basic Dashboard","Simple Login-Register Page Added","Code Splitting","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process","Redux Toolkit"],
+    "createdOn": "02-Mar-2023"
   },
   {
     "id": 46,
@@ -596,9 +728,12 @@
     "category": "NextJs",
     "imageAlt": "next-js-admin-dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-next-js-admin-dashboard-1.png",
-    "subtitle": "Modernize Next Js Admin Dashboard",
+    "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://adminmart.com/product/modernize-next-js-admin-dashboard/",
-    "templateName": "Modernize Next Js Admin Dashboard"
+    "templateName": "Modernize NextJs Admin Dashboard",
+    "description": "Do you require a Premium NextJs Admin Template that is loaded with features and highly configurable for developers? This NextJs Admin Template is the complete package for your requirement. It is a NextJs-based admin template created using industry standards and best practices to provide you with a one-of-a-kind admin template that is also aesthetically pleasing.",
+    "features": ["Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process","Material UI","React 18+","NextJs 13+","2+ Stunning Dashboards","9+ Ready-to-Use Applications","Code Splitting","Google Fonts","RTL Ready","i18n Support","Redux Toolkit","Axios Mock API","NextJs Landing Page","Slick Carousel Included","Figma Design Files"],
+    "createdOn": "02-Mar-2023"
   },
   {
     "id": 47,
@@ -611,7 +746,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-bootstrap-admin-y.jpg",
     "subtitle": "Material Bootstrap 5 Admin Panel",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/material/index.html",
-    "templateName": "MaterialPro Bootstrap Admin"
+    "templateName": "MaterialPro Bootstrap Admin",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 48,
@@ -624,7 +762,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-bootstrap-y.jpg",
     "subtitle": "Bootstrap 5 Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/ample-bootstrap/package/html/ampleadmin-sidebar/index2.html",
-    "templateName": "Ample Bootstrap Admin Template"
+    "templateName": "Ample Bootstrap Admin Template",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 49,
@@ -637,7 +778,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-y.jpg",
     "subtitle": "Bootstrap 5 Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/monster-bootstrap/package/html/main/index2.html",
-    "templateName": "Monster Bootstrap  Admin Template"
+    "templateName": "Monster Bootstrap  Admin Template",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 50,
@@ -650,7 +794,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-admin-template-y.jpg",
     "subtitle": "Bootstrap 5 Admin Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/adminpro-bootstrap/package/html/main/index2.html",
-    "templateName": "AdminPro Bootstrap Theme"
+    "templateName": "AdminPro Bootstrap Theme",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 51,
@@ -663,7 +810,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg",
     "subtitle": "Bootstrap 5 Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/xtreme-bootstrap/package/html/ltr/index.html",
-    "templateName": "Xtreme Bootstrap Admin"
+    "templateName": "Xtreme Bootstrap Admin",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 52,
@@ -676,7 +826,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/bootstrap-bundle-yt.jpg",
     "subtitle": "10 Bootstrap Admin Templates",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/material/index.html",
-    "templateName": "Bootstrap Mega Bundle"
+    "templateName": "Bootstrap Mega Bundle",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 53,
@@ -689,7 +842,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/nice-bootstrap-admin-template-y.jpg",
     "subtitle": "Bootstrap 5 Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/nice-bootstrap/package/html/ltr/index.html",
-    "templateName": "Nice Bootstrap Admin"
+    "templateName": "Nice Bootstrap Admin",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 54,
@@ -702,7 +858,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/elegant-bootstrap-admin-template-y.jpg",
     "subtitle": "Bootstrap 4 Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/elegant-bootstrap/main/index.html",
-    "templateName": "Elegant Bootstrap Admin"
+    "templateName": "Elegant Bootstrap Admin",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 55,
@@ -715,7 +874,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/elegant-bootstrap-admin-template-y.jpg",
     "subtitle": "Bootstrap 5 admin Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/flexy-bootstrap/package/html/main/index.html",
-    "templateName": "Flexy Bootstrap Admin Template"
+    "templateName": "Flexy Bootstrap Admin Template",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 56,
@@ -728,7 +890,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-bootstrap-lite-y.jpg",
     "subtitle": "Free Dashboard Admin Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/flexy-bootstrap/package/html/main/index.html",
-    "templateName": "Ample Bootstrap Admin Lite"
+    "templateName": "Ample Bootstrap Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 57,
@@ -741,7 +906,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/matrix-bootstrap-admin-y.jpg",
     "subtitle": "Free Bootstrap 5 Admin Template",
     "livePreview": "https://matrixadmin.wrappixel.com/",
-    "templateName": "Matrix Bootstrap Admin"
+    "templateName": "Matrix Bootstrap Admin",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 58,
@@ -754,7 +922,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-lite-y.jpg",
     "subtitle": "Free Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html",
-    "templateName": "Monster Bootstrap Admin Lite"
+    "templateName": "Monster Bootstrap Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 59,
@@ -767,7 +938,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-bootstrap-lite-y.jpg",
     "subtitle": "Free Material Design Admin",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/materialpro-bootstrap-free/landingpage/index.html",
-    "templateName": "MaterialPro Bootstrap Lite"
+    "templateName": "MaterialPro Bootstrap Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 60,
@@ -780,7 +954,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-lite-y.jpg",
     "subtitle": "Free Bootstrap 5 Admin Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/landingpage/index.html",
-    "templateName": "Xtreme Bootstrap Admin Lite"
+    "templateName": "Xtreme Bootstrap Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 61,
@@ -793,7 +970,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/nice-bootstrap-admin-lite-y.jpg",
     "subtitle": "Free Bootstrap 5 Admin Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/nice-bootstrap-free/landingpage/index.html",
-    "templateName": "Nice Bootstrap Admin Lite"
+    "templateName": "Nice Bootstrap Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 62,
@@ -806,7 +986,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminwrap-bootstrap-lite-y.jpg",
     "subtitle": "Free Bootstrap 5 Dashboard",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/adminwrap-bootstrap-free/landingpage/index.html",
-    "templateName": "AdminWrap Bootstrap Lite"
+    "templateName": "AdminWrap Bootstrap Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 63,
@@ -819,7 +1002,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/elegant-bootstrap-admin-lite-y.jpg",
     "subtitle": "Free Admin Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/elegant-bootstrap-free/landingpage/index.html",
-    "templateName": "Elegant Bootstrap Admin Lite"
+    "templateName": "Elegant Bootstrap Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 64,
@@ -832,7 +1018,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-lite-y.jpg",
     "subtitle": "Free Admin Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/landingpage/index.html",
-    "templateName": "AdminPro Bootstrap Lite"
+    "templateName": "AdminPro Bootstrap Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 65,
@@ -845,7 +1034,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2021/05/flexy-free.jpg",
     "subtitle": "Free Bootstrap 5 Dashboard",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/flexy-bootstrap-free/landingpage/index.html",
-    "templateName": "Flexy Bootstrap Admin Lite"
+    "templateName": "Flexy Bootstrap Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 66,
@@ -858,7 +1050,10 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-lite-y.jpg",
     "subtitle": "Free Vuejs Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/xtreme-vuejs-free/landingpage/index.html",
-    "templateName": "Xtreme Bootstrap Vue Admin Lite"
+    "templateName": "Xtreme Bootstrap Vue Admin Lite",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 67,
@@ -871,7 +1066,10 @@
     "imageSrc": "https://jamstackthemes.dev/capture/ndimatteo-hull.png",
     "subtitle": "Headless Shopify starter powered by Next.js + Sanity.io",
     "livePreview": "https://hull.dev/",
-    "templateName": "HULL"
+    "templateName": "HULL",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 68,
@@ -884,7 +1082,10 @@
     "imageSrc": "https://jamstackthemes.dev/capture/prezly-theme-nextjs-bea.png",
     "subtitle": "News site built with NextJS, Typescript and Prezly SDK",
     "livePreview": "https://theme-nextjs-bea-the-good-newsroom.vercel.app/",
-    "templateName": "Prezly Bea Theme"
+    "templateName": "Prezly Bea Theme",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 69,
@@ -897,7 +1098,10 @@
     "imageSrc": "https://jamstackthemes.dev/capture/saleor-react-storefront.png",
     "subtitle": "An open-source storefront in React.js with Next.js.",
     "livePreview": "https://demo.saleor.io/default-channel/en-US/",
-    "templateName": "React Storefront"
+    "templateName": "React Storefront",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 70,
@@ -910,7 +1114,10 @@
     "imageSrc": "https://jamstackthemes.dev/capture/jaymehta20-nextjs-blog-page.png",
     "subtitle": "A simple blog site created with NextJs",
     "livePreview": "https://nextjs-blog-page.vercel.app/",
-    "templateName": "Minimal Blog | NextJS"
+    "templateName": "Minimal Blog | NextJS",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 71,
@@ -923,7 +1130,10 @@
     "imageSrc": "https://jamstackthemes.dev/capture/naufaldi-next-landing-vpn.png",
     "subtitle": "An Open Source Landingpage For VPN or Apps.",
     "livePreview": "https://next-landing-vpn.vercel.app/",
-    "templateName": "Tailwind VPN Landingpage"
+    "templateName": "Tailwind VPN Landingpage",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 72,
@@ -936,7 +1146,10 @@
     "imageSrc": "https://jamstackthemes.dev/capture/blazity-next-saas-starter.png",
     "subtitle": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
     "livePreview": "https://next-saas-starter-ashy.vercel.app/",
-    "templateName": "Next SaaS Starter"
+    "templateName": "Next SaaS Starter",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
   {
     "id": 73,
@@ -949,7 +1162,10 @@
     "imageSrc": "https://jamstackthemes.dev/capture/arjayosma-nextacular.png",
     "subtitle": "An open-source starter kit built with modern full-stack technologies.",
     "livePreview": "https://nextacular.co/",
-    "templateName": "Nextacular"
+    "templateName": "Nextacular",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   },
    {
    "id": 74,
@@ -962,59 +1178,73 @@
    "imageSrc": "https://camo.githubusercontent.com/e9d3ee61c4be40ea3e579a5a8da8608fc1a2c4bdf69d752e19c473f266696d21/68747470733a2f2f7777772e616e647265776e656c736f6e2e6e65742f696d672f707265766965772e706e67",
    "subtitle": "An open source portfolio site built on Nextjs and React.",
    "livePreview": "https://andrewnelson.net/",
-   "templateName": "Andrew Nelson"
+   "templateName": "Andrew Nelson",
+    "description": "",
+    "features": [],
+    "createdOn": ""
  },
  {
-  "id": 75,
-  "price": 0,
-  "popularity" : 2,
-  "appType": "website",
-  "details": "https://github.com/enjidev/enji.dev?ref=statichunt.com",
-  "category": "NextJs",
-  "imageAlt": "Enji Dev",
-  "imageSrc": "https://i.ibb.co/qkVGy83/Screenshot-41.png",
-  "subtitle": "A monorepo for my personal website and projects, built with Turborepo + pnpm ",
-  "livePreview": "https://enji.dev/",
-  "templateName": "Enji Dev"
+    "id": 75,
+    "price": 0,
+    "popularity" : 2,
+    "appType": "website",
+    "details": "https://github.com/enjidev/enji.dev?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Enji Dev",
+    "imageSrc": "https://i.ibb.co/qkVGy83/Screenshot-41.png",
+    "subtitle": "A monorepo for my personal website and projects, built with Turborepo + pnpm ",
+    "livePreview": "https://enji.dev/",
+    "templateName": "Enji Dev",
+    "description": "",
+    "features": [],
+    "createdOn": ""
 },
 {
-  "id": 76,
-  "price": 0,
-  "popularity" : 2,
-  "appType": "website",
-  "details": "https://github.com/transitive-bullshit/nextjs-notion-starter-kit?ref=statichunt.com",
-  "category": "NextJs",
-  "imageAlt": "Notion",
-  "imageSrc": "https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg",
-  "subtitle": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
-  "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
-  "templateName": "Notion"
+   "id": 76,
+   "price": 0,
+   "popularity" : 2,
+   "appType": "website",
+   "details": "https://github.com/transitive-bullshit/nextjs-notion-starter-kit?ref=statichunt.com",
+   "category": "NextJs",
+   "imageAlt": "Notion",
+   "imageSrc": "https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg",
+   "subtitle": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
+   "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
+   "templateName": "Notion",
+   "description": "",
+    "features": [],
+    "createdOn": ""
 },
 {
-  "id": 77,
-  "price": 0,
-  "popularity": 1,
-  "appType": "landingpage",
-  "details": "https://adminmart.com/product/desgy-solution-free-next-js-template/",
-  "category": "NextJs",
-  "imageAlt": "desgy",
-  "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/desgy-solutions-next-js-free-landing-page.png",
-  "subtitle": "Built on Next js and tailwind get this template for free",
-  "livePreview": "https://desgy-solutions-nextjs.netlify.app/",
-  "templateName": "Desgy Solution - Free Next Js Template"
+   "id": 77,
+   "price": 0,
+   "popularity": 1,
+   "appType": "landingpage",
+   "details": "https://adminmart.com/product/desgy-solution-free-next-js-template/",
+   "category": "NextJs",
+   "imageAlt": "desgy",
+   "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/desgy-solutions-next-js-free-landing-page.png",
+   "subtitle": "Free Tailwind NextJs Landing Page Template",
+   "livePreview": "https://desgy-solutions-nextjs.netlify.app/",
+   "templateName": "Desgy Solution - Free NextJs Template",
+    "description": "If you are looking for a free NextJs Landing Page Template then look no further than this Desgy Solutions NextJs Template. Stylish and eye-catching NextJs Template with a number of additional features. Desgy Solutions NextJs has a modern aesthetic. It gives your upcoming project a polished and interesting appearance. It has all the components required to build a fantastic site template. It's easy to use, extremely flexible, and friendly to developers. Every developer's worst nightmare is creating a website or landing page template from scratch, while their ideal scenario is discovering a stunning and feature-rich replacement.",
+    "features": ["React 18+","NextJs 13+","Tailwind","Contact Form Added","Code Splitting","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-Free Setup Process"],
+    "createdOn": "15-Mar-2023"
 },
 {
-  "id": 78,
-  "price": 0,
-  "popularity": 1,
-  "appType": "landingpage",
-  "details": "https://adminmart.com/product/si-educational-next-js/",
-  "category": "NextJs",
-  "imageAlt": "Educational",
-  "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/si-educational-next-js-free-landing-page.png",
-  "subtitle": "Sell your courses using this Next Js template",
-  "livePreview": "https://si-educational-nextjs.netlify.app/",
-  "templateName": "Si Educational Free Next Js Template "
+    "id": 78,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://adminmart.com/product/si-educational-next-js/",
+    "category": "NextJs",
+    "imageAlt": "Educational",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/si-educational-next-js-free-landing-page.png",
+    "subtitle": "Free Tailwind NextJs Landing Page Template",
+    "templateName": "Si Educational Free NextJs Template ",
+    "description": "This NextJs Landing Page Template is the template you might be looking for for your Landing Page in your project. Stylish and eye-catching Landing Page Template with a number of additional features. The Si Educational NextJs Template is a modern design that gives your upcoming project a polished and appealing appearance. It has all the components required to build a fantastic site template. It's easy to use, extremely flexible, and friendly to developers. Every developer's worst nightmare is creating a website or landing page template from scratch, while their ideal scenario is discovering a stunning and feature-rich replacement.",
+    "features": ["React 18+","NextJs 13+","Tailwind","Register Included","Login Included","Contact Form Added","Code Splitting","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process"],
+    "createdOn": "15-Mar-2023"
 },
 {
   "id": 79,
@@ -1025,9 +1255,12 @@
   "category": "NextJs",
   "imageAlt": "crypto",
   "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/crypto-next-js-tailwind-landing-page.png",
-  "subtitle": "Built your next project with this built-in template.",
+  "subtitle": "Free Tailwind NextJs Landing Page Template",
   "livePreview": "https://crypto-nextjs.netlify.app/",
-  "templateName": "Crypto - Free NextJs Tailwind Template"
+  "templateName": "Crypto - Free NextJs Tailwind Template",
+  "description": "For developers looking to create crypto exchange or crypto wallet websites quickly and effectively, the Crypto Next.js Tailwind template offers a place to start. It has pre-designed elements and layouts that can be altered to meet a project's particular requirements. This template is very helpful for developers who want to focus on creating the essential features of their website rather than spending time and energy setting up their project from scratch.",
+    "features": ["React 18+","NextJs 13+","Tailwind","Code Splitting","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-free Setup Process"],
+    "createdOn": "18-Mar-2023"
 },
 {
   "id": 80,
@@ -1040,7 +1273,10 @@
   "imageSrc": "https://camo.githubusercontent.com/8420623d3615b45b5541f2beb33efc0d20d2b2bcf26297c461d04c4b8ebd81e9/68747470733a2f2f64656d6f2e6765746875676f7468656d65732e636f6d2f7468756d626e61696c732f626967737072696e672d6c696768742e706e67",
   "subtitle": "Bigspring is a web development company Nextjs template with Tailwind CSS.",
   "livePreview": "https://bigspring-light-nextjs.vercel.app/",
-  "templateName": "Bigspring Light Nextjs"
+  "templateName": "Bigspring Light Nextjs",
+  "description": "",
+    "features": [],
+    "createdOn": ""
 },
 {
   "id": 81,
@@ -1053,7 +1289,10 @@
   "imageSrc": "https://camo.githubusercontent.com/15f71c4b303f444f5f5a8f273697c8ba1db86d8eb2696a4508d0d4d4c9869a5c/68747470733a2f2f64656d6f2e6765746875676f7468656d65732e636f6d2f7468756d626e61696c732f626f6f6b776f726d2d6c696768742e706e67",
   "subtitle": "Bookworm is a minimal NextJs Tailwind blog starter template.",
   "livePreview": "https://bookworm-light-nextjs.vercel.app/?ref=statichunt.com",
-  "templateName": "Bookworm Light Nextjs"
+  "templateName": "Bookworm Light Nextjs",
+  "description": "",
+    "features": [],
+    "createdOn": ""
 },
 {
   "id": 82,
@@ -1066,7 +1305,10 @@
   "imageSrc": "https://user-images.githubusercontent.com/61941978/218782582-2109dfb4-3625-42f7-8857-365c538e4319.png",
   "subtitle": "Software Developer Portfolio Template built with Next.js bootstrap.",
   "livePreview": "https://brendanglancy.software/?ref=statichunt.com",
-  "templateName": "Brendan Glancy Nextjs"
+  "templateName": "Brendan Glancy Nextjs",
+  "description": "",
+    "features": [],
+    "createdOn": ""
 },
 {
   "id": 83,
@@ -1079,6 +1321,9 @@
   "imageSrc": "https://astroplate.netlify.app/images/banner.png",
   "subtitle": "Astroplate is a free starter template built with Astro and TailwindCSS.",
   "livePreview": "https://astroplate.netlify.app/",
-  "templateName": "Astroplate Free Starter Template"
+  "templateName": "Astroplate Free Starter Template",
+  "description": "",
+    "features": [],
+    "createdOn": ""
 }
 ]
