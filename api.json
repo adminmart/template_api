@@ -2124,5 +2124,21 @@
       "1 or 2 Chart Options"
     ],
     "createdOn": "26-Jul-2022"
+  },
+  {
+    "id": 88,
+    "price": 0,
+    "popularity": 2,
+    "appType": "landingpage",
+    "details": "https://github.com/cruip/open-react-template?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Cruip",
+    "imageSrc": "https://user-images.githubusercontent.com/2683512/231426532-c71f4291-4813-401b-a569-ada47fe13efa.png",
+    "subtitle": "A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more",
+    "livePreview": "https://github.com/cruip/open-react-template?ref=statichunt.com",
+    "templateName": "Cruip Free Landing Page",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   }
 ]
