@@ -2172,5 +2172,21 @@
     "description": "",
     "features": [],
     "createdOn": ""
+  },
+  {
+    "id": 91,
+    "price": 0,
+    "popularity": 2,
+    "appType": "website",
+    "details": "https://github.com/viandwi24/nuxt3-awesome-starter?ref=statichunt.com",
+    "category": "Nuxt",
+    "imageAlt": "nuxt3",
+    "imageSrc": "https://raw.githubusercontent.com/viandwi24/nuxt3-awesome-starter/main/assets/images/preview_v2.png",
+    "subtitle": "A Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3",
+    "livePreview": "https://nuxt3-awesome-starter.vercel.app/",
+    "templateName": "Nuxt 3 boilerplate built with Tailwindcss V3",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   }
 ]
