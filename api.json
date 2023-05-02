@@ -2156,5 +2156,21 @@
     "description": "",
     "features": [],
     "createdOn": ""
+  },
+  {
+    "id": 90,
+    "price": 0,
+    "popularity": 2,
+    "appType": "landingpage",
+    "details": "https://github.com/mos-apps/mos-app-nextjs/?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Mos-apps",
+    "imageSrc": "https://camo.githubusercontent.com/1ac514ef707d540eda789edd044377c4101d6ab04d32354c22ee3d765516be46/68747470733a2f2f6170706c65747265652d696d616765732d76312e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f4170706c652b547265652f53637265656e73686f742b323032332d30332d32392b61742b31362e30302e34322e706e67",
+    "subtitle": "A free landing page built on Next.js",
+    "livePreview": "https://mos-app-nextjs-opal.vercel.app/",
+    "templateName": "Mos - a free landing page",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   }
 ]
