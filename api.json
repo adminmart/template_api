@@ -2140,5 +2140,21 @@
     "description": "",
     "features": [],
     "createdOn": ""
+  },
+  {
+    "id": 89,
+    "price": 0,
+    "popularity": 2,
+    "appType": "website",
+    "details": "https://github.com/cosmicjs/unft-marketplace?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "CosmicJs",
+    "imageSrc": "https://i.ibb.co/nQj3pNL/Screenshot-48.png",
+    "subtitle": "A digital art marketplace built using Next.js, Stripe, and Cosmic.",
+    "livePreview": "https://unft-marketplace.vercel.app/",
+    "templateName": "Cosmic Free Art Website",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   }
 ]
