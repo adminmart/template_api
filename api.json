@@ -2188,5 +2188,21 @@
     "description": "",
     "features": [],
     "createdOn": ""
+  },
+  {
+    "id": 92,
+    "price": 0,
+    "popularity": 2,
+    "appType": "landingpage",
+    "details": "https://github.com/RSurya99/nefa?ref=statichunt.com",
+    "category": "Nuxt",
+    "imageAlt": "Nefa",
+    "imageSrc": "https://raw.githubusercontent.com/RSurya99/nefa/main/assets/img/thumbnail.jpg",
+    "subtitle": "Free landing page template built using nuxt and tailwindcss",
+    "livePreview": "https://nefa-rsurya99.vercel.app/",
+    "templateName": "Nefa - Nuxt Crypto Webapp",
+    "description": "",
+    "features": [],
+    "createdOn": ""
   }
 ]
