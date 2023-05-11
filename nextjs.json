@@ -25,7 +25,7 @@
       "Some Basic UI Components"
     ],
     "createdOn": "11-Jan-2023",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
       "Figma Design Files"
     ],
     "createdOn": "18-Jan-2023",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 3,
@@ -90,7 +90,7 @@
       "5 Color Skins"
     ],
     "createdOn": "13-Apr-2022",
-    "frameworkName":
+    "frameworkName":""
   },
   {
     "id": 4,
@@ -104,7 +104,7 @@
     "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://ample-nextjs-admin.vercel.app/dashboards/dashboard1",
     "templateName": "Ample NextJs Admin Dashboard",
-    "description": "The one to be on the lookout for is the Ample NextJs Admin Dashboard Template. With the help of this next.js + redux dashboard template, you can give your WebApps a captivating appearance. The two key elements of flexibility and user experience have quickly increased the demand for this admin template. The NextJs admin premium template is pricey, completely customizable, and built with crucial React framework elements. You can access a range of parts, plugins, elements, and widgets when you purchase a responsive React admin dashboard. In addition, a variety of color schemes, page templates, dashboard settings, UI components, and much more are available and popular among businesses and developers.",
+    "description": "The one to be on the lookout for is the Ample NextJs Admin Dashboard Template. With the help of this next.js + redux dashboard template, you can give your WebApps a captivating appearance. The two key elements of flexibility and user experience have quickly increased the demand for this admin template. The NextJs admin premium template is pricey, completely customizable, and built with crucial React framework elements. You can access a range of parts, plugins, elements, and widgets when you purchase a responsive React admin dashboard. In addition, a variety of color schemes, page templates, dashboard settings, UI components, and much more are available and popular among businesses and developers.",
     "features": [
       "RTL Dashboard Version",
       "5 Unique Demos",
@@ -122,7 +122,7 @@
       "6 Color Skins"
     ],
     "createdOn": "05-Feb-2022",
-    "frameworkName":
+    "frameworkName":""
   },
   {
     "id": 5,
@@ -154,7 +154,7 @@
       "6 Color Skins"
     ],
     "createdOn": "03-Feb-2022",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 6,
@@ -188,7 +188,7 @@
       "6 Color Skins"
     ],
     "createdOn": "28-Jan-2022",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 7,
@@ -215,7 +215,7 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "20-Jan-2022",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 8,
@@ -243,7 +243,7 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "15-Sep-2021",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 9,
@@ -269,7 +269,7 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "17-Jan-2022",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 10,
@@ -295,7 +295,7 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "18-Jan-2022",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 11,
@@ -321,7 +321,7 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "18-Jan-2022",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 12,
@@ -353,7 +353,7 @@
       "6 Color Skins"
     ],
     "createdOn": "14-Nov-2018",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 13,
@@ -385,7 +385,7 @@
       "6 Color Skins"
     ],
     "createdOn": "06-Oct-2018",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 14,
@@ -418,7 +418,7 @@
       "5 Color Skins"
     ],
     "createdOn": "25-Jun-2021",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 15,
@@ -450,7 +450,7 @@
       "6 Color Skins"
     ],
     "createdOn": "31-July-2019",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 16,
@@ -482,7 +482,7 @@
       "6 Color Skins"
     ],
     "createdOn": "16-Jun-2020",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 17,
@@ -514,7 +514,7 @@
       "6 Color Skins"
     ],
     "createdOn": "27-Oct-2020",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 18,
@@ -546,7 +546,7 @@
       "6 color Skins"
     ],
     "createdOn": "16-Sep-2020",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 19,
@@ -573,7 +573,7 @@
       "6.4.0 Bootstrap Version"
     ],
     "createdOn": "06-Oct-2018",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 20,
@@ -600,7 +600,7 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "18-Jul-2019",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 21,
@@ -627,7 +627,7 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "09-Aug-2019",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 22,
@@ -655,7 +655,7 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "02-Dec-2019",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 23,
@@ -682,7 +682,7 @@
       "Material UI Version 5"
     ],
     "createdOn": "28-Jun-2021",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 24,
@@ -710,7 +710,7 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "21-Sep-2020",
-    "frameworkName":
+    "frameworkName":""
   },
   {
     "id": 25,
@@ -737,7 +737,7 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "27-Jun-2020",
-    "frameworkName":
+    "frameworkName":""
   },
   {
     "id": 26,
@@ -766,7 +766,7 @@
       "Redux Toolkit"
     ],
     "createdOn": "02-Mar-2023",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 27,
@@ -801,7 +801,7 @@
       "Figma Design Files"
     ],
     "createdOn": "02-Mar-2023",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 28,
@@ -834,7 +834,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 30,
@@ -851,7 +851,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 31,
@@ -868,7 +868,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":
+    "frameworkName":""
   },
   {
     "id": 32,
@@ -885,7 +885,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":
+    "frameworkName":""
   },
   {
     "id": 33,
@@ -902,7 +902,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 34,
@@ -919,7 +919,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 35,
@@ -936,7 +936,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 36,
@@ -953,7 +953,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 37,
@@ -970,7 +970,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 38,
@@ -997,7 +997,7 @@
       "The Hassle-Free Setup Process"
     ],
     "createdOn": "15-Mar-2023",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 39,
@@ -1025,7 +1025,7 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "15-Mar-2023",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 40,
@@ -1051,7 +1051,7 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "18-Mar-2023",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 41,
@@ -1068,7 +1068,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 42,
@@ -1085,7 +1085,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 43,
@@ -1102,7 +1102,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 44,
@@ -1119,7 +1119,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 45,
@@ -1136,7 +1136,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 46,
@@ -1153,7 +1153,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   },
   {
     "id": 47,
@@ -1170,6 +1170,6 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName": 
+    "frameworkName":"" 
   }
 ]
