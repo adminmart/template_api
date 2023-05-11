@@ -26,7 +26,7 @@
       "i18 Vue"
     ],
     "createdOn": "17-Feb-2023",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 2,
@@ -43,7 +43,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 3,
@@ -71,7 +71,7 @@
       "Create Your Web App Faster with Modernize Free NuxtJs Dashboard"
     ],
     "createdOn": "09-Feb-2023",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 4,
@@ -88,7 +88,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 5,
@@ -105,7 +105,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 6,
@@ -122,7 +122,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 7,
@@ -139,7 +139,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 8,
@@ -156,7 +156,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 9,
@@ -173,7 +173,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 10,
@@ -190,7 +190,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 11,
@@ -207,7 +207,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 12,
@@ -224,7 +224,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 13,
@@ -241,7 +241,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 14,
@@ -258,7 +258,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 15,
@@ -275,7 +275,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 16,
@@ -292,7 +292,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 17,
@@ -309,7 +309,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 18,
@@ -339,7 +339,7 @@
       "6 Color Skins"
     ],
     "createdOn": "12-Jul-2022",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 19,
@@ -369,7 +369,7 @@
       "6 Color Skins"
     ],
     "createdOn": "08-Jul-2022",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 20,
@@ -394,7 +394,7 @@
       "1 or 2 Chart Options"
     ],
     "createdOn": "18-Jul-2022",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 21,
@@ -419,7 +419,7 @@
       "1 or 2 Chart Options"
     ],
     "createdOn": "26-Jul-2022",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 22,
@@ -436,7 +436,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 23,
@@ -453,7 +453,7 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   },
   {
     "id": 24,
@@ -470,6 +470,6 @@
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameWork":
+    "frameWorkName":""
   }
 ]
