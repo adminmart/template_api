@@ -1903,34 +1903,33 @@
     ],
     "createdOn": "15-Mar-2023"
   },
+
   {
-    "id": 78,
+    "id": 79,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/si-educational-next-js/",
     "category": "NextJs",
-    "imageAlt": "Educational",
+    "imageAlt": "crypto",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/si-educational-next-js-free-landing-page.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
-    "livePreview": "https://si-educational-nextjs.netlify.app/",
-    "templateName": "Si Educational Free NextJs",
-    "description": "This NextJs Landing Page Template is the template you might be looking for for your Landing Page in your project. Stylish and eye-catching Landing Page Template with a number of additional features. The Si Educational NextJs Template is a modern design that gives your upcoming project a polished and appealing appearance. It has all the components required to build a fantastic site template. It's easy to use, extremely flexible, and friendly to developers. Every developer's worst nightmare is creating a website or landing page template from scratch, while their ideal scenario is discovering a stunning and feature-rich replacement.",
+    "livePreview": "https://crypto-nextjs.netlify.app/",
+    "templateName": "Crypto - Free NextJs Tailwind Template",
+    "description": "For developers looking to create crypto exchange or crypto wallet websites quickly and effectively, the Crypto Next.js Tailwind template offers a place to start. It has pre-designed elements and layouts that can be altered to meet a project's particular requirements. This template is very helpful for developers who want to focus on creating the essential features of their website rather than spending time and energy setting up their project from scratch.",
     "features": [
       "React 18+",
       "NextJs 13+",
       "Tailwind",
-      "Register Included",
-      "Login Included",
-      "Contact Form Added",
       "Code Splitting",
       "Google Fonts",
       "Easy Folder Structure",
       "Organized Code Structure",
       "The Hassle-free Setup Process"
     ],
-    "createdOn": "15-Mar-2023"
+    "createdOn": "18-Mar-2023"
   },
+  
   {
     "id": 79,
     "price": 0,
