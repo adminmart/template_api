@@ -2227,7 +2227,7 @@
   {
     "id": 94,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/chefs-kichen-free-nextjs-landing-page-template/",
     "category": "NextJs",
@@ -2235,7 +2235,7 @@
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/Chefs-kichen-new.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
     "livePreview": "https://restaurant-tailwind-nextjs-free.vercel.app/",
-    "templateName": "Chef’s Kichen Free NextJs Landing-page Template",
+    "templateName": "Chefs Kichen Free NextJs Landing-page Template",
     "description": "The Chef's Kichen Next.js Landing-page template provides a starting point for developers who want to build Rapid and Streamlined Web Development. It includes customizable design elements and layouts that are ready to be adapted to your project. This template is particularly useful for developers who want to save time and cut down on setup time, emphasize core website development.",
     "features": [
       "React 18+",
