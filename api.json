@@ -2302,5 +2302,32 @@
       "1 Top-Pick Landingpage"
     ],
     "createdOn": "06/06/2023"
+  },
+  {
+    "id": 97,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://adminmart.com/product/e-learning-free-nextjs-landing-page-template/",
+    "category": "NextJs",
+    "imageAlt": "next-js",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/e-learning-new.png",
+    "subtitle": "Free Tailwind NextJs Landing Page Template",
+    "livePreview": "https://e-learning-tailwind-nextjs-free.vercel.app/",
+    "templateName": "E-learning Free NextJs Landing-page Template",
+    "description": "Build E-learning websites in no time with the Next.js landing-page template. Customize pre-designed components and layouts to perfectly fit your project. This template is particularly useful for empower developers to dive into core functionality building. E-learning next.js provides an excellent starting point with its built-in features and structure.",
+    "features": [
+      "NextJs 13+",
+      "Tailwind",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process",
+      "Register Added",
+      "Login Added",
+      "1 Basic Landingpage"
+    ],
+    "createdOn": "06/06/2023"
   }
 ]
