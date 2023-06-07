@@ -2248,5 +2248,32 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "18-Mar-2023"
+  },
+  {
+    "id": 95,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://adminmart.com/product/dsign-free-nextjs-landing-page-template/",
+    "category": "NextJs",
+    "imageAlt": "next-js",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/Dsign-new.png",
+    "subtitle": "Free Tailwind NextJs Landing Page Template",
+    "livePreview": "https://dsign-tailwind-nextjs-free.vercel.app/",
+    "templateName": "Dsign Free NextJs Landing-page Template",
+    "description": "The Dsign Next.js Landing-page template provides a starting point for developers who want to build websites quickly and efficiently. It includes pre-designed components and layouts that can be customized to fit the specific needs of a project. This template is particularly useful for developers who want to save time and effort in the initial setup of their project and focus on building the core functionalities of their website.",
+    "features": [
+      "NextJs 13+",
+      "Tailwind",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process",
+      "Login Added",
+      "Register Added",
+      "1 Standout Landingpage"
+    ],
+    "createdOn": "18-Mar-2023"
   }
 ]
