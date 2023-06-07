@@ -2275,5 +2275,32 @@
       "1 Standout Landingpage"
     ],
     "createdOn": "18-Mar-2023"
+  },
+  {
+    "id": 96,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://adminmart.com/product/paidin-free-nextjs-landing-page-template/",
+    "category": "NextJs",
+    "imageAlt": "next-js",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/Paidin-new.png",
+    "subtitle": "Free Tailwind NextJs Landing Page Template",
+    "livePreview": "https://paidin-tailwind-nextjs-free.vercel.app/",
+    "templateName": "Paidin Free NextJs Landing-page Template",
+    "description": "Launch Your Website Faster with the Paidin Next.js Landing-page Template. Customize pre-designed elements to fit your Vision. This template is particularly useful for developers who want to save time and effort in the initial setup of their project and focus on building the core functionalities of their website.",
+    "features": [
+      "NextJs 13+",
+      "Tailwind",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process",
+      "Login Added",
+      "Register Added",
+      "1 Top-Pick Landingpage"
+    ],
+    "createdOn": "06/06/2023"
   }
 ]
