@@ -2,12 +2,12 @@
   {
     "id": 1,
     "price": 0,
-    "popularity": 2,
+    "popularity": 401,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-react-mui-dashboard/",
     "category": "React",
     "imageAlt": "modernize-free-react-admin-dashboard-am",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/01/modernize-free-react-admin-dashboard-am.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/adminmart/modernize-free-react-admin-dashboard-am.jpg",
     "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://modernize-react-free.netlify.app/dashboard",
     "templateName": "Modernize Free React MUI Dashboard",
@@ -25,17 +25,17 @@
       "Some Basic UI Components"
     ],
     "createdOn": "11-Jan-2023",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 2,
     "price": 59,
-    "popularity": 2,
+    "popularity": 402,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-react-mui-dashboard-theme/",
     "category": "React",
     "imageAlt": "Modernize React MUI Dashboard Theme",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/01/image_2023_01_26T10_19_25_019Z.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/adminmart/modernize-react-mui-dashboard-theme.jpg",
     "subtitle": "Premium React MUI Admin Dashboard Template",
     "livePreview": "https://adminmart.com/product/modernize-react-mui-dashboard-theme/#product-demo-section",
     "templateName": "Modernize React MUI Dashboard Theme",
@@ -57,17 +57,17 @@
       "Figma Design Files"
     ],
     "createdOn": "18-Jan-2023",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 3,
     "price": 59,
-    "popularity": 1,
+    "popularity": 301,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-nextjs-dashboard-material-ui/#demos",
     "category": "NextJs",
     "imageAlt": "nextjs-flexy",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/04/nextjs-flexy.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/nextjs-flexy.jpg",
     "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://flexy-next-js-dashboard.vercel.app/dashboards/dashboard1",
     "templateName": "Flexy NextJs Dashboard - Material UI",
@@ -90,17 +90,17 @@
       "5 Color Skins"
     ],
     "createdOn": "13-Apr-2022",
-    "frameworkName":""
+    "frameworkName": ""
   },
   {
     "id": 4,
     "price": 49,
-    "popularity": 1,
+    "popularity": 302,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
     "imageAlt": "Ample NextJs Admin Dashboard",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/ample.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/ample.jpg",
     "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://ample-nextjs-admin.vercel.app/dashboards/dashboard1",
     "templateName": "Ample NextJs Admin Dashboard",
@@ -122,17 +122,17 @@
       "6 Color Skins"
     ],
     "createdOn": "05-Feb-2022",
-    "frameworkName":""
+    "frameworkName": ""
   },
   {
     "id": 5,
     "price": 49,
-    "popularity": 1,
+    "popularity": 303,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
     "imageAlt": "Xtreme NextJs Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/xtreme-nextjs-image.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/xtreme-nextjs-image.jpg",
     "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://xtreme-nextjs-admin.vercel.app/dashboards/classic",
     "templateName": "Xtreme NextJs Admin Template",
@@ -154,17 +154,17 @@
       "6 Color Skins"
     ],
     "createdOn": "03-Feb-2022",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 6,
     "price": 49,
-    "popularity": 1,
+    "popularity": 304,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
     "imageAlt": "Monster NextJs Admin Dashboard",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monsternextjs.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/monsternextjs.jpg",
     "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://monster-nextjs-admin.vercel.app/dashboards/modern",
     "templateName": "Monster NextJs Admin Dashboard",
@@ -188,17 +188,17 @@
       "6 Color Skins"
     ],
     "createdOn": "28-Jan-2022",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 7,
     "price": 0,
-    "popularity": 1,
+    "popularity": 305,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/",
     "category": "NextJs",
     "imageAlt": " Flexy NextJs Free Admin Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/flexy-nextjs-free.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/flexy-nextjs-free.jpg",
     "subtitle": "Free & Open-Source MUI NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/flexy-nextjs-admin-free-dist/landingpage/",
     "templateName": "Flexy NextJs Free Admin Template",
@@ -215,17 +215,17 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "20-Jan-2022",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 8,
     "price": 0,
-    "popularity": 1,
+    "popularity": 306,
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/nextkit-nextjs-free-uikit/",
     "category": "NextJs",
     "imageAlt": "Nextkit - Nextjs Free UI Kit",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nextkit-nextjs-free-uikit.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/nextkit-nextjs-free-uikit.jpg",
     "subtitle": "Free & Open-Source NextJs Website UI Kit",
     "livePreview": "https://next-kit-free.vercel.app/",
     "templateName": "Nextkit - Nextjs Free UI Kit",
@@ -243,17 +243,17 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "15-Sep-2021",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 9,
     "price": 0,
-    "popularity": 1,
+    "popularity": 307,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-next-js-free-admin-template/",
     "category": "NextJs",
     "imageAlt": " Xtreme NextJs Free Admin",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/xtreme-next-js-free.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/xtreme-next-js-free.jpg",
     "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/xtreme-nextjs-admin-free-dist/landingpage/index.html",
     "templateName": "Xtreme NextJs Free Admin",
@@ -269,17 +269,17 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "17-Jan-2022",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 10,
     "price": 0,
-    "popularity": 1,
+    "popularity": 308,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-next-js-free-admin-template/",
     "category": "NextJs",
     "imageAlt": "Ample Admin Free NextJs Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/ample-admin-nextjs-free.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/ample-admin-nextjs-free.jpg",
     "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/ample-nextjs-admin-free-dist/landingpage/index.html",
     "templateName": "Ample Admin Free NextJs Template",
@@ -295,17 +295,17 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "18-Jan-2022",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 11,
     "price": 0,
-    "popularity": 1,
+    "popularity": 309,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-next-js-free-admin-template/",
     "category": "NextJs",
     "imageAlt": "Monster NextJs Free Dashboard",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monster-free-nextjs.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/monster-free-nextjs.jpg",
     "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/monster-nextjs-admin-free-dist/landingpage/",
     "templateName": "Monster NextJs Free Dashboard",
@@ -321,17 +321,17 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "18-Jan-2022",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 12,
     "price": 49,
-    "popularity": 2,
+    "popularity": 501,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-react-redux-admin/#demos",
     "category": "React",
     "imageAlt": "MaterialPro React Redux Admin",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-admin-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/materialpro-react-admin-y.jpg",
     "subtitle": "Premium React-Redux Toolkit Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/materialpro-react/main/dashboards/dashboard2",
     "templateName": "MaterialPro React Redux Admin",
@@ -353,17 +353,17 @@
       "6 Color Skins"
     ],
     "createdOn": "14-Nov-2018",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 13,
     "price": 49,
-    "popularity": 2,
+    "popularity": 502,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-react-redux-admin/#demos",
     "category": "React",
     "imageAlt": "Xtreme React Dashboard Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/xtreme-react-admin-template-y.jpg",
     "subtitle": "Premium React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/xtreme-react/main/dashboards/classic",
     "templateName": "Xtreme React Dashboard Template",
@@ -385,17 +385,17 @@
       "6 Color Skins"
     ],
     "createdOn": "06-Oct-2018",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 14,
     "price": 49,
-    "popularity": 2,
+    "popularity": 503,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/#demos",
     "category": "React",
     "imageAlt": "Flexy React Material Dashboard",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/07/flexy-react-admin.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/flexy-react-admin.jpg",
     "subtitle": "Premium Material UI React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/flexy-react/stylish/#/dashboards/dashboard1",
     "templateName": "Flexy React Material Dashboard",
@@ -418,17 +418,17 @@
       "5 Color Skins"
     ],
     "createdOn": "25-Jun-2021",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 15,
     "price": 49,
-    "popularity": 2,
+    "popularity": 504,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-react-redux-admin/#demos",
     "category": "React",
     "imageAlt": "AdminPro React Redux Admin",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/adminpro-react-dashboard-y.jpg",
     "subtitle": "Premium React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/adminpro-react/main/dashboards/modern",
     "templateName": "AdminPro React Redux Admin",
@@ -450,17 +450,17 @@
       "6 Color Skins"
     ],
     "createdOn": "31-July-2019",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 16,
     "price": 49,
-    "popularity": 2,
+    "popularity": 505,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-react-admin/#demos",
     "category": "React",
     "imageAlt": "monster-react-admin-template-y-20",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-template-y-20.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/monster-react-admin-template-y-20.jpg",
     "subtitle": "Premium React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/adminpro-react/main/dashboards/modern",
     "templateName": "Monster React Admin Template",
@@ -482,17 +482,17 @@
       "6 Color Skins"
     ],
     "createdOn": "16-Jun-2020",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 17,
     "price": 79,
-    "popularity": 2,
+    "popularity": 506,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/react-bundle/#demos",
     "category": "React",
     "imageAlt": "React Mega Bundle",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/10/react-bundle-wrappixel-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/react-bundle-wrappixel-y.jpg",
     "subtitle": "Bundle of 5 Premium React Admin Dashboard Templates",
     "livePreview": "https://www.wrappixel.com/templates/react-bundle/#demos",
     "templateName": "React Mega Bundle",
@@ -514,17 +514,17 @@
       "6 Color Skins"
     ],
     "createdOn": "27-Oct-2020",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 18,
     "price": 49,
-    "popularity": 2,
+    "popularity": 507,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-react-dashboard/#demos",
     "category": "React",
     "imageAlt": "Ample React Dashboard Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-admin-template-y.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/ample-react-admin-template-y.png",
     "subtitle": "Premium React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/ample-react/main/dashboards/dashboard1",
     "templateName": "Ample React Dashboard Template",
@@ -546,17 +546,17 @@
       "6 color Skins"
     ],
     "createdOn": "16-Sep-2020",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 19,
     "price": 0,
-    "popularity": 2,
+    "popularity": 508,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-react-admin-lite/",
     "category": "React",
     "imageAlt": "Xtreme React Admin Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-lite-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/xtreme-react-admin-lite-y.jpg",
     "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/xtreme-react-free/landingpage/index.html",
     "templateName": "Xtreme React Admin Lite",
@@ -573,17 +573,17 @@
       "6.4.0 Bootstrap Version"
     ],
     "createdOn": "06-Oct-2018",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 20,
     "price": 0,
-    "popularity": 2,
+    "popularity": 509,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-react-admin-lite/",
     "category": "React",
     "imageAlt": "MaterialPro React Admin Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-lite-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/materialpro-react-lite-y.jpg",
     "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/materialpro-react-free/landingpage/index.html",
     "templateName": "MaterialPro React Admin Lite",
@@ -600,17 +600,17 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "18-Jul-2019",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 21,
     "price": 0,
-    "popularity": 2,
+    "popularity": 510,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-react-admin-lite/",
     "category": "React",
     "imageAlt": "AdminPro React Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-lite-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/adminpro-react-dashboard-lite-y.jpg",
     "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/adminpro-react-free/landingpage/index.html",
     "templateName": "AdminPro React Lite",
@@ -627,17 +627,16 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "09-Aug-2019",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 22,
     "price": 0,
-    "popularity": 2,
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/wrapkit-react-lite/",
     "category": "React",
     "imageAlt": "WrapKit React Lite UI Kit",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/wrapkit-react-lite-y.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/wrapkit-react-lite-y.jpg",
     "subtitle": "Free & Open-Source React Website Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/wrapkit-react-free/#/",
     "templateName": "WrapKit React Lite UI Kit",
@@ -655,17 +654,18 @@
       "Lightning-Fast Performance"
     ],
     "createdOn": "02-Dec-2019",
-    "frameworkName":"" 
+    "frameworkName": "",
+    "popularity": 511
   },
   {
     "id": 23,
     "price": 0,
-    "popularity": 2,
+    "popularity": 512,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/free-material-ui-template/",
     "category": "React",
     "imageAlt": "Flexy React Material Admin Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/07/flexy-react-admin-free.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/flexy-react-admin-free.jpg",
     "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/flexy-react-free/landingpage/index.html",
     "templateName": "Flexy React Material Admin Lite",
@@ -682,17 +682,17 @@
       "Material UI Version 5"
     ],
     "createdOn": "28-Jun-2021",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 24,
     "price": 0,
-    "popularity": 2,
+    "popularity": 513,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-free-react-dashboard/",
     "category": "React",
     "imageAlt": "ample-react-dashboard-lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-dashboard-lite.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/ample-react-dashboard-lite.jpg",
     "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/ample-react-free/landingpage/index.html",
     "templateName": "Ample React Dashboard Lite",
@@ -710,17 +710,17 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "21-Sep-2020",
-    "frameworkName":""
+    "frameworkName": ""
   },
   {
     "id": 25,
     "price": 0,
-    "popularity": 2,
+    "popularity": 514,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-react-admin-lite/",
     "category": "React",
     "imageAlt": "Monster React Admin Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-lite-template-y-20.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/wrappixel/monster-react-admin-lite-template-y-20.jpg",
     "subtitle": "Free & Open-Source React Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/monster-react-free/landingpage/index.html",
     "templateName": "Monster React Admin Lite",
@@ -737,17 +737,17 @@
       "Reactstrap Version 9"
     ],
     "createdOn": "27-Jun-2020",
-    "frameworkName":""
+    "frameworkName": ""
   },
   {
     "id": 26,
     "price": 0,
-    "popularity": 1,
+    "popularity": 101,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-nextjs-admin-template/",
     "category": "NextJs",
     "imageAlt": "free-next-js-admin-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/adminmart/modernize-free-next-js-admin-template.jpg",
     "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
     "livePreview": "https://demos.adminmart.com/free/nextjs/modernize-nextjs-free/landingpage/index.html",
     "templateName": "Modernize Free NextJs Admin Template",
@@ -766,17 +766,17 @@
       "Redux Toolkit"
     ],
     "createdOn": "02-Mar-2023",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 27,
     "price": 59,
-    "popularity": 1,
+    "popularity": 102,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-next-js-admin-dashboard/",
     "category": "NextJs",
     "imageAlt": "next-js-admin-dashboard",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-next-js-admin-dashboard-1.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/adminmart/modernize-next-js-admin-dashboard-1.jpg",
     "subtitle": "Premium NextJs Admin Dashboard Template",
     "livePreview": "https://adminmart.com/product/modernize-next-js-admin-dashboard/",
     "templateName": "Modernize NextJs Admin Dashboard",
@@ -801,17 +801,17 @@
       "Figma Design Files"
     ],
     "createdOn": "02-Mar-2023",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 28,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1001,
     "appType": "website",
     "details": "https://github.com/ndimatteo/HULL",
     "category": "NextJs",
     "imageAlt": "Headless Shopify",
-    "imageSrc": "https://jamstackthemes.dev/capture/ndimatteo-hull.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hull-ext.jpg",
     "subtitle": "Headless Shopify starter powered by Next.js + Sanity.io",
     "livePreview": "https://hull.dev/",
     "templateName": "HULL",
@@ -822,165 +822,165 @@
   {
     "id": 29,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1002,
     "appType": "website",
     "details": "https://github.com/prezly/theme-nextjs-bea",
     "category": "NextJs",
     "imageAlt": "prezly-theme-nextjs-bea",
-    "imageSrc": "https://jamstackthemes.dev/capture/prezly-theme-nextjs-bea.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/prezly-bea-theme-ext.jpg",
     "subtitle": "News site built with NextJS, Typescript and Prezly SDK",
     "livePreview": "https://theme-nextjs-bea-the-good-newsroom.vercel.app/",
     "templateName": "Prezly Bea Theme",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 30,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1003,
     "appType": "website",
     "details": "https://github.com/saleor/react-storefront",
     "category": "NextJs",
     "imageAlt": "saleor-react-storefront",
-    "imageSrc": "https://jamstackthemes.dev/capture/saleor-react-storefront.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-storefront-ext.jpg",
     "subtitle": "An open-source storefront in React.js with Next.js.",
     "livePreview": "https://demo.saleor.io/default-channel/en-US/",
     "templateName": "React Storefront",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 31,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1004,
     "appType": "website",
     "details": "https://github.com/jaymehta20/nextjs-blog-page",
     "category": "NextJs",
     "imageAlt": "jaymehta20-nextjs-blog-page",
-    "imageSrc": "https://jamstackthemes.dev/capture/jaymehta20-nextjs-blog-page.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/minimal-blog-nextjs-ext.jpg",
     "subtitle": "A simple blog site created with NextJs",
     "livePreview": "https://nextjs-blog-page.vercel.app/",
     "templateName": "Minimal Blog | NextJS",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":""
+    "frameworkName": ""
   },
   {
     "id": 32,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1005,
     "appType": "landingpage",
     "details": "https://github.com/naufaldi/next-landing-vpn",
     "category": "NextJs",
     "imageAlt": "naufaldi-next-landing-vpn",
-    "imageSrc": "https://jamstackthemes.dev/capture/naufaldi-next-landing-vpn.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwind-vpn-landingpage-ext.jpg",
     "subtitle": "An Open Source Landingpage For VPN or Apps.",
     "livePreview": "https://next-landing-vpn.vercel.app/",
     "templateName": "Tailwind VPN Landingpage",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":""
+    "frameworkName": ""
   },
   {
     "id": 33,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1006,
     "appType": "landingpage",
     "details": "https://github.com/Blazity/next-saas-starter",
     "category": "NextJs",
     "imageAlt": "blazity-next-saas-starter",
-    "imageSrc": "https://jamstackthemes.dev/capture/blazity-next-saas-starter.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-saas-starter-ext.jpg",
     "subtitle": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
     "livePreview": "https://next-saas-starter-ashy.vercel.app/",
     "templateName": "Next SaaS Starter",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 34,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1007,
     "appType": "landingpage",
     "details": "https://github.com/nextacular/nextacular",
     "category": "NextJs",
     "imageAlt": "arjayosma-nextacular",
-    "imageSrc": "https://jamstackthemes.dev/capture/arjayosma-nextacular.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/arjayosma-nextacular-ext.jpg",
     "subtitle": "An open-source starter kit built with modern full-stack technologies.",
     "livePreview": "https://nextacular.co/",
     "templateName": "Nextacular",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 35,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1008,
     "appType": "website",
     "details": "https://github.com/atlamors/portfolio?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "Andrew Nelson",
-    "imageSrc": "https://camo.githubusercontent.com/e9d3ee61c4be40ea3e579a5a8da8608fc1a2c4bdf69d752e19c473f266696d21/68747470733a2f2f7777772e616e647265776e656c736f6e2e6e65742f696d672f707265766965772e706e67",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/andrew-nelson-ext.jpg",
     "subtitle": "An open source portfolio site built on Nextjs and React.",
     "livePreview": "https://andrewnelson.net/",
     "templateName": "Andrew Nelson",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 36,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1009,
     "appType": "website",
     "details": "https://github.com/enjidev/enji.dev?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "Enji Dev",
-    "imageSrc": "https://i.ibb.co/qkVGy83/Screenshot-41.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/enji-dev-ext.jpg",
     "subtitle": "A monorepo for my personal website and projects, built with Turborepo + pnpm ",
     "livePreview": "https://enji.dev/",
     "templateName": "Enji Dev",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 37,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1010,
     "appType": "website",
     "details": "https://github.com/transitive-bullshit/nextjs-notion-starter-kit?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "Notion",
-    "imageSrc": "https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/notion-ext.jpg",
     "subtitle": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
     "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
     "templateName": "Notion",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 38,
     "price": 0,
-    "popularity": 1,
+    "popularity": 201,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/desgy-solution-free-next-js-template/",
     "category": "NextJs",
     "imageAlt": "desgy",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/desgy-solutions-next-js-free-landing-page.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/adminmart/desgy-solutions-next-js-free-landing-page.jpg",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
     "livePreview": "https://desgy-solutions-nextjs.netlify.app/",
     "templateName": "Desgy Solution - Free NextJs Template",
@@ -997,17 +997,17 @@
       "The Hassle-Free Setup Process"
     ],
     "createdOn": "15-Mar-2023",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 39,
     "price": 0,
-    "popularity": 1,
+    "popularity": 202,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/si-educational-next-js/",
     "category": "NextJs",
     "imageAlt": "Educational",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/si-educational-next-js-free-landing-page.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/adminmart/si-educational-next-js-free-landing-page.jpg",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
     "templateName": "Si Educational Free NextJs Template ",
     "description": "This NextJs Landing Page Template is the template you might be looking for for your Landing Page in your project. Stylish and eye-catching Landing Page Template with a number of additional features. The Si Educational NextJs Template is a modern design that gives your upcoming project a polished and appealing appearance. It has all the components required to build a fantastic site template. It's easy to use, extremely flexible, and friendly to developers. Every developer's worst nightmare is creating a website or landing page template from scratch, while their ideal scenario is discovering a stunning and feature-rich replacement.",
@@ -1025,17 +1025,17 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "15-Mar-2023",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 40,
     "price": 0,
-    "popularity": 1,
+    "popularity": 203,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/crypto-free-next-js-template/",
     "category": "NextJs",
     "imageAlt": "crypto",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/crypto-next-js-tailwind-landing-page.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/adminmart/crypto-next-js-tailwind-landing-page.jpg",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
     "livePreview": "https://crypto-nextjs.netlify.app/",
     "templateName": "Crypto - Free NextJs Tailwind Template",
@@ -1051,125 +1051,125 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "18-Mar-2023",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 41,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1011,
     "appType": "website",
     "details": "https://github.com/themefisher/bigspring-light-nextjs?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "bigspring",
-    "imageSrc": "https://camo.githubusercontent.com/8420623d3615b45b5541f2beb33efc0d20d2b2bcf26297c461d04c4b8ebd81e9/68747470733a2f2f64656d6f2e6765746875676f7468656d65732e636f6d2f7468756d626e61696c732f626967737072696e672d6c696768742e706e67",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/bigspring-light-nextjs-ext.jpg",
     "subtitle": "Bigspring is a web development company Nextjs template with Tailwind CSS.",
     "livePreview": "https://bigspring-light-nextjs.vercel.app/",
     "templateName": "Bigspring Light Nextjs",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 42,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1012,
     "appType": "website",
     "details": "https://github.com/themefisher/bookworm-light-nextjs?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "bookworm",
-    "imageSrc": "https://camo.githubusercontent.com/15f71c4b303f444f5f5a8f273697c8ba1db86d8eb2696a4508d0d4d4c9869a5c/68747470733a2f2f64656d6f2e6765746875676f7468656d65732e636f6d2f7468756d626e61696c732f626f6f6b776f726d2d6c696768742e706e67",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/bookworm-light-nextjs-ext.jpg",
     "subtitle": "Bookworm is a minimal NextJs Tailwind blog starter template.",
     "livePreview": "https://bookworm-light-nextjs.vercel.app/?ref=statichunt.com",
     "templateName": "Bookworm Light Nextjs",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 43,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1013,
     "appType": "website",
     "details": "https://github.com/BrendanGlancy/dev-port?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "Brendan Glancy",
-    "imageSrc": "https://user-images.githubusercontent.com/61941978/218782582-2109dfb4-3625-42f7-8857-365c538e4319.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/brendan-glancy-nextjs-ext.jpg",
     "subtitle": "Software Developer Portfolio Template built with Next.js bootstrap.",
     "livePreview": "https://brendanglancy.software/?ref=statichunt.com",
     "templateName": "Brendan Glancy Nextjs",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 44,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1014,
     "appType": "website",
     "details": "https://github.com/zeon-studio/astroplate?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "Astro-Plate",
-    "imageSrc": "https://i.ibb.co/C2gmcJF/Banner-Jpg.jpg",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/astroplate-free-starter-template-ext.jpg",
     "subtitle": "Astroplate is a free starter template built with Astro and TailwindCSS.",
     "livePreview": "https://astroplate.netlify.app/",
     "templateName": "Astroplate Free Starter Template",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 45,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1015,
     "appType": "landingpage",
     "details": "https://github.com/cruip/open-react-template?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "Cruip",
-    "imageSrc": "https://i.ibb.co/W2Ygzg1/231426532-c71f4291-4813-401b-a569-ada47fe13efa-1-1.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cruip-free-landingpage-ext.jpg",
     "subtitle": "Cruip is a free React / Next.js landing page template for your next web project.",
     "livePreview": "https://github.com/cruip/open-react-template?ref=statichunt.com",
     "templateName": "Cruip Free Landing Page",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 46,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1016,
     "appType": "website",
     "details": "https://github.com/cosmicjs/unft-marketplace?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "CosmicJs",
-    "imageSrc": "https://i.ibb.co/nQj3pNL/Screenshot-48.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cosmic-free-art-website-ext.jpg",
     "subtitle": "A digital art marketplace built using Next.js, Stripe, and Cosmic.",
     "livePreview": "https://unft-marketplace.vercel.app/",
     "templateName": "Cosmic Free Art Website",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   },
   {
     "id": 47,
     "price": 0,
-    "popularity": 2,
+    "popularity": 1017,
     "appType": "landingpage",
     "details": "https://github.com/mos-apps/mos-app-nextjs/?ref=statichunt.com",
     "category": "NextJs",
     "imageAlt": "Mos-apps",
-    "imageSrc": "https://i.ibb.co/7zbJRPL/68747470733a2f2f6170706c65747265652d696d616765732d76312e73332e65752d776573742d312e616d617a6f6e617773.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mos-a-free-landingpage-ext.jpg",
     "subtitle": "A free landing page built on Next.js",
     "livePreview": "https://mos-app-nextjs-opal.vercel.app/",
     "templateName": "Mos - A Free Landing Page",
     "description": "",
     "features": [],
     "createdOn": "",
-    "frameworkName":"" 
+    "frameworkName": ""
   }
 ]

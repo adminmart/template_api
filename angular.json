@@ -2,7 +2,7 @@
   {
     "id": 1,
     "price": 0,
-    "popularity": 1,
+    "popularity": 101,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-angular-material-template/",
     "category": "Angular",
@@ -12,13 +12,28 @@
     "livePreview": "https://demos.adminmart.com/free/angular/modernize-angular-free/landingpage/index.html",
     "templateName": "Modernize Free Angular Material Template",
     "description": "Look no further than this Modernize Free Angular Admin Dashboard Template, a template that is attractive and tastefully designed with a number of extra features. Its modern style gives your next project a polished and appealing appearance. It comes with everything you need to build a fantastic online application. You can easily and rapidly construct web applications with this free angular admin template. It's easy to use, extremely flexible, and friendly to developers. Every developer's worst nightmare is having to start from scratch when their dream is to find a beautiful, feature-rich angular template like this for free. For more features, you can check out the Premium Version of it.",
-    "features": ["Angular 15+","Material Angular","1 Basic Dashboard","User Registration and Login Simplified","Code Splitting","Google Fonts","Easy Folder Structure","Organized Code Structure","The Hassle-Free Setup Process","5+ UI Components Pages","Optimizing Web Performance","1 Data-Driven Dashboard Design"],
-    "createdOn": "18-Apr-2023"
+    "features": [
+      "Angular 15+",
+      "Material Angular",
+      "1 Basic Dashboard",
+      "User Registration and Login Simplified",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-Free Setup Process",
+      "5+ UI Components Pages",
+      "Optimizing Web Performance",
+      "1 Data-Driven Dashboard Design"
+    ],
+    "createdOn": "18-Apr-2023",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   },
   {
     "id": 2,
     "price": 59,
-    "popularity": 1,
+    "popularity": 102,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-angular-material-dashboard/",
     "category": "Angular",
@@ -28,13 +43,29 @@
     "livePreview": "https://adminmart.com/product/modernize-angular-material-dashboard/#product-demo-section",
     "templateName": "Modernize Angular Material Dashboard",
     "description": "Do you require a Premium Angular Admin Dashboard Template that can be easily customized and is developer-friendly? Everything you require is in this Premium Version Modernize Angular Material Dashboard Template. To give you a distinctive yet eye-catching admin template, this angular-based template was created in accordance with best practices and industry standards.",
-    "features": ["Easy Folder Structure","Organized Code Structure","The Hassle-Free Setup Process","Material Angular","Angular 15+","2+ Stunning Dashboards","13+ Ready-to-Use Applications","Code Splitting","Google Fonts","RTL Ready","i18n Support","Angular Landing Page","Figma Design Files"],
-    "createdOn": "18-Apr-2023"
+    "features": [
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-Free Setup Process",
+      "Material Angular",
+      "Angular 15+",
+      "2+ Stunning Dashboards",
+      "13+ Ready-to-Use Applications",
+      "Code Splitting",
+      "Google Fonts",
+      "RTL Ready",
+      "i18n Support",
+      "Angular Landing Page",
+      "Figma Design Files"
+    ],
+    "createdOn": "18-Apr-2023",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   },
   {
     "id": 3,
     "price": 0,
-    "popularity": 1,
+    "popularity": 301,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-angular-admin-free/",
     "category": "Angular",
@@ -44,13 +75,24 @@
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/flexy-angular-free/landingpage/index.html",
     "templateName": "Flexy Material Angular Free",
     "description": "A free Flexible Angular Dashboard Template based on the Material Angular Framework is called Flexy Angular Lite. Its modular design makes it simple to customize, and it includes a wide range of reusable gorgeous UI elements. Because it is responsive by design, this Flexy Angular Admin Dashboard Template is compatible with all smartphone, desktop, and laptop screen sizes. It creates consistent web designs and improved user experiences by combining the fundamental Angular components with pre-established design patterns and re-styling plugins.",
-    "features": ["7 Page Templates","10 UI Components","10+ Integrated Plugins","Lifetime Free Updates","Few Ready to Use Widgets","3 Table Example","100+ Font Icon","1 or 2 Chart Options"],
-    "createdOn": "25-Feb-2022"
+    "features": [
+      "7 Page Templates",
+      "10 UI Components",
+      "10+ Integrated Plugins",
+      "Lifetime Free Updates",
+      "Few Ready to Use Widgets",
+      "3 Table Example",
+      "100+ Font Icon",
+      "1 or 2 Chart Options"
+    ],
+    "createdOn": "25-Feb-2022",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   },
   {
     "id": 4,
     "price": 49,
-    "popularity": 1,
+    "popularity": 302,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-material-angular-admin/",
     "category": "Angular",
@@ -60,13 +102,29 @@
     "livePreview": "https://www.wrappixel.com/templates/flexy-material-angular-admin/#demos",
     "templateName": "Flexy Material Angular Template",
     "description": "This Flexy Angular Admin Dashboard Template offers a smooth experience that is both appealing and thought-provoking. Some of the most well-known angular components that assist businesses in streamlining their monitoring systems were expertly used to create this particular Angular Material Dashboard. Some of the high-end industries, like the pharmaceutical industry, can use the robust Material UI Dashboard for pharma data analytics, predictive pharma analytics, health insurance dashboards, and medical admin dashboards. Flexy is a multipurpose template that can be used to create any type of admin panel for any industry. This dashboard WebApp template is very interesting since it draws inspiration from Google's Material Design, making it the most useful and trustworthy dashboard to use.",
-    "features": ["RTL Dashboard Version","4 Unique Demos","3+ Unique Dashboards","PSDs for Dashboard Pages","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Sidebar Themes","Dashboard Pages PSD","Data Tables","Widgets & UI Components","Application Designs","6 Color Skins"],
-    "createdOn": "14-Mar-2022"
+    "features": [
+      "RTL Dashboard Version",
+      "4 Unique Demos",
+      "3+ Unique Dashboards",
+      "PSDs for Dashboard Pages",
+      "3000+ Font Icons",
+      "Completely Responsive Pages",
+      "Charts & Tables",
+      "Dark & Light Sidebar Themes",
+      "Dashboard Pages PSD",
+      "Data Tables",
+      "Widgets & UI Components",
+      "Application Designs",
+      "6 Color Skins"
+    ],
+    "createdOn": "14-Mar-2022",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   },
   {
     "id": 5,
     "price": 0,
-    "popularity": 1,
+    "popularity": 303,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-angular-lite/",
     "category": "Angular",
@@ -76,13 +134,24 @@
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/material-angular-free/landingpage/index.html",
     "templateName": "MaterialPro Angular 14 Lite",
     "description": "This free Material Dashboard Template based on the Angular Framework is called MaterialPro Angular Lite. Its modular design makes it simple to customize, and it includes a wide range of reusable gorgeous UI elements. Because it is responsive by design, the MaterialPro Angular Admin Dashboard Template is compatible with all smartphone, desktop, and laptop screen sizes. To create consistent web designs and improved user interfaces, Free Material Pro Angular combines the key Angular components with pre-set design patterns and re-styling plugins.",
-    "features": ["7 Page Templates","10 UI Components","10+ Integrated Plugins","Lifetime Free Updates","Few Ready to Use Widgets","3 Table Example","100+ Font Icon","1 or 2 Chart Options"],
-    "createdOn": "04-Jan-2018"
+    "features": [
+      "7 Page Templates",
+      "10 UI Components",
+      "10+ Integrated Plugins",
+      "Lifetime Free Updates",
+      "Few Ready to Use Widgets",
+      "3 Table Example",
+      "100+ Font Icon",
+      "1 or 2 Chart Options"
+    ],
+    "createdOn": "04-Jan-2018",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   },
   {
     "id": 6,
     "price": 49,
-    "popularity": 1,
+    "popularity": 304,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-angular-dashboard/",
     "category": "Angular",
@@ -92,13 +161,30 @@
     "livePreview": "https://www.wrappixel.com/templates/materialpro-angular-dashboard/#demos",
     "templateName": "MaterialPro Angular 15 Admin",
     "description": "An Angular-15 CLI WebApp template called MaterialPro Angular 15 Admin uses Google's material design principles to produce a remarkably simple, ready-to-use user interface for your websites and applications. This Material Angular Admin Dashboard Template offers a smooth experience that is both appealing and thought-provoking. Some of the most well-known angular components that aid corporations in streamlining their monitoring systems were expertly used to create this particular Angular 15 Material Dashboard. Some of the high-end industries, like the pharmaceutical industry, can use the robust Material UI dashboard for pharma data analytics, predictive pharma analytics, health insurance dashboards, and medical admin dashboards. MaterialPro is a multipurpose template that can be used to create any type of admin panel for any industry.",
-    "features": ["RTL Dashboard Version","6 Unique Demos","2+ Unique Dashboards","PSDs & Adobe & Figma & XD for Dashboard Pages","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Sidebar Themes","Dashboard Pages PSD & Figma Files","Data Tables","Widgets & UI Components","Validation Forms","Application Designs","6 Color Skins"],
-    "createdOn": "03-Jan-2018"
+    "features": [
+      "RTL Dashboard Version",
+      "6 Unique Demos",
+      "2+ Unique Dashboards",
+      "PSDs & Adobe & Figma & XD for Dashboard Pages",
+      "3000+ Font Icons",
+      "Completely Responsive Pages",
+      "Charts & Tables",
+      "Dark & Light Sidebar Themes",
+      "Dashboard Pages PSD & Figma Files",
+      "Data Tables",
+      "Widgets & UI Components",
+      "Validation Forms",
+      "Application Designs",
+      "6 Color Skins"
+    ],
+    "createdOn": "03-Jan-2018",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   },
   {
     "id": 7,
     "price": 0,
-    "popularity": 1,
+    "popularity": 305,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-angular-lite/",
     "category": "Angular",
@@ -108,13 +194,24 @@
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/adminpro-angular-free/landingpage/index.html",
     "templateName": "AdminPro Angular 14 Lite",
     "description": "The efficient Angular Admin Dashboard Template AdminPro Angular Lite has been painstakingly built and is jam-packed with all the tools you need to build gorgeous, high-performance Admin Dashboards. It features plenty of white space, cool neutral tones, and a minimalist design ethos. One of the most potent, dynamic, and effective free Angular Themes available on our market is AdminPro Angular Lite. The angular theme's free edition includes fully responsive pages, basic table examples, 10+ UI Components, and more than seven-page templates. For more features, upgrade to the pro edition of AdminPro Angular before using it for personal or professional projects.",
-    "features": ["7 Page Templates","10 UI Components","10+ Integrated Plugins","Lifetime Free Updates","Few Ready to Use Widgets","3 Table Example","100+ Font Icon","1 or 2 Chart Options"],
-    "createdOn": "17-Jan-2018"
+    "features": [
+      "7 Page Templates",
+      "10 UI Components",
+      "10+ Integrated Plugins",
+      "Lifetime Free Updates",
+      "Few Ready to Use Widgets",
+      "3 Table Example",
+      "100+ Font Icon",
+      "1 or 2 Chart Options"
+    ],
+    "createdOn": "17-Jan-2018",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   },
   {
     "id": 8,
     "price": 49,
-    "popularity": 1,
+    "popularity": 306,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-angular-dashboard/",
     "category": "Angular",
@@ -124,7 +221,24 @@
     "livePreview": "https://www.wrappixel.com/templates/adminpro-angular-dashboard/#demos",
     "templateName": "AdminPro Angular 14 Admin",
     "description": "Consider this AdminPro Angular Admin Dashboard Template if user experience, flexibility, and customization are your top priorities. With its capabilities, the Premium Admin UI Dashboard is profitable and useful in a variety of settings, including Web Series Dashboard, Google Analytics Web Dashboard, Subscriber Admin Dashboard, and others. The components of this exquisitely designed Angular Admin Dashboard Template, which uses an improved Angular framework that is a Typescript framework, aid in the development of sophisticated WebApps. When further examined, this angular admin panel provides a variety of components, ready-to-use plugins, and a great deal more functionality to create a better environment for user experience. Additionally, you have access to a variety of color schemes, original demos, and page templates that were entirely created using the modular design concept.",
-    "features": ["RTL Dashboard Version","5 Unique Demos","3+ Unique Dashboards","6 Color Skins","3000+ Font Icons","Completely Responsive Pages","Charts & Tables","Dark & Light Sidebar Themes","Dashboard Pages PSD","Data Tables","Widgets & UI Components","Validation Forms","Application Designs","Easy Customization"],
-    "createdOn": "17-Jan-2018"
+    "features": [
+      "RTL Dashboard Version",
+      "5 Unique Demos",
+      "3+ Unique Dashboards",
+      "6 Color Skins",
+      "3000+ Font Icons",
+      "Completely Responsive Pages",
+      "Charts & Tables",
+      "Dark & Light Sidebar Themes",
+      "Dashboard Pages PSD",
+      "Data Tables",
+      "Widgets & UI Components",
+      "Validation Forms",
+      "Application Designs",
+      "Easy Customization"
+    ],
+    "createdOn": "17-Jan-2018",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   }
 ]
