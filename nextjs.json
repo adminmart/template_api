@@ -815,7 +815,7 @@
     "subtitle": "Headless Shopify starter powered by Next.js + Sanity.io",
     "livePreview": "https://hull.dev/",
     "templateName": "HULL",
-    "description": "",
+    "description": "Headless Shopify starter powered by Next.js + Sanity.io",
     "features": [],
     "createdOn": ""
   },
@@ -831,7 +831,7 @@
     "subtitle": "News site built with NextJS, Typescript and Prezly SDK",
     "livePreview": "https://theme-nextjs-bea-the-good-newsroom.vercel.app/",
     "templateName": "Prezly Bea Theme",
-    "description": "",
+    "description": "News site built with NextJS, Typescript and Prezly SDK",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -848,7 +848,7 @@
     "subtitle": "An open-source storefront in React.js with Next.js.",
     "livePreview": "https://demo.saleor.io/default-channel/en-US/",
     "templateName": "React Storefront",
-    "description": "",
+    "description": "An open-source storefront in React.js with Next.js.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -865,7 +865,7 @@
     "subtitle": "A simple blog site created with NextJs",
     "livePreview": "https://nextjs-blog-page.vercel.app/",
     "templateName": "Minimal Blog | NextJS",
-    "description": "",
+    "description": "A simple blog site created with NextJs",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -882,7 +882,7 @@
     "subtitle": "An Open Source Landingpage For VPN or Apps.",
     "livePreview": "https://next-landing-vpn.vercel.app/",
     "templateName": "Tailwind VPN Landingpage",
-    "description": "",
+    "description": "An Open Source Landingpage For VPN or Apps.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -899,7 +899,7 @@
     "subtitle": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
     "livePreview": "https://next-saas-starter-ashy.vercel.app/",
     "templateName": "Next SaaS Starter",
-    "description": "",
+    "description": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -916,7 +916,7 @@
     "subtitle": "An open-source starter-kit built with modern full-stack technologies.",
     "livePreview": "https://nextacular.co/",
     "templateName": "Nextacular",
-    "description": "",
+    "description": "An open-source starter-kit built with modern full-stack technologies.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -933,7 +933,7 @@
     "subtitle": "An open source portfolio site built on Nextjs and React.",
     "livePreview": "https://andrewnelson.net/",
     "templateName": "Andrew Nelson",
-    "description": "",
+    "description": "An open source portfolio site built on Nextjs and React.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -947,10 +947,10 @@
     "category": "NextJs",
     "imageAlt": "Enji Dev",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/enji-dev-ext.jpg",
-    "subtitle": "A monorepo for my personal website and projects, built with Turborepo + pnpm ",
+    "subtitle": "A monorepo for my personal website and projects, built with Turborepo + pnpm",
     "livePreview": "https://enji.dev/",
     "templateName": "Enji Dev",
-    "description": "",
+    "description": "A monorepo for my personal website and projects, built with Turborepo + pnpm.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -967,7 +967,7 @@
     "subtitle": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
     "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
     "templateName": "Notion",
-    "description": "",
+    "description": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -1066,7 +1066,7 @@
     "subtitle": "Bigspring is a web development company Nextjs template with Tailwind CSS.",
     "livePreview": "https://bigspring-light-nextjs.vercel.app/",
     "templateName": "Bigspring Light Nextjs",
-    "description": "",
+    "description": "Bigspring is a web development company Nextjs template with Tailwind CSS.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -1083,7 +1083,7 @@
     "subtitle": "Bookworm is a minimal NextJs Tailwind blog starter template.",
     "livePreview": "https://bookworm-light-nextjs.vercel.app/?ref=statichunt.com",
     "templateName": "Bookworm Light Nextjs",
-    "description": "",
+    "description": "Bookworm is a minimal NextJs Tailwind blog starter template.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -1100,7 +1100,7 @@
     "subtitle": "Software Developer Portfolio Template built with Next.js bootstrap.",
     "livePreview": "https://brendanglancy.software/?ref=statichunt.com",
     "templateName": "Brendan Glancy Nextjs",
-    "description": "",
+    "description": "Astroplate is a free starter template built with Astro and TailwindCSS.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -1117,7 +1117,7 @@
     "subtitle": "Astroplate is a free starter template built with Astro and TailwindCSS.",
     "livePreview": "https://astroplate.netlify.app/",
     "templateName": "Astroplate Free Starter Template",
-    "description": "",
+    "description": "Astroplate is a free starter template built with Astro and TailwindCSS.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -1134,7 +1134,7 @@
     "subtitle": "Cruip is a free React / Next.js landing page template for your next web project.",
     "livePreview": "https://github.com/cruip/open-react-template?ref=statichunt.com",
     "templateName": "Cruip Free Landing Page",
-    "description": "",
+    "description": "Cruip is a free React / Next.js landing page template for your next web project.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -1151,7 +1151,7 @@
     "subtitle": "A digital art marketplace built using Next.js, Stripe, and Cosmic.",
     "livePreview": "https://unft-marketplace.vercel.app/",
     "templateName": "Cosmic Free Art Website",
-    "description": "",
+    "description": "A digital art marketplace built using Next.js, Stripe, and Cosmic.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
