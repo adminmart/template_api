@@ -913,10 +913,10 @@
     "category": "NextJs",
     "imageAlt": "arjayosma-nextacular",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/arjayosma-nextacular-ext.jpg",
-    "subtitle": "An open-source starter-kit built with modern full-stack technologies.",
+    "subtitle": "An open-source starter kit built with modern full-stack technologies.",
     "livePreview": "https://nextacular.co/",
     "templateName": "Nextacular",
-    "description": "An open-source starter-kit built with modern full-stack technologies.",
+    "description": "An open-source starter kit built with modern full-stack technologies.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -950,7 +950,7 @@
     "subtitle": "A monorepo for my personal website and projects, built with Turborepo + pnpm",
     "livePreview": "https://enji.dev/",
     "templateName": "Enji Dev",
-    "description": "A monorepo for my personal website and projects, built with Turborepo + pnpm.",
+    "description": "A monorepo for my personal website and projects, built with Turborepo + pnpm",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -964,10 +964,10 @@
     "category": "NextJs",
     "imageAlt": "Notion",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/notion-ext.jpg",
-    "subtitle": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
+    "subtitle": "Deploy your own Notion-powered website in minutes with NextJs and Vercel.",
     "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
     "templateName": "Notion",
-    "description": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
+    "description": "Deploy your own Notion-powered website in minutes with NextJs and Vercel.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
@@ -1100,7 +1100,7 @@
     "subtitle": "Software Developer Portfolio Template built with Next.js bootstrap.",
     "livePreview": "https://brendanglancy.software/?ref=statichunt.com",
     "templateName": "Brendan Glancy Nextjs",
-    "description": "Astroplate is a free starter template built with Astro and TailwindCSS.",
+    "description": "Software Developer Portfolio Template built with Next.js bootstrap.",
     "features": [],
     "createdOn": "",
     "frameworkName": ""
