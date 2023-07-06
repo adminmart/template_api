@@ -1284,12 +1284,12 @@
     "price": 0,
     "popularity": 1018,
     "appType": "landingpage",
-    "details": "https://statichunt.com/themes/nextjs-developer-portfolio-starter",
+    "details": "https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code",
     "category": "NextJs",
     "imageAlt": "nextjs-developer-portfolio-starter",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-developer-portfolio-starter.jpg",
     "subtitle": "Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion.",
-    "livePreview": "https://statichunt.com/demo/nextjs-developer-portfolio-starter",
+    "livePreview": "https://minimal-nextjs-portfolio-website.vercel.app/",
     "templateName": "Developer Portfolio Starter",
     "description": "Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion.",
     "features": [
@@ -1302,53 +1302,17 @@
     "price": 0,
     "popularity": 1019,
     "appType": "landingpage",
-    "details": "https://statichunt.com/themes/nextjs-simple-light",
+    "details": "https://github.com/cruip/tailwind-landing-page-template",
     "category": "NextJs",
     "imageAlt": "simple-light-ext",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/simple-light-ext.jpg",
     "subtitle": "Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more.",
-    "livePreview": "https://statichunt.com/demo/nextjs-simple-light",
+    "livePreview": "https://preview.cruip.com/simple/",
     "templateName": "Simple Light",
     "description": "Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more.",
     "features": [
 
     ],
     "createdOn": "10-Oct-2020"
-  },
-  {
-    "id": 54,
-    "price": 0,
-    "popularity": 1020,
-    "appType": "landingpage",
-    "details": "https://startuplanding.redq.io/",
-    "category": "NextJs",
-    "imageAlt": "startuplanding",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/startuplanding.jpg",
-    "subtitle": "We’ve brought you a great collection of absolutely free landing pages built with React, Next JS & Gatsby JS.",
-    "livePreview": "https://startuplanding.redq.io/",
-    "templateName": "Startup Landing",
-    "description": "We’ve brought you a great collection of absolutely free landing pages built with React, Next JS & Gatsby JS.",
-    "features": [
-
-    ],
-    "createdOn": ""
-  },
-  {
-    "id": 55,
-    "price": 0,
-    "popularity": 1021,
-    "appType": "landingpage",
-    "details": "https://startup-agency-modern.vercel.app/",
-    "category": "NextJs",
-    "imageAlt": "startup-agency-modern.vercel.app",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/startup-agency-modern.vercel.app.jpg",
-    "subtitle": "Get your blood tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.",
-    "livePreview": "https://startup-agency-modern.vercel.app/",
-    "templateName": "Startup Landing",
-    "description": "Get your blood tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.",
-    "features": [
-
-    ],
-    "createdOn": ""
   }
 ]
