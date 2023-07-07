@@ -571,7 +571,14 @@
     "description": "Free Wrapkit Angular Blog Template is a carefully handcrafted, resourceful Angular template that comes packed with all the features you need to create stunning, high-performance angular blog, we also provide angular admin dashboards. It follows a Ng Bootstrap components and ample whitespace.",
     "features": [
       "Basic Homepage",
-      "Angular 16+"
+      "Angular 16+",
+      "Blog Lising",
+      "Blog Detail Page",
+      "About Page",
+      "Font Awesome Icons",
+      "Easy To Customize",
+      "SaSS Base CSS",
+      "Fully Responsive Pages"
     ],
     "createdOn": "19-Mar-2021",
     "frameworkName": "Ng Bootstrap",
@@ -591,7 +598,20 @@
     "templateName": "Wrapkit Angular Blog",
     "description": "WrapPixel's wrapkit Angular Blog is an Angular CLI WebApp template that based on ng-Bootstrap and creates a magically intuitive ready to use user interface for your website and applications.The seamless experience provided by Wrapkit Angular blog Template is appealing and thought-provoking. This particular Angular Blog is beautifully created using some of the most prominent angular components that help corporates to simplify their monitoring systems.",
     "features": [
-      
+      "Angular 16+",
+      "Blog Lising",
+      "Blog Detail",
+      "Login-Logout Facility",
+      "About Us Page",
+      "Contact Page",
+      "1 year Premium support",
+      "2000+ Font Icons",
+      "wt Authentication Added",
+      "12+ Ui Components Pages",
+      "Blog Add,Edit and Delete Facility",
+      "SaSS Base CSS",
+      "Easy to Customize",
+      "Fully Responsive Pages"
     ],
     "createdOn": "19-Apr-2021",
     "frameworkName": "Ng Bootstrap",
@@ -608,7 +628,7 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminwrap-angular-dashboard-y.jpg",
     "subtitle": "Premium Angular Admin Dashboard Template",
     "livePreview": "https://www.wrappixel.com/templates/adminwrap-angular/#demos",
-    "templateName": "AdminWrap Angular 16 Theme6",
+    "templateName": "AdminWrap Angular 16 Theme",
     "description": "WrapPixel has beautifully created a well-known admin template as AdminWrap Angular Theme. This premium react admin is the complete solution in proving the most stunning look for your WebApps. It is fully-customizable, responsive and has a minimalistic design approach. Being a strong Angular / CLI WebApp template to beautify your admin control panel with ready-to-use components, plugins, widgets, UI elements and lot more. Many businesses require constant monitoring over their sales, products or services used. The responsive UI material react-redux template is the perfect solution for paid media dashboard, digital metrics dashboard, digital reporting dashboard, real-time ad campaign analytics and various other places to help you get the most updated data. Above that, you also get access to components, UI elements, plugins and cumulative widgets with 1 Year updates for the template. Grab AdminWrap Angular 16 Now.",
     "features": [
       "RTL Dashboard Version",
