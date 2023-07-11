@@ -1314,5 +1314,187 @@
 
     ],
     "createdOn": "15-Oct-2020"
+  },
+  {
+    "id": 54,
+    "price": 0,
+    "popularity": 1020,
+    "appType": "landingpage",
+    "details": "https://github.com/zeon-studio/nextplate",
+    "category": "NextJs",
+    "imageAlt": "nextjs-nextplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-nextplate.jpg",
+    "subtitle": "Nextplate is a free starter template built with Nextjs, TailwindCSS & TypeScript, providing everything you need to jumpstart your Next project and save valuable time.",
+    "livePreview": "https://nextplate.netlify.app/",
+    "templateName": "Nextplate - Nextjs Boilerplate",
+    "description": "Nextplate is a free starter template built with Nextjs, TailwindCSS & TypeScript, providing everything you need to jumpstart your Next project and save valuable time.",
+    "features": [
+      "Multi-Authors",
+      "Similar Posts Suggestion",
+      "Search Functionality",
+      "Dark Mode",
+      "Tags & Categories",
+      "Netlify setting pre-configured",
+      "Support contact form",
+      "Fully responsive",
+      "Write and update content in Markdown / MDX",
+      "Disqus Comment",
+      "Syntax Highlighting"
+    ],
+    "createdOn": "18-May-2023"
+  },
+  {
+    "id": 55,
+    "price": 0,
+    "popularity": 1021,
+    "appType": "landingpage",
+    "details": "https://github.com/1hanzla100/developer-portfolio",
+    "category": "NextJs",
+    "imageAlt": "hanzla-tauqeer",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hanzla-tauqeer.jpg",
+    "subtitle": "Software Developer Portfolio Template built with Next.js and bootstrap.",
+    "livePreview": "https://developer-portfolio-1hanzla100.vercel.app/",
+    "templateName": "Developer Portfolio",
+    "description": "Software Developer Portfolio Template built with Next.js and bootstrap.",
+    "features": [
+      
+    ],
+    "createdOn": "19-Jan-2021"
+  },
+  {
+    "id": 56,
+    "price": 0,
+    "popularity": 1022,
+    "appType": "landingpage",
+    "details": "https://github.com/satnaing/next-bookstore",
+    "category": "NextJs",
+    "imageAlt": "nextbookstore",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextbookstore.jpg",
+    "subtitle": "An e-commerce project for an online bookstore developed using NextJS 13 and its experimental",
+    "livePreview": "https://nextbookstore.vercel.app/",
+    "templateName": "Bookstore",
+    "description": "An e-commerce project for an online bookstore developed using NextJS 13 and its experimental",
+    "features": [
+      
+    ],
+    "createdOn": "13-Nov-2022"
+  },
+  {
+    "id": 57,
+    "price": 0,
+    "popularity": 1023,
+    "appType": "landingpage",
+    "details": "https://github.com/satnaing/haru-fashion",
+    "category": "NextJs",
+    "imageAlt": "haru-fashion",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/haru-fashion.jpg",
+    "subtitle": "An e-commerce web application developed with Next.JS and TypeScript",
+    "livePreview": "https://haru-fashion.vercel.app/",
+    "templateName": "Haru Fashion",
+    "description": "An e-commerce web application developed with Next.JS and TypeScript",
+    "features": [
+      "Progressive Web App (PWA)",
+      "Full-text Search",
+      "Responsive Design",
+      "Wishlist",
+      "Add To Cart",
+      "Different Category Page",
+      "Authentication (Register/Login/Logout)",
+      "Pagination",
+      "Animation",
+      "i18n (English & Burmese)",
+      "Keyboard Accessible"
+    ],
+    "createdOn": "26-Apr-2021"
+  },
+  {
+    "id": 58,
+    "price": 0,
+    "popularity": 1024,
+    "appType": "landingpage",
+    "details": "https://github.com/onwidget/tailnext",
+    "category": "NextJs",
+    "imageAlt": "tailnext",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailnext.jpg",
+    "subtitle": "TailNext is Free template using Next.js 13 and Tailwind CSS with the new app directory.",
+    "livePreview": "https://tailnext.vercel.app/",
+    "templateName": "Tailnext",
+    "description": "TailNext is Free template using Next.js 13 and Tailwind CSS with the new app directory.",
+    "features": [
+      "Integration with Tailwind CSS supporting Dark mode.",
+      "Production-ready scores in Lighthouse and PageSpeed Insights reports.",
+      "Image optimization and Font optimization.",
+      "Fast and SEO friendly blog.",
+      "Image optimization and Font optimization.",
+      "Generation of project sitemap and robots.txt based on your routes."
+    ],
+    "createdOn": "04-Sep-2022"
+  },
+  {
+    "id": 59,
+    "price": 0,
+    "popularity": 1025,
+    "appType": "landingpage",
+    "details": "https://github.com/nextacular/nextacular",
+    "category": "NextJs",
+    "imageAlt": "nextacular-ext",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextacular-ext.jpg",
+    "subtitle": "An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern technologies such as Next JS, Tailwind, Prisma, and Stripe.",
+    "livePreview": "https://nextacular.co/",
+    "templateName": "Nextacular",
+    "description": "An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern technologies such as Next JS, Tailwind, Prisma, and Stripe.",
+    "features": [
+      "Authentication",
+      "Database Integration + Prisma (SQL/PostgreSQL)",
+      "Teams & Workspaces",
+      "Multi-tenancy Approach",
+      "Landing Page",
+      "Billing & Subscription",
+      "Simple Design Components & Mobile-ready",
+      "SEO Support",
+      "Developer Experience",
+      "Email Handling"
+    ],
+    "createdOn": "06-Jan-2022"
+  },
+  {
+    "id": 60,
+    "price": 0,
+    "popularity": 1026,
+    "appType": "landingpage",
+    "details": "https://github.com/web3templates/sandocs-template",
+    "category": "NextJs",
+    "imageAlt": "sandocs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sandocs.jpg",
+    "subtitle": "Sandocs Documentation Starter Website Template built with Next.js, TailwindCSS & Sanity CMS",
+    "livePreview": "https://sandocs.vercel.app/",
+    "templateName": "Sandocs",
+    "description": "Sandocs Documentation Starter Website Template built with Next.js, TailwindCSS & Sanity CMS",
+    "features": [
+      
+    ],
+    "createdOn": "18-Jul-2022"
+  },
+  {
+    "id": 61,
+    "price": 0,
+    "popularity": 1027,
+    "appType": "landingpage",
+    "details": "https://github.com/BuilderIO/nextjs-shopify",
+    "category": "NextJs",
+    "imageAlt": "headless-builders",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/headless-builders.jpg",
+    "subtitle": "The ultimate starter for headless Shopify stores",
+    "livePreview": "https://headless.builders/",
+    "templateName": "Shopify + Builder.io starter kit",
+    "description": "The ultimate starter for headless Shopify stores",
+    "features": [
+      "Ultra high performance",
+      "SEO optimized",
+      "Themable",
+      "Personalizable (internationalization, a/b testing, etc)",
+      "Builder.io Visual CMS integrated"
+    ],
+    "createdOn": "28-Jan-2021"
   }
 ]
