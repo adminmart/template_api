@@ -1495,5 +1495,154 @@
       "Builder.io Visual CMS integrated"
     ],
     "createdOn": "28-Jan-2021"
+  },
+  {
+    "id": 62,
+    "price": 0,
+    "popularity": 1028,
+    "appType": "landingpage",
+    "details": "https://github.com/steven-tey/precedent",
+    "category": "NextJs",
+    "imageAlt": "precedent",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/precedent.jpg",
+    "subtitle": "An opinionated collection of components, hooks, and utilities for your Next.js project.",
+    "livePreview": "https://precedent.dev/",
+    "templateName": "Precedent",
+    "description": "An opinionated collection of components, hooks, and utilities for your Next.js project.",
+    "features": [
+      
+    ],
+    "createdOn": "13-Jan-2023"
+  },
+  {
+    "id": 63,
+    "price": 0,
+    "popularity": 1029,
+    "appType": "landingpage",
+    "details": "https://github.com/ButterCMS/nextjs-starter-buttercms",
+    "category": "NextJs",
+    "imageAlt": "buttercms",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/buttercms.jpg",
+    "subtitle": "This Next.js starter project fully integrates with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality.",
+    "livePreview": "https://nextjs-starter-buttercms.vercel.app/",
+    "templateName": "Nextjs Starter Buttercms",
+    "description": "This Next.js starter project fully integrates with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality.",
+    "features": [
+      
+    ],
+    "createdOn": "11-Nov-2021"
+  },
+  {
+    "id": 64,
+    "price": 0,
+    "popularity": 1030,
+    "appType": "landingpage",
+    "details": "https://github.com/humberni/halley",
+    "category": "NextJs",
+    "imageAlt": "halley",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/halley.jpg",
+    "subtitle": "The Halley template is a Single Page Application (SPA) developed with Next.js, TypeScript, and Tailwind CSS.",
+    "livePreview": "https://halley.vercel.app/",
+    "templateName": "Halley",
+    "description": "The Halley template is a Single Page Application (SPA) developed with Next.js, TypeScript, and Tailwind CSS.",
+    "features": [
+      "Responsive design that adapts to different screen sizes.",
+      "Supports light and dark theme.",
+      "Fixed navigation menu at the top of the semi-transparent screen.",
+      "Main hero, with striking message and featured image.",
+      "Services section with icons and descriptions of the services offered.",
+      "Section of highlights of the service with a list of functionalities and images.",
+      "Price table with switch by month and year.",
+      "Folding menu of frequently asked questions.",
+      "Contact section with a contact form and links to social networks.",
+      "Prefooter call to action to confirm sale.",
+      "Footer with main links and social media links."
+    ],
+    "createdOn": "28-Oct-2022"
+  },
+  {
+    "id": 65,
+    "price": 0,
+    "popularity": 1031,
+    "appType": "landingpage",
+    "details": "https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter",
+    "category": "NextJs",
+    "imageAlt": "nextbase",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextbase.jpg",
+    "subtitle": "Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.js 13 app with Typescript, Supabase and Tailwind CSS.",
+    "livePreview": "https://usenextbase.com/",
+    "templateName": "Halley",
+    "description": "Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.js 13 app with Typescript, Supabase and Tailwind CSS.",
+    "features": [
+      "Next.js 13 with async components",
+      "Data fetching examples in React server and client components. Suspenseful data fetching with minimal loading screens.",
+      "React query setup configured",
+      "React Hot Toast component",
+      "Fully typed with Typescript. Includes automatic type generation for Supabase tables",
+      "Tailwindcss",
+      "Unit testing and integration testing setups built-in",
+      "Eslint, typescript, prettier, postcss configured for dev and test environments",
+      "Automatic sitemap generation",
+      "SEO metadata, JSON-LD and Open Graph tags with NEXT SEO",
+      "Semantic release with Automatic changelog generation",
+      "Prettier Code formatter",
+      "Minimal styling",
+      "Codebase which is easy to read and modify"
+    ],
+    "createdOn": "08-Feb-2023"
+  },
+  {
+    "id": 66,
+    "price": 0,
+    "popularity": 1032,
+    "appType": "landingpage",
+    "details": "https://github.com/kirill-zhirnov/boundless-marsfull-nextjs-ecommerce-template",
+    "category": "NextJs",
+    "imageAlt": "brand-shop",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/brand-shop.jpg",
+    "subtitle": "Ready to use Next.js (TypeScript) template to create high-performance e-commerce websites.",
+    "livePreview": "https://mars.demos.my-boundless.app/",
+    "templateName": "The Mars",
+    "description": "Ready to use Next.js (TypeScript) template to create high-performance e-commerce websites.",
+    "features": [
+      
+    ],
+    "createdOn": "24-Jun-2022"
+  },
+  {
+    "id": 67,
+    "price": 0,
+    "popularity": 1033,
+    "appType": "landingpage",
+    "details": "https://github.com/Cinnamon-Agency/template-nextjs",
+    "category": "NextJs",
+    "imageAlt": "cinnamon",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cinnamon.jpg",
+    "subtitle": "This is Cinnamon Agency starter template for NextJS projects shared for public access and usage.",
+    "livePreview": "https://cinnamon.agency/",
+    "templateName": "Cinnamon Agency",
+    "description": "This is Cinnamon Agency starter template for NextJS projects shared for public access and usage.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Aug-2022"
+  },
+  {
+    "id": 68,
+    "price": 0,
+    "popularity": 1034,
+    "appType": "landingpage",
+    "details": "https://github.com/cosmicjs/nextjs-restaurant-website-cms",
+    "category": "NextJs",
+    "imageAlt": "nextjs-restaurant",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-restaurant.jpg",
+    "subtitle": "A restaurant website template built with Next.js and Cosmic",
+    "livePreview": "https://nextjs-restaurant-website-cms.vercel.app/",
+    "templateName": "Nextjs Restaurant",
+    "description": "A restaurant website template built with Next.js and Cosmic",
+    "features": [
+      
+    ],
+    "createdOn": "22-Apr-2022"
   }
 ]
