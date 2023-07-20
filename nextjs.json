@@ -1320,7 +1320,7 @@
     "price": 0,
     "popularity": 1020,
     "appType": "landingpage",
-    "details": "https://github.com/zeon-studio/nextplate",
+    "details": "https://github.com/zeon-studio/nextplate/archive/refs/heads/main.zip",
     "category": "NextJs",
     "imageAlt": "nextjs-nextplate",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-nextplate.jpg",
