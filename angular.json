@@ -650,5 +650,93 @@
     "createdOn": "01-Mar-2018",
     "frameworkName": "Ng Bootstrap",
     "doFollow": true
+  },
+  {
+    "id": 22,
+    "price": 0,
+    "popularity": 320,
+    "appType": "web-template",
+    "details": "https://github.com/akveo/ngx-admin",
+    "category": "Angular",
+    "imageAlt": "ngx-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ngx-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://www.akveo.com/ngx-admin/pages/dashboard",
+    "templateName": "ngx-admin",
+    "description": "Customizable admin dashboard template based on Angular 10+",
+    "features": [
+      "Angular 13+ & Typescript",
+      "Bootstrap 4+ & SCSS",
+      "Responsive layout",
+      "RTL support",
+      "High resolution",
+      "Flexibly configurable themes with hot-reload (3 themes included)",
+      "Authentication module with multiple providers",
+      "40+ Angular Components",
+      "60+ Usage Examples"
+    ],
+    "createdOn": "",
+    "frameworkName": "Normalize Css",
+    "doFollow": true
+  },
+  {
+    "id": 23,
+    "price": 0,
+    "popularity": 321,
+    "appType": "web-template",
+    "details": "https://github.com/marmelab/ng-admin-demo",
+    "category": "Angular",
+    "imageAlt": "ng-admin-demo",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ng-admin-demo.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://marmelab.com/ng-admin-demo/#/dashboard",
+    "templateName": "ng-admin-demo",
+    "description": "Source of the ng-admin angular.js demo, using a dummy REST service powered by FakeRest",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Ng Admin",
+    "doFollow": true
+  },
+  {
+    "id": 24,
+    "price": 0,
+    "popularity": 322,
+    "appType": "web-template",
+    "details": "https://github.com/BKnds/ng-pi-admin",
+    "category": "Angular",
+    "imageAlt": "ng-pi-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ng-pi-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "http://treesflower.com/dist/pages/index",
+    "templateName": "ng-pi-admin",
+    "description": "Angular admin",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Normalize Css",
+    "doFollow": true
+  },
+  {
+    "id": 25,
+    "price": 0,
+    "popularity": 323,
+    "appType": "web-template",
+    "details": "https://github.com/codetok/cdk-admin",
+    "category": "Angular",
+    "imageAlt": "cdk-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cdk-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://cdk-admin.web.app/auth/dashboard",
+    "templateName": "cdk-admin",
+    "description": "Angular 6 admin panel using angular material & angular flex.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Material Angular",
+    "doFollow": true
   }
 ]
