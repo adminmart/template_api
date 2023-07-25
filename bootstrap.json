@@ -649,101 +649,6 @@
     "id": 23,
     "price": 0,
     "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://github.com/themesberg/volt-bootstrap-5-dashboard/archive/refs/heads/master.zip",
-    "category": "Bootstrap",
-    "imageAlt": "volt",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/volt.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demo.themesberg.com/volt/pages/dashboard/dashboard.html",
-    "templateName": "Volt Bootstrap Admin Lite",
-    "description": "Free and open source Bootstrap 5 Admin Dashboard Template with vanilla Javascript",
-    "features": [
-      
-    ],
-    "createdOn": ""
-  },
-  {
-    "id": 24,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://github.com/adminkit/adminkit/archive/refs/heads/dev.zip",
-    "category": "Bootstrap",
-    "imageAlt": "adminkit",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/adminkit.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demo.adminkit.io/",
-    "templateName": "Adminkit Bootstrap Admin Lite",
-    "description": "AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5",
-    "features": [
-      "Customizable",
-      "Fully Responsive",
-      "Cross-Browser",
-      "Clean Code",
-      "No jQuery",
-      "Regular Updates"
-    ],
-    "createdOn": ""
-  },
-  {
-    "id": 25,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://github.com/zuramai/mazer/archive/refs/heads/main.zip",
-    "category": "Bootstrap",
-    "imageAlt": "mazer",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mazer.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://zuramai.github.io/mazer/demo/index.html",
-    "templateName": "Mazer Bootstrap Admin Lite",
-    "description": "Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page",
-    "features": [
-      
-    ],
-    "createdOn": ""
-  },
-  {
-    "id": 26,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://github.com/BootstrapDash/RoyalUI-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
-    "category": "Bootstrap",
-    "imageAlt": "royalui-free",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/royalui-free.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://www.bootstrapdash.com/demo/royalui-free/template/index.html",
-    "templateName": "RoyalUI Bootstrap Admin Lite",
-    "description": "Free Bootstrap 4 Admin Template",
-    "features": [
-      
-    ],
-    "createdOn": ""
-  },
-  {
-    "id": 27,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://github.com/BootstrapDash/star-admin2-free-admin-template/archive/refs/heads/main.zip",
-    "category": "Bootstrap",
-    "imageAlt": "star-admin2-free",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/star-admin2-free.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://www.bootstrapdash.com/demo/star-admin2-free/template/",
-    "templateName": "StarAdmin Bootstrap Admin Lite",
-    "description": "Star-Admin-2-Free-Bootstrap-Admin-Template",
-    "features": [
-      
-    ],
-    "createdOn": ""
-  },
-  {
-    "id": 28,
-    "price": 0,
-    "popularity": 1,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/sasscandy-free-bootstrap-template/",
     "category": "Bootstrap",
@@ -764,7 +669,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 29,
+    "id": 24,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -787,7 +692,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 30,
+    "id": 25,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -809,5 +714,100 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "18-Mar-2023"
+  },
+  {
+    "id": 26,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/themesberg/volt-bootstrap-5-dashboard/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "volt",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/volt.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://demo.themesberg.com/volt/pages/dashboard/dashboard.html",
+    "templateName": "Volt Bootstrap Admin Lite",
+    "description": "Free and open source Bootstrap 5 Admin Dashboard Template with vanilla Javascript",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 27,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/adminkit/adminkit/archive/refs/heads/dev.zip",
+    "category": "Bootstrap",
+    "imageAlt": "adminkit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/adminkit.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://demo.adminkit.io/",
+    "templateName": "Adminkit Bootstrap Admin Lite",
+    "description": "AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5",
+    "features": [
+      "Customizable",
+      "Fully Responsive",
+      "Cross-Browser",
+      "Clean Code",
+      "No jQuery",
+      "Regular Updates"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 28,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/zuramai/mazer/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "mazer",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mazer.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://zuramai.github.io/mazer/demo/index.html",
+    "templateName": "Mazer Bootstrap Admin Lite",
+    "description": "Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 29,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/RoyalUI-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "royalui-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/royalui-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/royalui-free/template/index.html",
+    "templateName": "RoyalUI Bootstrap Admin Lite",
+    "description": "Free Bootstrap 4 Admin Template",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 30,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/star-admin2-free-admin-template/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "star-admin2-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/star-admin2-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/star-admin2-free/template/",
+    "templateName": "StarAdmin Bootstrap Admin Lite",
+    "description": "Star-Admin-2-Free-Bootstrap-Admin-Template",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
