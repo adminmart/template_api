@@ -738,5 +738,48 @@
     "createdOn": "",
     "frameworkName": "Material Angular",
     "doFollow": true
+  },
+  {
+    "id": 26,
+    "price": 0,
+    "popularity": 324,
+    "appType": "web-template",
+    "details": "https://github.com/BootstrapDash/PurpleAdmin-Free-Angular-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "purple-angular-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/purple-angular-free.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/purple-angular-free/preview/dashboard",
+    "templateName": "PurpleAdmin Free Angular Admin Template",
+    "description": "Purple Admin Angular Admin is a free admin template based on Bootstrap 4 and Angular",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Ng Bootstrap",
+    "doFollow": true
+  },
+  {
+    "id": 26,
+    "price": 0,
+    "popularity": 324,
+    "appType": "web-template",
+    "details": "https://github.com/BootstrapDash/corona-angular-free-admin-template/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "corona-angular-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/corona-angular-free.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://bootstrapdash.com/demo/corona-angular-free/preview/demo_1/dashboard",
+    "templateName": "corona angular free admin template",
+    "description": "Corona Angular Free is a free admin dashboard template from BootstrapDash. This template comes with an MIT license, which means you can use it on any project, for free.",
+    "features": [
+      "Angular 11+ & Typescript",
+      "Bootstrap 4+ & SCSS",
+      "ng-bootstrap",
+      "Responsive layout"
+    ],
+    "createdOn": "",
+    "frameworkName": "Ng Bootstrap",
+    "doFollow": true
   }
 ]

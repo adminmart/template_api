@@ -739,5 +739,75 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 28,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://adminmart.com/product/sasscandy-free-bootstrap-template/",
+    "category": "Bootstrap",
+    "imageAlt": "saas-candy-bootstrap5-free-laning-page",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/saas-candy-bootstrap5-free-laning-page.png",
+    "subtitle": "Free & Open-Source Bootstrap landingpage Template",
+    "livePreview": "https://demos.adminmart.com/free/bootstrap/sasscandy-bootstrap-lite/main/html/index.html",
+    "templateName": "SassCandy Free Bootstrap Template",
+    "description": "Look no further than SassCandy Bootstrap web template, a free bootstrap template with several additional features that is eye-catching and elegantly designed. With its sleek design, SassCandy Bootstrap Template gives your web project a professional and engaging look. It has everything you need to create an amazing web template.",
+    "features": [
+      "Bootstrap 5",
+      "Included Splendidly executed Landing page",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "18-Mar-2023"
+  },
+  {
+    "id": 29,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://adminmart.com/product/creato-free-bootstrap-template/",
+    "category": "Bootstrap",
+    "imageAlt": "creato-business-bootstrap-free-landing-page-min",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/creato-business-bootstrap-free-landing-page-min.png",
+    "subtitle": "Free & Open-Source Bootstrap landingpage Template",
+    "livePreview": "https://demos.adminmart.com/free/bootstrap/creato-bootstrap-lite/main/html/index.html",
+    "templateName": "Creato Free Bootstrap Template",
+    "description": "Look no further than Coint Bootstrap web template, a free bootstrap template with several additional features that is eye-catching and elegantly designed. With its sleek design, Coint Bootstrap Template gives your web project a professional and engaging look. It has everything you need to create an amazing web template.",
+    "features": [
+      "Bootstrap 5",
+      "Included Splendidly executed Landing page",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "18-Mar-2023"
+  },
+  {
+    "id": 30,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://adminmart.com/product/coint-free-bootstrap-template/",
+    "category": "Bootstrap",
+    "imageAlt": "coint-free-crpyt-currency-bootstrap-landing-page",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/coint-free-crpyt-currency-bootstrap-landing-page.png",
+    "subtitle": "Free & Open-Source Bootstrap landingpage Template",
+    "livePreview": "https://demos.adminmart.com/free/bootstrap/creato-bootstrap-lite/main/html/index.html",
+    "templateName": "Creato Free Bootstrap Template",
+    "description": "Look no further than Creato  Bootstrap web template, a free bootstrap template with several additional features that is eye-catching and elegantly designed. With its sleek design, Creato Bootstrap Template gives your web project a professional and engaging look. It has everything you need to create an amazing web template.",
+    "features": [
+      "Bootstrap 5",
+      "Included Impressively styled",
+      "Landing page",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "18-Mar-2023"
   }
 ]
