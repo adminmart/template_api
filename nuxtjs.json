@@ -667,5 +667,95 @@
       
     ],
     "createdOn": "19 Jan 2022"
+  },
+  {
+    "id": 25,
+    "price": 0,
+    "popularity": 1004,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "star-admin-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/star-admin-vue.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/star-admin-vue/preview/#/dashboard",
+    "templateName": "StarAdmin Free Vue Admin Template",
+    "description": "Discover the seamless blend of cutting-edge technology with Star Admin Vue Admin - a dynamic and complimentary admin template. Merging the power of Bootstrap 4 and Vue.js, this template offers an unparalleled user experience at no cost.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 26,
+    "price": 0,
+    "popularity": 1005,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/corona-vue-free-admin-template/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "corona-vue-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/corona-vue-free.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://bootstrapdash.com/demo/corona-vue-free/preview/demo_1/",
+    "templateName": "Corona vue free admin template",
+    "description": "Experience the power of cutting-edge design with Corona Vue, a remarkable free admin template that takes web development to the next level. With a sleek and modern interface, Corona Vue provides an unparalleled user experience for managing and monitoring your applications. Unlock a world of possibilities with this feature-rich template that is both easy to use and fully customizable.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 27,
+    "price": 0,
+    "popularity": 1006,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/connect-plus-vue-free-admin-template/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "connect-plus-free-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/connect-plus-free-vue.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://bootstrapdash.com/demo/connect-plus-free-vue/preview/demo_1/",
+    "templateName": "Connect plus vue free admin template",
+    "description": "Welcome to Connect Plus Vue, the ultimate free admin template that redefines web development. Seamlessly combining modern aesthetics with powerful functionalities, Connect Plus Vue offers an exceptional user experience for managing your projects. Empower your team with an admin dashboard that's feature-packed, easy to navigate, and fully customizable, making it the go-to solution for optimizing your web applications.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 28,
+    "price": 0,
+    "popularity": 1007,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/purple-free-vue-admin-template/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "purple-free-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/purple-free-vue.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/purple-free-vue/preview/demo_1/",
+    "templateName": "Purple free vue admin template",
+    "description": "Elevate your admin experience with Purple Free Vue, the cutting-edge and dynamic admin template that comes completely free of charge. Designed to streamline your workflow and enhance user management, this template boasts a stunning array of features and an intuitive interface, making it the ultimate choice for your next project. Say goodbye to tedious admin tasks and embrace a seamless and efficient way to manage your data and applications.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 29,
+    "price": 0,
+    "popularity": 1008,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/stellar-admin-vue-free/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "stellar-vue-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/stellar-vue-free.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/",
+    "templateName": "Stellar admin vue free",
+    "description": "Unlock the potential of your web application with Stellar Vue, an avant-garde free admin template designed to elevate your user experience. With a sleek and modern interface, Stellar Vue offers an array of powerful features that streamline administrative tasks and enhance productivity. Crafted with the latest web technologies, this template is not just visually stunning but also delivers seamless performance across various devices.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]

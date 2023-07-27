@@ -1645,5 +1645,95 @@
       
     ],
     "createdOn": "22-Apr-2022"
+  },
+  {
+    "id": 69,
+    "price": 0,
+    "popularity": 1035,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/StarAdmin-Free-React-Admin-Template/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "star-admin-react-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/star-admin-react-free.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/star-admin-free/react/template/demo_1/preview/dashboard",
+    "templateName": "StarAdmin Free React Admin Template",
+    "description": "Unlock the potential of your web applications with our highly anticipated React version of Star Admin. Seamlessly integrated with the renowned features and design elements of Star Admin, this free React template offers a remarkable user interface and exceptional user experience. Empower your development process with a powerful, flexible, and customizable solution, tailored to meet the needs of modern web applications.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 70,
+    "price": 0,
+    "popularity": 1036,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/corona-react-free-admin-template/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "corona-react-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/corona-react-free.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/corona-react-free/template/demo_1/preview/dashboard",
+    "templateName": "Corona react free admin template",
+    "description": "Introducing Corona React - Empowering Your Admin Experience: Step into a new era of admin templates with Corona React, the ultimate solution to streamline your administrative tasks. Designed with a focus on user-friendliness and functionality, Corona React offers a breath of fresh air for managing your projects efficiently.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 71,
+    "price": 0,
+    "popularity": 1037,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/connect-plus-react-free-admin-template/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "connect-plus-react-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/connect-plus-react-free.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://bootstrapdash.com/demo/connect-plus-react-free/template/demo_1/preview/dashboard",
+    "templateName": "Connect Plus React Free Admin Template",
+    "description": "Elevate your web application's user interface with Connect Plus React, a cutting-edge and versatile admin template available to you completely free! With its modern design and seamless integration of React components, this template provides a powerful foundation for building intuitive and dynamic admin dashboards. Unlock the true potential of your project and streamline your development process with Connect Plus React Free Admin Template",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 72,
+    "price": 0,
+    "popularity": 1038,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/Azia-Admin-React/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "azia-react-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/azia-react-free.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/azia-react-free/template/preview/dashboard",
+    "templateName": "Azia admin react",
+    "description": "Experience the ultimate freedom with our cutting-edge React.js Admin template. Unlock a world of possibilities as you take charge of your web applications like never before. Our template offers unrivaled flexibility, empowering developers to craft stunning, responsive, and feature-rich admin interfaces with ease.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 73,
+    "price": 0,
+    "popularity": 1039,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/Stellar-React-Free-Admin-Template/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "tellar-react-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tellar-react-free.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/stellar-react-free/template/demo_1/preview/dashboard",
+    "templateName": "Stellar React Free Admin Template",
+    "description": "Unleash the power of React with our cutting-edge Admin Template! Designed for seamless integration and effortless customization, our Free React Admin Template empowers developers to create stunning, responsive dashboards in no time. Embrace a modern user interface, packed with intuitive features and advanced components, ensuring your application stands out from the crowd.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
