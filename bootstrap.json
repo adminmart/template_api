@@ -702,7 +702,7 @@
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/coint-free-crpyt-currency-bootstrap-landing-page.png",
     "subtitle": "Free & Open-Source Bootstrap landingpage Template",
     "livePreview": "https://demos.adminmart.com/free/bootstrap/creato-bootstrap-lite/main/html/index.html",
-    "templateName": "Creato Free Bootstrap Template",
+    "templateName": "Coint Free Bootstrap Template",
     "description": "Look no further than Creato  Bootstrap web template, a free bootstrap template with several additional features that is eye-catching and elegantly designed. With its sleek design, Creato Bootstrap Template gives your web project a professional and engaging look. It has everything you need to create an amazing web template.",
     "features": [
       "Bootstrap 5",
@@ -805,6 +805,114 @@
     "livePreview": "https://www.bootstrapdash.com/demo/star-admin2-free/template/",
     "templateName": "StarAdmin Bootstrap Admin Lite",
     "description": "Introducing Star-Admin-2: Your Ultimate Free Bootstrap Admin Template Discover the power of seamless administration with Star-Admin-2, a cutting-edge free Bootstrap Admin Template that empowers you to take full control of your web applications. Packed with a stunning array of features and a sleek, modern design, Star-Admin-2 streamlines your workflow, allowing you to focus on what truly matters - building exceptional user experiences.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 31,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/ConnectPlusAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "connect-plus-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/connect-plus-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "http://www.bootstrapdash.com/demo/connect-plus-free/jquery/template/index.html",
+    "templateName": "ConnectPlusAdmin Free Bootstrap Admin Template",
+    "description": "Unlock the true potential of your web applications with ConnectPlusAdmin, the ultimate free Bootstrap Admin Template. Seamlessly designed and meticulously crafted, ConnectPlusAdmin empowers developers and designers alike to create stunning and highly functional admin dashboards. Packed with an array of customizable components and a user-friendly interface, this template is your gateway to efficient and intuitive admin panel development.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 32,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/Kapella-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "kapella-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/kapella-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/kapella-free/template/index.html",
+    "templateName": "Kapella Free Bootstrap Admin Template",
+    "description": "Experience seamless navigation with our cutting-edge Dashboard template, complete with a sleek Horizontal menu powered by the latest Bootstrap 4 framework. Effortlessly manage your data and access key insights with a user-friendly interface that enhances productivity and streamlines your workflow.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 33,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "corona-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/corona-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html",
+    "templateName": "Corona free dark bootstrap admin template",
+    "description": "Introducing DarkAdminX, the cutting-edge Bootstrap admin template designed to empower your dashboard with a sleek and modern appearance. Free from any COVID-19 related jargon, DarkAdminX delivers a clean and professional interface for your web application. Stay up-to-date with the latest design trends and maximize your productivity with this corona-free admin template.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 34,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/MajesticAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "majesticadmin-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/majesticadmin-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/majestic-free/template/index.html",
+    "templateName": "MajesticAdmin Free Bootstrap Admin Template",
+    "description": "Say goodbye to mundane admin interfaces and say hello to MajesticAdmin, the cutting-edge free Bootstrap admin template. Immerse yourself in a world of innovation, where striking design meets seamless functionality. Tailored to elevate your admin experience, MajesticAdmin is the go-to solution for modern admins looking to revolutionize their workflow.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 35,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/PlusAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "plus-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/plus-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/plus-free/template/demo_1/index.html",
+    "templateName": "PlusAdmin Free Bootstrap Admin Template",
+    "description": "Enhance your administrative capabilities with PlusAdmin, the go-to Bootstrap Admin Template designed to boost efficiency and simplify complex tasks. Armed with a plethora of pre-built elements and a user-friendly interface, PlusAdmin makes managing your applications and data a breeze. Experience the perfect blend of performance and aesthetics, making it an indispensable tool for any web development project. Embrace the future of administration with PlusAdmin today.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 36,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "purple-admin-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/purple-admin-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "http://www.bootstrapdash.com/demo/purple-admin-free/",
+    "templateName": "PurpleAdmin Free Admin Template",
+    "description": "Step into a new era of admin panel management with PurpleAdmin, the exceptional free template that exceeds all expectations. Designed with a focus on usability and aesthetics, this admin template stands out from the crowd, making your web application management an absolute pleasure. Equipped with an array of practical features and a mesmerizing color scheme, PurpleAdmin empowers you to create and manage outstanding applications without breaking a sweat.",
     "features": [
       
     ],
