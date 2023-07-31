@@ -917,5 +917,95 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 37,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/SpicaAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "spica-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/spica-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "http://www.bootstrapdash.com/demo/spica-free/template/index.html",
+    "templateName": "SpicaAdmin Free Bootstrap Admin Template",
+    "description": "Customizable to Your Needs: SpicaAdmin Free Bootstrap Admin Template Personalize your admin experience with SpicaAdmin's exceptional customization options. This free Bootstrap Admin Template empowers you to tailor your dashboard to your exact requirements, ensuring a unique and tailored administrative interface for your specific use case.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 38,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/skydash-free-bootstrap-admin-template/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "skydash-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/skydash-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://bootstrapdash.com/demo/skydash-free/template/",
+    "templateName": "Skydas Free Bootstrap Admin Template",
+    "description": "Unleash Your Creativity with Skydas: A Free Bootstrap Admin Template Harness the creative freedom you deserve with Skydas, an innovative Free Bootstrap Admin Template engineered to inspire your web development journey. Packed with customizable elements and a polished user interface, Skydas empowers you to design captivating admin interfaces without compromising on performance.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 39,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/futureui-free-admin-bootstrap-template/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "futureui-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/futureui-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/futureui-free/template/",
+    "templateName": "FutureUI Free Bootstrap Admin Template",
+    "description": "Discover the unrivaled potential of FutureUI, the ultimate free Bootstrap Admin Template tailored to enhance your development experience. Embrace a user interface that reflects the future of design trends, where simplicity meets sophistication. Our template empowers you to effortlessly create dynamic, responsive admin panels with unrivaled ease. Get ready to unlock a world of possibilities and take your projects to the next level with FutureUI.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 40,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/Breeze-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "breeze-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/breeze-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/breeze-free/template/index.html",
+    "templateName": "Breeze Free Bootstrap Admin Template",
+    "description": "Empower your projects with the gentle breeze of innovation using Breeze Free Bootstrap Admin Template. Armed with a dynamic array of pre-built elements and widgets, Breeze empowers you to create bespoke admin dashboards that align perfectly with your objectives. Unlock the true potential of your applications, reaching new levels of success in the digital landscape.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 41,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/Regal-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "regal-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/regal-free.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://www.bootstrapdash.com/demo/regal-free/template/index.html",
+    "templateName": "Regal Free Bootstrap Admin Template",
+    "description": "Introducing the Majestic Free Bootstrap Admin Template - Experience a regal touch in your web applications with our breathtaking Majestic Admin Template. Designed to empower developers and streamline administrative tasks, this free template boasts a splendid array of features and a stunning, elegant interface. Unleash the true potential of your project with the majestic beauty of our Bootstrap Admin Template.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
