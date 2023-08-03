@@ -2064,5 +2064,59 @@
       
     ],
     "createdOn": "03-Aug-2021"
+  },
+  {
+    "id": 90,
+    "price": 0,
+    "popularity": 1054,
+    "appType": "landingpage",
+    "details": "https://github.com/saas-js/saas-ui-nextjs-landing-page/archive/refs/heads/next.zip",
+    "category": "NextJs",
+    "imageAlt": "saas-ui-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/saas-ui-nextjs.jpg",
+    "subtitle": "A free Next.js landing page template.",
+    "livePreview": "https://saas-ui-nextjs-landing-page.netlify.app/",
+    "templateName": "Saas UI - Next.js",
+    "description": "Next.js for SaaS UI: Your Gateway to Success Welcome to SaaS UI - Next.js, Redefining User Interface Standards Seamless Integration, Superior Experience: Unveiling Next.js for SaaS Craft a Beautiful SaaS Interface: Introducing Our Next.js Solution",
+    "features": [
+      "Feature blocks",
+      "Testimonials",
+      "Pricing tables",
+      "Log in and Sign up pages",
+      "FAQ"
+    ],
+    "createdOn": "07-Jul-2022"
+  },
+  {
+    "id": 91,
+    "price": 0,
+    "popularity": 1055,
+    "appType": "landingpage",
+    "details": "https://github.com/shadcn-ui/taxonomy/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "taxonomy",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/taxonomy.jpg",
+    "subtitle": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "livePreview": "https://tx.shadcn.com/",
+    "templateName": "Taxonomy",
+    "description": "Manage Your Data with Ease: Introducing the Taxonomy Next.js Admin Template Welcome to the Future of Data Management: Next.js Powered Admin Solution Streamline Your Admin Tasks: Unveiling the Power of Taxonomy Template Your Admin Panel, Simplified: Introducing the Versatile Next.js Solution",
+    "features": [
+      "New /app dir,",
+      "Routing, Layouts, Nested Layouts and Layout Groups",
+      "Data Fetching, Caching and Mutation",
+      "Loading UI",
+      "Server and Client Components",
+      "API Routes and Middlewares,",
+      "Authentication using NextAuth.js",
+      "ORM using Prisma",
+      "Database on PlanetScale",
+      "UI Components built using Radix UI",
+      "Documentation and blog using MDX and Contentlayer",
+      "Subscriptions using Stripe",
+      "Styled using Tailwind CSS",
+      "Validations using Zod",
+      "Written in TypeScript"
+    ],
+    "createdOn": "18-Oct-2022"
   }
 ]
