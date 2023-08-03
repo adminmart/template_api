@@ -742,6 +742,60 @@
   {
     "id": 26,
     "price": 0,
+    "popularity": 315,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/materialpro-free-nextjs-admin-template/",
+    "category": "NextJs",
+    "imageAlt": "materialpro-nextjs-free-2",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2023/08/materialpro-nextjs-free-2.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/materialpro-nextjs-free/landingpage/index.html",
+    "templateName": "MaterialPro Free NextJs Admin Template",
+    "description": "Introducing MaterialPro Free Next Js Template, a cutting-edge web development solution built upon the widely acclaimed Material-UI framework. This free version boasts an elegant grid design, providing users with the flexibility to effortlessly customize the web app's appearance to their liking. Meticulously handcrafted with a minimalist approach, this admin template adopts a modular and modern design paradigm.",
+    "features": [
+      "1 Dashboard",
+      "7+ UI Elements",
+      "5+ Material Ui(MUI) version"
+    ],
+    "createdOn": "02-Aug-2023",
+    "frameworkName": ""
+  },
+  {
+    "id": 27,
+    "price": 49,
+    "popularity": 316,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/materialpro-nextjs-admin-dashboard-app-directory/",
+    "category": "NextJs",
+    "imageAlt": "materialpro-nextjs",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2023/07/materialpro-nextjs.jpg",
+    "subtitle": "Premium NextJs Admin Dashboard Template",
+    "livePreview": "https://www.wrappixel.com/templates/materialpro-nextjs-admin-dashboard-app-directory/#demos",
+    "templateName": "MaterialPro NextJs Admin Dashboard",
+    "description": "Discover the remarkable potential of MaterialPro, the outstanding NextJs Admin Dashboard Template that is currently creating waves in the industry. By combining the power of Next.js and Redux, this template transforms your WebApps into mesmerizing experiences. With a focus on flexibility and user experience, it has quickly become a highly sought-after admin template. This premium Next.js admin template offers a lucrative opportunity to elevate your projects with its fully customized design and essential NextJs framework components.",
+    "features": [
+      "NextJs 13.4 + & Material Ui",
+      "RTL Dashboard version",
+      "5 unique demos",
+      "Figma Files for Many Pages",
+      "6+ unique dashboards",
+      "3400+ Font icons",
+      "Completely responsive pages",
+      "Charts & tables",
+      "Dark and light sidebar themes",
+      "React redux toolkit",
+      "Axios based apps to make api call",
+      "Widgets and UI components",
+      "Validation forms",
+      "Application Designs",
+      "6 Color Skins"
+    ],
+    "createdOn": "21-Jul-2023",
+    "frameworkName": ""
+  },
+  {
+    "id": 28,
+    "price": 0,
     "popularity": 401,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-nextjs-admin-template/",
@@ -769,7 +823,7 @@
     "frameworkName": ""
   },
   {
-    "id": 27,
+    "id": 29,
     "price": 59,
     "popularity": 402,
     "appType": "admin-template",
@@ -804,7 +858,7 @@
     "frameworkName": ""
   },
   {
-    "id": 28,
+    "id": 30,
     "price": 0,
     "popularity": 1001,
     "appType": "website",
@@ -820,7 +874,7 @@
     "createdOn": ""
   },
   {
-    "id": 29,
+    "id": 31,
     "price": 0,
     "popularity": 1002,
     "appType": "website",
@@ -837,7 +891,7 @@
     "frameworkName": ""
   },
   {
-    "id": 30,
+    "id": 32,
     "price": 0,
     "popularity": 1003,
     "appType": "website",
@@ -854,7 +908,7 @@
     "frameworkName": ""
   },
   {
-    "id": 31,
+    "id": 33,
     "price": 0,
     "popularity": 1004,
     "appType": "website",
@@ -871,7 +925,7 @@
     "frameworkName": ""
   },
   {
-    "id": 32,
+    "id": 34,
     "price": 0,
     "popularity": 1005,
     "appType": "landingpage",
@@ -888,7 +942,7 @@
     "frameworkName": ""
   },
   {
-    "id": 33,
+    "id": 35,
     "price": 0,
     "popularity": 1006,
     "appType": "landingpage",
@@ -905,7 +959,7 @@
     "frameworkName": ""
   },
   {
-    "id": 34,
+    "id": 36,
     "price": 0,
     "popularity": 1007,
     "appType": "landingpage",
@@ -922,7 +976,7 @@
     "frameworkName": ""
   },
   {
-    "id": 35,
+    "id": 37,
     "price": 0,
     "popularity": 1008,
     "appType": "website",
@@ -939,7 +993,7 @@
     "frameworkName": ""
   },
   {
-    "id": 36,
+    "id": 38,
     "price": 0,
     "popularity": 1009,
     "appType": "website",
@@ -956,7 +1010,7 @@
     "frameworkName": ""
   },
   {
-    "id": 37,
+    "id": 39,
     "price": 0,
     "popularity": 1010,
     "appType": "website",
@@ -973,7 +1027,7 @@
     "frameworkName": ""
   },
   {
-    "id": 38,
+    "id": 40,
     "price": 0,
     "popularity": 501,
     "appType": "landingpage",
@@ -1000,7 +1054,7 @@
     "frameworkName": ""
   },
   {
-    "id": 39,
+    "id": 41,
     "price": 0,
     "popularity": 503,
     "appType": "landingpage",
@@ -1028,7 +1082,7 @@
     "frameworkName": ""
   },
   {
-    "id": 40,
+    "id": 42,
     "price": 0,
     "popularity": 505,
     "appType": "landingpage",
@@ -1054,7 +1108,7 @@
     "frameworkName": ""
   },
   {
-    "id": 41,
+    "id": 43,
     "price": 0,
     "popularity": 1011,
     "appType": "website",
@@ -1071,7 +1125,7 @@
     "frameworkName": ""
   },
   {
-    "id": 42,
+    "id": 44,
     "price": 0,
     "popularity": 1012,
     "appType": "website",
@@ -1088,7 +1142,7 @@
     "frameworkName": ""
   },
   {
-    "id": 43,
+    "id": 45,
     "price": 0,
     "popularity": 1013,
     "appType": "website",
@@ -1105,7 +1159,7 @@
     "frameworkName": ""
   },
   {
-    "id": 44,
+    "id": 46,
     "price": 0,
     "popularity": 1014,
     "appType": "website",
@@ -1122,7 +1176,7 @@
     "frameworkName": ""
   },
   {
-    "id": 45,
+    "id": 47,
     "price": 0,
     "popularity": 1015,
     "appType": "landingpage",
@@ -1139,7 +1193,7 @@
     "frameworkName": ""
   },
   {
-    "id": 46,
+    "id": 48,
     "price": 0,
     "popularity": 1016,
     "appType": "website",
@@ -1156,7 +1210,7 @@
     "frameworkName": ""
   },
   {
-    "id": 47,
+    "id": 49,
     "price": 0,
     "popularity": 1017,
     "appType": "landingpage",
@@ -1173,7 +1227,7 @@
     "frameworkName": ""
   },
   {
-    "id": 48,
+    "id": 50,
     "price": 0,
     "popularity": 502,
     "appType": "landingpage",
@@ -1198,7 +1252,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 49,
+    "id": 51,
     "price": 0,
     "popularity": 504,
     "appType": "landingpage",
@@ -1225,7 +1279,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 50,
+    "id": 52,
     "price": 0,
     "popularity": 506,
     "appType": "landingpage",
@@ -1252,7 +1306,7 @@
     "createdOn": "06-Jun-2023"
   },
   {
-    "id": 51,
+    "id": 53,
     "price": 0,
     "popularity": 507,
     "appType": "landingpage",
@@ -1279,7 +1333,7 @@
     "createdOn": "06-Jun-2023"
   },
   {
-    "id": 52,
+    "id": 54,
     "price": 0,
     "popularity": 1018,
     "appType": "landingpage",
@@ -1297,7 +1351,7 @@
     "createdOn": "20-Mar-2023"
   },
   {
-    "id": 53,
+    "id": 55,
     "price": 0,
     "popularity": 1019,
     "appType": "landingpage",
@@ -1315,7 +1369,7 @@
     "createdOn": "15-Oct-2020"
   },
   {
-    "id": 54,
+    "id": 56,
     "price": 0,
     "popularity": 1020,
     "appType": "landingpage",
@@ -1343,7 +1397,7 @@
     "createdOn": "18-May-2023"
   },
   {
-    "id": 55,
+    "id": 57,
     "price": 0,
     "popularity": 1021,
     "appType": "landingpage",
@@ -1361,7 +1415,7 @@
     "createdOn": "19-Jan-2021"
   },
   {
-    "id": 56,
+    "id": 58,
     "price": 0,
     "popularity": 1022,
     "appType": "landingpage",
@@ -1379,7 +1433,7 @@
     "createdOn": "13-Nov-2022"
   },
   {
-    "id": 57,
+    "id": 59,
     "price": 0,
     "popularity": 1023,
     "appType": "landingpage",
@@ -1407,7 +1461,7 @@
     "createdOn": "26-Apr-2021"
   },
   {
-    "id": 58,
+    "id": 60,
     "price": 0,
     "popularity": 1024,
     "appType": "landingpage",
@@ -1430,7 +1484,7 @@
     "createdOn": "04-Sep-2022"
   },
   {
-    "id": 59,
+    "id": 61,
     "price": 0,
     "popularity": 1025,
     "appType": "landingpage",
@@ -1457,7 +1511,7 @@
     "createdOn": "06-Jan-2022"
   },
   {
-    "id": 60,
+    "id": 62,
     "price": 0,
     "popularity": 1026,
     "appType": "landingpage",
@@ -1475,7 +1529,7 @@
     "createdOn": "18-Jul-2022"
   },
   {
-    "id": 61,
+    "id": 63,
     "price": 0,
     "popularity": 1027,
     "appType": "landingpage",
@@ -1497,7 +1551,7 @@
     "createdOn": "28-Jan-2021"
   },
   {
-    "id": 62,
+    "id": 64,
     "price": 0,
     "popularity": 1028,
     "appType": "landingpage",
@@ -1515,7 +1569,7 @@
     "createdOn": "13-Jan-2023"
   },
   {
-    "id": 63,
+    "id": 65,
     "price": 0,
     "popularity": 1029,
     "appType": "landingpage",
@@ -1533,7 +1587,7 @@
     "createdOn": "11-Nov-2021"
   },
   {
-    "id": 64,
+    "id": 66,
     "price": 0,
     "popularity": 1030,
     "appType": "landingpage",
@@ -1561,7 +1615,7 @@
     "createdOn": "28-Oct-2022"
   },
   {
-    "id": 65,
+    "id": 67,
     "price": 0,
     "popularity": 1031,
     "appType": "landingpage",
@@ -1592,7 +1646,7 @@
     "createdOn": "08-Feb-2023"
   },
   {
-    "id": 66,
+    "id": 68,
     "price": 0,
     "popularity": 1032,
     "appType": "landingpage",
@@ -1610,7 +1664,7 @@
     "createdOn": "24-Jun-2022"
   },
   {
-    "id": 67,
+    "id": 69,
     "price": 0,
     "popularity": 1033,
     "appType": "landingpage",
@@ -1628,7 +1682,7 @@
     "createdOn": "03-Aug-2022"
   },
   {
-    "id": 68,
+    "id": 70,
     "price": 0,
     "popularity": 1034,
     "appType": "landingpage",
@@ -1646,7 +1700,7 @@
     "createdOn": "22-Apr-2022"
   },
   {
-    "id": 69,
+    "id": 71,
     "price": 0,
     "popularity": 1035,
     "appType": "admin-template",
@@ -1664,7 +1718,7 @@
     "createdOn": ""
   },
   {
-    "id": 70,
+    "id": 72,
     "price": 0,
     "popularity": 1036,
     "appType": "admin-template",
@@ -1682,7 +1736,7 @@
     "createdOn": ""
   },
   {
-    "id": 71,
+    "id": 73,
     "price": 0,
     "popularity": 1037,
     "appType": "admin-template",
@@ -1700,7 +1754,7 @@
     "createdOn": ""
   },
   {
-    "id": 72,
+    "id": 74,
     "price": 0,
     "popularity": 1038,
     "appType": "admin-template",
@@ -1718,7 +1772,7 @@
     "createdOn": ""
   },
   {
-    "id": 73,
+    "id": 75,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -1736,7 +1790,7 @@
     "createdOn": ""
   },
   {
-    "id": 74,
+    "id": 76,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -1752,5 +1806,263 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 77,
+    "price": 0,
+    "popularity": 1041,
+    "appType": "admin-template",
+    "details": "https://github.com/samuel0530/nextui-dashboard/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "nextui-dashboard-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextui-dashboard-free.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://nextui-dashboard.vercel.app/",
+    "templateName": "Nextui dashboard",
+    "description": "Introducing a NextUI and NextJS-powered dashboard sample, designed to provide users with a seamless and intuitive user experience. With the perfect blend of cutting-edge technologies, this dashboard sets new standards for performance and responsiveness.",
+    "features": [
+      "Dark Mode Support",
+      "Full Responsive",
+      "Home Page with Charts",
+      "Accounts Page"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 78,
+    "price": 0,
+    "popularity": 1042,
+    "appType": "admin-template",
+    "details": "https://github.com/roketid/windmill-dashboard-nextjs-typescript/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "windmill-dashboard-nextjs-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/windmill-dashboard-nextjs-free.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://windmill-dashboard-nextjs-typescript.vercel.app/example",
+    "templateName": "Windmill dashboard nextjs typescript",
+    "description": "Next.js and TypeScript in Harmony: Introducing Windmill Dashboard Discover the seamless harmony of Next.js and TypeScript in the Windmill Dashboard. This dynamic duo ensures a fast, scalable, and type-safe development experience, enabling you to create feature-rich dashboards that keep your users engaged and informed. With the Windmill Dashboard, tap into the full potential of Next.js and TypeScript to build top-notch web applications with ease.",
+    "features": [
+      "Throughly accessible (developed using screen readers)",
+      "Dark theme enabled (load even different images based on theme)",
+      "Multiple (custom) components",
+      "Code splitting",
+      "Tailwind CSS",
+      "Heroicons",
+      "Chart.js"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 79,
+    "price": 0,
+    "popularity": 1043,
+    "appType": "admin-template",
+    "details": "https://github.com/salvia-kit/dashboard-v4-nextjs/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "salvia-kit-dashboard-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/salvia-kit-dashboard-free.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://salvia-kit-dashboard-v4-demo.vercel.app/",
+    "templateName": "Salvia-kit dashboard template v4 with Next.js",
+    "description": "Elevate your Web Projects with Salvia-Kit Dashboard Template v4 and Next.js Integration! Unleash the true potential of your web projects using the Salvia-Kit Dashboard Template v4, now integrated with Next.js for even greater flexibility and performance. Benefit from the simplicity of Salvia-Kit's elegant UI components and combine it with Next.js's cutting-edge features, including server-side rendering and dynamic routing, to create blazing-fast, SEO-friendly web applications with ease.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 80,
+    "price": 0,
+    "popularity": 1044,
+    "appType": "admin-template",
+    "details": "https://github.com/horizon-ui/horizon-ui-chakra-nextjs/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "horizon-ui-chakra-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/horizon-ui-chakra-nextjs.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://horizon-ui.com/horizon-ui-chakra-nextjs/admin/default",
+    "templateName": "Horizon ui chakra nextjs",
+    "description": "The Horizon UI, powered by the Chakra UI library, takes your Next.js applications to the next level. Seamlessly combining cutting-edge design and intuitive user experience, Horizon UI enhances the overall look and feel of your web projects. With its easy-to-use components and responsive layout, building beautiful and interactive interfaces has never been easier.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 81,
+    "price": 0,
+    "popularity": 1045,
+    "appType": "admin-template",
+    "details": "https://github.com/bjcarlson42/chakra-nextjs-dashboard/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "chakra-nextjs-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chakra-nextjs-dashboard.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://chakra-nextjs-dashboard.vercel.app/dashboard",
+    "templateName": "Chakra nextjs dashboard",
+    "description": "Harmonize your digital experience with the Chakra NextJS Dashboard, a beautifully crafted interface that brings balance and efficiency to your web applications. This thoughtfully designed dashboard empowers you with intuitive controls and stunning visualizations to manage your data effortlessly.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 82,
+    "price": 0,
+    "popularity": 1046,
+    "appType": "admin-template",
+    "details": "https://github.com/bloomui/tokyo-free-white-nextjs-admin-dashboard/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "tokyo-free-white-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tokyo-free-white-nextjs.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://tokyo-free-white-nextjs.bloomui.com/dashboards/crypto",
+    "templateName": "Tokyo free white nextjs admin dashboard",
+    "description": "Tokyo Free White is an elegant and feature-rich admin dashboard built with Next.js, a cutting-edge technology that provides seamless server-side rendering and exceptional performance. This modern dashboard template offers a clean and minimalist design, making it the perfect choice for professionals seeking a polished and efficient interface to manage their applications and data.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 83,
+    "price": 0,
+    "popularity": 1047,
+    "appType": "admin-template",
+    "details": "https://github.com/codescandy/dashui-free-nextjs-admin-template/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "dashui-free-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashui-free-nextjs.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://dashui-free-nextjs-admin-template.vercel.app/",
+    "templateName": "DashUi free nextjs admin template",
+    "description": "Elevate Your NextJS Project with DashUi - The Ultimate Admin Template: Discover the ultimate NextJS admin template - DashUi. Crafted to perfection, this free template offers a comprehensive set of tools to manage your application with ease. From customizable widgets to user-friendly navigation, DashUi is a powerful yet flexible solution for all your administrative needs. Empower your team and supercharge your NextJS project with DashUi today!",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 84,
+    "price": 0,
+    "popularity": 1048,
+    "appType": "admin-template",
+    "details": "https://github.com/syket-git/dashboard-design/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "finanion-free-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/finanion-free-nextjs.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://dashboard-design-one.vercel.app/",
+    "templateName": "Dashboard design",
+    "description": "Crafting an intuitive and visually appealing dashboard is essential to provide users with a seamless data visualization experience. Next.js, a powerful React framework, offers a perfect blend of flexibility and performance to build stunning dashboards. Leveraging the dynamic routing and server-side rendering capabilities of Next.js, developers can create interactive and responsive dashboards that adapt to various screen sizes. With a myriad of pre-built components and UI libraries available, designing a feature-rich dashboard becomes an enjoyable task for developers.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 85,
+    "price": 0,
+    "popularity": 1049,
+    "appType": "landingpage",
+    "details": "https://github.com/Blazity/next-saas-starter/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "logoipsum",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/logoipsum.jpg",
+    "subtitle": "Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
+    "livePreview": "https://next-saas-starter-ashy.vercel.app/",
+    "templateName": "Next saas starter",
+    "description": "Your SaaS Adventure Begins Here: Unveiling Our Next-Gen Starter Program Start Your SaaS Adventure Today: Introducing Our Future-Forward Platform Unlocking SaaS Potential: Introducing the Next-Generation Starter Program Empower Your SaaS Dreams: Introducing Our Next-Gen Solution for Entrepreneurs",
+    "features": [
+      "Next.js",
+      "Best SEO setup",
+      "Optimized for Web Vitals",
+      "Blog with MDX",
+      "Mailchimp Integration",
+      "Sendgrid Integration",
+      "Dark mode",
+      "No UI library",
+      "One click deployment",
+      "Eslint",
+      "Prettier"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 86,
+    "price": 0,
+    "popularity": 1050,
+    "appType": "landingpage",
+    "details": "https://github.com/btahir/next-shopify-starter/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "doggy-stickers",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/doggy-stickers.jpg",
+    "subtitle": "Nextjs + Tailwind CSS + Shopify Starter",
+    "livePreview": "https://doggystickers.vercel.app/",
+    "templateName": "Next shopify starter",
+    "description": "Seamlessly Integrated E-commerce: Unveiling Our Next.js + Tailwind CSS + Shopify Starter Discover the Power of Integration: Next.js, Tailwind CSS, and Shopify Combined Elevate Your E-commerce Game: Introducing the Ultimate Starter Kit for Next-gen Entrepreneurs",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 87,
+    "price": 0,
+    "popularity": 1051,
+    "appType": "landingpage",
+    "details": "https://github.com/NextJSTemplates/startup-nextjs/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "startup-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/startup-nextjs.jpg",
+    "subtitle": "Startup is free Next.js template for startups and SaaS businesses comes with all the essential pages, components, and sections you need to launch a complete business website.",
+    "livePreview": "https://startup.nextjstemplates.com/",
+    "templateName": "Startup nextjs",
+    "description": "Redefine Your Startup's Digital Experience: Introducing the Versatile Startup Next.js Next.js for Startups: Unleashing Speed, SEO, and Modern Development in One Package Scale Your Business with Confidence: Startup Next.js Paves the Way to Success The Smart Choice for Startups: Unveiling the Potential of Next.js",
+    "features": [
+      "Crafted for Startup and SaaS Business",
+      "Next.js 13 and Tailwind CSS",
+      "All Essential Business Sections and Pages",
+      "High-quality and Clean Design",
+      "Dark and Light Version",
+      "TypeScript Support and Much More ..."
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 88,
+    "price": 0,
+    "popularity": 1052,
+    "appType": "landingpage",
+    "details": "https://github.com/minor/uranium/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "uranium",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/uranium.jpg",
+    "subtitle": "ready-to-go next.js + tailwind website template",
+    "livePreview": "https://uranium.saurish.com/",
+    "templateName": "Uranium",
+    "description": "Seamlessly Launch Your Website with our Ready-to-Go Next.js + Tailwind Template Welcome to the Future of Web Development: Next.js + Tailwind Website Template Accelerate Your Web Project: Introducing the Turnkey Next.js + Tailwind Solution Your Website, Elevated: Unveiling the Power of our Ready-to-Use Template",
+    "features": [
+      
+    ],
+    "createdOn": "13-Jun-2022"
+  },
+  {
+    "id": 89,
+    "price": 0,
+    "popularity": 1053,
+    "appType": "landingpage",
+    "details": "https://github.com/AsavariA/nextjs-portfolio-template/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "michaelscott",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/michaelscott.jpg",
+    "subtitle": "An easy-to-use portfolio website template for all developers out there!",
+    "livePreview": "https://michaelscott-nextjstemp.vercel.app/",
+    "templateName": "Nextjs Portfolio Template",
+    "description": "Present Your Work with Pride: Next.js Portfolio Template Revealed Welcome to the Next.js Portfolio Revolution: Introducing our Pre-Built Template Streamlined Portfolio Development: Unveiling the Ready-to-Go Next.js Solution Stand Out from the Crowd: Launch Your Portfolio with our Ready-Made Template",
+    "features": [
+      
+    ],
+    "createdOn": "03-Aug-2021"
   }
 ]
