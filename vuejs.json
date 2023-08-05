@@ -757,5 +757,95 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 30,
+    "price": 0,
+    "popularity": 1009,
+    "appType": "admin-template",
+    "details": "https://github.com/eddami/nuxt-material-admin/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-material-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-material-admin.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://nuxt-material-admin.netlify.app/dashboard",
+    "templateName": "Nuxt material admin",
+    "description": "Nuxt Material Admin amalgamates the power of Nuxt.js and the elegance of Material Design into a unified admin dashboard solution. The result is an interface that marries functionality with aesthetics, enhancing your ability to oversee and control your application's data while enjoying a smooth and visually pleasing experience.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 31,
+    "price": 0,
+    "popularity": 1010,
+    "appType": "admin-template",
+    "details": "https://github.com/AsaoluElijah/portfolio/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "asaolu-netlify-nuxt",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/asaolu-netlify-nuxt.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://asaolu.netlify.app/",
+    "templateName": "Portfolio",
+    "description": "Nuxt.js served as the cornerstone for my personal website's construction, enabling me to create a digital portfolio that truly represents my professional identity. The technology's adaptability empowered me to structure and present my work cohesively while maintaining optimal performance.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 32,
+    "price": 0,
+    "popularity": 1011,
+    "appType": "admin-template",
+    "details": "https://github.com/0xAliRaza/codefolio/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "codefolio-nuxt",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/codefolio-nuxt.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://0xali.com/codefolio/",
+    "templateName": "Codefolio",
+    "description": "Present your coding journey effortlessly by utilizing this web app, prepped and primed for deployment. With a seamless interface and optimal performance, it's the ideal platform to showcase your coding portfolio to a global audience.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 33,
+    "price": 0,
+    "popularity": 1012,
+    "appType": "landingpage",
+    "details": "https://github.com/agtraveso/landing-nuxt-template/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "landing-nuxt-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/landing-nuxt-template.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://agtraveso.github.io/landing-nuxt-template/",
+    "templateName": "Landing nuxt template",
+    "description": "Launch your online identity with finesse using our Nuxt landing template. Built to combine aesthetics with functionality, this template empowers you to create a captivating landing page that leaves a lasting impact.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 34,
+    "price": 0,
+    "popularity": 1013,
+    "appType": "landingpage",
+    "details": "https://github.com/gitsindonesia/nuxt-starter/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "gits-nuxt-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/gits-nuxt-starter.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://gits-nuxt-starter.vercel.app/",
+    "templateName": "Nuxt starter",
+    "description": "Embark on your web development journey with the dynamic duo of Nuxt 3 and Morpheme UI (GITS UI) Starter. This combination offers a seamless integration of cutting-edge Nuxt capabilities and the aesthetic finesse of Morpheme UI, setting the stage for unparalleled web experiences.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
