@@ -847,5 +847,99 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 35,
+    "price": 0,
+    "popularity": 1014,
+    "appType": "landingpage",
+    "details": "https://github.com/svirmi/nuxt-i18n-blog-v3/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "minimal-blog",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/minimal-blog.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxt-i18n-blog.vercel.app/",
+    "templateName": "Nuxt i18n blog v3",
+    "description": "Nuxt.js Content Module Unleashed: Crafting Multilingual Blogs Unleash the true potential of Nuxt.js Content Module in crafting compelling multilingual blogs. Witness the harmony of technology and language as your content adapts effortlessly to diverse audiences. Embrace a dynamic approach to blogging that enhances your reach and resonance.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 36,
+    "price": 0,
+    "popularity": 1015,
+    "appType": "landingpage",
+    "details": "https://github.com/agnelnieves/nuxty/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxty-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxty-starter.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxty-starter.netlify.app/",
+    "templateName": "Nuxty",
+    "description": "Elevate Your Projects with Nuxt.js Production Starter Elevate your projects with the Nuxt.js Production Starter, a toolkit designed to transform your ideas into polished realities. Seamlessly integrated with performance enhancements, this starter kit guarantees that your web applications are not just ready for the world, but also built to excel.",
+    "features": [
+      "Tailwind CSS v2",
+      "Built-in Components & Layout",
+      "Eslint & Prettier",
+      "Husky & Commitlint",
+      "PWA ready"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 37,
+    "price": 0,
+    "popularity": 1016,
+    "appType": "landingpage",
+    "details": "https://github.com/timoanttila/nuxt-lazypeopleworkouts/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-lazypeopleworkouts",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-lazypeopleworkouts.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://lazypeopleworkouts.com/",
+    "templateName": "Nuxt lazypeopleworkouts",
+    "description": "Nuxt Fitness Fusion: Lazypeopleworkouts Redefined Experience the ultimate fusion of fitness and Nuxt.js with Lazypeopleworkouts. Step into a realm where exercise meets technology, bringing you an innovative approach to staying active. Discover a new way to prioritize your well-being with engaging workouts right at your fingertips.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 38,
+    "price": 0,
+    "popularity": 1017,
+    "appType": "landingpage",
+    "details": "https://github.com/GrabarzUndPartner/gp-vue-boilerplate/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "grabarzundpartner",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/grabarzundpartner.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://grabarzundpartner.de/",
+    "templateName": "Gp vue boilerplate",
+    "description": "Unleash Excellence with Grabarz & Partner Boilerplate: Your Vue.js Front-End Solution Ignite your web development prowess with Grabarz & Partner Boilerplate – the ultimate professional front-end template. Crafted to perfection, this template empowers you to construct lightning-fast, resilient, and flexible web applications and sites using the power of Vue.js. Elevate your projects to new heights and deliver experiences that captivate users.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 39,
+    "price": 0,
+    "popularity": 1018,
+    "appType": "landingpage",
+    "details": "https://github.com/ZTF666/nuxt-quickstart-template/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-quickstart-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-quickstart-template.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxt-starter-template.web.app/",
+    "templateName": "Nuxt quickstart template",
+    "description": "Nuxt Quickstart: Your Express Ticket to Web Development Introducing the Nuxt Quickstart template – your express ticket to diving into web development effortlessly. Kickstart your projects with a versatile foundation that harnesses the power of Nuxt.js. With this template, you're equipped to build responsive, high-performance web applications that resonate with modern design and functionality.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
