@@ -941,5 +941,109 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 40,
+    "price": 0,
+    "popularity": 1019,
+    "appType": "admin-template",
+    "details": "https://github.com/epicmaxco/vuestic-admin/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "vuestic-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuestic-admin.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://admin.vuestic.dev/admin/dashboard",
+    "templateName": "Vuestic Admin",
+    "description": "Liberate your creativity while maintaining a captivating aesthetic using our Vue 3 Admin Template. This cutting-edge solution not only exudes beauty but also empowers you with the freedom to mold and shape your administrative environment according to your preferences.",
+    "features": [
+      "Powered by[Vuestic UI customizable UI library with 44+ components included",
+      "Original and corporate color schemes",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "i18n-ready",
+      "Following Vue.js official style guide",
+      "No jQuery",
+      "Forever free and Open Source"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 41,
+    "price": 0,
+    "popularity": 1020,
+    "appType": "admin-template",
+    "details": "https://github.com/Armour/vue-typescript-admin-template/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "vue-typescript-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-typescript-admin-template.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://armour.github.io/vue-typescript-admin-template/#/dashboard",
+    "templateName": "Vue typescript admin template",
+    "description": "Experience a new era of efficiency and accuracy with our Vue TypeScript Admin Template. As you embrace the fusion of Vue.js and TypeScript, you're granted the ability to create admin interfaces that are not only visually stunning but also underpinned by strongly-typed, error-free code.",
+    "features": [
+      "Powered by[Vuestic UI customizable UI library with 44+ components included",
+      "Original and corporate color schemes",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "i18n-ready",
+      "Following Vue.js official style guide",
+      "No jQuery",
+      "Forever free and Open Source"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 42,
+    "price": 0,
+    "popularity": 1021,
+    "appType": "admin-template",
+    "details": "https://github.com/fatihunlu/vue-admin-template/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "vue-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-admin-template.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://fatihunlu.github.io/vue-admin-template/#/",
+    "templateName": "Vue admin template",
+    "description": "Achieve the perfect blend of efficiency and style using our Vue Admin Template. As Vue's capabilities meet our thoughtfully designed components, you can effortlessly craft admin interfaces that are both visually appealing and highly functional, catering to your project's needs.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 43,
+    "price": 0,
+    "popularity": 1022,
+    "appType": "admin-template",
+    "details": "https://github.com/slanatech/dashblocks-template/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "dashblocks-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashblocks-template.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://slanatech.github.io/dashblocks-template/#/",
+    "templateName": "Dashblocks template",
+    "description": "Experience unparalleled control over your administrative interfaces with our Dashblocks Vue Material Admin Template. This cutting-edge solution combines Vue's versatility with Material Design aesthetics, empowering you to create admin panels that are as intuitive as they are stunning.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 44,
+    "price": 0,
+    "popularity": 1023,
+    "appType": "admin-template",
+    "details": "https://github.com/justboil/admin-one-vue-tailwind/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "admin-one-vue-tailwind",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/admin-one-vue-tailwind.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://justboil.github.io/admin-one-vue-tailwind/#/dashboard",
+    "templateName": "Admin one vue tailwind",
+    "description": "Unleash the full potential of your admin interfaces with Admin One Vue Tailwind. Seamlessly integrating Vue.js's capabilities with the versatility of Tailwind CSS, this template empowers you to build admin panels that are not only functional but also visually impressive.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
