@@ -709,7 +709,7 @@
     "imageAlt": "ng-pi-admin",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/ng-pi-admin.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://treesflower.com/dist/pages/index",
+    "livePreview": "http://treesflower.com/dist/pages/index",
     "templateName": "ng-pi-admin",
     "description": "Angular admin",
     "features": [
@@ -840,6 +840,120 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
+    "doFollow": true
+  },
+  {
+    "id": 31,
+    "price": 0,
+    "popularity": 1010,
+    "appType": "admin-template",
+    "details": "https://github.com/akveo/blur-admin/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "blur-admin-mint",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/blur-admin-mint.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://www.akveo.com/blur-admin-mint/#/dashboard",
+    "templateName": "Blur Admin",
+    "description": "AngularJS Empowered Admin Panel Framework with Bootstrap: Elevate your web application's administration experience with our cutting-edge AngularJS-powered Admin Panel Framework. Seamlessly integrate the power of AngularJS with the responsive design capabilities of Bootstrap, resulting in a dynamic and user-friendly interface that streamlines your admin tasks. Whether you're managing data, analyzing metrics, or overseeing user interactions, our framework offers a robust solution for building a modern admin panel that stands out.",
+    "features": [
+      "Responsive layout",
+      "High resolution",
+      "Bootstrap CSS Framework",
+      "Sass",
+      "Gulp build",
+      "AngularJS",
+      "Jquery",
+      "Charts (amChart, Chartist, Chart.js, Morris)",
+      "Maps (Google, Leaflet, amMap)"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 32,
+    "price": 0,
+    "popularity": 1011,
+    "appType": "admin-template",
+    "details": "https://github.com/flatlogic/angular-material-dashboard/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "angular-material-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/angular-material-dashboard.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://demo.flatlogic.com/angular-material-admin-full/#/dashboard",
+    "templateName": "Angular Material Dashboard",
+    "description": "Material Design Excellence Meets Angular in Our Admin Dashboard: Experience the perfect fusion of Angular and Material Design in our state-of-the-art Admin Dashboard. Elevate your web application's interface with sleek, intuitive components that Material Design is known for, seamlessly integrated into the Angular framework. From data visualization to user interaction, our dashboard offers a harmonious balance of aesthetics and functionality, providing an unmatched admin experience.",
+    "features": [
+      "AngularJS",
+      "Angular UI Router",
+      "Angular Material",
+      "Sass styles",
+      "Gulp build",
+      "Stylish, clean, responsive layout with original design",
+      "BrowserSync for the ease of development"
+    ],
+    "createdOn": "",
+    "frameworkName": "Material Angular",
+    "doFollow": true
+  },
+  {
+    "id": 33,
+    "price": 0,
+    "popularity": 1012,
+    "appType": "admin-template",
+    "details": "https://github.com/eashish93/degree-material-admin-template/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "degree-material-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/degree-material-admin-template.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://solutionportal.net/themes/degree/#/dashboard",
+    "templateName": "Degree Material Admin Template",
+    "description": "Elevate Admin Experiences with Angular Material: Your Ultimate Design Template: Welcome to a new era of admin template innovation, where Angular Material takes center stage. Our cutting-edge template is a symphony of Angular's capabilities and the sophistication of Material Design. Effortlessly manage tasks, data manipulation, and user interactions while delighting in the harmonious blend of design and functionality. Embrace the future of admin templates with our Angular Material creation.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Material Angular",
+    "doFollow": true
+  },
+  {
+    "id": 34,
+    "price": 0,
+    "popularity": 1013,
+    "appType": "admin-template",
+    "details": "https://github.com/start-angular/ani-angular-2/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "ani-angular-2",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ani-angular-2.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://rawgit.com/start-angular/ani-angular-2/master/dist/prod/dashboard/home",
+    "templateName": "Ani Angular-2",
+    "description": "Ani-Angular-2 Admin Template: Where Function Meets Form: Unlock a new era of admin template efficiency with Ani-Angular-2. Built upon the robust foundation of Angular 2, this template seamlessly combines advanced functionality with a visually appealing design. From data management to user engagement, Ani-Angular-2 empowers you to excel in admin tasks while enjoying a streamlined interface that speaks of innovation.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Ng Bootstrap",
+    "doFollow": true
+  },
+  {
+    "id": 35,
+    "price": 0,
+    "popularity": 1014,
+    "appType": "admin-template",
+    "details": "https://github.com/start-angular/versatile-dashboard-theme/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "versatile-dashboard-theme",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/versatile-dashboard-theme.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://rawgit.com/start-angular/versatile-dashboard-theme/master/dist/index.html#/dashboard/overview",
+    "templateName": "Versatile dashboard theme",
+    "description": "Free Edition Animated Metro Style Flat AngularJS Theme: The Power of Visual Dynamics: Experience the power of visual dynamics with our Free Edition Animated Metro Style Flat AngularJS Theme. Through the fusion of metro-inspired aesthetics and AngularJS, this theme propels your web application into a new dimension of style and usability. Seamlessly navigate tasks, manage data, and interact with users within an interface that's as dynamic as it is engaging.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
     "doFollow": true
   }
 ]
