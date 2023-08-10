@@ -955,5 +955,117 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 36,
+    "price": 0,
+    "popularity": 1015,
+    "appType": "admin-template",
+    "details": "https://github.com/DevCloudFE/ng-devui-admin/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "ng-devui-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ng-devui-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://devui.design/admin/pages/dashboard/analysis",
+    "templateName": "Ng devui admin",
+    "description": "Adaptable Administrative Dashboard Framework leveraging Angular and DevUI Unveil a dynamic and versatile administrative dashboard template that harnesses the power of Angular in synergy with the cutting-edge DevUI framework. This combination empowers you to seamlessly tailor your dashboard to your unique needs, ensuring a truly adaptable and responsive user experience.",
+    "features": [
+      "Responsive",
+      "Personal Theme",
+      "Layout",
+      "Mock",
+      "International",
+      "Rich Features"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 37,
+    "price": 0,
+    "popularity": 1016,
+    "appType": "website",
+    "details": "https://github.com/DevExpress/devextreme-angular-template/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "devextreme-angular-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/devextreme-angular-template.jpg",
+    "subtitle": "Responsive Application Layout Templates​ based on DevExtreme Angular Components",
+    "livePreview": "https://js.devexpress.com/",
+    "templateName": "Devextreme angular template",
+    "description": "Adaptive App Layout Templates Showcasing DevExtreme Angular Components Experience the future of responsive application layouts with our innovative templates, seamlessly integrated with the power of DevExtreme Angular Components. These templates are meticulously designed to ensure your application's adaptability across devices, guaranteeing a user experience that remains flawless on every screen size.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 38,
+    "price": 0,
+    "popularity": 1017,
+    "appType": "admin-template",
+    "details": "https://github.com/petter-ka/youpez-admin/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "youpez-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/youpez-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://youpez.vercel.app/app/dashboard/default",
+    "templateName": "Youpez admin",
+    "description": "Empowering Your Vision: NextGen Angular UI Admin Platform and Template Unlock your creativity with our cutting-edge NextGen Angular UI admin platform and template, designed to empower you with unrivaled customization. Seamlessly mold and adapt every aspect to match your unique vision, creating an admin interface that's not only powerful but also a true reflection of your brand.",
+    "features": [
+      "Customizable & flexible design",
+      "Unique and futuristic UI",
+      "Resizable layout elements",
+      "Pre-built and ready to use application and page designs",
+      "Ready to use content layouts",
+      "Custom components for admin panel specific use cases",
+      "Starter app layout ideas included for faster development",
+      "Dark and Light color theme support"
+    ],
+    "createdOn": "",
+    "frameworkName": "Material Angular",
+    "doFollow": true
+  },
+  {
+    "id": 39,
+    "price": 0,
+    "popularity": 1018,
+    "appType": "admin-template",
+    "details": "https://github.com/id1945/enlink-admin/archive/refs/heads/full-version-1.0.zip",
+    "category": "Angular",
+    "imageAlt": "enlink-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/enlink-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://id1945.github.io/enlink-admin/dashboard/default",
+    "templateName": "Enlink admin",
+    "description": "Enlink Admin: Navigating the Future of Admin Templates Introducing Enlink Admin, your compass to the future of admin templates. Seamlessly blending modern design with unparalleled functionality, this template redefines how you interact with administrative interfaces.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 40,
+    "price": 0,
+    "popularity": 1019,
+    "appType": "landingpage",
+    "details": "https://github.com/andresjosehr/andresjosehr-portfolio/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "andresjosehr-portfolio",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/andresjosehr-portfolio.jpg",
+    "subtitle": "Free & Open-Source Angular Landing Page Template",
+    "livePreview": "https://andresjosehr.com/en",
+    "templateName": "Andresjosehr portfolio",
+    "description": "This theme has been meticulously crafted as a personal endeavor. Drawing inspiration, and in fact, adopting the entire design from the remarkable portfolio of Britanny Chiang, I've aimed to create a harmonious homage to her incredible work.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Ng Bootstrap",
+    "doFollow": true
   }
 ]
