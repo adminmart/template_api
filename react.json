@@ -2087,5 +2087,101 @@
       "Written in TypeScript"
     ],
     "createdOn": "18-Oct-2022"
+  },
+  {
+    "id": 91,
+    "price": 0,
+    "popularity": 1056,
+    "appType": "admin-template",
+    "details": "https://github.com/devias-io/material-kit-react/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "material-kit-react",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/material-kit-react.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://material-kit-react.devias.io/",
+    "templateName": "Material kit react",
+    "description": "Experience the seamless fusion of aesthetics and functionality with Material Kit React. Crafted to perfection using the power of React components, this UI kit brings the modern elegance of Material Design to your web applications. Immerse your users in an interface that's not only visually stunning but also highly intuitive. With a comprehensive collection of pre-designed components and templates, Material Kit React accelerates your development process, allowing you to focus on creating exceptional user experiences. Elevate your projects with smooth animations, responsive layouts, and a harmonious blend of colors, all while maintaining the consistency and usability that Material Design is renowned for.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 92,
+    "price": 0,
+    "popularity": 1057,
+    "appType": "admin-template",
+    "details": "https://github.com/minimal-ui-kit/material-kit-react/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "minimal-kit-react",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/minimal-kit-react.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://minimal-kit-react.vercel.app/dashboard/app",
+    "templateName": "Minimal kit react",
+    "description": "Introducing the Minimal Dashboard, an exquisite creation meticulously crafted using React Material UI components. This dashboard exemplifies simplicity and elegance, offering a clutter-free interface that allows you to focus on what truly matters. Built upon the robust foundation of React, the Minimal Dashboard provides a seamless user experience that aligns perfectly with Material Design principles. With its clean layout and intuitive navigation, you can effortlessly monitor key metrics and insights. Dive into a world of efficiency and visual appeal, where every element serves a purpose, and complexity gives way to clarity.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 93,
+    "price": 0,
+    "popularity": 1058,
+    "appType": "admin-template",
+    "details": "https://github.com/marmelab/react-admin/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "react-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-admin.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://marmelab.com/react-admin-demo/",
+    "templateName": "React Admin",
+    "description": "Elevate your B2B application development endeavors with a revolutionary frontend framework that marries ES6, React, and Material Design. Seamlessly interface with REST/GraphQL APIs to construct browser-based applications that seamlessly bridge the gap between frontend and backend systems. By harnessing the power of ES6, you're armed with modern language features that streamline development and enhance maintainability. React's prowess in creating dynamic and reusable components empowers you to build intricate user interfaces. Furthermore, the incorporation of Material Design ensures your applications boast a sophisticated visual identity and a user-centric approach to design. In the realm of B2B applications, this framework is your gateway to unparalleled efficiency and innovation.",
+    "features": [
+      "Backend Agnostic",
+      "All The Building Blocks You Need",
+      "High Quality",
+      "Great Developer Experience",
+      "Great User Experience",
+      "Complete Customization",
+      "Opt-In Types"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 94,
+    "price": 0,
+    "popularity": 1059,
+    "appType": "admin-template",
+    "details": "https://github.com/horizon-ui/horizon-ui-chakra/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "horizon-ui-chakra",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/horizon-ui-chakra.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://horizon-ui.com/horizon-ui-chakra/#/admin/default",
+    "templateName": "Horizon ui chakra",
+    "description": "Step into the future of admin templates with Horizon UI JavaScript – a groundbreaking and forward-thinking open-source solution designed for Chakra UI and React. This template is a testament to innovation and modernity, presenting a cutting-edge approach to crafting admin interfaces that are both sleek and highly functional. Horizon UI JavaScript harnesses the power of Chakra UI and React to create an admin template that aligns seamlessly with contemporary design trends. Elevate your projects with an intuitive user experience, stunning visual elements, and a responsive layout that adapts effortlessly to various screen sizes. Embrace innovation and set new standards in admin template design with Horizon UI JavaScript.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 95,
+    "price": 0,
+    "popularity": 1060,
+    "appType": "admin-template",
+    "details": "https://github.com/themesberg/volt-react-dashboard/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "volt-react-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/volt-react-dashboard.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://demo.themesberg.com/volt-react-dashboard/#/dashboard/overview",
+    "templateName": "Volt react dashboard",
+    "description": "Welcome to a world of possibilities with our free and open-source React.js admin dashboard template and UI library, inspired by the excellence of Bootstrap 5. Seamlessly integrate the power of React.js with the versatility of Bootstrap 5, creating stunning and functional admin interfaces that cater to your every need. Crafted with developers in mind, this template provides a head start for your projects, delivering ready-to-use components and a responsive layout that adapts flawlessly to any device. From customization to rapid prototyping, our solution offers an unbridled canvas for creativity, ensuring you create memorable and impactful user experiences.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
