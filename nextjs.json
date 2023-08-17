@@ -2183,5 +2183,102 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 96,
+    "price": 0,
+    "popularity": 1061,
+    "appType": "admin-template",
+    "details": "https://github.com/0wczar/airframe-react/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "airframe-react",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/airframe-react.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "http://dashboards.webkom.co/react/airframe/dashboards/projects",
+    "templateName": "Airframe React",
+    "description": "Explore an Exceptional Dashboard Experience: Immerse yourself in the world of cutting-edge design with our meticulously crafted open-source dashboard. Built on the foundation of Bootstrap 4 and powered by React 16, this high-quality solution offers an unparalleled user experience.",
+    "features": [
+      "10+ Layout Variations",
+      "Applications",
+      "UI Components",
+      "Responsive Design",
+      "120+ Unique Pages",
+      "2 Starters"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 97,
+    "price": 0,
+    "popularity": 1062,
+    "appType": "admin-template",
+    "details": "https://github.com/reduction-admin/react-reduction/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "react-reduction",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-reduction.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://reduction-admin.github.io/react-reduction/",
+    "templateName": "React Reduction",
+    "description": "Seamlessly Functional: React Reduction stands as a testament to seamless integration of React and Bootstrap 4. This free admin template reimagines efficiency, offering an intuitive interface that empowers you to manage tasks effortlessly.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 98,
+    "price": 0,
+    "popularity": 1063,
+    "appType": "admin-template",
+    "details": "https://github.com/tabler/tabler-react/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "tabler-react",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tabler-react.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://tabler-react.com/",
+    "templateName": "Tabler React",
+    "description": "Dive into the world of React components nestled within the captivating Tabler UI theme. Unveil a realm where functionality and aesthetics harmonize, as we dissect the building blocks that power this seamless user experience. Journey through an exploration that uncovers the marriage of design and interactivity, showcasing the ingenious synergy between Tabler's visual appeal and React's dynamic components.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 99,
+    "price": 0,
+    "popularity": 1064,
+    "appType": "admin-template",
+    "details": "https://github.com/DesignRevision/shards-dashboard-react/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "shards-dashboard-react",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/shards-dashboard-react.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://designrevision.com/demo/shards-dashboard-lite-react/blog-overview",
+    "templateName": "Shards dashboard react",
+    "description": "Open the door to elegance and sophistication with our suite of complimentary React admin dashboard templates. Witness the art of design in motion as you navigate through these meticulously crafted interfaces, each reflecting a blend of seamless user experience and eye-catching visuals. Elevate your project with these free treasures, and reimagine the way you manage your data.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 100,
+    "price": 0,
+    "popularity": 1065,
+    "appType": "admin-template",
+    "details": "https://github.com/cruip/tailwind-dashboard-template/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "mosaic-react-lite",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mosaic-react-lite.jpg",
+    "subtitle": "Free & Open-Source React Admin Dashboard Template",
+    "livePreview": "https://mosaic.cruip.com/",
+    "templateName": "Mosaic Lite",
+    "description": "Introducing Mosaic Lite—a gateway to a dynamic admin dashboard experience. Crafted atop the powerful Tailwind CSS and meticulously coded in React, this template showcases a fusion of versatility and innovation. Designed with care by...",
+    "features": [
+      "Fully functional charts built with Chart.js 3",
+      "Tiles-based user interface",
+      "Desktop and mobile live demos"
+    ],
+    "createdOn": ""
   }
 ]
