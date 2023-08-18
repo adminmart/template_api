@@ -1045,5 +1045,99 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 45,
+    "price": 0,
+    "popularity": 1024,
+    "appType": "admin-template",
+    "details": "https://github.com/who-jonson/sakai-nuxt/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "sakai-nuxt",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sakai-nuxt.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://sakai-nuxt.vercel.app/",
+    "templateName": "Sakai Nuxt",
+    "description": "Introducing the Cutting-Edge Admin Template: Revolutionize your web development experience with our latest offering - an innovative Starter Admin Template meticulously crafted on the robust foundation of Nuxt 3 and empowered by the dynamic capabilities of PrimeVue 3.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 46,
+    "price": 0,
+    "popularity": 1025,
+    "appType": "landingpage",
+    "details": "https://github.com/johannschopplich/cacao-kit-frontend/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "cacao-kit-frontend",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cacao-kit-frontend.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://cacao-kit.byjohann.dev/en",
+    "templateName": "Cacao kit frontend",
+    "description": "Nurturing Headless Creativity: Nurture your creative endeavors with our Nuxt and KQL Starter Kit, carefully designed to optimize headless Kirby CMS projects. By adhering to industry best practices, we've created a toolkit that empowers developers to deliver excellence.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 47,
+    "price": 0,
+    "popularity": 1026,
+    "appType": "landingpage",
+    "details": "https://github.com/nuxt/hackernews/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "hackernews",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hackernews.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://hn.nuxt.space/news/1",
+    "templateName": "Hackernews",
+    "description": "Nuxt-Powered HackerNews Tribute: Embark on a nostalgic journey with our HackerNews clone built using Nuxt. Relish the smooth navigation and dynamic features reminiscent of the original platform, reimagined to deliver a delightful user experience.",
+    "features": [
+      "Server Side Rendering",
+      "Vite-based hot module replacement (HMR) dev environment",
+      "Deploys anywhere with zero config (Vercel, Netlify, Cloudflare, etc.) powered by Nitro",
+      "Code Splitting",
+      "Prefetch/Preload JS + DNS + Data"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 48,
+    "price": 0,
+    "popularity": 1027,
+    "appType": "landingpage",
+    "details": "https://github.com/FlameyFox/FlameyTV/archive/refs/heads/nuxt3.zip",
+    "category": "Nuxt",
+    "imageAlt": "FlameyTV",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/FlameyTV.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://flamey-tv.vercel.app/",
+    "templateName": "FlameyTV",
+    "description": "Cinematic Showcase: Immerse yourself in our TV and Movie Database platform portfolio project, a curated haven for film enthusiasts. Explore the convergence of technology and entertainment as we present an array of captivating visuals and information at your fingertips.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 49,
+    "price": 0,
+    "popularity": 1028,
+    "appType": "admin-template",
+    "details": "https://github.com/nuxt/movies/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "movies-nuxt",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/movies-nuxt.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://movies.nuxt.space/",
+    "templateName": "Movies",
+    "description": "Elevate Your Entertainment Experience: Immerse yourself in our Nuxt 3-powered TMDB client, designed to revolutionize how you engage with cinematic content. Unlock a world of movies and TV shows through a sleek interface that seamlessly connects you to The Movie Database's vast collection.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
