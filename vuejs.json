@@ -1139,5 +1139,111 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 50,
+    "price": 0,
+    "popularity": 1029,
+    "appType": "admin-template",
+    "details": "https://github.com/fzn0x/mazer-nuxt/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "mazer-nuxt",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mazer-nuxt.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://mazer-nuxt.vercel.app/",
+    "templateName": "Mazer nuxt",
+    "description": "Introducing the Mazer Free Bootstrap 5 Admin Dashboard Template and Landing Page, a game-changer in the world of web development. Seamlessly integrating Nuxt 3 and TypeScript, this template empowers you to create stunning admin dashboards and captivating landing pages. Step into a new era of design possibilities with our revolutionary offering.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 51,
+    "price": 0,
+    "popularity": 1030,
+    "appType": "admin-template",
+    "details": "https://github.com/gravitano/nuxt3-tailwind-kit/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt3-tailwind-kit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt3-tailwind-kit.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://nuxt3-tailwind-kit.vercel.app/",
+    "templateName": "Nuxt3 tailwind kit",
+    "description": "Embark on your web development journey with the Nuxt Tailwind Starter Kit – your gateway to creating exceptional user experiences. This comprehensive kit combines the power of Nuxt with the versatility of Tailwind CSS, empowering you to craft stunning websites with ease.",
+    "features": [
+      "Nuxt 3",
+      "Nuxt Content v2",
+      "Tailwind CSS",
+      "Nuxt Icon",
+      "State management with Pinia",
+      "Easy form validation with vee-validate",
+      "Custom authentication store via useAuthStore",
+      "Internationalization via @nuxtjs/i18n",
+      "Modular with Nuxt Layer"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 52,
+    "price": 0,
+    "popularity": 1031,
+    "appType": "landingpage",
+    "details": "https://github.com/johannschopplich/dachsbau-frontend/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "dachsbau-frontend",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dachsbau-frontend.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://dachsbau-tautenhain.de/",
+    "templateName": "Dachsbau frontend",
+    "description": "Step into a realm of enhanced performance and functionality with the Nuxt 3 & KQL frontend of dachsbau-tautenhain.de. This innovative pairing redefines how users interact with websites, presenting content through a sleek interface backed by powerful querying capabilities, all for an unmatched online experience.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 53,
+    "price": 0,
+    "popularity": 1032,
+    "appType": "landingpage",
+    "details": "https://github.com/Demetory/dim-nuxt-content-blog/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "dim-nuxt-content-blog",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dim-nuxt-content-blog.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxt-content-template.demetrey.ru/",
+    "templateName": "Dim nuxt content blog",
+    "description": "Elevate your content game with the Nuxt 3 + Nuxt-Content 2 Blog Template, where innovation meets convenience. Seamlessly combining Nuxt's latest iteration with Nuxt-Content 2, this template provides a dynamic environment to craft, manage, and showcase your blog content effectively.",
+    "features": [
+      "No complex || heavy dependencies",
+      "Google Lighthouse Reports are 100% in green zone",
+      "Atomic Design Pattern",
+      "Configured public folder (icons, robots.txt, htaccess, humans.txt, etc)",
+      "CSS normalization + SCSS Mixins & Maps",
+      "Contains simple code examples",
+      "ESLint 8 + Prettier 2 for better code quality",
+      "Cypress + Vitest for testing",
+      "Localization example"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 54,
+    "price": 0,
+    "popularity": 1033,
+    "appType": "landingpage",
+    "details": "https://github.com/marinaaisa/nuxt-markdown-blog-starter/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-markdown-blog-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-markdown-blog-starter.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxt-markdown-blog-starter.netlify.app/",
+    "templateName": "Nuxt markdown blog starter",
+    "description": "Discover the future of hassle-free blogging with the Nuxt + Markdown Blog Starter. By marrying the power of Nuxt.js with the accessibility of Markdown, this template lets you dive into content creation with ease. Elevate your blogging game and engage your audience through a captivating and responsive platform.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
