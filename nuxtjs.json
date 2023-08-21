@@ -1245,5 +1245,112 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 55,
+    "price": 0,
+    "popularity": 1034,
+    "appType": "admin-template",
+    "details": "https://github.com/misterGF/CoPilot/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "copilot",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/copilot.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://copilot.mistergf.io/",
+    "templateName": "CoPilot",
+    "description": "Vue.js Enhanced AdminLTE Template with Responsive Bootstrap 3 Design Revamp your admin interface with our cutting-edge AdminLTE template powered by Vue.js and built on a foundation of responsive Bootstrap 3 components. Elevate your user experience with dynamic and interactive features, all while maintaining the familiar AdminLTE aesthetics.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 56,
+    "price": 0,
+    "popularity": 1035,
+    "appType": "admin-template",
+    "details": "https://github.com/PanJiaChen/vue-element-admin/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "vue-element-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-element-admin.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://panjiachen.github.io/vue-element-admin/#/dashboard",
+    "templateName": "Vue element admin",
+    "description": "Enchanting Vue-Powered Admin Interface Embark on a journey through an enchanting admin experience crafted with Vue.js. This magical fusion of technology and design will transport your workflow to new realms of efficiency and beauty.",
+    "features": [
+      "Login / Logout",
+      "Permission Authentication",
+      "Multi-environment build",
+      "Global Features",
+      "Editor",
+      "Excel",
+      "Table",
+      "Error Page",
+      "Components",
+      "Advanced Example"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 57,
+    "price": 0,
+    "popularity": 1037,
+    "appType": "admin-template",
+    "details": "https://github.com/tookit/vue-material-admin/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "vue-material-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-material-admin.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "http://vma.isocked.com/#/dashboard",
+    "templateName": "Vue material admin",
+    "description": "Vue Material Design: A New Paradigm for Admin Templates Step into a new paradigm of admin templates with Vue Material Design. Embrace the principles of Material Design while harnessing the power of Vue.js, resulting in an admin template that not only looks stunning but also delivers dynamic functionality.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 58,
+    "price": 0,
+    "popularity": 1038,
+    "appType": "admin-template",
+    "details": "https://github.com/mangelro/quasar-admin/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "quasar-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/quasar-admin.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://next-quasar-admin.netlify.app/",
+    "templateName": "Quasar admin",
+    "description": "Discover the Freedom of Quasar: Unleash Your Admin Potential Explore the boundless opportunities of our Quasar Admin Template, meticulously crafted using Vue.js and the dynamic Quasar Framework. Embrace the power of this fusion to transform your admin interface into a hub of innovation and efficiency.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 59,
+    "price": 0,
+    "popularity": 1039,
+    "appType": "admin-template",
+    "details": "https://github.com/aliftech/swing/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "swing",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/swing.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://aliftech.github.io/",
+    "templateName": "Swing",
+    "description": "The Swing UI template is a sleek and modern user interface design that is perfect for a wide range of applications. Built with the latest web technologies, it offers a smooth and responsive user experience that is both visually pleasing and easy to navigate.",
+    "features": [
+      "Dynamic Dashboard",
+      "Multiple layout options (default, top navigation, bottom navigation)",
+      "Blank page template for custom content",
+      "Wide range of pre-built UI components",
+      "Advanced forms with validation",
+      "User authorization pages",
+      "Customizable error pages",
+      "Dynamic page title",
+      "Dark mode"
+    ],
+    "createdOn": ""
   }
 ]
