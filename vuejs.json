@@ -1352,5 +1352,100 @@
       "Dark mode"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 60,
+    "price": 0,
+    "popularity": 1040,
+    "appType": "admin-template",
+    "details": "https://github.com/romulorodrigues/vue-dashboard-2/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "vue-dashboard-2",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-dashboard-2.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://vue-dashboard-2.vercel.app/#/",
+    "templateName": "Vue dashboard-2",
+    "description": "Vue.js Empowered Dynamic Dashboard Layout Experience the future of dashboard design with our Vue.js powered solution. Seamlessly adapt to various screen sizes and devices, providing users with an intuitive and interactive experience. Our responsive dashboard design using Vue.js ensures that critical information is always at your fingertips, no matter where you are or what device you're using.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 61,
+    "price": 0,
+    "popularity": 1041,
+    "appType": "admin-template",
+    "details": "https://github.com/cronosphantom/master-console/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "master-console",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/master-console.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://flatlogic.github.io/material-vue/#/dashboard",
+    "templateName": "Master Console",
+    "description": "Unleash Control with master-console: Your Open-Source Admin Dashboard Solution Step into the world of empowered administration with master-console – a cutting-edge, open-source admin dashboard template. Engineered to offer a comprehensive suite of tools, this template puts you in the driver's seat of your application. Experience the freedom of customization, all backed by the power of open-source collaboration.",
+    "features": [
+      "Vuetify",
+      "Responsive layout",
+      "Vue Apex Charts",
+      "Simple login / logout",
+      "Error page",
+      "Styled Vuetify components like buttons, modals, etc"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 62,
+    "price": 0,
+    "popularity": 1042,
+    "appType": "admin-template",
+    "details": "https://github.com/Tapiul-miya/testapi4/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "testapi4",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/testapi4.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://materialfy-demo.netlify.app/",
+    "templateName": "Testapi4",
+    "description": "Redefine Admin Dashboards with testapi4: A New Realm of Open-Source Brilliance Step into the future of admin management with testapi4 – a doorway to open-source brilliance in dashboard design. This template encapsulates the essence of adaptability, enabling you to create admin interfaces that resonate with your vision. Unlock the potential of open-source as you redefine admin dashboards with testapi4.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 63,
+    "price": 0,
+    "popularity": 1043,
+    "appType": "admin-template",
+    "details": "https://github.com/sahrullahh/windzo/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "windzo",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/windzo.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://windzo.vercel.app/",
+    "templateName": "Windzo",
+    "description": "Empower Your Admin Interface with Freedom: Introducing Vue Tailwind CSS Open-Source Dashboard Template Experience the synergy of innovation and customization with our open-source admin dashboard template. Designed using Vue.js and Tailwind CSS, this template breaks barriers, offering a dynamic canvas for crafting the perfect admin experience. Elevate your admin management while enjoying the flexibility of open-source development, all at no cost.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 64,
+    "price": 0,
+    "popularity": 1044,
+    "appType": "admin-template",
+    "details": "https://github.com/tal7aouy/vue-board/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "vue-board",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-board.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://vue3-board.netlify.app/dashboard",
+    "templateName": "Vue Board",
+    "description": "VueBoard: Unleash the Potential of Vue 3, Tailwind CSS, and TypeScript in Your Admin Dashboard Unlock a new level of admin dashboard capabilities with VueBoard – the embodiment of Vue 3, Tailwind CSS, and TypeScript mastery. Seamlessly navigate through tasks, delight in the visual finesse, and trust in the robustness of typed programming. Embrace VueBoard for a future where admin dashboards are elevated by the perfect blend of technologies.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
