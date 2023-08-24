@@ -1447,5 +1447,108 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 65,
+    "price": 0,
+    "popularity": 1045,
+    "appType": "admin-template",
+    "details": "https://github.com/cruip/vuejs-admin-dashboard-template/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "vuejs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuejs-admin-dashboard-template.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://mosaic-vue.cruip.com/",
+    "templateName": "Vuejs admin dashboard template",
+    "description": "Crafted with Care: Mosaic Lite stands as a meticulously designed admin dashboard template, skillfully fashioned atop the robust framework of Tailwind CSS and entirely developed using the Vue framework. This creation proudly comes from the hands of...",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 66,
+    "price": 0,
+    "popularity": 1046,
+    "appType": "admin-template",
+    "details": "https://github.com/AwasthiDevanshu/cdesk_vuetify/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "cdesk_vuetify",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cdesk_vuetify.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://vuetify-material-dashboard.vuetifyjs.com/",
+    "templateName": "cdesk vuetify",
+    "description": "cdesk Vuetify: Your Vue Admin Solution: Presenting cdesk Vuetify, an ingenious and open-source admin dashboard template for Vue enthusiasts. Seamlessly catering to your needs, this template is set to redefine your admin experience.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 67,
+    "price": 0,
+    "popularity": 1047,
+    "appType": "admin-template",
+    "details": "https://github.com/kamona-ui/kui-dashboard-vue/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "kui-dashboard-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/kui-dashboard-vue.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://kamona-ui.github.io/kui-dashboard-vue/#/",
+    "templateName": "Kui dashboard vue",
+    "description": "Tailwind CSS & Vue.js 3: The Perfect Pair for Admin Templates: Discover the perfect pairing of Tailwind CSS and Vue.js 3 in our admin dashboard template. Crafted for responsiveness and user-friendliness, this template revolutionizes the way you approach admin interfaces.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 68,
+    "price": 0,
+    "popularity": 1048,
+    "appType": "admin-template",
+    "details": "https://github.com/Khusan1997/Sign-App/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "sign-app",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sign-app.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://demo.flatlogic.com/sing-app-vue/#/app/main/analytics",
+    "templateName": "Sign app",
+    "description": "Elevate Admin Experiences with Sing App Vue Dashboard: Elevate your admin experiences with the Sing App Vue Dashboard, a revolutionary admin template that's not only open source but also completely free. Navigate and control your projects effortlessly.",
+    "features": [
+      "Bootstrap 4+ & SCSS",
+      "Responsive layout",
+      "Styled Bootstrap components like buttons, modals, etc",
+      "Dashboard sample",
+      "Typography",
+      "Tables",
+      "Notifications",
+      "Base charts",
+      "Icons",
+      "Maps",
+      "Hover sidebar"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 69,
+    "price": 0,
+    "popularity": 1049,
+    "appType": "admin-template",
+    "details": "https://github.com/elevengroupkh/irtransaction/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "irtransaction",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/irtransaction.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://quasar-admin-crm-template.netlify.app/dashboard",
+    "templateName": "Irtransaction",
+    "description": "Quasar Admin Template: Pioneering CRM Solutions: Pave the way for pioneering CRM solutions with the Quasar Admin Template. Combining sleek design with advanced capabilities, it's the template you need to navigate the complexities of customer relationship management.",
+    "features": [
+      "Modern and responsive design",
+      "Building design based on CRM",
+      "Simple CRM Dashboard",
+      "Export feature"
+    ],
+    "createdOn": ""
   }
 ]
