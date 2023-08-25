@@ -1550,5 +1550,103 @@
       "Export feature"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 70,
+    "price": 0,
+    "popularity": 1050,
+    "appType": "admin-template",
+    "details": "https://github.com/liangyuetian/elementuivue2to3/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "elementuivue2to3",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/elementuivue2to3.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://admin.senseui.im/#/dashboard",
+    "templateName": "Elementuivue2to3",
+    "description": "Empowering developers, the admin-base-template is a valuable open source resource, delivering a complete kit to expedite the construction of admin templates without any financial constraints.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 71,
+    "price": 0,
+    "popularity": 1051,
+    "appType": "admin-template",
+    "details": "https://github.com/uilibrary/AatroX-vue/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "aatrox-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/aatrox-vue.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://aatrox-vue-free.netlify.app/dashboards/dashboard-version-one",
+    "templateName": "AatroX Vue",
+    "description": "Navigate the world of administration effortlessly with our Vue.js 3, Vite, and Tailwind CSS-based Minimal Admin Dashboard. Crafted for simplicity, it's your free ticket to efficient management, offered under an open source umbrella.",
+    "features": [
+      "Vue 3 & Vite",
+      "Beautifully Crafted",
+      "TailwindCss",
+      "Nuxt-inspired Routing",
+      "Well Organized",
+      "Production Ready",
+      "Accessible frontend routing",
+      "Ready to Deploy",
+      "Clean Code"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 72,
+    "price": 0,
+    "popularity": 1052,
+    "appType": "admin-template",
+    "details": "https://github.com/sanam453/Vuetify-Material-Dashboard/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "vuetify-material-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuetify-material-dashboard.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://vuetify-material-dashboard-phi.vercel.app/#/",
+    "templateName": "Vuetify Material Dashboard",
+    "description": "Transform your web applications into works of art with the Vuetify Material Dashboard, a canvas where Vuetify's capabilities blend seamlessly with the Material Design philosophy.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 73,
+    "price": 0,
+    "popularity": 1053,
+    "appType": "admin-template",
+    "details": "https://github.com/otezz/tailmin/archive/refs/heads/main.zip",
+    "category": "Vue",
+    "imageAlt": "tailmin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailmin.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://tailmin.vercel.app/",
+    "templateName": "Tailmin",
+    "description": "Experience a new era of administrative interfaces with Tailmin, an admin dashboard meticulously crafted with the power of Vue.js and the elegance of Tailwind CSS.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 74,
+    "price": 0,
+    "popularity": 1054,
+    "appType": "admin-template",
+    "details": "https://github.com/ngekoding/admin-panel/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "admin-panel",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/admin-panel.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://ngekoding.github.io/admin-panel/#/",
+    "templateName": "Admin panel",
+    "description": "Navigate the realm of administration effortlessly using our cutting-edge admin panel, meticulously crafted using VueJS, Vite, and Tailwind. A convergence that redefines efficiency.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
