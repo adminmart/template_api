@@ -1648,5 +1648,115 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 75,
+    "price": 0,
+    "popularity": 1055,
+    "appType": "landingpage",
+    "details": "https://github.com/Yefee8/request-form-template/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "request-form-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/request-form-template.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://request-form-template.netlify.app/",
+    "templateName": "Request form template",
+    "description": "Contained within this Nuxt.js template are three pages that cater to different needs: the homepage welcomes users, while the registration and login pages facilitate access. To gain comprehensive insights into the workings of these pages and further details, please direct your attention to the readme.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 76,
+    "price": 0,
+    "popularity": 1056,
+    "appType": "landingpage",
+    "details": "https://github.com/mmoollllee/nuxt-starter-template/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-starter-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-starter-template.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://mmoollllee.github.io/nuxt-starter-template/",
+    "templateName": "Nuxt starter template",
+    "description": "Elevate Your Branding: Elevate your brand's online presence using this static website template as a springboard. A polished and modern design sets the stage for effectively showcasing your marketing content. Through thoughtful organization and strategic layout, this template enhances user engagement and leaves a lasting impact.",
+    "features": [
+      "Responsive Images via NUXT Optimized Images",
+      "Fancyapps UI (Licence needed)",
+      "Manifest & Favicon Icon Generation",
+      "Automatic Sitemap Generation",
+      "Bootstrap",
+      "Countup.js",
+      "Fantasticon",
+      "Mail Spam Protection",
+      "PHP Contact Form",
+      "Responsive Slideout Menu",
+      "Good Lighthouse Audit ( Performance 90+, Accessibility 100, Best Practices 100, SEO 100)",
+      "Opt-In Cookie Banner",
+      "Modal Windows with route change"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 77,
+    "price": 0,
+    "popularity": 1057,
+    "appType": "landingpage",
+    "details": "https://github.com/Gomah/bluise/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "bluise",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/bluise.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://bluise.netlify.app/",
+    "templateName": "Bluise",
+    "description": "Elevate Your Branding: Elevate your brand's online presence using this static website template as a springboard. A polished and modern design sets the stage for effectively showcasing your marketing content. Through thoughtful organization and strategic layout, this template enhances user engagement and leaves a lasting impact.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 78,
+    "price": 0,
+    "popularity": 1058,
+    "appType": "admin-template",
+    "details": "https://github.com/ztemplates/nuxt-vuetify-enhanced/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-vuetify-enhanced",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-vuetify-enhanced.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://nuxt-vuetify-enhanced.pages.dev/",
+    "templateName": "Nuxt vuetify enhanced",
+    "description": "Uniting the strengths of Nuxt and Vuetify, our enhanced solution empowers you to craft exceptional applications. Seamlessly merge Nuxt's robust SSR capabilities with Vuetify's versatile components, resulting in a harmonious development experience and stunning user interfaces.",
+    "features": [
+      "No SSR hell",
+      "Auto dark theme",
+      "Local storage persisted vuex state",
+      "Fluent-design style acrylic",
+      "Using CascadiaCode as default monospace font",
+      "Per-theme background image",
+      "Build-in toast support via iziToast, with wrap function to make async calls easier",
+      "Async button for async tasks",
+      "Git info"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 79,
+    "price": 0,
+    "popularity": 1059,
+    "appType": "landingpage",
+    "details": "https://github.com/uravgkarthik/karthik-writes/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "karthik-writes",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/karthik-writes.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://karthik-writes.netlify.app/",
+    "templateName": "Karthik writes",
+    "description": "Within this digital haven, you'll find my scribbles that have transformed into heartfelt sentiments. Every post is a testament to the power of words in capturing moments, unraveling thoughts, and stitching together the fabric of my experiences.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
