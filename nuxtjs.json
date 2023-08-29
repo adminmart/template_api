@@ -1758,5 +1758,95 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 80,
+    "price": 0,
+    "popularity": 1060,
+    "appType": "admin-template",
+    "details": "https://github.com/ivangreve/nuxt-resume/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-resume",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-resume.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://ivangreve.com/",
+    "templateName": "Nuxt Resume",
+    "description": "Crafted using Vue.js and Nuxt.js Elevate your personal brand with this meticulously designed professional portfolio template, powered by the dynamic Vue.js framework and optimized through Nuxt.js. Showcase your achievements, skills, and experiences in an elegant and interactive manner that captivates visitors and potential employers alike.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 81,
+    "price": 0,
+    "popularity": 1061,
+    "appType": "landingpage",
+    "details": "https://github.com/kenryu42/lite-nuxt-portfolio-template/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "lite-nuxt-portfolio-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lite-nuxt-portfolio-template.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://lite-nuxt-portfolio-template.web.app/",
+    "templateName": "Lite nuxt portfolio template",
+    "description": "Uncluttered Excellence Introducing the Efficiency-First Developer Portfolio – a stripped-down version that maximizes impact. Designed for developers who value directness and effectiveness, this template prides itself on its uncluttered approach. Embrace the minimalist aesthetic while highlighting your coding prowess and projects that truly matter.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 82,
+    "price": 0,
+    "popularity": 1062,
+    "appType": "landingpage",
+    "details": "https://github.com/dhanielcodes/agrokeep/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "agrokeep",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/agrokeep.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://agrokeep.vercel.app/",
+    "templateName": "Agrokeep",
+    "description": "Empower yourself to be a catalyst for change with Agrokeep's revolutionary food waste solution. Together, we're reshaping the way we approach consumption. Through real-time insights and personalized recommendations, Agrokeep equips you with the tools to make informed decisions, curbing food waste and fostering a more sustainable future.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 83,
+    "price": 0,
+    "popularity": 1063,
+    "appType": "landingpage",
+    "details": "https://github.com/kousikaganesan/nuxt-resume-template/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-resume-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-resume-template.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://kousikaganesan.github.io/",
+    "templateName": "Nuxt resume template",
+    "description": "Dynamic Storytelling Redefined Dive into the future of resume building with NuxtResume Pro. Crafted on the Nuxt.js framework, this template offers dynamic storytelling that engages and impresses. From your career milestones to your skill set, NuxtResume Pro ensures your resume is an immersive experience that showcases your professional journey in a new light.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 84,
+    "price": 0,
+    "popularity": 1064,
+    "appType": "landingpage",
+    "details": "https://github.com/imanaspaul/nuxt-content-blog-theme/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-content-blog-theme",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-content-blog-theme.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxt-content-blog-theme.vercel.app/",
+    "templateName": "Nuxt content blog theme",
+    "description": "Embrace Simplicity in Style Discover the essence of minimalism with our NuxtEssence Blog Template. Crafted on the Nuxt.js framework, this template lets your content shine without distractions. Clean lines and a minimalist design ensure your blog takes center stage, providing a delightful reading experience that resonates with both aesthetics and functionality.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
