@@ -991,7 +991,7 @@
     "imageAlt": "devextreme-angular-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/devextreme-angular-template.jpg",
     "subtitle": "Responsive Application Layout Templates​ based on DevExtreme Angular Components",
-    "livePreview": "https://js.devexpress.com/",
+    "livePreview": "https://devexpress.github.io/devextreme-angular-template/#/home",
     "templateName": "Devextreme angular template",
     "description": "Adaptive App Layout Templates Showcasing DevExtreme Angular Components Experience the future of responsive application layouts with our innovative templates, seamlessly integrated with the power of DevExtreme Angular Components. These templates are meticulously designed to ensure your application's adaptability across devices, guaranteeing a user experience that remains flawless on every screen size.",
     "features": [
@@ -1161,6 +1161,112 @@
     "livePreview": "https://mesinkasir.vercel.app/",
     "templateName": "Angular simple site",
     "description": "Discover Elegance in Simplicity with Our Angular Simple Site Experience the beauty of simplicity through our Angular Simple Site. Stripped down to the essentials, this site showcases the essence of your content in a clean and straightforward manner. Built on the Angular framework, it combines functionality with ease of use, offering a seamless user experience. Embrace the power of minimalism and let your content shine on our elegantly designed Simple Site.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 46,
+    "price": 0,
+    "popularity": 1025,
+    "appType": "admin-template",
+    "details": "https://github.com/id1945/metronic-admin/archive/refs/heads/full-version-8.0.25.zip",
+    "category": "Angular",
+    "imageAlt": "metronic-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://id1945.github.io/metronic-admin/#/dashboard",
+    "templateName": "Metronic admin",
+    "description": "The Metronic Admin Template stands as a versatile and feature-rich solution for crafting modern and intuitive web-based applications. With its carefully designed user interface components, responsive layouts, and extensive set of customization options, Metronic empowers developers to swiftly create visually stunning and highly functional admin panels. Whether you're working on a dashboard, analytics tool, or content management system, Metronic provides a solid foundation that streamlines development and enhances the end-user experience.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 47,
+    "price": 0,
+    "popularity": 1026,
+    "appType": "admin-template",
+    "details": "https://github.com/jun-tech/ng-ant-design-pro-platform/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "ng-ant-design-pro-platform",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ng-ant-design-pro-platform.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://jun-tech.github.io/ng-ant-design-pro-platform/#/system/home",
+    "templateName": "Ng ant design pro platform",
+    "description": "The platform presents a collection of template choices, all leveraging the power of Angular, ng-zorro, and ant-design-pro as their core components.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 48,
+    "price": 0,
+    "popularity": 1027,
+    "appType": "admin-template",
+    "details": "https://github.com/id1945/skote-admin/archive/refs/heads/full-version-1.0.zip",
+    "category": "Angular",
+    "imageAlt": "skote-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/skote-admin.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://id1945.github.io/skote-admin/#/dashboard",
+    "templateName": "Skote admin",
+    "description": "Seamlessly integrate the power of Angular 13 into your administrative workflows with this feature-rich Admin & Dashboard Template, complemented by a meticulously crafted Sketch design.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "Ng Bootstrap",
+    "doFollow": true
+  },
+  {
+    "id": 49,
+    "price": 0,
+    "popularity": 1028,
+    "appType": "admin-template",
+    "details": "https://github.com/dbartumeu/atomic-ui/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "atomic-ui",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/atomic-ui.jpg",
+    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
+    "livePreview": "https://dbartumeu.github.io/atomic-ui/docs/master/getting-started",
+    "templateName": "Atomic ui",
+    "description": "Empower your team with an Angular 5+ Material Design Admin Platform that fuses advanced technology with visual sophistication, setting a new standard for modern administration.",
+    "features": [
+      "Clean, Intuitive and Fully Responsive Unique Design (works on all major browsers, tablets and phones)",
+      "Developer Friendly Code",
+      "Based on angular 5 Framework",
+      "Material 5",
+      "2 Color schemas (light and dark)",
+      "Full SASS Support",
+      "Full RTL Support"
+    ],
+    "createdOn": "",
+    "frameworkName": "Material Angular",
+    "doFollow": true
+  },
+  {
+    "id": 50,
+    "price": 0,
+    "popularity": 1029,
+    "appType": "landingpage",
+    "details": "https://github.com/stimulsoft/Samples-Dashboards.JS-for-Angular/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "samples-dashboards.js-for-angular",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/samples-dashboards.js-for-angular.jpg",
+    "subtitle": "Free & Open-Source Angular Landing Page Template",
+    "livePreview": "https://www.stimulsoft.com/en/products/dashboards-js",
+    "templateName": "Samples Dashboards.JS for Angular",
+    "description": "Navigate through an assortment of JavaScript samples that vividly exemplify Dashboards.JS, the cutting-edge data analytics tool designed to enhance the potential of both Angular and AngularJS applications.",
     "features": [
       
     ],
