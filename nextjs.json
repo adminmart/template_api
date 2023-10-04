@@ -253,8 +253,41 @@
   },
   {
     "id": 10,
-    "price": 0,
+    "price": 49,
     "popularity": 301,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/spike-nextjs-admin-template/",
+    "category": "NextJs",
+    "imageAlt": "spike-nextjs-admin-dashboard-prev-img",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-nextjs-admin-dashboard-prev-img.jpg",
+    "subtitle": "NextJs 13, with App Directory",
+    "livePreview": "https://www.wrappixel.com/templates/spike-nextjs-admin-template/#demos",
+    "templateName": "Spike NextJs Admin Template",
+    "description": "Do you want to create a stunning and eye-catchy Next.Js Admin Dashboard for your next web app project? If yes, then we have the perfect solution for you. Spike Next.Js Admin Dashboard is a pre-built, ready-to-use, highly customizable and developer friendly admin template. This admin dashboard template provides you the perfect combo of features that are easy to use. Spike Next.Js Admin Dashboard besides being packed with several amazing features provides a 100% money-back guarantee, 1 year of free updates & dedicated support. This template is fully responsive and developed using the latest web technologies. It comes with a variety of pre-built UI components, app designs, dashboard designs, forms and menus. So, it has everything a developer needs to build a successful web app.",
+    "features": [
+      "RTL Dashboard version",
+      "Mui & Typescript & NextJs",
+      "5 unique demos",
+      "Figma Files for most of Pages",
+      "2+ unique dashboards",
+      "3400+ Font icons",
+      "Completely responsive pages",
+      "Charts & tables",
+      "Dark and light sidebar themes",
+      "Axios Included",
+      "i18 React Added",
+      "Widgets and UI components",
+      "Slick Carousel",
+      "Application Designs",
+      "6 color skins"
+    ],
+    "createdOn": "22-Sept-2023",
+    "frameworkName": ""
+  },
+  {
+    "id": 11,
+    "price": 0,
+    "popularity": 302,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-free-nextjs-admin-template/",
     "category": "NextJs",
@@ -273,9 +306,9 @@
     "frameworkName": ""
   },
   {
-    "id": 11,
+    "id": 12,
     "price": 49,
-    "popularity": 302,
+    "popularity": 303,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-nextjs-admin-dashboard-app-directory/",
     "category": "NextJs",
@@ -306,9 +339,9 @@
     "frameworkName": ""
   },
   {
-    "id": 12,
+    "id": 13,
     "price": 0,
-    "popularity": 303,
+    "popularity": 304,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/",
     "category": "NextJs",
@@ -333,9 +366,9 @@
     "frameworkName": ""
   },
   {
-    "id": 13,
+    "id": 14,
     "price": 49,
-    "popularity": 304,
+    "popularity": 305,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-nextjs-dashboard-material-ui/#demos",
     "category": "NextJs",
@@ -366,9 +399,9 @@
     "frameworkName": ""
   },
   {
-    "id": 14,
+    "id": 15,
     "price": 0,
-    "popularity": 305,
+    "popularity": 306,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-next-js-free-admin-template/",
     "category": "NextJs",
@@ -392,9 +425,9 @@
     "frameworkName": ""
   },
   {
-    "id": 15,
+    "id": 16,
     "price": 49,
-    "popularity": 306,
+    "popularity": 307,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
@@ -424,9 +457,9 @@
     "frameworkName": ""
   },
   {
-    "id": 16,
+    "id": 17,
     "price": 0,
-    "popularity": 307,
+    "popularity": 308,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-next-js-free-admin-template/",
     "category": "NextJs",
@@ -450,9 +483,9 @@
     "frameworkName": ""
   },
   {
-    "id": 17,
+    "id": 18,
     "price": 49,
-    "popularity": 308,
+    "popularity": 309,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
@@ -482,9 +515,9 @@
     "frameworkName": ""
   },
   {
-    "id": 18,
+    "id": 19,
     "price": 0,
-    "popularity": 309,
+    "popularity": 310,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-next-js-free-admin-template/",
     "category": "NextJs",
@@ -508,9 +541,9 @@
     "frameworkName": ""
   },
   {
-    "id": 19,
+    "id": 20,
     "price": 49,
-    "popularity": 310,
+    "popularity": 311,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/#demos",
     "category": "NextJs",
@@ -542,9 +575,9 @@
     "frameworkName": ""
   },
   {
-    "id": 20,
+    "id": 21,
     "price": 0,
-    "popularity": 311,
+    "popularity": 312,
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/nextkit-nextjs-free-uikit/",
     "category": "NextJs",
@@ -570,7 +603,7 @@
     "frameworkName": ""
   },
   {
-    "id": 21,
+    "id": 22,
     "price": 0,
     "popularity": 401,
     "appType": "admin-template",
@@ -598,7 +631,7 @@
     "frameworkName": ""
   },
   {
-    "id": 22,
+    "id": 23,
     "price": 49,
     "popularity": 402,
     "appType": "admin-template",
@@ -630,7 +663,7 @@
     "frameworkName": ""
   },
   {
-    "id": 23,
+    "id": 24,
     "price": 0,
     "popularity": 601,
     "appType": "admin-template",
@@ -657,7 +690,7 @@
     "frameworkName": ""
   },
   {
-    "id": 24,
+    "id": 25,
     "price": 49,
     "popularity": 602,
     "appType": "admin-template",
@@ -689,7 +722,7 @@
     "frameworkName": ""
   },
   {
-    "id": 25,
+    "id": 26,
     "price": 0,
     "popularity": 603,
     "appType": "admin-template",
@@ -716,7 +749,7 @@
     "frameworkName": ""
   },
   {
-    "id": 26,
+    "id": 27,
     "price": 49,
     "popularity": 604,
     "appType": "admin-template",
@@ -748,7 +781,7 @@
     "frameworkName": ""
   },
   {
-    "id": 27,
+    "id": 28,
     "price": 0,
     "popularity": 605,
     "appType": "admin-template",
@@ -775,7 +808,7 @@
     "frameworkName": ""
   },
   {
-    "id": 28,
+    "id": 29,
     "price": 49,
     "popularity": 606,
     "appType": "admin-template",
@@ -808,7 +841,7 @@
     "frameworkName": ""
   },
   {
-    "id": 29,
+    "id": 30,
     "price": 0,
     "popularity": 607,
     "appType": "admin-template",
@@ -835,7 +868,7 @@
     "frameworkName": ""
   },
   {
-    "id": 30,
+    "id": 31,
     "price": 49,
     "popularity": 608,
     "appType": "admin-template",
@@ -867,7 +900,7 @@
     "frameworkName": ""
   },
   {
-    "id": 31,
+    "id": 32,
     "price": 0,
     "popularity": 609,
     "appType": "admin-template",
@@ -894,7 +927,7 @@
     "frameworkName": ""
   },
   {
-    "id": 32,
+    "id": 33,
     "price": 49,
     "popularity": 610,
     "appType": "admin-template",
@@ -926,7 +959,7 @@
     "frameworkName": ""
   },
   {
-    "id": 33,
+    "id": 34,
     "price": 0,
     "popularity": 611,
     "appType": "admin-template",
@@ -954,7 +987,7 @@
     "frameworkName": ""
   },
   {
-    "id": 34,
+    "id": 35,
     "price": 49,
     "popularity": 612,
     "appType": "admin-template",
@@ -986,7 +1019,7 @@
     "frameworkName": ""
   },
   {
-    "id": 35,
+    "id": 36,
     "price": 0,
     "popularity": 613,
     "appType": "website",
@@ -1014,7 +1047,7 @@
     "frameworkName": ""
   },
   {
-    "id": 36,
+    "id": 37,
     "price": 0,
     "popularity": 1001,
     "appType": "website",
@@ -1030,7 +1063,7 @@
     "createdOn": ""
   },
   {
-    "id": 37,
+    "id": 38,
     "price": 0,
     "popularity": 1002,
     "appType": "website",
@@ -1047,7 +1080,7 @@
     "frameworkName": ""
   },
   {
-    "id": 38,
+    "id": 39,
     "price": 0,
     "popularity": 1003,
     "appType": "website",
@@ -1064,7 +1097,7 @@
     "frameworkName": ""
   },
   {
-    "id": 39,
+    "id": 40,
     "price": 0,
     "popularity": 1004,
     "appType": "website",
@@ -1081,7 +1114,7 @@
     "frameworkName": ""
   },
   {
-    "id": 40,
+    "id": 41,
     "price": 0,
     "popularity": 1005,
     "appType": "landingpage",
@@ -1098,7 +1131,7 @@
     "frameworkName": ""
   },
   {
-    "id": 41,
+    "id": 42,
     "price": 0,
     "popularity": 1006,
     "appType": "landingpage",
@@ -1115,7 +1148,7 @@
     "frameworkName": ""
   },
   {
-    "id": 42,
+    "id": 43,
     "price": 0,
     "popularity": 1007,
     "appType": "landingpage",
@@ -1132,7 +1165,7 @@
     "frameworkName": ""
   },
   {
-    "id": 43,
+    "id": 44,
     "price": 0,
     "popularity": 1008,
     "appType": "website",
@@ -1149,7 +1182,7 @@
     "frameworkName": ""
   },
   {
-    "id": 44,
+    "id": 45,
     "price": 0,
     "popularity": 1009,
     "appType": "website",
@@ -1166,7 +1199,7 @@
     "frameworkName": ""
   },
   {
-    "id": 45,
+    "id": 46,
     "price": 0,
     "popularity": 1010,
     "appType": "website",
@@ -1183,7 +1216,7 @@
     "frameworkName": ""
   },
   {
-    "id": 46,
+    "id": 47,
     "price": 0,
     "popularity": 1011,
     "appType": "website",
@@ -1200,7 +1233,7 @@
     "frameworkName": ""
   },
   {
-    "id": 47,
+    "id": 48,
     "price": 0,
     "popularity": 1012,
     "appType": "website",
@@ -1217,7 +1250,7 @@
     "frameworkName": ""
   },
   {
-    "id": 48,
+    "id": 49,
     "price": 0,
     "popularity": 1013,
     "appType": "website",
@@ -1234,7 +1267,7 @@
     "frameworkName": ""
   },
   {
-    "id": 49,
+    "id": 50,
     "price": 0,
     "popularity": 1014,
     "appType": "website",
@@ -1251,7 +1284,7 @@
     "frameworkName": ""
   },
   {
-    "id": 50,
+    "id": 51,
     "price": 0,
     "popularity": 1015,
     "appType": "landingpage",
@@ -1268,7 +1301,7 @@
     "frameworkName": ""
   },
   {
-    "id": 51,
+    "id": 52,
     "price": 0,
     "popularity": 1016,
     "appType": "website",
@@ -1285,7 +1318,7 @@
     "frameworkName": ""
   },
   {
-    "id": 52,
+    "id": 53,
     "price": 0,
     "popularity": 1017,
     "appType": "landingpage",
@@ -1302,7 +1335,7 @@
     "frameworkName": ""
   },
   {
-    "id": 53,
+    "id": 54,
     "price": 0,
     "popularity": 1018,
     "appType": "landingpage",
@@ -1320,7 +1353,7 @@
     "createdOn": "20-Mar-2023"
   },
   {
-    "id": 54,
+    "id": 55,
     "price": 0,
     "popularity": 1019,
     "appType": "landingpage",
@@ -1338,7 +1371,7 @@
     "createdOn": "15-Oct-2020"
   },
   {
-    "id": 55,
+    "id": 56,
     "price": 0,
     "popularity": 1020,
     "appType": "landingpage",
@@ -1366,7 +1399,7 @@
     "createdOn": "18-May-2023"
   },
   {
-    "id": 56,
+    "id": 57,
     "price": 0,
     "popularity": 1021,
     "appType": "landingpage",
@@ -1384,7 +1417,7 @@
     "createdOn": "19-Jan-2021"
   },
   {
-    "id": 57,
+    "id": 58,
     "price": 0,
     "popularity": 1022,
     "appType": "landingpage",
@@ -1402,7 +1435,7 @@
     "createdOn": "13-Nov-2022"
   },
   {
-    "id": 58,
+    "id": 59,
     "price": 0,
     "popularity": 1023,
     "appType": "landingpage",
@@ -1430,7 +1463,7 @@
     "createdOn": "26-Apr-2021"
   },
   {
-    "id": 59,
+    "id": 60,
     "price": 0,
     "popularity": 1024,
     "appType": "landingpage",
@@ -1453,7 +1486,7 @@
     "createdOn": "04-Sep-2022"
   },
   {
-    "id": 60,
+    "id": 61,
     "price": 0,
     "popularity": 1025,
     "appType": "landingpage",
@@ -1480,7 +1513,7 @@
     "createdOn": "06-Jan-2022"
   },
   {
-    "id": 61,
+    "id": 62,
     "price": 0,
     "popularity": 1026,
     "appType": "landingpage",
@@ -1498,7 +1531,7 @@
     "createdOn": "18-Jul-2022"
   },
   {
-    "id": 62,
+    "id": 63,
     "price": 0,
     "popularity": 1027,
     "appType": "landingpage",
@@ -1520,7 +1553,7 @@
     "createdOn": "28-Jan-2021"
   },
   {
-    "id": 63,
+    "id": 64,
     "price": 0,
     "popularity": 1028,
     "appType": "landingpage",
@@ -1538,7 +1571,7 @@
     "createdOn": "13-Jan-2023"
   },
   {
-    "id": 64,
+    "id": 65,
     "price": 0,
     "popularity": 1029,
     "appType": "landingpage",
@@ -1556,7 +1589,7 @@
     "createdOn": "11-Nov-2021"
   },
   {
-    "id": 65,
+    "id": 66,
     "price": 0,
     "popularity": 1030,
     "appType": "landingpage",
@@ -1584,7 +1617,7 @@
     "createdOn": "28-Oct-2022"
   },
   {
-    "id": 66,
+    "id": 67,
     "price": 0,
     "popularity": 1031,
     "appType": "landingpage",
@@ -1615,7 +1648,7 @@
     "createdOn": "08-Feb-2023"
   },
   {
-    "id": 67,
+    "id": 68,
     "price": 0,
     "popularity": 1032,
     "appType": "landingpage",
@@ -1633,7 +1666,7 @@
     "createdOn": "24-Jun-2022"
   },
   {
-    "id": 68,
+    "id": 69,
     "price": 0,
     "popularity": 1033,
     "appType": "landingpage",
@@ -1651,7 +1684,7 @@
     "createdOn": "03-Aug-2022"
   },
   {
-    "id": 69,
+    "id": 70,
     "price": 0,
     "popularity": 1034,
     "appType": "landingpage",
@@ -1669,7 +1702,7 @@
     "createdOn": "22-Apr-2022"
   },
   {
-    "id": 70,
+    "id": 71,
     "price": 0,
     "popularity": 1035,
     "appType": "admin-template",
@@ -1687,7 +1720,7 @@
     "createdOn": ""
   },
   {
-    "id": 71,
+    "id": 72,
     "price": 0,
     "popularity": 1036,
     "appType": "admin-template",
@@ -1705,7 +1738,7 @@
     "createdOn": ""
   },
   {
-    "id": 72,
+    "id": 73,
     "price": 0,
     "popularity": 1037,
     "appType": "admin-template",
@@ -1723,7 +1756,7 @@
     "createdOn": ""
   },
   {
-    "id": 73,
+    "id": 74,
     "price": 0,
     "popularity": 1038,
     "appType": "admin-template",
@@ -1741,7 +1774,7 @@
     "createdOn": ""
   },
   {
-    "id": 74,
+    "id": 75,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -1759,7 +1792,7 @@
     "createdOn": ""
   },
   {
-    "id": 75,
+    "id": 76,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -1777,7 +1810,7 @@
     "createdOn": ""
   },
   {
-    "id": 76,
+    "id": 77,
     "price": 0,
     "popularity": 1041,
     "appType": "admin-template",
@@ -1798,7 +1831,7 @@
     "createdOn": ""
   },
   {
-    "id": 77,
+    "id": 78,
     "price": 0,
     "popularity": 1042,
     "appType": "admin-template",
@@ -1822,7 +1855,7 @@
     "createdOn": ""
   },
   {
-    "id": 78,
+    "id": 79,
     "price": 0,
     "popularity": 1043,
     "appType": "admin-template",
@@ -1840,7 +1873,7 @@
     "createdOn": ""
   },
   {
-    "id": 79,
+    "id": 80,
     "price": 0,
     "popularity": 1044,
     "appType": "admin-template",
@@ -1858,7 +1891,7 @@
     "createdOn": ""
   },
   {
-    "id": 80,
+    "id": 81,
     "price": 0,
     "popularity": 1045,
     "appType": "admin-template",
@@ -1876,7 +1909,7 @@
     "createdOn": ""
   },
   {
-    "id": 81,
+    "id": 82,
     "price": 0,
     "popularity": 1046,
     "appType": "admin-template",
@@ -1894,7 +1927,7 @@
     "createdOn": ""
   },
   {
-    "id": 82,
+    "id": 83,
     "price": 0,
     "popularity": 1047,
     "appType": "admin-template",
@@ -1912,7 +1945,7 @@
     "createdOn": ""
   },
   {
-    "id": 83,
+    "id": 84,
     "price": 0,
     "popularity": 1048,
     "appType": "admin-template",
@@ -1930,7 +1963,7 @@
     "createdOn": ""
   },
   {
-    "id": 84,
+    "id": 85,
     "price": 0,
     "popularity": 1049,
     "appType": "landingpage",
@@ -1958,7 +1991,7 @@
     "createdOn": ""
   },
   {
-    "id": 85,
+    "id": 86,
     "price": 0,
     "popularity": 1050,
     "appType": "landingpage",
@@ -1976,7 +2009,7 @@
     "createdOn": ""
   },
   {
-    "id": 86,
+    "id": 87,
     "price": 0,
     "popularity": 1051,
     "appType": "landingpage",
@@ -1999,7 +2032,7 @@
     "createdOn": ""
   },
   {
-    "id": 87,
+    "id": 88,
     "price": 0,
     "popularity": 1052,
     "appType": "landingpage",
@@ -2017,7 +2050,7 @@
     "createdOn": "13-Jun-2022"
   },
   {
-    "id": 88,
+    "id": 89,
     "price": 0,
     "popularity": 1053,
     "appType": "landingpage",
@@ -2035,7 +2068,7 @@
     "createdOn": "03-Aug-2021"
   },
   {
-    "id": 89,
+    "id": 90,
     "price": 0,
     "popularity": 1054,
     "appType": "landingpage",
@@ -2057,7 +2090,7 @@
     "createdOn": "07-Jul-2022"
   },
   {
-    "id": 90,
+    "id": 91,
     "price": 0,
     "popularity": 1055,
     "appType": "landingpage",
@@ -2089,7 +2122,7 @@
     "createdOn": "18-Oct-2022"
   },
   {
-    "id": 91,
+    "id": 92,
     "price": 0,
     "popularity": 1056,
     "appType": "admin-template",
@@ -2107,7 +2140,7 @@
     "createdOn": ""
   },
   {
-    "id": 92,
+    "id": 93,
     "price": 0,
     "popularity": 1057,
     "appType": "admin-template",
@@ -2125,7 +2158,7 @@
     "createdOn": ""
   },
   {
-    "id": 93,
+    "id": 94,
     "price": 0,
     "popularity": 1058,
     "appType": "admin-template",
@@ -2149,7 +2182,7 @@
     "createdOn": ""
   },
   {
-    "id": 94,
+    "id": 95,
     "price": 0,
     "popularity": 1059,
     "appType": "admin-template",
@@ -2167,7 +2200,7 @@
     "createdOn": ""
   },
   {
-    "id": 95,
+    "id": 96,
     "price": 0,
     "popularity": 1060,
     "appType": "admin-template",
@@ -2185,7 +2218,7 @@
     "createdOn": ""
   },
   {
-    "id": 96,
+    "id": 97,
     "price": 0,
     "popularity": 1061,
     "appType": "admin-template",
@@ -2208,7 +2241,7 @@
     "createdOn": ""
   },
   {
-    "id": 97,
+    "id": 98,
     "price": 0,
     "popularity": 1062,
     "appType": "admin-template",
@@ -2226,7 +2259,7 @@
     "createdOn": ""
   },
   {
-    "id": 98,
+    "id": 99,
     "price": 0,
     "popularity": 1063,
     "appType": "admin-template",
@@ -2244,7 +2277,7 @@
     "createdOn": ""
   },
   {
-    "id": 99,
+    "id": 100,
     "price": 0,
     "popularity": 1064,
     "appType": "admin-template",
@@ -2262,7 +2295,7 @@
     "createdOn": ""
   },
   {
-    "id": 100,
+    "id": 101,
     "price": 0,
     "popularity": 1065,
     "appType": "admin-template",

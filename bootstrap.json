@@ -85,6 +85,65 @@
   },
   {
     "id": 4,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/spike-free-bootstrap-admin/",
+    "category": "Bootstrap",
+    "imageAlt": "Free-Spike-Admin-WrapPixel-Preview",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2023/09/Free-Spike-Admin-WrapPixel-Preview.jpg",
+    "subtitle": "Free & Open Source Dashboard Admin Template",
+    "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/spike-bootstrap-free/landingpage/index.html",
+    "templateName": "Spike Free Bootstrap Admin",
+    "description": "Its a free & open source Bootstrap Dashboard Admin Template with a broad scope of options and possibilities. It’s one of the cleanest and most beautiful Bootstrap 5 templates you can use for admin dashboards and admin panels. This stunning Bootstrap admin template can be customised perfectly as per your needs. If you’re working on a new project or creating a new application, then Spike Bootstrap Admin can be your handy tool at all times. It’s one of the most powerful admin panels that can help transform your ideas into a full-fledged product. This Bootstrap dashboard template brings you unparalleled customer experience and affordable design at your fingertips.",
+    "features": [
+      "Bootstrap 5",
+      "5 UI Components",
+      "5 Integrated Plugins",
+      "Lifetime free updates",
+      "Ready-to-use widgets",
+      "1 Form",
+      "1 Table examples",
+      "100+ Font icons",
+      "Sass base CSS",
+      "1 to 2 Chart options",
+      "Bootstrap version 5"
+    ],
+    "createdOn": "25-Sept-2023"
+  },
+  {
+    "id": 5,
+    "price": 49,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/spike-bootstrap-admin-dashboard/",
+    "category": "Bootstrap",
+    "imageAlt": "spike-bootstrap-admin-dashboard-prev-img",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-bootstrap-admin-dashboard-prev-img.jpg",
+    "subtitle": "Discover the Hottest Bootstrap 5 Dashboard Template",
+    "livePreview": "https://www.wrappixel.com/templates/spike-bootstrap-admin-dashboard/#demos",
+    "templateName": "Spike Bootstrap 5 Admin Dashboard",
+    "description": "Do you want to create a stunning and eye-catchy Bootstrap Admin Dashboard for your next web app project? If yes, then we have the perfect solution for you. Spike Bootstrap Admin Dashboard is a pre-built, ready-to-use, highly customizable and developer friendly admin template. This admin dashboard template provides you the perfect combo of features that are easy to use. Spike Bootstrap Admin Dashboard besides being packed with several amazing features provides a 100% money-back guarantee, 1 year of free updates & dedicated support. This template is fully responsive and developed using the latest web technologies. It comes with a variety of pre-built UI components, app designs, dashboard designs, forms and menus.",
+    "features": [
+      "RTL Dashboard version",
+      "5 unique demos",
+      "Figma Files for most of pages",
+      "2+ unique dashboards",
+      "3400+ Font icons",
+      "Completely responsive pages",
+      "Charts & tables",
+      "ark and light sidebar themes",
+      "Megamenu",
+      "Data Table export to PDF, Excel, CSV",
+      "Widgets and UI components",
+      "Validation forms",
+      "Application Designs",
+      "6 color skins"
+    ],
+    "createdOn": "20-Sept-2023"
+  },
+  {
+    "id": 6,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -115,7 +174,7 @@
     "createdOn": "11-Jul-2017"
   },
   {
-    "id": 5,
+    "id": 7,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -146,7 +205,7 @@
     "createdOn": "10-Mar-2017"
   },
   {
-    "id": 6,
+    "id": 8,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -177,7 +236,7 @@
     "createdOn": "10-May-2017"
   },
   {
-    "id": 7,
+    "id": 9,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -208,7 +267,7 @@
     "createdOn": "06-Sep-2017"
   },
   {
-    "id": 8,
+    "id": 10,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -239,7 +298,7 @@
     "createdOn": "16-May-2018"
   },
   {
-    "id": 9,
+    "id": 11,
     "price": 79,
     "popularity": 1,
     "appType": "admin-template",
@@ -270,7 +329,7 @@
     "createdOn": "15-May-2017"
   },
   {
-    "id": 10,
+    "id": 12,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -301,7 +360,7 @@
     "createdOn": "25-Jul-2018"
   },
   {
-    "id": 11,
+    "id": 13,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -332,7 +391,7 @@
     "createdOn": "07-Apr-2018"
   },
   {
-    "id": 12,
+    "id": 14,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -362,7 +421,7 @@
     "createdOn": "11-May-2021"
   },
   {
-    "id": 13,
+    "id": 15,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -390,7 +449,7 @@
     "createdOn": "09-Mar-2017"
   },
   {
-    "id": 14,
+    "id": 16,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -420,7 +479,7 @@
     "createdOn": "28-May-2018"
   },
   {
-    "id": 15,
+    "id": 17,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -448,7 +507,7 @@
     "createdOn": "10-May-2017"
   },
   {
-    "id": 16,
+    "id": 18,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -476,7 +535,7 @@
     "createdOn": "07-Oct-2017"
   },
   {
-    "id": 17,
+    "id": 19,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -504,7 +563,7 @@
     "createdOn": "27-Aug-2018"
   },
   {
-    "id": 18,
+    "id": 20,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -532,7 +591,7 @@
     "createdOn": "25-Jul-2018"
   },
   {
-    "id": 19,
+    "id": 21,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -561,7 +620,7 @@
     "createdOn": "18-Jan-2018"
   },
   {
-    "id": 20,
+    "id": 22,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -590,7 +649,7 @@
     "createdOn": "15-Jun-2018"
   },
   {
-    "id": 21,
+    "id": 23,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -618,7 +677,7 @@
     "createdOn": "09-May-2017"
   },
   {
-    "id": 22,
+    "id": 24,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -646,7 +705,7 @@
     "createdOn": "15-May-2021"
   },
   {
-    "id": 23,
+    "id": 25,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -669,7 +728,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 24,
+    "id": 26,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -692,7 +751,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 25,
+    "id": 27,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -716,7 +775,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 26,
+    "id": 28,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -734,7 +793,7 @@
     "createdOn": ""
   },
   {
-    "id": 27,
+    "id": 29,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -757,7 +816,7 @@
     "createdOn": ""
   },
   {
-    "id": 28,
+    "id": 30,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -775,7 +834,7 @@
     "createdOn": ""
   },
   {
-    "id": 29,
+    "id": 31,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -793,7 +852,7 @@
     "createdOn": ""
   },
   {
-    "id": 30,
+    "id": 32,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -811,7 +870,7 @@
     "createdOn": ""
   },
   {
-    "id": 31,
+    "id": 33,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -829,7 +888,7 @@
     "createdOn": ""
   },
   {
-    "id": 32,
+    "id": 34,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -847,7 +906,7 @@
     "createdOn": ""
   },
   {
-    "id": 33,
+    "id": 35,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -865,7 +924,7 @@
     "createdOn": ""
   },
   {
-    "id": 34,
+    "id": 36,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -883,7 +942,7 @@
     "createdOn": ""
   },
   {
-    "id": 35,
+    "id": 37,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -901,7 +960,7 @@
     "createdOn": ""
   },
   {
-    "id": 36,
+    "id": 38,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -919,7 +978,7 @@
     "createdOn": ""
   },
   {
-    "id": 37,
+    "id": 39,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -937,7 +996,7 @@
     "createdOn": ""
   },
   {
-    "id": 38,
+    "id": 40,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -955,7 +1014,7 @@
     "createdOn": ""
   },
   {
-    "id": 39,
+    "id": 41,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -973,7 +1032,7 @@
     "createdOn": ""
   },
   {
-    "id": 40,
+    "id": 42,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -991,7 +1050,7 @@
     "createdOn": ""
   },
   {
-    "id": 41,
+    "id": 43,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",

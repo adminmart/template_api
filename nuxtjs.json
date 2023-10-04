@@ -117,11 +117,71 @@
     ],
     "createdOn": "22-May-2023"
   },
-  
   {
     "id": 5,
     "price": 0,
     "popularity": 301,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/spike-free-nuxt-admin-dashboard/",
+    "category": "Nuxt",
+    "imageAlt": "spike-free-nuxt-js-admin-template-wp",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-nuxt-js-admin-template-wp.jpg",
+    "subtitle": "Free & Open Source NuxtJs Admin Template",
+    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nuxtjs/spike-nuxtjs-free/landingpage/index.html",
+    "templateName": "Spike Free Nuxt Admin Dashboard",
+    "description": "it is highly customizable and free dashboard template based on vuetify js. with a broad scope of options and possibilities. It’s one of the cleanest and most beautiful Vuetify 3 templates you can use for admin dashboards and admin panels. This stunning Vuetify admin template can be customised perfectly as per your needs. If you’re working on a new project or creating a new application, then Spike Nuxt Vuetify Admin can be your handy tool at all times. It’s one of the most powerful admin panels that can help transform your ideas into a full-fledged product. This Vuetify dashboard template brings you unparalleled customer experience and affordable design at your fingertips.",
+    "features": [
+      "8 Page templates",
+      "4 UI Components",
+      "5 Integrated Plugins",
+      "Lifetime free updates",
+      "Ready-to-use widgets",
+      "1 Form",
+      "1 Table examples",
+      "100+ Font icons",
+      "Sass base CSS",
+      "1 to 2 Chart options",
+      "Vuetify version 3"
+    ],
+    "createdOn": "03-Oct-2023"
+  },
+  {
+    "id": 6,
+    "price": 49,
+    "popularity": 302,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/",
+    "category": "Nuxt",
+    "imageAlt": "spike-nuxtjs-admin-dashboard-prev-img",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-nuxtjs-admin-dashboard-prev-img.jpg",
+    "subtitle": "Premium Nuxt 3 Admin Dashboard",
+    "livePreview": "https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/#demos",
+    "templateName": "Spike NuxtJs Admin Template",
+    "description": "If you want to create a web app with an eye-catching interface but don’t know how to get started, you’re in the right place because we have the perfect solution for you i.e, Spike NuxtJs admin template. This is a template that will provide you with complete customization, flexibility, and improves the overall productivity as well. Spike NuxtJs admin dashboard is packed with multiple pre-built UI components and features that makes the development process hassle-free. Some of the key features of this template include charts, validation forms, graphs, app designs, and dashboard designs. Spike NuxtJs template is a complete package for developers as it offers 1 year of free updates, 1 year of free dedicated support, and a 100% money-back guarantee. In order to ensure a seamless development experience for the developers this template is vetted over and over again.",
+    "features": [
+      "RTL Dashboard version",
+      "Vuetify & Vite & Typescript & NuxtJs",
+      "5 unique demos",
+      "Figma Designs with all most pages",
+      "2+ unique dashboards",
+      "3400+ Font icons",
+      "Completely responsive pages",
+      "Charts & tables",
+      "Dark and light sidebar themes",
+      "Axios Included",
+      "i18n Vue Added",
+      "Authguard Included",
+      "Widgets and UI components",
+      "Vue3 Carousel",
+      "Application Designs",
+      "6 color skins"
+    ],
+    "createdOn": "27-Sept-2023"
+  },
+  {
+    "id": 7,
+    "price": 0,
+    "popularity": 303,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-free-nuxtjs-admin-template/",
     "category": "Nuxt",
@@ -143,9 +203,9 @@
     "createdOn": "18-Jul-2022"
   },
   {
-    "id": 6,
+    "id": 8,
     "price": 49,
-    "popularity": 302,
+    "popularity": 304,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-nuxtjs/",
     "category": "Nuxt",
@@ -172,9 +232,9 @@
     "createdOn": "12-Jul-2022"
   },
   {
-    "id": 7,
+    "id": 9,
     "price": 0,
-    "popularity": 303,
+    "popularity": 305,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-free-nuxtjs-admin-dashboard/",
     "category": "Nuxt",
@@ -196,9 +256,9 @@
     "createdOn": "26-Jul-2022"
   },
   {
-    "id": 8,
+    "id": 10,
     "price": 49,
-    "popularity": 304,
+    "popularity": 306,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-nuxtjs/",
     "category": "Nuxt",
@@ -225,9 +285,9 @@
     "createdOn": "08-Jul-2022"
   },
   {
-    "id": 9,
+    "id": 11,
     "price": 0,
-    "popularity": 305,
+    "popularity": 307,
     "appType": "website",
     "details": "https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/",
     "category": "Nuxt",
@@ -252,7 +312,7 @@
     "createdOn": "19-Sep-2021"
   },
   {
-    "id": 10,
+    "id": 12,
     "price": 0,
     "popularity": 401,
     "appType": "admin-template",
@@ -281,7 +341,7 @@
     "createdOn": "09-Feb-2023"
   },
   {
-    "id": 11,
+    "id": 13,
     "price": 49,
     "popularity": 402,
     "appType": "admin-template",
@@ -316,9 +376,70 @@
     "createdOn": "12-Feb-2023"
   },
   {
-    "id": 12,
+    "id": 14,
     "price": 0,
     "popularity": 601,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/",
+    "category": "Vue",
+    "imageAlt": "spike-free-vuetify-vuejs-admin-template-wp",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-vuetify-vuejs-admin-template-wp.jpg",
+    "subtitle": "Free & Open Source VueJs Admin Template",
+    "livePreview": "https://demos.wrappixel.com/free-admin-templates/vuejs/spike-vuejs-free/landingpage/index.html",
+    "templateName": "Spike Free VueJs Admin Template",
+    "description": "it is highly customizable and free dashboard template based on vuetify js. with a broad scope of options and possibilities. It’s one of the cleanest and most beautiful Vuetify 3 templates you can use for admin dashboards and admin panels. This stunning Vuetify admin template can be customised perfectly as per your needs. If you’re working on a new project or creating a new application, then Spike Vuetify Admin can be your handy tool at all times. It’s one of the most powerful admin panels that can help transform your ideas into a full-fledged product. This Vuetify dashboard template brings you unparalleled customer experience and affordable design at your fingertips.",
+    "features": [
+      "8 Page templates",
+      "4 UI Components",
+      "5 Integrated Plugins",
+      "Lifetime free updates",
+      "Ready-to-use widgets",
+      "1 Form",
+      "1 Table examples",
+      "100+ Font icons",
+      "Sass base CSS",
+      "1 to 2 Chart options",
+      "Vuetify version 3"
+    ],
+    "createdOn": "03-Oct-2023"
+  },
+  {
+    "id": 15,
+    "price": 49,
+    "popularity": 602,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/",
+    "category": "Vue",
+    "imageAlt": "spike-vuejs-admin-dashboard-prev-img",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-vuejs-admin-dashboard-prev-img.jpg",
+    "subtitle": "Vue3 + Vuetify 3 Based Admin",
+    "livePreview": "https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/#demos",
+    "templateName": "Spike VueJs Admin Dashboard",
+    "description": "Do you want to create a stunning and eye-catchy Vue.Js Admin Dashboard for your next web app project? If yes, then we have the perfect solution for you. Spike Vue.Js Admin Dashboard is a pre-built, ready-to-use, highly customizable and developer friendly admin template. This admin dashboard template provides you the perfect combo of features that are easy to use. Spike Vue.Js Admin Dashboard besides being packed with several amazing features provides a 100% money-back guarantee, 1 year of free updates & dedicated support. This template is fully responsive and developed using the latest web technologies. It comes with a variety of pre-built UI components, app designs, dashboard designs, forms and menus. So, it has everything a developer needs to build a successful web app.",
+    "features": [
+      "RTL Dashboard version",
+      "Vuetify & Vite & Typescript & VueJs",
+      "5 unique demos",
+      "Figma Designs with all most pages",
+      "2+ unique dashboards",
+      "3400+ Font icons",
+      "Completely responsive pages",
+      "Charts & tables",
+      "Dark and light sidebar themes",
+      "Axios Included",
+      "i18n Vue Added",
+      "Authguard Included",
+      "Widgets and UI components",
+      "Vue3 Carousel",
+      "Application Designs",
+      "6 color skins"
+    ],
+    "createdOn": "22-Sept-2023"
+  },
+  {
+    "id": 16,
+    "price": 0,
+    "popularity": 603,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-vuetify-admin-lite/",
     "category": "Vue",
@@ -341,9 +462,9 @@
     "createdOn": "15-May-2020"
   },
   {
-    "id": 13,
+    "id": 17,
     "price": 49,
-    "popularity": 602,
+    "popularity": 604,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-vuetify-admin/",
     "category": "Vue",
@@ -370,9 +491,9 @@
     "createdOn": "12-May-2020"
   },
   {
-    "id": 14,
+    "id": 18,
     "price": 0,
-    "popularity": 603,
+    "popularity": 605,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/",
     "category": "Vue",
@@ -396,9 +517,9 @@
     "createdOn": "30-Sep-2019"
   },
   {
-    "id": 15,
+    "id": 19,
     "price": 49,
-    "popularity": 604,
+    "popularity": 606,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/",
     "category": "Vue",
@@ -427,9 +548,9 @@
     "createdOn": "14-Oct-2019"
   },
   {
-    "id": 16,
+    "id": 20,
     "price": 0,
-    "popularity": 605,
+    "popularity": 607,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/",
     "category": "Vue",
@@ -452,9 +573,9 @@
     "createdOn": "07-Nov-2020"
   },
   {
-    "id": 17,
+    "id": 21,
     "price": 49,
-    "popularity": 606,
+    "popularity": 608,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/",
     "category": "Vue",
@@ -481,9 +602,9 @@
     "createdOn": "14-Oct-2019"
   },
   {
-    "id": 18,
+    "id": 22,
     "price": 0,
-    "popularity": 607,
+    "popularity": 609,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-vuejs-admin-free/",
     "category": "Vue",
@@ -505,9 +626,9 @@
     "createdOn": "15-Jul-2022"
   },
   {
-    "id": 19,
+    "id": 23,
     "price": 49,
-    "popularity": 608,
+    "popularity": 610,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-vuetify-dashboard/",
     "category": "Vue",
@@ -534,9 +655,9 @@
     "createdOn": "01-Apr-2022"
   },
   {
-    "id": 20,
+    "id": 24,
     "price": 0,
-    "popularity": 609,
+    "popularity": 611,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-bootstrap-vue-admin-lite/",
     "category": "Vue",
@@ -559,9 +680,9 @@
     "createdOn": "02-Jun-2021"
   },
   {
-    "id": 21,
+    "id": 25,
     "price": 49,
-    "popularity": 610,
+    "popularity": 612,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/monster-vuejs-admin/",
     "category": "Vue",
@@ -590,7 +711,7 @@
     "createdOn": "02-Jun-2021"
   },
   {
-    "id": 22,
+    "id": 26,
     "price": 0,
     "popularity": 1001,
     "appType": "website",
@@ -619,7 +740,7 @@
     "createdOn": "20 Oct 2022"
   },
   {
-    "id": 23,
+    "id": 27,
     "price": 0,
     "popularity": 1002,
     "appType": "website",
@@ -651,7 +772,7 @@
     "createdOn": "14 Jan 2022"
   },
   {
-    "id": 24,
+    "id": 28,
     "price": 0,
     "popularity": 1003,
     "appType": "website",
@@ -669,7 +790,7 @@
     "createdOn": "19 Jan 2022"
   },
   {
-    "id": 25,
+    "id": 29,
     "price": 0,
     "popularity": 1004,
     "appType": "admin-template",
@@ -687,7 +808,7 @@
     "createdOn": ""
   },
   {
-    "id": 26,
+    "id": 30,
     "price": 0,
     "popularity": 1005,
     "appType": "admin-template",
@@ -705,7 +826,7 @@
     "createdOn": ""
   },
   {
-    "id": 27,
+    "id": 31,
     "price": 0,
     "popularity": 1006,
     "appType": "admin-template",
@@ -723,7 +844,7 @@
     "createdOn": ""
   },
   {
-    "id": 28,
+    "id": 32,
     "price": 0,
     "popularity": 1007,
     "appType": "admin-template",
@@ -741,7 +862,7 @@
     "createdOn": ""
   },
   {
-    "id": 29,
+    "id": 33,
     "price": 0,
     "popularity": 1008,
     "appType": "admin-template",
@@ -759,7 +880,7 @@
     "createdOn": ""
   },
   {
-    "id": 30,
+    "id": 34,
     "price": 0,
     "popularity": 1009,
     "appType": "admin-template",
@@ -777,7 +898,7 @@
     "createdOn": ""
   },
   {
-    "id": 31,
+    "id": 35,
     "price": 0,
     "popularity": 1010,
     "appType": "admin-template",
@@ -795,7 +916,7 @@
     "createdOn": ""
   },
   {
-    "id": 32,
+    "id": 36,
     "price": 0,
     "popularity": 1011,
     "appType": "admin-template",
@@ -813,7 +934,7 @@
     "createdOn": ""
   },
   {
-    "id": 33,
+    "id": 37,
     "price": 0,
     "popularity": 1012,
     "appType": "landingpage",
@@ -831,7 +952,7 @@
     "createdOn": ""
   },
   {
-    "id": 34,
+    "id": 38,
     "price": 0,
     "popularity": 1013,
     "appType": "landingpage",
@@ -849,7 +970,7 @@
     "createdOn": ""
   },
   {
-    "id": 35,
+    "id": 39,
     "price": 0,
     "popularity": 1014,
     "appType": "landingpage",
@@ -867,7 +988,7 @@
     "createdOn": ""
   },
   {
-    "id": 36,
+    "id": 40,
     "price": 0,
     "popularity": 1015,
     "appType": "landingpage",
@@ -889,7 +1010,7 @@
     "createdOn": ""
   },
   {
-    "id": 37,
+    "id": 41,
     "price": 0,
     "popularity": 1016,
     "appType": "landingpage",
@@ -907,7 +1028,7 @@
     "createdOn": ""
   },
   {
-    "id": 38,
+    "id": 42,
     "price": 0,
     "popularity": 1017,
     "appType": "landingpage",
@@ -925,7 +1046,7 @@
     "createdOn": ""
   },
   {
-    "id": 39,
+    "id": 43,
     "price": 0,
     "popularity": 1018,
     "appType": "landingpage",
@@ -943,7 +1064,7 @@
     "createdOn": ""
   },
   {
-    "id": 40,
+    "id": 44,
     "price": 0,
     "popularity": 1019,
     "appType": "admin-template",
@@ -968,7 +1089,7 @@
     "createdOn": ""
   },
   {
-    "id": 41,
+    "id": 45,
     "price": 0,
     "popularity": 1020,
     "appType": "admin-template",
@@ -993,7 +1114,7 @@
     "createdOn": ""
   },
   {
-    "id": 42,
+    "id": 46,
     "price": 0,
     "popularity": 1021,
     "appType": "admin-template",
@@ -1011,7 +1132,7 @@
     "createdOn": ""
   },
   {
-    "id": 43,
+    "id": 47,
     "price": 0,
     "popularity": 1022,
     "appType": "admin-template",
@@ -1029,7 +1150,7 @@
     "createdOn": ""
   },
   {
-    "id": 44,
+    "id": 48,
     "price": 0,
     "popularity": 1023,
     "appType": "admin-template",
@@ -1047,7 +1168,7 @@
     "createdOn": ""
   },
   {
-    "id": 45,
+    "id": 49,
     "price": 0,
     "popularity": 1024,
     "appType": "admin-template",
@@ -1065,7 +1186,7 @@
     "createdOn": ""
   },
   {
-    "id": 46,
+    "id": 50,
     "price": 0,
     "popularity": 1025,
     "appType": "landingpage",
@@ -1083,7 +1204,7 @@
     "createdOn": ""
   },
   {
-    "id": 47,
+    "id": 51,
     "price": 0,
     "popularity": 1026,
     "appType": "landingpage",
@@ -1105,7 +1226,7 @@
     "createdOn": ""
   },
   {
-    "id": 48,
+    "id": 52,
     "price": 0,
     "popularity": 1027,
     "appType": "landingpage",
@@ -1123,7 +1244,7 @@
     "createdOn": ""
   },
   {
-    "id": 49,
+    "id": 53,
     "price": 0,
     "popularity": 1028,
     "appType": "admin-template",
@@ -1141,7 +1262,7 @@
     "createdOn": ""
   },
   {
-    "id": 50,
+    "id": 54,
     "price": 0,
     "popularity": 1029,
     "appType": "admin-template",
@@ -1159,7 +1280,7 @@
     "createdOn": ""
   },
   {
-    "id": 51,
+    "id": 55,
     "price": 0,
     "popularity": 1030,
     "appType": "admin-template",
@@ -1185,7 +1306,7 @@
     "createdOn": ""
   },
   {
-    "id": 52,
+    "id": 56,
     "price": 0,
     "popularity": 1031,
     "appType": "landingpage",
@@ -1203,7 +1324,7 @@
     "createdOn": ""
   },
   {
-    "id": 53,
+    "id": 57,
     "price": 0,
     "popularity": 1032,
     "appType": "landingpage",
@@ -1229,7 +1350,7 @@
     "createdOn": ""
   },
   {
-    "id": 54,
+    "id": 58,
     "price": 0,
     "popularity": 1033,
     "appType": "landingpage",
@@ -1247,7 +1368,7 @@
     "createdOn": ""
   },
   {
-    "id": 55,
+    "id": 59,
     "price": 0,
     "popularity": 1034,
     "appType": "admin-template",
@@ -1265,7 +1386,7 @@
     "createdOn": ""
   },
   {
-    "id": 56,
+    "id": 60,
     "price": 0,
     "popularity": 1035,
     "appType": "admin-template",
@@ -1292,7 +1413,7 @@
     "createdOn": ""
   },
   {
-    "id": 57,
+    "id": 61,
     "price": 0,
     "popularity": 1037,
     "appType": "admin-template",
@@ -1310,7 +1431,7 @@
     "createdOn": ""
   },
   {
-    "id": 58,
+    "id": 62,
     "price": 0,
     "popularity": 1038,
     "appType": "admin-template",
@@ -1328,7 +1449,7 @@
     "createdOn": ""
   },
   {
-    "id": 59,
+    "id": 63,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -1354,7 +1475,7 @@
     "createdOn": ""
   },
   {
-    "id": 60,
+    "id": 64,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -1372,7 +1493,7 @@
     "createdOn": ""
   },
   {
-    "id": 61,
+    "id": 65,
     "price": 0,
     "popularity": 1041,
     "appType": "admin-template",
@@ -1395,7 +1516,7 @@
     "createdOn": ""
   },
   {
-    "id": 62,
+    "id": 66,
     "price": 0,
     "popularity": 1042,
     "appType": "admin-template",
@@ -1413,7 +1534,7 @@
     "createdOn": ""
   },
   {
-    "id": 63,
+    "id": 67,
     "price": 0,
     "popularity": 1043,
     "appType": "admin-template",
@@ -1431,7 +1552,7 @@
     "createdOn": ""
   },
   {
-    "id": 64,
+    "id": 68,
     "price": 0,
     "popularity": 1044,
     "appType": "admin-template",
@@ -1449,7 +1570,7 @@
     "createdOn": ""
   },
   {
-    "id": 65,
+    "id": 69,
     "price": 0,
     "popularity": 1045,
     "appType": "admin-template",
@@ -1467,7 +1588,7 @@
     "createdOn": ""
   },
   {
-    "id": 66,
+    "id": 70,
     "price": 0,
     "popularity": 1046,
     "appType": "admin-template",
@@ -1485,7 +1606,7 @@
     "createdOn": ""
   },
   {
-    "id": 67,
+    "id": 71,
     "price": 0,
     "popularity": 1047,
     "appType": "admin-template",
@@ -1503,7 +1624,7 @@
     "createdOn": ""
   },
   {
-    "id": 68,
+    "id": 72,
     "price": 0,
     "popularity": 1048,
     "appType": "admin-template",
@@ -1531,7 +1652,7 @@
     "createdOn": ""
   },
   {
-    "id": 69,
+    "id": 73,
     "price": 0,
     "popularity": 1049,
     "appType": "admin-template",
@@ -1552,7 +1673,7 @@
     "createdOn": ""
   },
   {
-    "id": 70,
+    "id": 74,
     "price": 0,
     "popularity": 1050,
     "appType": "admin-template",
@@ -1570,7 +1691,7 @@
     "createdOn": ""
   },
   {
-    "id": 71,
+    "id": 75,
     "price": 0,
     "popularity": 1051,
     "appType": "admin-template",
@@ -1596,7 +1717,7 @@
     "createdOn": ""
   },
   {
-    "id": 72,
+    "id": 76,
     "price": 0,
     "popularity": 1052,
     "appType": "admin-template",
@@ -1614,7 +1735,7 @@
     "createdOn": ""
   },
   {
-    "id": 73,
+    "id": 77,
     "price": 0,
     "popularity": 1053,
     "appType": "admin-template",
@@ -1632,7 +1753,7 @@
     "createdOn": ""
   },
   {
-    "id": 74,
+    "id": 78,
     "price": 0,
     "popularity": 1054,
     "appType": "admin-template",
@@ -1650,7 +1771,7 @@
     "createdOn": ""
   },
   {
-    "id": 75,
+    "id": 79,
     "price": 0,
     "popularity": 1055,
     "appType": "landingpage",
@@ -1668,7 +1789,7 @@
     "createdOn": ""
   },
   {
-    "id": 76,
+    "id": 80,
     "price": 0,
     "popularity": 1056,
     "appType": "landingpage",
@@ -1698,7 +1819,7 @@
     "createdOn": ""
   },
   {
-    "id": 77,
+    "id": 81,
     "price": 0,
     "popularity": 1057,
     "appType": "landingpage",
@@ -1716,7 +1837,7 @@
     "createdOn": ""
   },
   {
-    "id": 78,
+    "id": 82,
     "price": 0,
     "popularity": 1058,
     "appType": "admin-template",
@@ -1742,7 +1863,7 @@
     "createdOn": ""
   },
   {
-    "id": 79,
+    "id": 83,
     "price": 0,
     "popularity": 1059,
     "appType": "landingpage",
@@ -1760,7 +1881,7 @@
     "createdOn": ""
   },
   {
-    "id": 80,
+    "id": 84,
     "price": 0,
     "popularity": 1060,
     "appType": "admin-template",
@@ -1778,7 +1899,7 @@
     "createdOn": ""
   },
   {
-    "id": 81,
+    "id": 85,
     "price": 0,
     "popularity": 1061,
     "appType": "landingpage",
@@ -1796,7 +1917,7 @@
     "createdOn": ""
   },
   {
-    "id": 82,
+    "id": 86,
     "price": 0,
     "popularity": 1062,
     "appType": "landingpage",
@@ -1814,7 +1935,7 @@
     "createdOn": ""
   },
   {
-    "id": 83,
+    "id": 87,
     "price": 0,
     "popularity": 1063,
     "appType": "landingpage",
@@ -1832,7 +1953,7 @@
     "createdOn": ""
   },
   {
-    "id": 84,
+    "id": 88,
     "price": 0,
     "popularity": 1064,
     "appType": "landingpage",
