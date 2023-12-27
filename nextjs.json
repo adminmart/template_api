@@ -2335,5 +2335,123 @@
       "Desktop and mobile live demos"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 103,
+    "price": 0,
+    "popularity": 1066,
+    "appType": "admin-template",
+    "details": "https://github.com/zeon-studio/nextplate?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Nextjs Boilerplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-boilerplate.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://zeon.studio/preview?project=nextplate",
+    "templateName": "Nextjs Boilerplate",
+    "description": "Nextplate is a free starter template built with Nextjs, TailwindCSS & TypeScript, providing everything you need to jumpstart your Next project and save valuable time.",
+    "features": [
+      "Multi-Authors",
+      "Similar Posts Suggestion",
+      "Search Functionality",
+      "Dark Mode",
+      "Tags & Categories",
+      "Netlify setting pre-configured",
+      "Support contact form",
+      "Fully responsive",
+      "Write and update content in Markdown / MDX",
+      "Disqus Comment",
+      "Syntax Highlighting"
+    ],
+    "createdOn": "18-May-2023"
+  },
+  {
+    "id": 104,
+    "price": 0,
+    "popularity": 1067,
+    "appType": "landingpage",
+    "details": "https://github.com/zcfspace/fct-project?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Fct Project",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/fct-project.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://fct-project.vercel.app/",
+    "templateName": "Fct Project",
+    "description": "Define the scope of your project. Determine whether you want to focus on restaurant booking, online ordering, or both. List the features and requirements you want to include, such as user registration, menu management, reservation system, order processing, and payment integration.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Apr-2023"
+  },
+  {
+    "id": 105,
+    "price": 0,
+    "popularity": 1068,
+    "appType": "landingpage",
+    "details": "https://github.com/ZainAliSiddiqui/Hoobank-App-Landing-Page?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Hoobank",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hoobank.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://hoobank-app-pi.vercel.app/",
+    "templateName": "Hoobank",
+    "description": "It sounds like you're describing a landing page called Hoobank that has been built using Next.js and Tailwind CSS, two popular technologies for web development. Let's break down what each of these technologies is and how they might contribute to the modern UI/UX of the landing page",
+    "features": [
+      
+    ],
+    "createdOn": "22-Apr-2023"
+  },
+  {
+    "id": 106,
+    "price": 0,
+    "popularity": 1069,
+    "appType": "landingpage",
+    "details": "https://github.com/yarkincaner/reactjs-nextjs-ecommerce?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Reactjs Nextjs Ecommerce",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/reactjs-nextjs-ecommerce.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://reactjs-nextjs-ecommerce.vercel.app/",
+    "templateName": "Reactjs Nextjs Ecommerce",
+    "description": "Next.js is a powerful framework for building React applications, and it provides an excellent foundation for creating feature-rich ecommerce websites. Leveraging the benefits of server-side rendering (SSR) and a simplified development workflow, Next.js ensures a seamless and performant user experience.",
+    "features": [
+      
+    ],
+    "createdOn": "08-Sep-2022"
+  },
+  {
+    "id": 107,
+    "price": 0,
+    "popularity": 1070,
+    "appType": "admin-template",
+    "details": "https://github.com/yanislav-igonin/nextjs-prisma-auth-template?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Nextjs Prisma Auth Template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-prisma-auth-template.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://nextjs.h0b0.dev/",
+    "templateName": "Nextjs Prisma Auth Template",
+    "description": "A Next.js Prisma Auth Template would likely be a starting point for building web applications with authentication using Next.js for the frontend, Prisma for database interaction, and some authentication mechanism (e.g., OAuth, JWT, or traditional username/password). Here's a hypothetical paragraph describing the key features",
+    "features": [
+      
+    ],
+    "createdOn": "21-Sep-2022"
+  },
+  {
+    "id": 108,
+    "price": 0,
+    "popularity": 1071,
+    "appType": "admin-template",
+    "details": "https://github.com/xmayukx/nft-marketplace?ref=statichunt.com",
+    "category": "NextJs",
+    "imageAlt": "Nft Marketplace",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nft-marketplace.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://nft-marketplace-xmayukx.vercel.app/",
+    "templateName": "Nft Marketplace",
+    "description": "The NOTROX APEs NFT marketplace is a revolutionary platform that caters exclusively to the vibrant ecosystem of unique and digitally crafted NOTROX APE non-fungible tokens (NFTs). NOTROX APEs, characterized by their distinctive and captivating visual designs, have gained immense popularity in the digital art and collectibles space.",
+    "features": [
+      
+    ],
+    "createdOn": "08-Sep-2023"
   }
 ]
