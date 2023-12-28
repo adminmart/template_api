@@ -2453,5 +2453,59 @@
       
     ],
     "createdOn": "08-Sep-2023"
+  },
+  {
+    "id": 109,
+    "price": 0,
+    "popularity": 1072,
+    "appType": "landingpage",
+    "details": "https://github.com/XD-OB/persa_app",
+    "category": "NextJs",
+    "imageAlt": "Persa_app",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/persa-app.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://persa-app-git-master-xd-ob.vercel.app/",
+    "templateName": "Persa_app",
+    "description": "The project structure follows best practices, employing modular components and organized directories for a clean and maintainable codebase. To further enrich my learning experience, I've integrated state management using React hooks and explored advanced routing techniques offered by Next.js.",
+    "features": [
+      
+    ],
+    "createdOn": "14-Feb-2021"
+  },
+  {
+    "id": 110,
+    "price": 0,
+    "popularity": 1073,
+    "appType": "landingpage",
+    "details": "https://github.com/WorldWideDevelop/habaneras_de_lino",
+    "category": "NextJs",
+    "imageAlt": "Habaneras_de_lino",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/habaneras-de-lino.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://www.habanerasdelino.com/",
+    "templateName": "Habaneras_de_lino",
+    "description": "Habaneras de Lino is an online e-commerce platform, and this repository encompasses the frontend developed using Next.js to create a robust React.js web application. The utilization of Next.js brings forth numerous advantages, combining the power of React with server-side rendering, automatic code splitting, and streamlined development workflows.",
+    "features": [
+      
+    ],
+    "createdOn": "26-Jun-2023"
+  },
+  {
+    "id": 111,
+    "price": 0,
+    "popularity": 1074,
+    "appType": "landingpage",
+    "details": "https://github.com/wildcatco/notion-blog",
+    "category": "NextJs",
+    "imageAlt": "Notion Blog",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/notion-blog.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://notion-blog-wildcatco.vercel.app/blog",
+    "templateName": "Notion Blog",
+    "description": "Notion Integration: The template is configured to fetch blog content from Notion using the Notion API. This allows for easy content management within the Notion interface, with changes reflected dynamically on the Next.js-powered blog.",
+    "features": [
+      
+    ],
+    "createdOn": "19-May-2023"
   }
 ]
