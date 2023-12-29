@@ -2507,5 +2507,59 @@
       
     ],
     "createdOn": "19-May-2023"
+  },
+  {
+    "id": 112,
+    "price": 0,
+    "popularity": 1075,
+    "appType": "landingpage",
+    "details": "https://github.com/WHAHA-HA/react-dress-shop-vercel",
+    "category": "NextJs",
+    "imageAlt": "React Dress Shop Vercel",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-dress-shop-vercel.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://dress-shop.vercel.app/",
+    "templateName": "React Dress Shop Vercel",
+    "description": "The e-commerce platform is a robust and dynamic full-stack application, meticulously crafted with cutting-edge technologies to provide a seamless user experience. Leveraging the power of Next.js and TypeScript, the frontend is not only visually stunning but also highly efficient. The server-side rendering capabilities of Next.js ensure fast loading times and optimal performance, enhancing the overall responsiveness of the platform.",
+    "features": [
+      
+    ],
+    "createdOn": "05-Jun-2022"
+  },
+  {
+    "id": 113,
+    "price": 0,
+    "popularity": 1076,
+    "appType": "admin-template",
+    "details": "https://github.com/wangly19/nextui-design-pro",
+    "category": "NextJs",
+    "imageAlt": "Nextui Design Pro",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextui-design-pro.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://nextui-design-pro.vercel.app/",
+    "templateName": "Nextui Design Pro",
+    "description": "TypeScript is integrated to bring static typing benefits, improving code robustness and documentation. The chosen state management solution is tailored to the project's complexity, striking a balance between simplicity and scalability. Error handling mechanisms, including Next.js error boundaries and tools like Sentry, are in place to catch and address issues proactively.",
+    "features": [
+      
+    ],
+    "createdOn": "05-Jan-2023"
+  },
+  {
+    "id": 114,
+    "price": 0,
+    "popularity": 1077,
+    "appType": "landingpage",
+    "details": "https://github.com/vSchiaffino/luara",
+    "category": "NextJs",
+    "imageAlt": "Luara",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/luara.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://luara.vercel.app/",
+    "templateName": "Luara",
+    "description": "The creation of a minimal 'ecommerce' template using Google Sheets, Next.js Static Site Generation (SSG), and React is a streamlined and efficient approach to building an online store. Leveraging the simplicity of Google Sheets for product management, the template employs Next.js SSG to pre-render static pages, ensuring rapid loading times and optimal performance.",
+    "features": [
+      
+    ],
+    "createdOn": "20-Jan-2023"
   }
 ]
