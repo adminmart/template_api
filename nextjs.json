@@ -2561,5 +2561,59 @@
       
     ],
     "createdOn": "20-Jan-2023"
+  },
+  {
+    "id": 115,
+    "price": 0,
+    "popularity": 1078,
+    "appType": "landingpage",
+    "details": "https://github.com/vjordan-cs/professional-portfolio",
+    "category": "NextJs",
+    "imageAlt": "Professional Portfolio",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/professional-portfolio.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://www.vjordan-cs.com/home",
+    "templateName": "Professional Portfolio",
+    "description": "A Professional Portfolio built with Next.js represents a powerful and dynamic approach to showcasing one's skills and achievements in the field of web development. Leveraging the benefits of Next.js, a React framework, this portfolio not only offers a seamless and responsive user experience but also provides a robust foundation for server-side rendering and optimized performance.",
+    "features": [
+      
+    ],
+    "createdOn": "12-Sep-2022"
+  },
+  {
+    "id": 116,
+    "price": 0,
+    "popularity": 1079,
+    "appType": "landingpage",
+    "details": "https://github.com/VitoMedlej/free-developer-portfolio-template",
+    "category": "NextJs",
+    "imageAlt": "Free Developer Portfolio Template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/free-developer-portfolio-template.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://elvito.netlify.app/",
+    "templateName": "Free Developer Portfolio Template",
+    "description": "A Free Developer Portfolio Template serves as an invaluable resource for aspiring and seasoned developers alike, providing a streamlined and accessible way to showcase their skills and projects. Designed with user-friendly features and customization options, this template offers a professional and polished appearance without the need for extensive coding knowledge. Typically built with popular web technologies like HTML, CSS, and JavaScript, the template ensures compatibility across various devices and browsers. ",
+    "features": [
+      
+    ],
+    "createdOn": "04-Jun-2023"
+  },
+  {
+    "id": 117,
+    "price": 0,
+    "popularity": 1080,
+    "appType": "landingpage",
+    "details": "https://github.com/virtualknight8/new-landing-page",
+    "category": "NextJs",
+    "imageAlt": "New Landing Page",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/new-landing-page.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://new-landing-page-flax.vercel.app/",
+    "templateName": "New Landing Page",
+    "description": "A visually captivating and responsive landing page crafted exclusively with Next.js, employing server-side rendered components and styled with Tailwind CSS, represents a seamless blend of cutting-edge technologies for an exceptional web experience. Leveraging the power of Next.js, the landing page excels in performance with server-side rendering, ensuring swift content delivery and optimal search engine visibility.",
+    "features": [
+      
+    ],
+    "createdOn": "14-Jul-2023"
   }
 ]
