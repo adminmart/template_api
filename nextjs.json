@@ -2615,5 +2615,59 @@
       
     ],
     "createdOn": "14-Jul-2023"
+  },
+  {
+    "id": 118,
+    "price": 0,
+    "popularity": 1081,
+    "appType": "landingpage",
+    "details": "https://github.com/VincenzoMarcovecchio/Fragine-Medievale",
+    "category": "NextJs",
+    "imageAlt": "Fragine Medievale",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/fragine-medievale.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://fragine.netlify.app/it",
+    "templateName": "Fragine Medievale",
+    "description": "Welcome to our vibrant Next.js website, dedicated to promoting the spectacular recurring summer event in the heart of Italy! Immerse yourself in the essence of endless possibilities as you explore the rich tapestry of cultural festivities, mesmerizing performances, and unforgettable moments that define our annual celebration.",
+    "features": [
+      
+    ],
+    "createdOn": "02-Dec-2020"
+  },
+  {
+    "id": 119,
+    "price": 0,
+    "popularity": 1082,
+    "appType": "landingpage",
+    "details": "https://github.com/vimal-verma/Master-Portfolio",
+    "category": "NextJs",
+    "imageAlt": "Master Portfolio",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/master-portfolio.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://master-portfolio.js.org/",
+    "templateName": "Master Portfolio",
+    "description": "Introducing a meticulously crafted portfolio template designed for developers who appreciate clean aesthetics, seamless responsiveness, and absolute customization. This template offers a visually stunning showcase for your work, providing a polished presentation of your projects and skills. Its sleek design ensures a user-friendly experience, allowing visitors to navigate effortlessly through your portfolio on any device.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Aug-2020"
+  },
+  {
+    "id": 120,
+    "price": 0,
+    "popularity": 1083,
+    "appType": "landingpage",
+    "details": "https://github.com/vignesh-gupta/meta-droid",
+    "category": "NextJs",
+    "imageAlt": "Meta Droid",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/meta-droid.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://meta-droid.vercel.app/",
+    "templateName": "Meta Droid",
+    "description": "Welcome to the gateway of our cutting-edge Metaverse company! Our landing page is a portal into a world where imagination meets innovation. Immerse yourself in the limitless possibilities of the Metaverse, where virtual and real-life experiences seamlessly converge. Our sleek and intuitive design invites you to explore the forefront of digital evolution, offering a glimpse into the future of interconnected worlds.",
+    "features": [
+      
+    ],
+    "createdOn": "04-Dec-2020"
   }
 ]
