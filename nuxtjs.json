@@ -1969,5 +1969,59 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 89,
+    "price": 0,
+    "popularity": 1065,
+    "appType": "admin-template",
+    "details": "https://github.com/skydiver/nuxt-tailwind-dashboard",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-tailwind-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-tailwind-dashboard.jpg",
+    "subtitle": "Free & Open-Source NuxtJs Admin Dashboard Template",
+    "livePreview": "https://nuxt-tailwind-dashboard.vercel.app/",
+    "templateName": "Nuxt Tailwind Dashboard",
+    "description": "The Nuxt.js + Tailwind CSS dashboard starter is a powerful combination that empowers developers to quickly create responsive and visually appealing web applications. Nuxt.js, a progressive Vue.js framework, provides a structured architecture and server-side rendering capabilities, enhancing the overall performance and SEO-friendliness of the application. Tailwind CSS, on the other hand, brings a utility-first approach to styling, allowing developers to build stylish interfaces with minimal effort. ",
+    "features": [
+      
+    ],
+    "createdOn": "04-Apr-2019"
+  },
+  {
+    "id": 90,
+    "price": 0,
+    "popularity": 1066,
+    "appType": "landingpage",
+    "details": "https://github.com/regenrek/nuxt-storyblok-starter",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-storyblok-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-storyblok-starter.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxt-storyblok-starter-zeta.vercel.app/",
+    "templateName": "Nuxt Storyblok Starter",
+    "description": "The Nuxt.js Website Starter template named Nujek seamlessly integrates the power of Nuxt.js, Storyblok, and Tailwind CSS to offer a robust foundation for building dynamic and content-rich websites. Nuxt.js, as a progressive Vue.js framework, provides an efficient and structured development environment, offering features like server-side rendering and easy-to-manage routing. Storyblok, a headless CMS, complements this setup by enabling content creators to manage and update website content effortlessly, decoupling the frontend and backend for a more flexible workflow.",
+    "features": [
+      
+    ],
+    "createdOn": "22-Nov-2022"
+  },
+  {
+    "id": 91,
+    "price": 0,
+    "popularity": 1067,
+    "appType": "landingpage",
+    "details": "https://github.com/realstoman/nuxtjs-tailwindcss-portfolio",
+    "category": "Nuxt",
+    "imageAlt": "nuxtjs-tailwindcss-portfolio",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxtjs-tailwindcss-portfolio.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxtjs-tailwindcss-portfolio.netlify.app/",
+    "templateName": "Nuxtjs Tailwindcss Portfolio",
+    "description": "The Nuxt.js and Tailwind CSS version of the portfolio project offers a powerful combination for creating a sleek and responsive personal website. Nuxt.js, with its Vue.js foundation, provides an organized and performant structure, complete with server-side rendering capabilities for enhanced speed and search engine optimization. Tailwind CSS, known for its utility-first approach, simplifies the styling process, allowing for quick and efficient design implementation.",
+    "features": [
+      
+    ],
+    "createdOn": "04-Nov-2021"
   }
 ]
