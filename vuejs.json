@@ -2023,5 +2023,59 @@
       
     ],
     "createdOn": "04-Nov-2021"
+  },
+  {
+    "id": 92,
+    "price": 0,
+    "popularity": 1068,
+    "appType": "landingpage",
+    "details": "https://github.com/storyblok/storyblok-vue",
+    "category": "Vue",
+    "imageAlt": "storyblok-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/storyblok-vue.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://www.storyblok.com/",
+    "templateName": "Storyblok",
+    "description": "Storyblok is a CMS that works with and not against you. It's a headless CMS that is flexible enough for every use-case: corporate websites, e-commerce, helpdesks, mobile apps, and screen displays. Storyblok builds a bridge between content creators and developers without forcing the developer into a specific technology. It comes with powerful REST and GraphQL APIs and a visual editor that previews website changes. Storyblok is built around components and is fully extendable using Vue.js. Of course it can also be used to deliver content to your Vue and Nuxt apps.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Dec-2024"
+  },
+  {
+    "id": 93,
+    "price": 0,
+    "popularity": 1069,
+    "appType": "landingpage",
+    "details": "https://github.com/getsentry/sentry-javascript/tree/master",
+    "category": "Vue",
+    "imageAlt": "sentry-for-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sentry-for-vue.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://sentry.io/welcome/",
+    "templateName": "Sentry for Vue",
+    "description": "Sentry provides self-hosted and cloud-based application monitoring that delivers actionable insights to resolve Vue performance bottlenecks and errors. Improve your monitoring workflow with a full view of releases so you can mark Vue errors as resolved and prioritize live issues.",
+    "features": [
+      
+    ],
+    "createdOn": "22-Dec-2024"
+  },
+  {
+    "id": 94,
+    "price": 0,
+    "popularity": 1070,
+    "appType": "landingpage",
+    "details": "https://github.com/takuma-ru/vue-swipe-modal",
+    "category": "Vue",
+    "imageAlt": "vue-swipe-modal",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-swipe-modal.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://vue-swipe-modal-docs.takumaru.dev/",
+    "templateName": "Vue Swipe Modal",
+    "description": "The Vue Swipe Modal is a versatile and interactive user interface component that enhances the modal experience within Vue.js applications. This specialized modal component not only provides a visually appealing overlay but also introduces swipe gestures to navigate through its content seamlessly. Leveraging the touch or drag gestures, users can effortlessly swipe between different sections or screens within the modal, creating an intuitive and engaging user experience.",
+    "features": [
+      
+    ],
+    "createdOn": "08-Dec-2024"
   }
 ]
