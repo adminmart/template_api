@@ -2135,5 +2135,75 @@
       
     ],
     "createdOn": "31-Dec-2024"
+  },
+  {
+    "id": 98,
+    "price": 0,
+    "popularity": 1074,
+    "appType": "landingpage",
+    "details": "https://github.com/simonwep/selection/tree/master/packages/vue",
+    "category": "Vue",
+    "imageAlt": "Viselect Vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/viselect-vue.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://simonwep.github.io/selection/",
+    "templateName": "Viselect Vue",
+    "description": "Viselect is a cutting-edge library designed to enhance user experience by seamlessly integrating a visual element selection feature, reminiscent of the familiar desktop environment. This high-performance and lightweight tool offers a hassle-free way to implement element selection with zero dependencies, ensuring a streamlined and efficient solution. With its compact size, Viselect remains unobtrusive while providing robust functionality. ",
+    "features": [
+      "Modern bundle",
+      "Ultra tiny (~4kb)",
+      "Simple usage",
+      "Highly optimized",
+      "Zero dependencies",
+      "Mobile / touch support",
+      "Vertical and horizontal scroll support",
+      "Hardened (over 3 years old and used in many apps)",
+      "Support for major frameworks (WIP)"
+    ],
+    "createdOn": "16-Dec-2024"
+  },
+  {
+    "id": 99,
+    "price": 0,
+    "popularity": 1075,
+    "appType": "landingpage",
+    "details": "https://github.com/framasoft/mobilizon",
+    "category": "Vue",
+    "imageAlt": "Mobilizon",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mobilizon.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://joinmobilizon.org/en/",
+    "templateName": "Mobilizon",
+    "description": "Mobilizon is your federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool. It's a tool designed to create platforms for managing communities and events. Its purpose is to help as many people as possible to free themselves from Facebook groups and events, from Meetup, etc.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 100,
+    "price": 0,
+    "popularity": 1076,
+    "appType": "admin-template",
+    "details": "https://github.com/jooy2/vutron",
+    "category": "Vue",
+    "imageAlt": "Vutron",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vutron.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://vutron.jooy2.com/",
+    "templateName": "Vutron",
+    "description": "utron is a preconfigured template for developing Electron cross-platform desktop apps. It uses Vue 3, Vuetify & TypeScript and allows you to build a fast development environment with little effort.",
+    "features": [
+      "Rapid development through hot-reload",
+      "Cross-platform development and build support",
+      "Support for automated application testing",
+      "TypeScript support",
+      "Multilingual support",
+      "Support for themes (dark & light)",
+      "Basic layout manager",
+      "Global state management through the Pinia store",
+      "Quick support through the GitHub community and official documentation"
+    ],
+    "createdOn": ""
   }
 ]
