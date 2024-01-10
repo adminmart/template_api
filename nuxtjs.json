@@ -2205,5 +2205,59 @@
       "Quick support through the GitHub community and official documentation"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 101,
+    "price": 0,
+    "popularity": 1077,
+    "appType": "admin-template",
+    "details": "https://github.com/jerrywu001/sandpack-vue3",
+    "category": "Vue",
+    "imageAlt": "Sandpack Vue 3",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sandpack-vue-3.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://sandpack-vue3.js-bridge.com/?path=/story/intro-playground--main",
+    "templateName": "Sandpack Vue 3",
+    "description": "Sandpack-vue3 is a remarkable set of Vue 3 components designed to empower developers with the functionality of editable sandboxes that seamlessly run directly in the browser. This innovative tool leverages the capabilities of CodeSandbox, a powerful platform for web application development. With Sandpack-vue3, developers can harness the efficiency of a sandbox environment, allowing for rapid prototyping, experimentation, and testing of Vue 3 components.",
+    "features": [
+      
+    ],
+    "createdOn": "08-Oct-2024"
+  },
+  {
+    "id": 102,
+    "price": 0,
+    "popularity": 1078,
+    "appType": "landingpage",
+    "details": "https://github.com/vue-final/vue-final-modal",
+    "category": "Vue",
+    "imageAlt": "Vue Final Modal",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-final-modal.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vue-final-modal.org/",
+    "templateName": "Vue Final Modal",
+    "description": "Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. As such it makes some assumptions and enforces best-practices for your modals while being versatile and customizable.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Dec-2024"
+  },
+  {
+    "id": 103,
+    "price": 0,
+    "popularity": 1079,
+    "appType": "admin-template",
+    "details": "https://github.com/bhaveshpatel200/vue3-datatable",
+    "category": "Vue",
+    "imageAlt": "Vue 3 Datatable",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue3-datatable.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://vue3-datatable-document.vercel.app/",
+    "templateName": "Vue 3 Datatable",
+    "description": "vue3-datatable is a powerful component for creating dynamic and customizable data tables. It supports large amounts of data, sorting, pagination, and filtering and is highly customizable.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
