@@ -2259,5 +2259,66 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 104,
+    "price": 0,
+    "popularity": 1080,
+    "appType": "landingpage",
+    "details": "https://github.com/kirklin/boot-vue",
+    "category": "Vue",
+    "imageAlt": "Boot Vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/boot-vue.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://boot-vue.vercel.app/#/home",
+    "templateName": "Boot Vue",
+    "description": "Boot Vue stands out as a high-performance Vue 3 boilerplate that seamlessly integrates several powerful technologies to enhance the development experience. At its core, Boot Vue leverages strongly typed TypeScript, ensuring code reliability and improved maintainability. UnoCSS brings a lightweight yet robust styling framework to the table, facilitating the creation of visually appealing and responsive user interfaces. DaisyUI, with its rich set of UI components, accelerates the development process by providing a collection of pre-designed elements that can be easily customized.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 105,
+    "price": 0,
+    "popularity": 1081,
+    "appType": "admin-template",
+    "details": "https://github.com/vueform/builder",
+    "category": "Vue",
+    "imageAlt": "Vueform Builder",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vueform-builder.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://builder.vueform.com/demo",
+    "templateName": "Vueform Builder",
+    "description": "Vueform Builder is a drag and drop form builder for Vue based on the open-source Vueform form framework Enable developers & non-tech workforce to build even the most complex forms without coding",
+    "features": [
+      "User friendly drag and drop form builder",
+      "Export forms as native Vue components",
+      "Save/load/render forms as JSON and save to database",
+      "Custom elements and config panels",
+      "Built-in theme builder",
+      "Customize the UI",
+      "Use it online or on your localhost",
+      "Integrate it into any project"
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 106,
+    "price": 0,
+    "popularity": 1082,
+    "appType": "landingpage",
+    "details": "https://github.com/mockernut-ventures/simpleotp-sdk-js-vue",
+    "category": "Vue",
+    "imageAlt": "Simple OTP",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/simpleotp-sdk-js-vue.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://simpleotp.com/",
+    "templateName": "Simple OTP",
+    "description": "Simple OTP is the world's easiest way to add passwordless and magic sign in link authentication to your website. The app dashboard is built with Vue.js, and it also offers a Vue SDK to easily integrate it in your apps.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
