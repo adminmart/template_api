@@ -2320,5 +2320,76 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 107,
+    "price": 0,
+    "popularity": 1083,
+    "appType": "landingpage",
+    "details": "https://github.com/hairyf/vue3-pixi",
+    "category": "Vue",
+    "imageAlt": "Vue3 Pixi",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue3-pixi.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vue3-pixi.vercel.app/",
+    "templateName": "Vue3 Pixi",
+    "description": "Vue 3 Pixi is a lightweight and flexible Vue 3 library for creating applications with the 2D rendering system PixiJS. It provides a custom Vue renderer that creates PixiJS objects instead of HTML elements. It supports all PixiJS objects and events, and lets you specify texture paths in templates to load texture objects. It also provides transition effects for PixiJS objects.",
+    "features": [
+      "Lightweight and flexible Vue 3 library for creating PixiJS applications.",
+      "Provides a Custom Vue Renderer that creates PixiJS objects instead of HTML elements.",
+      "Supports all PixiJS objects, such as Filter, Container, Sprite, Graphics, Text, etc",
+      "Support specifying texture paths in templates to load texture objects",
+      "All events emitted by PixiJS objects are supported",
+      "Offers Loader component for bundling assets and Feature Rich Composition Utilities.",
+      "Create different transition effects in conjunction with Transition."
+    ],
+    "createdOn": "01-Jan-2024"
+  },
+  {
+    "id": 108,
+    "price": 0,
+    "popularity": 1084,
+    "appType": "landingpage",
+    "details": "https://github.com/rwv/lookscanned.io",
+    "category": "Vue",
+    "imageAlt": "Look Scanned",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lookscanned.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://lookscanned.io/",
+    "templateName": "Look Scanned",
+    "description": "Look Scanned is a pure frontend site that makes your PDFs look scanned! No need for printers and scanners anymore - everything you need to do is just a few clicks. Inspired by baicunko/scanyourpdf.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 109,
+    "price": 0,
+    "popularity": 1085,
+    "appType": "landingpage",
+    "details": "https://github.com/pulsejet/memories",
+    "category": "Vue",
+    "imageAlt": "Memories",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/memories.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://memories.gallery/",
+    "templateName": "Memories",
+    "description": "Memories is a batteries-included photo management solution for Nextcloud with advanced features It offers a timeline that sorts photos and videos by date taken, a map view, albums, an archive, photo sharing, mobile support and more! Memories is free and open-source. Its frontend for all platforms is built with Vue.",
+    "features": [
+      "Timeline: Sort photos and videos by date taken, parsed from Exif data.",
+      "Rewind: Jump to any time in the past instantly and relive your memories.",
+      "AI Tagging: Group photos by people and objects, powered by recognize and facerecognition.",
+      "Albums: Create albums to group photos and videos together. Then share these albums with others.",
+      "External Sharing: Share photos and videos with people outside of your Nextcloud instance.",
+      "Mobile Support: Work from any device, of any shape and size through the web app.",
+      "Edit Metadata: Edit dates and other metadata on photos quickly and in bulk.",
+      "Archive: Store photos you don't want to see in your timeline in a separate folder.",
+      "Video Transcoding: Transcode videos and use HLS for maximal performance.",
+      "Map: View your photos on a map, tagged with accurate reverse geocoding.",
+      "Migration: Migrate easily from Nextcloud Photos and Google Takeout.",
+      "Performance: Do all this very fast."
+    ],
+    "createdOn": "10-Jan-2024"
   }
 ]
