@@ -2391,5 +2391,68 @@
       "Performance: Do all this very fast."
     ],
     "createdOn": "10-Jan-2024"
+  },
+  {
+    "id": 110,
+    "price": 0,
+    "popularity": 1086,
+    "appType": "admin-template",
+    "details": "https://github.com/logicspark/berryjam",
+    "category": "Vue",
+    "imageAlt": "Berryjam",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/berryjam.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://demo.berryjam.dev/",
+    "templateName": "Berryjam",
+    "description": "Scan your Vue.js codebase for component visibility and actionable insights. Berryjam provides a simple way to identify your component usage, props and their relationships. Based on the output from your scan, you can create your own dashboard and run analysis across your project components to improve communications across your development team.",
+    "features": [
+      "Scan your project for components",
+      "Analyze components and their relationships",
+      "Scan Git log for author and datetime",
+      "Automatically detect props for each component"
+    ],
+    "createdOn": "20-Nov-2024"
+  },
+  {
+    "id": 111,
+    "price": 0,
+    "popularity": 1087,
+    "appType": "admin-template",
+    "details": "https://github.com/menthorlabs/menthor",
+    "category": "Vue",
+    "imageAlt": "Menthor",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/menthor.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://menthor.io/app/",
+    "templateName": "Menthor",
+    "description": "Learn to code and build your own startup: Menthor is a free web programming teaching platform for people who are looking for their first job in the field or who want to build their own business. The platform and landing page are open-source and built using Nuxt.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 112,
+    "price": 0,
+    "popularity": 1088,
+    "appType": "landingpage",
+    "details": "https://github.com/lostdesign/linked",
+    "category": "Vue",
+    "imageAlt": "Linked",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/linked.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://uselinked.com/",
+    "templateName": "Linked",
+    "description": "Daily journaling without distraction: Linked offers an easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. We all only have so much room in our brains for things. Let Linked be the place to put something you want to remember and let you free up space for deeper thinking. The app is available for MacOS, Windows and Linux. It's free and open-source, built using Vue, TailwindCSS and Electron.",
+    "features": [
+      "Write down anything and as much as you want per day",
+      "Search across all days",
+      "Support for various text styles as well as todo, list and code blocks",
+      "Linked comes in dark and light mode",
+      "Keyboard navigation for maximum productivity",
+      "Files are forever yours, you can find them at ~/Documents/linked",
+      "Multi language support"
+    ],
+    "createdOn": "29-Jun-2023"
   }
 ]
