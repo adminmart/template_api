@@ -2454,5 +2454,73 @@
       "Multi language support"
     ],
     "createdOn": "29-Jun-2023"
+  },
+  {
+    "id": 113,
+    "price": 0,
+    "popularity": 1088,
+    "appType": "admin-template",
+    "details": "https://github.com/radix-vue/shadcn-vue",
+    "category": "Vue",
+    "imageAlt": "shadcn-vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/shadcn-vue.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://www.shadcn-vue.com/",
+    "templateName": "shadcn-vue",
+    "description": "shadcn-vue is an unofficial community-led Vue port of shadcn/ui. It offers accessible and customizable components that you can copy and paste into your apps. It's free and open-source – use this to build your own component library.",
+    "features": [
+      
+    ],
+    "createdOn": "12-Jan-2024"
+  },
+  {
+    "id": 114,
+    "price": 0,
+    "popularity": 1089,
+    "appType": "admin-template",
+    "details": "https://github.com/scalar/scalar",
+    "category": "Vue",
+    "imageAlt": "scalar",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/scalar.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://docs.scalar.com/swagger-editor",
+    "templateName": "scalar",
+    "description": "Scalar is a suite of design-forward AI-enabled developer tools to help you at all stages of API development. Scalar API References is a free & open-source tool built with Vue.js that takes your Swagger/OAS file and generates beautiful API references. It features a built-in API client, a fully integrated search and a UI to edit your Swagger files with a live preview.",
+    "features": [
+      
+    ],
+    "createdOn": "28-Nov-2023"
+  },
+  {
+    "id": 115,
+    "price": 0,
+    "popularity": 1090,
+    "appType": "landingpage",
+    "details": "https://github.com/tiny-craft/tiny-rdm",
+    "category": "Vue",
+    "imageAlt": "Tiny RDM",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tiny-rdm.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://redis.tinycraft.cc/",
+    "templateName": "Tiny RDM",
+    "description": "Tiny RDM is a modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux. It's open-source and offers an elegant UI built with Vue 3 & Naive UI.",
+    "features": [
+      "Super lightweight, built on Webview2, without embedded browsers (Thanks to Wails).",
+      "Provides visually and user-friendly UI, light and dark themes (Thanks to Naive UI and IconPark).",
+      "Multi-language support (Need more languages ? Click here to contribute).",
+      "Better connection management: supports SSH Tunnel/SSL/Sentinel Mode/Cluster Mode.",
+      "Visualize key value operations, CRUD support for Lists, Hashes, Strings, Sets, Sorted Sets, and Streams.",
+      "Support multiple data viewing format and decode/decompression methods.",
+      "Use SCAN for segmented loading, making it easy to list millions of keys.",
+      "Logs list for command operation history.",
+      "Provides command-line mode.",
+      "Provides slow logs list.",
+      "Segmented loading and querying for List/Hash/Set/Sorted Set.",
+      "Provide value decode/decompression for List/Hash/Set/Sorted Set.",
+      "Integrate with Monaco Editor",
+      "Support real-time commands monitoring.",
+      "Support import/export data."
+    ],
+    "createdOn": "11-Jan-2024"
   }
 ]
