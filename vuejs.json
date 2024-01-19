@@ -2522,5 +2522,59 @@
       "Support import/export data."
     ],
     "createdOn": "11-Jan-2024"
+  },
+  {
+    "id": 116,
+    "price": 0,
+    "popularity": 1091,
+    "appType": "landingpage",
+    "details": "https://github.com/joseph2/vue-slide-unlock",
+    "category": "Vue",
+    "imageAlt": "Vue Slide Unlock",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-slide-unlock.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://joseph2.github.io/vue-slide-unlock/",
+    "templateName": "Vue Slide Unlock",
+    "description": "vue-slide-unlock is a Vue 3 slide-to-unlock component that helps you protect users from accidental clicks or protect your web app from bot attacks. It's built using the Vue 3 Composition API with Typescript and Vite, coated with tests using Cypress.",
+    "features": [
+      
+    ],
+    "createdOn": "19-Oct-2023"
+  },
+  {
+    "id": 117,
+    "price": 0,
+    "popularity": 1092,
+    "appType": "admin-template",
+    "details": "https://github.com/uptrace/uptrace",
+    "category": "Vue",
+    "imageAlt": "Uptrace",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/uptrace.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://uptrace.dev/get/open-source-apm.html",
+    "templateName": "Uptrace",
+    "description": "Uptrace is an open-source APM that supports distributed tracing, metrics, and logs. You can use it to monitor applications and troubleshoot issues. Uptrace comes with an intuitive query builder, rich dashboards, alerting rules, notifications, and integrations for most languages and frameworks. Uptrace is built using Vue.js / Vuetify.",
+    "features": [
+      
+    ],
+    "createdOn": "08-Jan-2024"
+  },
+  {
+    "id": 118,
+    "price": 0,
+    "popularity": 1093,
+    "appType": "landingpage",
+    "details": "https://github.com/radix-vue/radix-vue",
+    "category": "Vue",
+    "imageAlt": "Radix Vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/radix-vue.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://www.radix-vue.com/",
+    "templateName": "Radix Vue",
+    "description": "Radix is an unstyled, customisable UI Library with built in accessibility for building top quality design systems. Radix Vue is an unofficial Vue 3 port!",
+    "features": [
+      
+    ],
+    "createdOn": "16-Jan-2024"
   }
 ]
