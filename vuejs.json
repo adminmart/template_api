@@ -2576,5 +2576,59 @@
       
     ],
     "createdOn": "16-Jan-2024"
+  },
+  {
+    "id": 119,
+    "price": 0,
+    "popularity": 1094,
+    "appType": "landingpage",
+    "details": "https://github.com/Noction/hippie-nav",
+    "category": "Vue",
+    "imageAlt": "hippie-nav",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hippie-nav.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://noction.github.io/hippie-nav/",
+    "templateName": "hippie-nav",
+    "description": "hippie-nav is a modern and versatile searchbar component crafted for Vue applications. Designed to operate entirely on the frontend, it offers blazing-fast searches without the overhead of backend requests. Seamlessly integrate it with your Vue routes and custom-defined actions to supercharge the user navigation experience.",
+    "features": [
+      
+    ],
+    "createdOn": "04-Nov-2023"
+  },
+  {
+    "id": 120,
+    "price": 0,
+    "popularity": 1095,
+    "appType": "landingpage",
+    "details": "https://github.com/antfu/vue-starport",
+    "category": "Vue",
+    "imageAlt": "Vue Starport",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-starport.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vue-starport.netlify.app/",
+    "templateName": "Vue Starport",
+    "description": "It's quite common you might have a same component used in different routes (pages) with a bit different sizes and positions. Sometimes you might want to animate them when user navigates between routes to provide a smooth UX. While such animation is common to be seen in native apps, it's could be a bit challenging to do it in Web. Vue's component structure is presented as a tree, and the child components are in different branches with their own instances.",
+    "features": [
+      
+    ],
+    "createdOn": "07-Sep-2023"
+  },
+  {
+    "id": 121,
+    "price": 0,
+    "popularity": 1096,
+    "appType": "landingpage",
+    "details": "https://github.com/TaTo30/vue-pdf",
+    "category": "Vue",
+    "imageAlt": "VuePDF",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-pdf.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://tato30.github.io/vue-pdf/",
+    "templateName": "VuePDF",
+    "description": "VuePDF is a Vue 3 client-side component for pdf.js that allows you to flexibly display PDF pages within your project. It supports paging, scaling, annotations, loading multiple documents & more.",
+    "features": [
+      
+    ],
+    "createdOn": "12-Jan-2024"
   }
 ]
