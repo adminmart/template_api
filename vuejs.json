@@ -2630,5 +2630,59 @@
       
     ],
     "createdOn": "12-Jan-2024"
+  },
+  {
+    "id": 122,
+    "price": 0,
+    "popularity": 1097,
+    "appType": "landingpage",
+    "details": "https://github.com/activist-org/activist",
+    "category": "Vue",
+    "imageAlt": "Activist",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/activist.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://activist.org/en",
+    "templateName": "Activist",
+    "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them. The current goal is the creation of a central platform to discover activist organizations and their events. The frontend is built with Vue & Nuxt.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 123,
+    "price": 0,
+    "popularity": 1098,
+    "appType": "landingpage",
+    "details": "https://github.com/harlan-zw/nuxt-seo",
+    "category": "Vue",
+    "imageAlt": "Nuxt SEO",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-seo.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://nuxtseo.com/",
+    "templateName": "Nuxt SEO",
+    "description": "All the boring SEO work for Nuxt done: Nuxt SEO is a collection of hand-crafted Nuxt Modules to help you rank higher in search engines. It includes modules for managing robots & sitemaps, a link checker and more.",
+    "features": [
+      
+    ],
+    "createdOn": "16-Jan-2024"
+  },
+  {
+    "id": 124,
+    "price": 0,
+    "popularity": 1099,
+    "appType": "landingpage",
+    "details": "https://github.com/graphieros/vue-data-ui",
+    "category": "Vue",
+    "imageAlt": "Vue Data UI",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-data-ui.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vue-data-ui.graphieros.com/",
+    "templateName": "Vue Data UI",
+    "description": "Vue Data UI is a user-empowering data visualization component library for Vue 3. It includes components for chart types like donut, sparkline or radar, a rating and a table component.",
+    "features": [
+      
+    ],
+    "createdOn": "09-Jan-2024"
   }
 ]
