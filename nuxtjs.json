@@ -2684,5 +2684,59 @@
       
     ],
     "createdOn": "09-Jan-2024"
+  },
+  {
+    "id": 125,
+    "price": 0,
+    "popularity": 1100,
+    "appType": "landingpage",
+    "details": "https://github.com/docusealco/docuseal",
+    "category": "Vue",
+    "imageAlt": "DocuSeal",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/docuseal.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://www.docuseal.co/",
+    "templateName": "DocuSeal",
+    "description": "DocuSeal is an open-source platform that provides secure and efficient digital document signing and processing. Create PDF forms to have them filled and signed online on any device with an easy-to-use, mobile-optimized web tool. It's an open-source DocuSign / PandaDoc alternative. The document builder and the form to sign documents is built using Vue 3.",
+    "features": [
+      
+    ],
+    "createdOn": "22-Jan-2024"
+  },
+  {
+    "id": 126,
+    "price": 0,
+    "popularity": 1101,
+    "appType": "admin-template",
+    "details": "https://github.com/edisdev/vue-google-maps-ui",
+    "category": "Vue",
+    "imageAlt": "Vue Google Maps UI",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-google-maps-ui.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://edisdev.github.io/vue-google-maps-ui/",
+    "templateName": "Vue Google Maps UI",
+    "description": "Vue Google Maps UI is a versatile and user-friendly library that seamlessly integrates Google Maps into Vue.js applications. With its intuitive components and easy-to-use API, developers can effortlessly incorporate interactive maps, markers, and other location-based features into their Vue projects. The library provides a set of Vue components that simplify the process of working with Google Maps, allowing developers to focus on building rich and dynamic mapping experiences.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 127,
+    "price": 0,
+    "popularity": 1102,
+    "appType": "landingpage",
+    "details": "https://github.com/openobserve/openobserve",
+    "category": "Vue",
+    "imageAlt": "OpenObserve",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/openobserve.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://openobserve.ai/",
+    "templateName": "OpenObserve",
+    "description": "OpenObserve is a cloud native observability platform built specifically for logs, metrics, traces and analytics designed to work at petabyte scale. It is very simple and easy to operate as opposed to Elasticsearch which requires a couple dozen knobs to understand and tune which you can get up and running in under 2 minutes.",
+    "features": [
+      
+    ],
+    "createdOn": "16-Jan-2024"
   }
 ]
