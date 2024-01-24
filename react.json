@@ -2669,5 +2669,59 @@
       
     ],
     "createdOn": "04-Dec-2020"
+  },
+  {
+    "id": 121,
+    "price": 0,
+    "popularity": 1084,
+    "appType": "landingpage",
+    "details": "https://github.com/vercel/nextjs-postgres-auth-starter",
+    "category": "NextJs",
+    "imageAlt": "Nextjs Postgres Auth Starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-postgres-auth-starter.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://nextjs-postgres-auth.vercel.app/",
+    "templateName": "Nextjs Postgres Auth Starter",
+    "description": "The Next.js + Tailwind + TypeScript + Prisma + NextAuth + PostgreSQL starter template is a robust and efficient foundation for building modern web applications. Next.js provides a powerful and flexible React framework for server-side rendering and easy navigation, ensuring optimal performance and user experience. Tailwind CSS streamlines styling with its utility-first approach, making it simple to create responsive and visually appealing designs.",
+    "features": [
+      
+    ],
+    "createdOn": "19-Mar-2022"
+  },
+  {
+    "id": 122,
+    "price": 0,
+    "popularity": 1085,
+    "appType": "landingpage",
+    "details": "https://github.com/VektorTech/jones-store",
+    "category": "NextJs",
+    "imageAlt": "Jones Store",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/jones-store.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://jones-store.vercel.app/",
+    "templateName": "Jones Store",
+    "description": "Jones is an SEO-friendly, responsive, mobile-first online store for purchasing Nike Jordan Ones. The website features real-time product filters, a pop-up search option (AJAX live search), AJAX add-to-cart and wishlist options, a guest shopping cart, a newsletter form, an announcement banner for live updates, a product review section and a slideshow on product hover.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Oct-2022"
+  },
+  {
+    "id": 123,
+    "price": 0,
+    "popularity": 1086,
+    "appType": "landingpage",
+    "details": "https://github.com/vanquiche/portfolio-website-template",
+    "category": "NextJs",
+    "imageAlt": "Portfolio Website Template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/portfolio-website-template.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://stevevangdev.com/",
+    "templateName": "Portfolio Website Template",
+    "description": "The Personal Portfolio Website Template is a sleek and versatile solution designed for individuals looking to showcase their skills, projects, and experiences online. This template offers a clean and modern aesthetic, ensuring a professional presentation that captivates visitors. With user-friendly customization options, individuals can easily personalize the template to reflect their unique style and branding.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Oct-2022"
   }
 ]
