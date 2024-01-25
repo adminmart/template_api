@@ -2723,5 +2723,59 @@
       
     ],
     "createdOn": "03-Oct-2022"
+  },
+  {
+    "id": 124,
+    "price": 0,
+    "popularity": 1087,
+    "appType": "landingpage",
+    "details": "https://github.com/vaguebrownfox/namrata",
+    "category": "NextJs",
+    "imageAlt": "Namrata",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/namrata.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://namrata.vercel.app/",
+    "templateName": "Namrata",
+    "description": "To get more information about the Namrata Folio obj nextjs free template, I recommend checking online sources such as GitHub, developer forums, or the official website of the template creator for the latest details and documentation. Additionally, you can search for recent updates or releases related to these terms to find any new developments or improvements that may have occurred since my last update.",
+    "features": [
+      
+    ],
+    "createdOn": "16-Nov-2021"
+  },
+  {
+    "id": 125,
+    "price": 0,
+    "popularity": 1088,
+    "appType": "landingpage",
+    "details": "https://github.com/Uvacoder/react-redux-hooks-starter-demo",
+    "category": "NextJs",
+    "imageAlt": "React Redux Hooks Starter Demo",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-redux-hooks-starter-demo.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://react-redux-hooks-starter.vercel.app/",
+    "templateName": "React Redux Hooks Starter Demo",
+    "description": "This starter demo would likely include the necessary configurations, file structures, and dependencies to quickly set up a React application with Redux integration using hooks. Developers often use such templates to streamline the initial setup process and adhere to best practices for state management in React applications.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Oct-2021"
+  },
+  {
+    "id": 126,
+    "price": 0,
+    "popularity": 1089,
+    "appType": "landingpage",
+    "details": "https://github.com/Uvacoder/nextarter-daisy",
+    "category": "NextJs",
+    "imageAlt": "Nextarter Daisy",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextarter-daisy.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://nextarter-daisy-eight.vercel.app/",
+    "templateName": "Nextarter Daisy",
+    "description": "To obtain more detailed information about Nextarter Daisy, including its features, documentation, and usage instructions, I recommend checking online sources such as GitHub or the official website of the template. Developers often share and maintain these templates on platforms like GitHub, where you can find documentation and insights into how to use the template effectively for your projects.",
+    "features": [
+      
+    ],
+    "createdOn": "05-Dec-2021"
   }
 ]
