@@ -2777,5 +2777,59 @@
       
     ],
     "createdOn": "05-Dec-2021"
+  },
+  {
+    "id": 127,
+    "price": 0,
+    "popularity": 1090,
+    "appType": "landingpage",
+    "details": "https://github.com/Uvacoder/neat-starter",
+    "category": "NextJs",
+    "imageAlt": "Neat Starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/neat-starter.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://neat-starter-black.vercel.app/",
+    "templateName": "Neat Starter",
+    "description": "The Neat Starter Next.js template is a streamlined and well-organized foundation for building modern web applications with Next.js. This template incorporates best practices in web development, offering a clean and modular structure that facilitates rapid development and easy maintenance. With a focus on simplicity and efficiency, Neat Starter includes essential features such as server-side rendering, dynamic routing, and state management. The template also integrates popular libraries and tools, ensuring a robust development environment.",
+    "features": [
+      
+    ],
+    "createdOn": "26-Aug-2021"
+  },
+  {
+    "id": 128,
+    "price": 0,
+    "popularity": 1091,
+    "appType": "landingpage",
+    "details": "https://github.com/Uvacoder/learn-headless-ui",
+    "category": "NextJs",
+    "imageAlt": "Learn Headless Ui",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/learn-headless-ui.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://learn-headless-ui-seven.vercel.app/",
+    "templateName": "Learn Headless Ui",
+    "description": "The Learn Headless UI Next.js template is a resourceful starting point for developers seeking to master the integration of the Headless UI library with their Next.js applications. This template serves as a comprehensive guide, combining the power of Next.js with the flexibility and accessibility provided by Headless UI components. Through practical examples and well-structured code, developers can quickly grasp the principles of creating seamless and interactive user interfaces using Headless UI in a Next.js environment.",
+    "features": [
+      
+    ],
+    "createdOn": "12-Sep-2021"
+  },
+  {
+    "id": 129,
+    "price": 0,
+    "popularity": 1092,
+    "appType": "landingpage",
+    "details": "https://github.com/Uvacoder/landingpage-medical",
+    "category": "NextJs",
+    "imageAlt": "Landingpage Medical",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/landingpage-medical.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://medical-landing.vercel.app/",
+    "templateName": "Landingpage Medical",
+    "description": "The Landingpage Medical Next.js template is a professionally designed and purpose-built solution for creating impactful landing pages in the healthcare and medical industry. This template combines the versatility of Next.js with a focus on delivering a clean, user-friendly, and visually appealing interface tailored specifically for medical services or products. With attention to detail in design and functionality, the Landingpage Medical template offers seamless navigation, concise content presentation, and responsive layouts to ensure a positive user experience across various devices.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Sep-2021"
   }
 ]
