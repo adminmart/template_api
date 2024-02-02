@@ -2893,5 +2893,59 @@
       
     ],
     "createdOn": "03-Jul-2022"
+  },
+  {
+    "id": 133,
+    "price": 0,
+    "popularity": 1096,
+    "appType": "admin-template",
+    "details": "https://github.com/TyMick/nextjs-local-authentication",
+    "category": "NextJs",
+    "imageAlt": "Nextjs Local Authentication",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-local-authentication.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://nextjs-local-authentication.tymick.me/",
+    "templateName": "Nextjs Local Authentication",
+    "description": "Implementing local authentication with MongoDB in a Next.js application involves integrating user authentication functionality within the project. Next.js, a React framework, provides a robust foundation for building web applications. To incorporate local authentication, you can utilize packages like Passport.js for authentication strategies and mongoose to interact with MongoDB.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Jan-2020"
+  },
+  {
+    "id": 134,
+    "price": 0,
+    "popularity": 1097,
+    "appType": "landingpage",
+    "details": "https://github.com/tonieerik/huvimestari",
+    "category": "NextJs",
+    "imageAlt": "Huvimestari",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/huvimestari.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://bizzapps.ru/p/next-js/",
+    "templateName": "Huvimestari",
+    "description": "The website of Huvimestari built with Next.js. It has a custom booking calendar that is using Google calendar API. Emails are sent with Gmail API. Performance is great (nearly 100% rating on Lighthouse), and landing pages are search engine optimised. The website is currently the first hit when people are looking for bachelor party activities in Jyväskylä.",
+    "features": [
+      
+    ],
+    "createdOn": "27-Mar-2022"
+  },
+  {
+    "id": 135,
+    "price": 0,
+    "popularity": 1098,
+    "appType": "admin-template",
+    "details": "https://github.com/tl-lucasestevam/pcx",
+    "category": "NextJs",
+    "imageAlt": "Pcx",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/pcx.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://pcx.lucasestevam.tech/signin",
+    "templateName": "Pcx",
+    "description": "Pcx stands out as a dynamic marketplace tailored for the seamless exchange of used hardware, skillfully crafted with a technology stack that encompasses React.js, Next.js, Typescript, Chakra UI, React Hook Form, and Yup. Leveraging the power of React.js and Next.js, Pcx delivers a highly responsive and efficient user interface, ensuring a smooth and engaging experience for both buyers and sellers. The integration of Typescript enhances code readability and maintainability, providing a strong typing system that contributes to the robustness of the application.",
+    "features": [
+      
+    ],
+    "createdOn": "11-Mar-2020"
   }
 ]
