@@ -2947,5 +2947,59 @@
       
     ],
     "createdOn": "11-Mar-2020"
+  },
+  {
+    "id": 136,
+    "price": 0,
+    "popularity": 1099,
+    "appType": "landingpage",
+    "details": "https://github.com/Tincre/promo-dashboard",
+    "category": "NextJs",
+    "imageAlt": "Promo Dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/promo-dashboard.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://tincre.dev/promo",
+    "templateName": "Promo Dashboard",
+    "description": "Introducing the ultimate solution for streamlined data visualization – one dashboard to rule them all. Elevate your promotional strategies by seamlessly integrating it into your Promo product suite. With this innovative addition, you can now effortlessly visualize and analyze Promo API data, gaining valuable insights into the performance of your promotional activities. Whether it's monitoring campaign effectiveness, tracking engagement metrics, or fine-tuning your marketing strategies, this consolidated dashboard provides a comprehensive overview, empowering you to make informed decisions.",
+    "features": [
+      
+    ],
+    "createdOn": "27-Nov-2022"
+  },
+  {
+    "id": 137,
+    "price": 0,
+    "popularity": 1100,
+    "appType": "landingpage",
+    "details": "https://github.com/thienjs/nice",
+    "category": "NextJs",
+    "imageAlt": "Nice",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nice.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://nicedist.co/",
+    "templateName": "Nice",
+    "description": "Embark on a cutting-edge e-commerce journey with a dynamic website built using Next.js, Shopify, and Tailwind CSS. This powerful combination brings together the efficiency of Next.js for a fast and responsive user experience, the robustness of Shopify for seamless e-commerce functionality, and the flexibility of Tailwind CSS for a sleek and customized design. Leverage the server-side rendering capabilities of Next.js to enhance performance and SEO, seamlessly integrate with Shopify's extensive e-commerce features, and achieve a pixel-perfect design using Tailwind CSS.",
+    "features": [
+      
+    ],
+    "createdOn": "21-Jan-2022"
+  },
+  {
+    "id": 138,
+    "price": 0,
+    "popularity": 1101,
+    "appType": "landingpage",
+    "details": "https://github.com/TheNaubit/nau-nextjs-boilerplate",
+    "category": "NextJs",
+    "imageAlt": "Nau Nextjs Boilerplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nau-nextjs-boilerplate.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://nauverse.com/",
+    "templateName": "Nau Nextjs Boilerplate",
+    "description": "Introducing a compact and efficient Next.js 13 boilerplate, a personal favorite for kickstarting projects. This lightweight foundation serves as an excellent starting point for web development endeavors, combining the power of Next.js 13 with simplicity and versatility. Designed with a minimalist approach, this boilerplate provides the essential structure and configurations, allowing developers to focus on building unique features and functionalities for their projects.",
+    "features": [
+      
+    ],
+    "createdOn": "19-Sep-2023"
   }
 ]
