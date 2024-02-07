@@ -3001,5 +3001,59 @@
       
     ],
     "createdOn": "19-Sep-2023"
+  },
+  {
+    "id": 139,
+    "price": 0,
+    "popularity": 1102,
+    "appType": "landingpage",
+    "details": "https://github.com/thakursaurabh1998/imprints",
+    "category": "NextJs",
+    "imageAlt": "Imprints",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/imprints.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://imprints.saurabhthakur.dev/",
+    "templateName": "Imprints",
+    "description": "A web application designed to showcase a collection of photographs offers a dynamic platform for users to explore and appreciate visual artistry. Through an intuitive interface, visitors can navigate through various categories or tags, facilitating easy discovery of images tailored to their interests. Advanced filtering options enable users to refine their search based on criteria such as date, location, or photographer, enhancing the browsing experience. With responsive design, the web app ensures seamless accessibility across devices, whether on desktops, tablets, or smartphones. Integration with social media platforms allows users to share their favorite images with friends and followers, fostering community engagement and exposure for both amateur and professional photographers.",
+    "features": [
+      
+    ],
+    "createdOn": "14-Mar-2023"
+  },
+  {
+    "id": 140,
+    "price": 0,
+    "popularity": 1103,
+    "appType": "landingpage",
+    "details": "https://github.com/surjithctly/jamstack-starter",
+    "category": "NextJs",
+    "imageAlt": "Jamstack Starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/jamstack-starter.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://jamstack-starter-sanity.vercel.app/",
+    "templateName": "Jamstack Starter",
+    "description": "JAMstack Starter represents a streamlined foundation for web development, coupling Next.js 13 with Sanity CMS v3 to offer a robust yet accessible solution. Tailwind CSS provides a sleek and customizable styling framework, ensuring a polished and modern aesthetic. With Next.js, developers benefit from server-side rendering and seamless client-side routing, enhancing both performance and user experience. Meanwhile, Sanity CMS empowers content creators with a user-friendly interface for managing website content, fostering collaboration and efficiency. Together, these technologies form a cohesive ecosystem for building dynamic and scalable web applications, ideal for projects ranging from personal blogs to enterprise-level websites.",
+    "features": [
+      
+    ],
+    "createdOn": "10-Dec-2022"
+  },
+  {
+    "id": 141,
+    "price": 0,
+    "popularity": 1104,
+    "appType": "landingpage",
+    "details": "https://github.com/Sumer16/hotelmart-ecommerce",
+    "category": "NextJs",
+    "imageAlt": "Hotelmart Ecommerce",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hotelmart-ecommerce.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://hotelmart.vercel.app/",
+    "templateName": "Hotelmart Ecommerce",
+    "description": "A fully functional E-commerce website which allows the users to login, add/delete products to/from cart, view products in detail and process payment of the products. This application has been built using React, NextJS, React MUI, Sanity (Headless CMS), and Stripe (Payment API) and deployed on Vercel.",
+    "features": [
+      
+    ],
+    "createdOn": "11-Jan-2023"
   }
 ]
