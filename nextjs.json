@@ -3055,5 +3055,64 @@
       
     ],
     "createdOn": "11-Jan-2023"
+  },
+  {
+    "id": 142,
+    "price": 0,
+    "popularity": 1105,
+    "appType": "landingpage",
+    "details": "https://github.com/Sukrittt/Limetta",
+    "category": "NextJs",
+    "imageAlt": "Limetta",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/limetta.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://www.limetta.in/",
+    "templateName": "Limetta",
+    "description": "Take your financial management to the next level with Limetta. Our intuitive Next.js application streamlines expense tracking, providing a user-friendly interface for effortless monitoring of your finances. With Limetta, you can easily manage multiple accounts, facilitating seamless organization of your funds. Additionally, our platform offers hassle-free money transfers, enabling swift and secure transactions.",
+    "features": [
+      "Authentication with NextAuth.js",
+      "End-to-end typesafe APIs with tRPC",
+      "ORM using Drizzle ORM",
+      "Database on PlanetScale",
+      "Validation with Zod",
+      "Responsive design with Tailwind CSS"
+    ],
+    "createdOn": "07-Sep-2023"
+  },
+  {
+    "id": 143,
+    "price": 0,
+    "popularity": 1106,
+    "appType": "landingpage",
+    "details": "https://github.com/sub-t/next-mdx-site",
+    "category": "NextJs",
+    "imageAlt": "Next Mdx Site",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-mdx-site.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://sub-t.github.io/next-mdx-site/",
+    "templateName": "Next Mdx Site",
+    "description": "The Next.js + MDX Site Template is a powerful tool for building dynamic and engaging websites. By combining the versatility of Next.js with the flexibility of MDX (Markdown + JSX), this template offers a seamless development experience. With Next.js, you can create fast-loading, server-rendered pages, while MDX allows you to effortlessly integrate interactive components and rich content within your markdown files.",
+    "features": [
+      
+    ],
+    "createdOn": "13-Feb-2023"
+  },
+  {
+    "id": 144,
+    "price": 0,
+    "popularity": 1107,
+    "appType": "landingpage",
+    "details": "https://github.com/storefront-foundation/react-storefront",
+    "category": "NextJs",
+    "imageAlt": "React Storefront",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-storefront.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://www.reactstorefront.io/",
+    "templateName": "React Storefront",
+    "description": "React Storefront is a cutting-edge Progressive Web App (PWA) designed specifically for eCommerce, offering unparalleled features and flexibility. With its unique architecture, React Storefront ensures 100% offline capabilities, making it ideal for users in areas with unreliable internet connections. Platform agnostic and headless, it seamlessly integrates with various backend systems, with full support for Magento 2.",
+    "features": [
+      
+    ],
+    "createdOn": "08-Nov-2019"
   }
 ]
