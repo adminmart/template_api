@@ -3114,5 +3114,59 @@
       
     ],
     "createdOn": "08-Nov-2019"
+  },
+  {
+    "id": 145,
+    "price": 0,
+    "popularity": 1108,
+    "appType": "landingpage",
+    "details": "https://github.com/stevenselcuk/onion",
+    "category": "NextJs",
+    "imageAlt": "Onion",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/onion.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://theonion.vercel.app/",
+    "templateName": "Onion",
+    "description": "Introducing the Gatsby Starter Theme, designed to kickstart your next badass app with style and efficiency. This theme is tailor-made for those who demand excellence, offering a sleek and modern design that's ready to deploy with just a splash of water. Whether you're building a portfolio, blog, or e-commerce site, this theme provides the perfect foundation for your project. With its intuitive layout and customizable features, you can easily create a unique and eye-catching experience for your users.",
+    "features": [
+      
+    ],
+    "createdOn": "27-Apr-2020"
+  },
+  {
+    "id": 146,
+    "price": 0,
+    "popularity": 1109,
+    "appType": "landingpage",
+    "details": "https://github.com/StaticMania/keep-react",
+    "category": "NextJs",
+    "imageAlt": "Keep React",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/keep-react.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://react.keepdesign.io/",
+    "templateName": "Keep React",
+    "description": "Keep React is a dynamic open-source component library, crafted on the powerful combination of Tailwind CSS and React.js. Seamlessly blending the flexibility of Tailwind CSS with the reactive capabilities of React.js, Keep React offers an extensive range of meticulously designed UI components. These components empower developers to effortlessly construct sleek and sophisticated web applications with a contemporary flair.",
+    "features": [
+      
+    ],
+    "createdOn": "27-Jul-2023"
+  },
+  {
+    "id": 147,
+    "price": 0,
+    "popularity": 1110,
+    "appType": "landingpage",
+    "details": "https://github.com/stackoverprof/nextplanet",
+    "category": "NextJs",
+    "imageAlt": "Nextplanet",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextplanet.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://nextplanet.vercel.app/",
+    "templateName": "Nextplanet",
+    "description": "The Clean-code practice-oriented NextJS practical starter-template offers developers a refreshing approach to kickstart their projects with a focus on clarity and efficiency. Built with a commitment to clean and organized code, this template empowers developers to adhere to best practices while bringing their ideas to life. With NextJS at its core, developers can leverage the power of server-side rendering and intuitive routing for seamless navigation.",
+    "features": [
+      
+    ],
+    "createdOn": "27-Jul-2023"
   }
 ]
