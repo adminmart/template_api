@@ -3168,5 +3168,65 @@
       
     ],
     "createdOn": "27-Jul-2023"
+  },
+  {
+    "id": 148,
+    "price": 0,
+    "popularity": 1111,
+    "appType": "landingpage",
+    "details": "https://github.com/stackhackerio/grang",
+    "category": "NextJs",
+    "imageAlt": "Grang",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/grang.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://grang.vercel.app/",
+    "templateName": "Grang",
+    "description": "GraphCMS, Next.js, Stripe, and Tailwind CSS form a powerful stack for building modern web applications. GraphCMS serves as a robust headless CMS, providing developers with a flexible and efficient way to manage content. Next.js, a React framework, complements GraphCMS by enabling server-side rendering, static site generation, and seamless client-side navigation. Stripe integration facilitates secure payment processing, making it ideal for e-commerce applications or subscription-based services.",
+    "features": [
+      
+    ],
+    "createdOn": "15-May-2021"
+  },
+  {
+    "id": 149,
+    "price": 0,
+    "popularity": 1112,
+    "appType": "landingpage",
+    "details": "https://github.com/Srijan-D/News-app-master",
+    "category": "NextJs",
+    "imageAlt": "News App Master",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/news-app-master.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://srijan-live-news-app.vercel.app/",
+    "templateName": "News App Master",
+    "description": "News web app with live data built with Next13.3,TypeScript, Tailwind. Dark/Light mode using next-themes. GraphQL for batching multiple api calls. StepZen for generating TypeScript definitions automatically. Live data pulled via Mediastash Api. Revalidation and prebuilding pages with generateStaticParams reducing wait time.",
+    "features": [
+      "Live data from the Mediastash API with revalidation",
+      "GraphQL for efficient batching of multiple API calls",
+      "Automatic TypeScript definition generation with StepZen",
+      "Prebuilt pages to reduce wait time",
+      "Streaming SSR for incremental rendering parts of UI to the client.",
+      "Custom svg loader using React Suspense under the hood.",
+      "Dark/light mode feature with next-themes and tailwindcss"
+    ],
+    "createdOn": "22-Apr-2023"
+  },
+  {
+    "id": 150,
+    "price": 0,
+    "popularity": 1113,
+    "appType": "landingpage",
+    "details": "https://github.com/Soufianeelc/nextjs-hashnode-blog",
+    "category": "NextJs",
+    "imageAlt": "Nextjs Hashnode Blog",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-hashnode-blog.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://nextjs-hashnode-blog.vercel.app/",
+    "templateName": "Nextjs Hashnode Blog",
+    "description": "The combination of Next.js and Hashnode API presents an efficient solution for building dynamic and feature-rich blog templates. Next.js, with its server-side rendering capabilities, ensures optimal performance and SEO benefits, while Hashnode API provides seamless access to blog content, including posts, comments, and user profiles. Leveraging Next.js's routing capabilities, developers can effortlessly create a fluid navigation experience for users, enhancing engagement and retention. ",
+    "features": [
+      
+    ],
+    "createdOn": "02-Oct-2023"
   }
 ]
