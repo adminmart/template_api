@@ -3228,5 +3228,65 @@
       
     ],
     "createdOn": "02-Oct-2023"
+  },
+  {
+    "id": 151,
+    "price": 0,
+    "popularity": 1114,
+    "appType": "landingpage",
+    "details": "https://github.com/sondh0127/nextjs-hasura-fullstack",
+    "category": "NextJs",
+    "imageAlt": "Nextjs Hasura Fullstack",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-hasura-fullstack.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://trello-sondh0127.vercel.app/",
+    "templateName": "Nextjs Hasura Fullstack",
+    "description": "A boilerplate integrating Next.js and Hasura offers a powerful foundation for rapidly developing applications. Leveraging the robust capabilities of Next.js for server-side rendering and routing, combined with Hasura's GraphQL API engine for efficient data querying and real-time updates, this boilerplate streamlines the development process. With Next.js, developers can create dynamic, SEO-friendly web pages while ensuring optimal performance. Meanwhile, Hasura simplifies backend development by providing a scalable, managed GraphQL API layer over new or existing databases, enabling seamless data fetching and manipulation.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Aug-2020"
+  },
+  {
+    "id": 152,
+    "price": 0,
+    "popularity": 1115,
+    "appType": "landingpage",
+    "details": "https://github.com/SMTanimur/Jazila-bazar",
+    "category": "NextJs",
+    "imageAlt": "Jazila Bazar",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/Jazila-bazar.jpg",
+    "subtitle": "Free & Open-Source NextJs Landing Page Template",
+    "livePreview": "https://jazila-bazar.vercel.app/",
+    "templateName": "Jazila Bazar",
+    "description": "Building an e-commerce store with search, filtering, cart management, and checkout functionalities requires a comprehensive approach. Beginning with a robust backend architecture, such as Node.js or Django, to handle data management and user authentication, is essential. Integrating a frontend framework like React or Vue.js ensures a dynamic and responsive user interface. Implementing a relational database system such as PostgreSQL or MySQL for storing product information, user profiles, and transaction records is crucial. Additionally, integrating payment gateways like Stripe or PayPal enables secure online transactions.",
+    "features": [
+      "Multi-Vendor Support: Allow multiple vendors to register and manage their own storefronts.",
+      "Product Management: Vendors can easily add, edit, and remove products from their catalog.",
+      "User Authentication: Secure user authentication using JWT tokens for enhanced security.",
+      "Responsive Design: A mobile-friendly and responsive UI for a great user experience across devices.",
+      "Search and Filters: Efficient search and filtering options to help users find products easily.",
+      "Review and Ratings: Users can leave reviews and ratings for products they have purchased.",
+      "Admin Dashboard: An admin dashboard for monitoring and managing the overall platform."
+    ],
+    "createdOn": "26-Aug-2023"
+  },
+  {
+    "id": 153,
+    "price": 0,
+    "popularity": 1116,
+    "appType": "admin-template",
+    "details": "https://github.com/Siumauricio/nextui-dashboard-template",
+    "category": "NextJs",
+    "imageAlt": "Nextui Dashboard Template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextui-dashboard-template.jpg",
+    "subtitle": "Free & Open-Source NextJs Admin Dashboard Template",
+    "livePreview": "https://nextui-dashboard-template.vercel.app/",
+    "templateName": "Nextui Dashboard Template",
+    "description": "A dashboard starter leveraging NextUI V2 and Next.js provides developers with a solid foundation for creating modern and visually appealing administrative interfaces. NextUI V2, a UI component library tailored for Next.js applications, offers a wide range of customizable components for building intuitive user interfaces efficiently. Combined with the powerful capabilities of Next.js, such as server-side rendering and routing, developers can create high-performance dashboard applications with ease. This starter kit typically includes pre-designed dashboard layouts, charts, tables, and other essential components commonly found in administrative interfaces.",
+    "features": [
+      
+    ],
+    "createdOn": "20-Sep-2022"
   }
 ]
