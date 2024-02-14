@@ -2738,5 +2738,71 @@
       
     ],
     "createdOn": "16-Jan-2024"
+  },
+  {
+    "id": 128,
+    "price": 0,
+    "popularity": 1103,
+    "appType": "landingpage",
+    "details": "https://github.com/wan2land/vue-scroll-picker",
+    "category": "Vue",
+    "imageAlt": "Vue Scroll Picker",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-scroll-picker.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vue-scroll-picker.dist.be/",
+    "templateName": "Vue Scroll Picker",
+    "description": "Vue Scroll Picker is a sleek and intuitive iOS-style scroll picker component designed specifically for Vue 3. With its seamless integration, it offers support for all mouse and touch gestures, ensuring a smooth and interactive user experience. Whether selecting dates, times, or any other options, Vue Scroll Picker provides a visually appealing and functional solution for your Vue 3 projects. Its versatility and responsiveness make it an ideal choice for creating dynamic and user-friendly interfaces.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 129,
+    "price": 0,
+    "popularity": 1104,
+    "appType": "landingpage",
+    "details": "https://github.com/smastrom/vue-use-fixed-header",
+    "category": "Vue",
+    "imageAlt": "Vue Use Fixed Header",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-use-fixed-header.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vue-use-fixed-header.pages.dev/",
+    "templateName": "Vue Use Fixed Header",
+    "description": "Transforming a static and mundane fixed header into a dynamic and animated one has never been easier! With just one line of code, you can elevate your user experience to the next level. By implementing this feature, your header seamlessly disappears as users scroll down, maximizing screen real estate and minimizing distractions. Conversely, as they scroll back up, the header gracefully reappears, providing easy access to essential navigation elements. This intelligent and intuitive behavior not only enhances the aesthetics of your website but also improves its usability, ensuring a more engaging and enjoyable browsing experience for your visitors.",
+    "features": [
+      "Dead simple - Write three lines of code and you're ready to go",
+      "Enjoyable - When scrolling down, the header is hidden, when scrolling up, the header is shown.",
+      "Smart - Behaves as expected on page load, hovering, dropdown navigation, top-reached and reduced motion.",
+      "Dynamic - Functionalities are automatically enabled/disabled if your header turns from fixed/sticky to something else or it is hidden at different viewports",
+      "Flexible - Works with any scrolling container."
+    ],
+    "createdOn": "05-Feb-2024"
+  },
+  {
+    "id": 130,
+    "price": 0,
+    "popularity": 1105,
+    "appType": "admin-template",
+    "details": "https://github.com/iqonicdesignofficial/hope-ui-vue-dashboard",
+    "category": "Vue",
+    "imageAlt": "Hope UI for Vue",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hope-ui-vue-dashboard.jpg",
+    "subtitle": "Free & Open-Source Vue Admin web Template",
+    "livePreview": "https://templates.iqonic.design/hope-ui/html/dist/dashboard/index.html",
+    "templateName": "Hope UI for Vue",
+    "description": "Hope UI is a production-ready, enterprise-grade Bootstrap admin dashboard template and UI component library. It comes with 400+ components, 100+ pages and pre-built dashboard layouts. Hope UI for Vue is available in an open-source and pro version.",
+    "features": [
+      "Support with bootstrap 5",
+      "Scss component based design",
+      "Fully Responsive",
+      "Clean Code",
+      "Demo Pages",
+      "Color Mode",
+      "Direction Mode",
+      "Layout Setting",
+      "30+ Menu Styles"
+    ],
+    "createdOn": "26-Sep-2023"
   }
 ]
