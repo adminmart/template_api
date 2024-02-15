@@ -2804,5 +2804,59 @@
       "30+ Menu Styles"
     ],
     "createdOn": "26-Sep-2023"
+  },
+  {
+    "id": 131,
+    "price": 0,
+    "popularity": 1106,
+    "appType": "landingpage",
+    "details": "https://github.com/vueplayground/vueplay.com",
+    "category": "Vue",
+    "imageAlt": "Vue Play",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vueplay.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vueplay.com/",
+    "templateName": "Vue Play",
+    "description": "Vue Play is a drag & drop component and application builder for Vue Single File Components or Vue applications. Build any website or component in a drag & drop interface, push it to GitHub and deploy on Github Pages in seconds. Publish and re-use single file components. Add inline/class styles and tailwind classes with style controllers. The website vueplay.com and the builder itself were built using Vue.js with Vite.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 132,
+    "price": 0,
+    "popularity": 1107,
+    "appType": "landingpage",
+    "details": "https://github.com/wobsoriano/vuetify-sonner",
+    "category": "Vue",
+    "imageAlt": "Vuetify Sonner",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuetify-sonner.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://vuetify-sonner.vercel.app/",
+    "templateName": "Vuetify Sonner",
+    "description": "The Vuetify Sonner presents as a stackable Vue 3 toast component designed specifically for integration within the Vuetify framework. This versatile tool empowers users to tailor various aspects of their toast notifications, including swipe direction and the number of concurrently visible toasts, among other customizable features.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 133,
+    "price": 0,
+    "popularity": 1108,
+    "appType": "landingpage",
+    "details": "https://github.com/fengyuanchen/vue-barcode",
+    "category": "Vue",
+    "imageAlt": "Vue Barcode",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-barcode.jpg",
+    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "livePreview": "https://fengyuanchen.github.io/vue-barcode/",
+    "templateName": "Vue Barcode",
+    "description": "The vue-barcode component, built upon JsBarcode, seamlessly integrates barcode functionality into Vue applications with user-friendly simplicity. Providing extensive customization options such as color schemes, sizing parameters, background settings, font variations, and more, it facilitates effortless implementation of barcode solutions tailored to specific requirements.",
+    "features": [
+      
+    ],
+    "createdOn": "07-Feb-2024"
   }
 ]
