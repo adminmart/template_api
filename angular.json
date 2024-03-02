@@ -1173,26 +1173,6 @@
     "price": 0,
     "popularity": 1025,
     "appType": "admin-template",
-    "details": "https://github.com/id1945/metronic-admin/archive/refs/heads/full-version-8.0.25.zip",
-    "category": "Angular",
-    "imageAlt": "metronic-admin",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-admin.jpg",
-    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://id1945.github.io/metronic-admin/#/dashboard",
-    "templateName": "Metronic admin",
-    "description": "The Metronic Admin Template stands as a versatile and feature-rich solution for crafting modern and intuitive web-based applications. With its carefully designed user interface components, responsive layouts, and extensive set of customization options, Metronic empowers developers to swiftly create visually stunning and highly functional admin panels. Whether you're working on a dashboard, analytics tool, or content management system, Metronic provides a solid foundation that streamlines development and enhances the end-user experience.",
-    "features": [
-      
-    ],
-    "createdOn": "",
-    "frameworkName": "",
-    "doFollow": true
-  },
-  {
-    "id": 47,
-    "price": 0,
-    "popularity": 1026,
-    "appType": "admin-template",
     "details": "https://github.com/jun-tech/ng-ant-design-pro-platform/archive/refs/heads/master.zip",
     "category": "Angular",
     "imageAlt": "ng-ant-design-pro-platform",
@@ -1209,9 +1189,9 @@
     "doFollow": true
   },
   {
-    "id": 48,
+    "id": 47,
     "price": 0,
-    "popularity": 1027,
+    "popularity": 1026,
     "appType": "admin-template",
     "details": "https://github.com/id1945/skote-admin/archive/refs/heads/full-version-1.0.zip",
     "category": "Angular",
@@ -1229,9 +1209,9 @@
     "doFollow": true
   },
   {
-    "id": 49,
+    "id": 48,
     "price": 0,
-    "popularity": 1028,
+    "popularity": 1027,
     "appType": "admin-template",
     "details": "https://github.com/dbartumeu/atomic-ui/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1255,9 +1235,9 @@
     "doFollow": true
   },
   {
-    "id": 50,
+    "id": 49,
     "price": 0,
-    "popularity": 1029,
+    "popularity": 1028,
     "appType": "landingpage",
     "details": "https://github.com/stimulsoft/Samples-Dashboards.JS-for-Angular/archive/refs/heads/main.zip",
     "category": "Angular",
