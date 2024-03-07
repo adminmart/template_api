@@ -1066,5 +1066,68 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 44,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/themefisher/meghna-hugo/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "meghna-hugo",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/meghna-hugo.jpg",
+    "subtitle": "Meghna Hugo stands as a testament to modern web design principles",
+    "livePreview": "https://demo.gethugothemes.com/meghna/site/",
+    "templateName": "Meghna Hugo",
+    "description": "Meghna Hugo stands as a testament to modern web design principles, encapsulating responsiveness, minimalism, and speed in its one-page business theme. Crafted with precision using HTML5 and CSS3, this theme ensures seamless adaptability across various devices and screen sizes. Its lightweight structure not only enhances performance but also facilitates swift loading times, catering to the ever-increasing demand for efficiency in today's digital landscape. Leveraging the power of Hugo, JavaScript, and JQuery, Meghna Hugo combines innovation with reliability, offering businesses a platform that is both visually compelling and technologically robust.",
+    "features": [
+      "Multilingual Support (with Language Selector)",
+      "Taxonomies",
+      "SEO Friendly",
+      "Onepage",
+      "Blog Support",
+      "Smooth Scroll",
+      "Contact Form Support",
+      "Google Map Support",
+      "WebP with Fallback Image Support",
+      "Uses Hugo's Asset Generator with Pipelining, Fingerprinting, Bundling, and Minification by Default"
+    ],
+    "createdOn": "12-Sep-2018"
+  },
+  {
+    "id": 45,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/juniHub/jamstack-ecommerce-nextjs/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "jamstack-ecommerce-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/jamstack-ecommerce-nextjs.jpg",
+    "subtitle": "Free & Open-Source Bootstrap landingpage Template",
+    "livePreview": "https://juni-ecommerce.vercel.app/",
+    "templateName": "Jamstack Ecommerce Nextjs",
+    "description": "E-commerce with Next.js and MongoDB represents a potent fusion of cutting-edge technology and robust database management. Next.js, renowned for its React-based framework, brings unparalleled flexibility and performance to the realm of web development. By harnessing its capabilities, e-commerce platforms can deliver dynamic, interactive user experiences that seamlessly adapt to evolving market trends and customer preferences. MongoDB, a leading NoSQL database, serves as the backbone of this ecosystem, providing unparalleled scalability and flexibility in data management.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Mar-2021"
+  },
+  {
+    "id": 46,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/devnyxie/nigiri/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "nigiri",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nigiri.jpg",
+    "subtitle": "The Nigiri Next.js Blog template allows you to create a personalized blog with ease.",
+    "livePreview": "https://nigiri.vercel.app/",
+    "templateName": "Nigiri",
+    "description": "The Nigiri Next.js Blog template represents a sophisticated solution for individuals seeking to establish their online presence through personalized blogging. With its user-friendly interface and seamless integration, this template streamlines the creation process, enabling users to curate content and design elements with ease. Whether crafting engaging articles, showcasing multimedia content, or interacting with readers through comments and social sharing features, the Nigiri Next.js Blog template empowers users to express their unique voice and vision effortlessly.",
+    "features": [
+      
+    ],
+    "createdOn": "10-Dec-2023"
   }
 ]
