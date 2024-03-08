@@ -1129,5 +1129,59 @@
       
     ],
     "createdOn": "10-Dec-2023"
+  },
+  {
+    "id": 47,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/alibek-gao/mf-next-chakra-poc_layout/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "mf-next-chakra-poc_layout",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mf-next-chakra-poc_layout.jpg",
+    "subtitle": "This is POC for Module Federation with Next.js and Chakra UI.",
+    "livePreview": "https://mf-next-chakra-poc-layout-mocha.vercel.app/",
+    "templateName": "Mf Next Chakra Poc_layout",
+    "description": "The Nigiri Next.js Blog template represents a sophisticated solution for individuals seeking to establish their online presence through personalized blogging. With its user-friendly interface and seamless integration, this template streamlines the creation process, enabling users to curate content and design elements with ease. Whether crafting engaging articles, showcasing multimedia content, or interacting with readers through comments and social sharing features, the Nigiri Next.js Blog template empowers users to express their unique voice and vision effortlessly.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Mar-2023"
+  },
+  {
+    "id": 48,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/WorldWideDevelop/habaneras_de_lino/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "habaneras_de_lino",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/habaneras_de_lino.jpg",
+    "subtitle": "Habaneras de Lino is an online ecommerce.",
+    "livePreview": "https://www.habanerasdelino.com/",
+    "templateName": "Habaneras_de_lino",
+    "description": "Habaneras de Lino represents a progressive online ecommerce platform committed to delivering a seamless shopping experience. Encapsulated within this repository is the frontend architecture meticulously crafted utilizing NEXT JS, a powerful framework renowned for its capacity to generate efficient React.js web applications. This initiative underscores our dedication to employing cutting-edge technologies to enhance user engagement and satisfaction.",
+    "features": [
+      
+    ],
+    "createdOn": "26-Jun-2023"
+  },
+  {
+    "id": 49,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/TyMick/nextjs-local-authentication/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "nextjs-local-authentication",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-local-authentication.jpg",
+    "subtitle": "Next.js local authentication with MongoDB",
+    "livePreview": "https://nextjs-local-authentication.tymick.me/",
+    "templateName": "Regal Free Bootstrap Admin Template",
+    "description": "The implementation of local authentication with MongoDB in a Next.js environment underscores a commitment to robust security and seamless user experiences. This endeavor seamlessly integrates Next.js's efficient server-side rendering capabilities with MongoDB's flexible and scalable database solutions, ensuring a reliable foundation for user authentication processes. Leveraging Next.js's dynamic routing and API routes alongside MongoDB's document-oriented architecture empowers developers to create highly customizable authentication workflows tailored to the unique needs of their applications.",
+    "features": [
+      
+    ],
+    "createdOn": "15-Jan-2020"
   }
 ]
