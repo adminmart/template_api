@@ -1177,11 +1177,65 @@
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-local-authentication.jpg",
     "subtitle": "Next.js local authentication with MongoDB",
     "livePreview": "https://nextjs-local-authentication.tymick.me/",
-    "templateName": "Regal Free Bootstrap Admin Template",
+    "templateName": "Nextjs Local Authentication",
     "description": "The implementation of local authentication with MongoDB in a Next.js environment underscores a commitment to robust security and seamless user experiences. This endeavor seamlessly integrates Next.js's efficient server-side rendering capabilities with MongoDB's flexible and scalable database solutions, ensuring a reliable foundation for user authentication processes. Leveraging Next.js's dynamic routing and API routes alongside MongoDB's document-oriented architecture empowers developers to create highly customizable authentication workflows tailored to the unique needs of their applications.",
     "features": [
       
     ],
     "createdOn": "15-Jan-2020"
+  },
+  {
+    "id": 50,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/shaikhalamin/morning-bakery/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "morning-bakery",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/morning-bakery.jpg",
+    "subtitle": "Morning Bakery is an E-commerce web application for selling bakery items.",
+    "livePreview": "https://morning-bakery.vercel.app/",
+    "templateName": "Morning Bakery",
+    "description": "Morning Bakery is a sophisticated E-commerce web application designed to offer a seamless experience for purchasing a variety of bakery items. Leveraging cutting-edge technologies, including Next.js with TypeScript integration, and NextAuth.js for authentication, our platform ensures both efficiency and security in every transaction. With a user-friendly interface and robust backend architecture, Morning Bakery caters to the diverse needs of customers while prioritizing convenience and trust.",
+    "features": [
+      
+    ],
+    "createdOn": "09-Dec-2022"
+  },
+  {
+    "id": 51,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/mohitmishra786/mohit-portfolio/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "mohit-portfolio",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mohit-portfolio.jpg",
+    "subtitle": "Software Developer Portfolio Template",
+    "livePreview": "https://mohit-portfolio-coral.vercel.app/",
+    "templateName": "Mohit Portfolio",
+    "description": "Introducing our Software Developer Portfolio Template, meticulously crafted to empower software developers in showcasing their expertise and accomplishments with finesse. This comprehensive template offers a sleek and intuitive interface, allowing developers to highlight their projects, skills, and experience seamlessly. With customizable features tailored to the needs of developers across various domains, our template ensures a professional presentation that resonates with potential employers and collaborators.",
+    "features": [
+      
+    ],
+    "createdOn": "01-Oct-2022"
+  },
+  {
+    "id": 52,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/maxigimenez/next-medium-blog-boilerplate/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "next-medium-blog-boilerplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-medium-blog-boilerplate.jpg",
+    "subtitle": "Elevate Your Content with Sophisticated Medium-Style Design",
+    "livePreview": "https://nextjs-medium-boilerplate.vercel.app/",
+    "templateName": "Next Medium Blog Boilerplate",
+    "description": "Introducing our Next.js Medium Style Blog Boilerplate, meticulously designed to offer developers a streamlined solution for creating sophisticated and visually captivating blog platforms akin to Medium. Harnessing the power of Next.js, this boilerplate provides a robust foundation for building dynamic and responsive blogs with ease. Inspired by the elegant design and user experience of Medium, our boilerplate incorporates modern UI components and intuitive navigation, ensuring an engaging reading experience for audiences.",
+    "features": [
+      
+    ],
+    "createdOn": "13-Apr-2020"
   }
 ]
