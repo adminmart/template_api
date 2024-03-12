@@ -1237,5 +1237,59 @@
       
     ],
     "createdOn": "13-Apr-2020"
+  },
+  {
+    "id": 53,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/danielDozie/naijadev/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "naijadev",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/naijadev.jpg",
+    "subtitle": "This is a simple project I am building on the process of learning the JAMSTACk.",
+    "livePreview": "https://naijadev-five.vercel.app/",
+    "templateName": "Naijadev",
+    "description": "Naira Dev Avenue proudly presents a captivating venture, emblematic of our commitment to innovation and expertise in the realm of software development. Embarking on a journey steeped in the principles of JAMstack, our project stands as a testament to the dedication of our team in mastering cutting-edge technologies. Within the vibrant landscape of Nigeria's tech community, Naira Dev Avenue emerges as a beacon, showcasing the brilliance and ingenuity of our nation's developers.",
+    "features": [
+      
+    ],
+    "createdOn": "04-Mar-2021"
+  },
+  {
+    "id": 54,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/stackfoss/doktor/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "doktor",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/doktor.jpg",
+    "subtitle": "Free and open source Nextjs template for healthcare professionals.",
+    "livePreview": "https://doktor.akselinc.com/",
+    "templateName": "Doktor",
+    "description": "Introducing a groundbreaking initiative tailored for healthcare professionals worldwide: the Free and Open Source Next.js Template. Designed to revolutionize the digital landscape of healthcare, this template offers an unparalleled opportunity for practitioners to leverage cutting-edge technology in their digital endeavors. With Next.js at its core, this template ensures unmatched performance, scalability, and security, empowering healthcare professionals to craft seamless and intuitive web experiences for their patients and colleagues.",
+    "features": [
+      
+    ],
+    "createdOn": "29-Aug-2023"
+  },
+  {
+    "id": 55,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/spendify-io/spendify-frontend/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "spendify-frontend",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/spendify-frontend.jpg",
+    "subtitle": "Spendify is a minimal expense web-app built to track and manage your expenditures",
+    "livePreview": "https://spendify-io.vercel.app/",
+    "templateName": "Spendify Frontend",
+    "description": "Introducing Spendify: an elegant and streamlined web application meticulously crafted to empower users in tracking and managing their expenditures with ease. With its minimalist design and intuitive interface, Spendify offers a seamless solution for individuals seeking to gain control over their finances. Whether managing personal budgets or monitoring business expenses, this platform provides comprehensive tools for expense tracking, categorization, and analysis. By harnessing the power of Spendify, users can make informed financial decisions, optimize spending habits, and achieve their financial goals with confidence.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Oct-2022"
   }
 ]
