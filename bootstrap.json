@@ -1291,5 +1291,64 @@
       
     ],
     "createdOn": "03-Oct-2022"
+  },
+  {
+    "id": 56,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/scottgriv/Business-Website/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "Business-Website",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/business-website.jpg",
+    "subtitle": "A versatile static business website built with Gatsby and hosted on Netlify",
+    "livePreview": "https://nightowllabs.io/",
+    "templateName": "Business Website",
+    "description": "We are pleased to present a dynamic static business website meticulously crafted using the cutting-edge Gatsby framework and seamlessly hosted on the robust platform of Netlify. This website exemplifies versatility, boasting multiple menus strategically designed to enhance user navigation and accessibility. Furthermore, it showcases an integrated product/app landing page, providing visitors with a comprehensive insight into the offerings of your business. With an emphasis on responsive design and optimal performance, this website not only elevates your online presence but also ensures a seamless user experience across various devices.",
+    "features": [
+      "Fully customizable",
+      "Display a product or app landing page",
+      "Mobile friendly",
+      "Easy navigation",
+      "Up arrow for easy page scrolling",
+      "Free to host and deploy using Netlify and GitHub"
+    ],
+    "createdOn": "29-Oct-2023"
+  },
+  {
+    "id": 57,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/rypan/jekyll-db/archive/refs/heads/gh-pages.zip",
+    "category": "Bootstrap",
+    "imageAlt": "jekyll-db",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/jekyll-db.jpg",
+    "subtitle": "An easy way to use Jekyll and Github Pages as a 'database'.",
+    "livePreview": "https://labs.panchadsaram.com/jekyll-db/",
+    "templateName": "Jekyll Db",
+    "description": "Discover a streamlined solution for leveraging Jekyll and GitHub Pages as an intuitive database platform with unparalleled ease. Our innovative approach simplifies data management, allowing you to harness the power of Jekyll's flexibility while seamlessly integrating with GitHub Pages for effortless deployment. Whether you're organizing content, managing collections, or curating dynamic information, our method transforms the traditionally static nature of Jekyll into a dynamic database-like system. By harnessing GitHub Pages' version control capabilities, your data remains secure and accessible, empowering you to efficiently update and maintain your content with minimal effort.",
+    "features": [
+      
+    ],
+    "createdOn": "30-Aug-2023"
+  },
+  {
+    "id": 58,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/riteshk-007/nextjs-store/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "nextjs-store",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-store.jpg",
+    "subtitle": "Full E commerce Website using Next js",
+    "livePreview": "https://nextjs-e-commerce-rk.vercel.app/",
+    "templateName": "Nextjs Store",
+    "description": "Embark on a journey of digital commerce excellence with our comprehensive E-commerce website solution built entirely on Next.js. Seamlessly combining the power of Next.js with the robust features required for a thriving online store, our solution offers unparalleled performance, scalability, and flexibility. With Next.js, we bring the advantages of server-side rendering and seamless client-side navigation, ensuring lightning-fast page loads and an exceptional user experience. Our E-commerce website encompasses a plethora of features including user-friendly product browsing, secure payment gateways, intuitive cart management, and seamless checkout processes.",
+    "features": [
+      
+    ],
+    "createdOn": "18-Dec-2023"
   }
 ]
