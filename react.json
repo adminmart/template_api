@@ -3288,5 +3288,23 @@
       
     ],
     "createdOn": "20-Sep-2022"
+  },
+  {
+    "id": 154,
+    "price": 0,
+    "popularity": 1117,
+    "appType": "admin-template",
+    "details": "https://www.npmjs.com/package/react-mui-sidebar",
+    "category": "React",
+    "imageAlt": "react-mui-sidebar",
+    "imageSrc": "https://camo.githubusercontent.com/33eeefc6943149b3f16fedd92c5a93f2477de3f8091409b55483441f1567ba47/68747470733a2f2f61646d696e6d6172742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032342f30332f6d75692d736964656261722d64656d6f2d696d6167652e6a7067",
+    "subtitle": "NPM React Sidebar with MUI",
+    "livePreview": "https://react-mui-sidebar.vercel.app/",
+    "templateName": "NPM React Sidebar with MUI",
+    "description": "The integration of NPM (Node Package Manager) with React Sidebar utilizing Material-UI (MUI) framework represents a sophisticated approach to web application development. By leveraging the power of NPM, developers gain access to a vast repository of reusable code modules, facilitating efficient project management and accelerated development cycles. Paired with React, a widely adopted JavaScript library for building user interfaces, and enhanced by the aesthetic and functional components of MUI, this solution offers a robust foundation for crafting modern, responsive web applications. The incorporation of a sidebar component adds to the user experience by providing intuitive navigation and organization of content, while MUI's design principles ensure consistency and elegance throughout the application interface. Through this integration, developers can streamline their workflow, enhance the user interface, and ultimately deliver a polished and feature-rich web application to their audience.",
+    "features": [
+      
+    ],
+    "createdOn": "18-Mar-2024"
   }
 ]
