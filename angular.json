@@ -1253,5 +1253,25 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 50,
+    "price": 0,
+    "popularity": 1029,
+    "appType": "admin-template",
+    "details": "https://github.com/primefaces/sakai-ng/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "sakai-ng",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sakai-ng.jpg",
+    "subtitle": "Sakai Angular is a free Angular template for admin dashboards",
+    "livePreview": "https://sakai.primeng.org/",
+    "templateName": "Sakai Ng",
+    "description": "Sakai Angular stands as a premier free Angular template meticulously crafted to meet the demands of modern admin dashboard development. With its sleek design and robust functionality, Sakai Angular offers developers a powerful toolset to create dynamic and visually stunning dashboards. Built upon Angular's solid foundation, this template ensures seamless integration, scalability, and ease of customization, making it an ideal choice for projects of any scale or complexity. Whether you're a seasoned developer or new to Angular, Sakai Angular provides an intuitive interface and comprehensive documentation, enabling swift and efficient development without compromising on quality.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]

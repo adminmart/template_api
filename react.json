@@ -3306,5 +3306,53 @@
       
     ],
     "createdOn": "20-Sep-2022"
+  },
+  {
+    "id": 155,
+    "price": 0,
+    "popularity": 1117,
+    "appType": "admin-template",
+    "details": "https://github.com/shaikhalamin/morning-bakery/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "morning-bakery-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/morning-bakery-nextjs.jpg",
+    "subtitle": "Morning Bakery is an E-commerce web application for selling bakery items.",
+    "livePreview": "https://morning-bakery.vercel.app/",
+    "templateName": "Morning Bakery",
+    "description": "Morning Bakery is a cutting-edge E-commerce web application meticulously crafted to cater to the discerning tastes of bakery enthusiasts worldwide. Leveraging the power and versatility of Next.js and TypeScript, Morning Bakery delivers a seamless and intuitive user experience, ensuring a delightful journey from browsing to purchase. With NextAuth.js seamlessly integrated, our platform prioritizes security and user authentication, fostering trust and confidence among our valued clientele. Whether indulging in delectable pastries, artisanal bread, or decadent cakes, Morning Bakery promises a premium digital storefront where quality meets convenience. Join us in savoring the essence of fine baking, all within a few clicks at Morning Bakery.",
+    "features": [
+      
+    ],
+    "createdOn": "09-Dec-2022"
+  },
+  {
+    "id": 156,
+    "price": 0,
+    "popularity": 1118,
+    "appType": "admin-template",
+    "details": "https://github.com/altence/lightence-ant-design-react-template/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "lightence-ant-design-react-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lightence-ant-design-react-template.jpg",
+    "subtitle": "Free and easy-to-use admin template based on React 17+",
+    "livePreview": "https://lightence-ant-design-react-template.pages.dev/",
+    "templateName": "Lightence Ant Design React Template",
+    "description": "Introducing our latest innovation in web development: a free, user-friendly admin template meticulously crafted on the robust foundation of React 17+. Designed with simplicity and efficiency in mind, our template empowers developers with a comprehensive suite of tools to streamline the creation of powerful, intuitive admin dashboards. With its intuitive interface and modular structure, this template offers unparalleled ease of use, allowing developers to focus on crafting exceptional user experiences without the hassle of complex setup or intricate coding. Whether you're a seasoned developer or just beginning your journey with React, our admin template provides the perfect starting point for building dynamic, responsive web applications.",
+    "features": [
+      "This solution allows you to reduce MVP development costs by up to 40%",
+      "Lightence admin dashboard template is based on a rich library powered by Ant Design",
+      "100% Free: start using it for your projects right away. No hidden payments, no trials, nothing",
+      "Medical dashboard includes: customizable medical dashboard for data-driven applications",
+      "Any backend supported: the dashboard supports any kind of backend by just updating an API",
+      "Modern & great for projects of tomorrow: built with React, Redux and Ant Design; Bootstrap and jQuery 100% free",
+      "🇺🇳 Internationalized: built-in internationalization support",
+      "Mobile first: optimized to reduce data usage on mobile devices",
+      "Responsive & adaptive: supports mobile, tablet, and desktop screens",
+      "Supports PWA to get all advantages of native mobile apps",
+      "Theming: use built-in light and dark themes or implement your own theme with just lines of code",
+      "Day & night mode: dark theme is automatically activated",
+      "Optimized bundle size: use the latest features of building tools to reduce the final bundle size"
+    ],
+    "createdOn": ""
   }
 ]
