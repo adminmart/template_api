@@ -56,7 +56,7 @@
   },
   {
     "id": 3,
-    "price": 59,
+    "price": 49,
     "popularity": 1,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/#product-demo-section",
@@ -88,6 +88,71 @@
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
+    "details": "https://adminmart.com/product/matdash-free-bootstrap-admin/",
+    "category": "Bootstrap",
+    "imageAlt": "Free - Open Source Bootstrap 5 Admin Dashboard",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2024/03/matdash-free-bootstrap-5-admin-dashboard.jpg",
+    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
+    "livePreview": "https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html",
+    "templateName": "MatDash Free Bootstrap Admin",
+    "description": "The Matdash Bootstrap Free Admin Dashboard is the cornerstone for developers aiming to revolutionize their web administration capabilities. Tailored for startups and developers alike, this version provides a foundational suite of features to facilitate efficient project management and data visualization. Begin your journey with a collection of essential UI components designed to simplify data management and enhance presentation. These foundational elements are critical for getting your project off the ground. With a focus on versatility, the free version of Matdash Bootstrap ensures that your admin dashboard delivers optimal performance and aesthetics on every device, from desktops to smartphones.",
+    "features": [
+      "1 Basic Dashboard",
+      "10+ Pages Template",
+      "5+ UI Components",
+      "Bootstrap 5 Version",
+      "Tabler Icons",
+      "SCSS Base CSS",
+      "Easy To Customize",
+      "Basic Form Examples",
+      "Fully Responsive Pages"
+    ],
+    "createdOn": "06-Apr-2024"
+  },
+  {
+    "id": 5,
+    "price": 49,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/",
+    "category": "Bootstrap",
+    "imageAlt": "Matdash Bootstrap 5 Admin Template",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2024/03/matdash-bootstrap-admin-dashboard.png",
+    "subtitle": "Premium Bootstrap Admin Dashboard Template",
+    "livePreview": "https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/#product-demo-section",
+    "templateName": "MatDash Bootstrap 5 Admin Dashboard",
+    "description": "Welcome to Matdash Bootstrap 5 Admin Dashboard, a template that redefines the essence of modern dashboard design. Matdash Bootstrap Admin Dashboard isn't just a tool; it's a comprehensive solution that brings a new wave of sophistication and functionality to your digital workspace. Dive into a rich selection of advanced UI components. Tailored for handling complex data effortlessly, these components provide immediate, in-depth insights through interactive charts, extensive data tables, and more. With Matdash Bootstrap Premium, experience an extended range of customization options. Craft your dashboard to perfectly match your project's needs with various theme styles and layout configurations.",
+    "features": [
+      "2+ Stunning Dashboards",
+      "690+ Page Templates",
+      "150+ UI Components",
+      "25+ Integrated Plugins",
+      "Bootstrap Landing Page",
+      "1 Year Premium Support",
+      "Right-to-Left(RTL) Verion",
+      "Unlimited Colors",
+      "3400+ Font Icons",
+      "Lots of Chart Options",
+      "Bootstrap 5 Version",
+      "Fully Responsive Pages",
+      "6+ Unique Demos",
+      "12+ Ready to Use App",
+      "Light and Dark Sidebar",
+      "Dashboard Figma Files",
+      "Documentation Provided",
+      "Lots of Widgets",
+      "Tons of Table Example",
+      "Variety of Forms Included",
+      "SCSS Base CSS",
+      "Easy to Customize"
+    ],
+    "createdOn": "22-Mar-2024"
+  },
+  {
+    "id": 6,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-free-bootstrap-admin/",
     "category": "Bootstrap",
     "imageAlt": "Free-Spike-Admin-WrapPixel-Preview",
@@ -112,7 +177,7 @@
     "createdOn": "25-Sept-2023"
   },
   {
-    "id": 5,
+    "id": 7,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -143,7 +208,7 @@
     "createdOn": "20-Sept-2023"
   },
   {
-    "id": 6,
+    "id": 8,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -174,7 +239,7 @@
     "createdOn": "11-Jul-2017"
   },
   {
-    "id": 7,
+    "id": 9,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -205,7 +270,7 @@
     "createdOn": "10-Mar-2017"
   },
   {
-    "id": 8,
+    "id": 10,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -236,7 +301,7 @@
     "createdOn": "10-May-2017"
   },
   {
-    "id": 9,
+    "id": 11,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -267,7 +332,7 @@
     "createdOn": "06-Sep-2017"
   },
   {
-    "id": 10,
+    "id": 12,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -298,7 +363,7 @@
     "createdOn": "16-May-2018"
   },
   {
-    "id": 11,
+    "id": 13,
     "price": 79,
     "popularity": 1,
     "appType": "admin-template",
@@ -329,7 +394,7 @@
     "createdOn": "15-May-2017"
   },
   {
-    "id": 12,
+    "id": 14,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -360,7 +425,7 @@
     "createdOn": "25-Jul-2018"
   },
   {
-    "id": 13,
+    "id": 15,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -391,7 +456,7 @@
     "createdOn": "07-Apr-2018"
   },
   {
-    "id": 14,
+    "id": 16,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -421,7 +486,7 @@
     "createdOn": "11-May-2021"
   },
   {
-    "id": 15,
+    "id": 17,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -449,7 +514,7 @@
     "createdOn": "09-Mar-2017"
   },
   {
-    "id": 16,
+    "id": 18,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -479,7 +544,7 @@
     "createdOn": "28-May-2018"
   },
   {
-    "id": 17,
+    "id": 19,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -507,7 +572,7 @@
     "createdOn": "10-May-2017"
   },
   {
-    "id": 18,
+    "id": 20,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -535,7 +600,7 @@
     "createdOn": "07-Oct-2017"
   },
   {
-    "id": 19,
+    "id": 21,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -563,7 +628,7 @@
     "createdOn": "27-Aug-2018"
   },
   {
-    "id": 20,
+    "id": 22,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -591,7 +656,7 @@
     "createdOn": "25-Jul-2018"
   },
   {
-    "id": 21,
+    "id": 23,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -620,7 +685,7 @@
     "createdOn": "18-Jan-2018"
   },
   {
-    "id": 22,
+    "id": 24,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -649,7 +714,7 @@
     "createdOn": "15-Jun-2018"
   },
   {
-    "id": 23,
+    "id": 25,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -677,7 +742,7 @@
     "createdOn": "09-May-2017"
   },
   {
-    "id": 24,
+    "id": 26,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -705,7 +770,7 @@
     "createdOn": "15-May-2021"
   },
   {
-    "id": 25,
+    "id": 27,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -728,7 +793,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 26,
+    "id": 28,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -751,7 +816,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 27,
+    "id": 29,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -775,7 +840,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 28,
+    "id": 30,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -793,7 +858,7 @@
     "createdOn": ""
   },
   {
-    "id": 29,
+    "id": 31,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -816,7 +881,7 @@
     "createdOn": ""
   },
   {
-    "id": 30,
+    "id": 32,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -834,7 +899,7 @@
     "createdOn": ""
   },
   {
-    "id": 31,
+    "id": 33,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -852,7 +917,7 @@
     "createdOn": ""
   },
   {
-    "id": 32,
+    "id": 34,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -870,7 +935,7 @@
     "createdOn": ""
   },
   {
-    "id": 33,
+    "id": 35,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -888,7 +953,7 @@
     "createdOn": ""
   },
   {
-    "id": 34,
+    "id": 36,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -906,7 +971,7 @@
     "createdOn": ""
   },
   {
-    "id": 35,
+    "id": 37,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -924,7 +989,7 @@
     "createdOn": ""
   },
   {
-    "id": 36,
+    "id": 38,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -942,7 +1007,7 @@
     "createdOn": ""
   },
   {
-    "id": 37,
+    "id": 39,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -960,7 +1025,7 @@
     "createdOn": ""
   },
   {
-    "id": 38,
+    "id": 40,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -978,7 +1043,7 @@
     "createdOn": ""
   },
   {
-    "id": 39,
+    "id": 41,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -996,7 +1061,7 @@
     "createdOn": ""
   },
   {
-    "id": 40,
+    "id": 42,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1014,7 +1079,7 @@
     "createdOn": ""
   },
   {
-    "id": 41,
+    "id": 43,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1032,7 +1097,7 @@
     "createdOn": ""
   },
   {
-    "id": 42,
+    "id": 44,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1050,7 +1115,7 @@
     "createdOn": ""
   },
   {
-    "id": 43,
+    "id": 45,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1068,7 +1133,7 @@
     "createdOn": ""
   },
   {
-    "id": 44,
+    "id": 46,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1095,7 +1160,7 @@
     "createdOn": "12-Sep-2018"
   },
   {
-    "id": 45,
+    "id": 47,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1113,7 +1178,7 @@
     "createdOn": "03-Mar-2021"
   },
   {
-    "id": 46,
+    "id": 48,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1131,7 +1196,7 @@
     "createdOn": "10-Dec-2023"
   },
   {
-    "id": 47,
+    "id": 49,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1149,7 +1214,7 @@
     "createdOn": "15-Mar-2023"
   },
   {
-    "id": 48,
+    "id": 50,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1167,7 +1232,7 @@
     "createdOn": "26-Jun-2023"
   },
   {
-    "id": 49,
+    "id": 51,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1185,7 +1250,7 @@
     "createdOn": "15-Jan-2020"
   },
   {
-    "id": 50,
+    "id": 52,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1203,7 +1268,7 @@
     "createdOn": "09-Dec-2022"
   },
   {
-    "id": 51,
+    "id": 53,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1221,7 +1286,7 @@
     "createdOn": "01-Oct-2022"
   },
   {
-    "id": 52,
+    "id": 54,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1239,7 +1304,7 @@
     "createdOn": "13-Apr-2020"
   },
   {
-    "id": 53,
+    "id": 55,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1257,7 +1322,7 @@
     "createdOn": "04-Mar-2021"
   },
   {
-    "id": 54,
+    "id": 56,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1275,7 +1340,7 @@
     "createdOn": "29-Aug-2023"
   },
   {
-    "id": 55,
+    "id": 57,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1293,7 +1358,7 @@
     "createdOn": "03-Oct-2022"
   },
   {
-    "id": 56,
+    "id": 58,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1316,7 +1381,7 @@
     "createdOn": "29-Oct-2023"
   },
   {
-    "id": 57,
+    "id": 59,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1334,7 +1399,7 @@
     "createdOn": "30-Aug-2023"
   },
   {
-    "id": 58,
+    "id": 60,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1352,7 +1417,7 @@
     "createdOn": "18-Dec-2023"
   },
   {
-    "id": 59,
+    "id": 61,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1370,7 +1435,7 @@
     "createdOn": "16-Feb-2016"
   },
   {
-    "id": 60,
+    "id": 62,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1388,7 +1453,7 @@
     "createdOn": "13-Oct-2019"
   },
   {
-    "id": 61,
+    "id": 63,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
