@@ -1469,5 +1469,23 @@
       
     ],
     "createdOn": "22-Jul-2019"
+  },
+  {
+    "id": 64,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/jeremylynch/gatsby-strapi-starter/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "gatsby-strapi-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/gatsby-strapi-starter.jpg",
+    "subtitle": "Accelerate Web Development with Seamless Integration of Gatsby and Strapi",
+    "livePreview": "https://gatsby-strapi-starter.netlify.app/",
+    "templateName": "Gatsby Strapi Starter",
+    "description": "The Gatsby Strapi Starter is an integrated solution designed to expedite the development of modern, high-performance websites and applications. Leveraging the powerful capabilities of Gatsby, a React-based static site generator, this starter kit offers developers an efficient path to building dynamic, SEO-friendly web experiences that are optimized for speed and scalability. Complementing Gatsby's robust architecture, Strapi, a flexible headless CMS, empowers users with a customizable backend environment. This enables seamless content management and delivery across multiple platforms, providing a versatile foundation for developers to innovate and create compelling digital products.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Nov-2019"
   }
 ]
