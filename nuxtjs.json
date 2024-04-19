@@ -2876,5 +2876,23 @@
       
     ],
     "createdOn": "07-Feb-2024"
+  },
+  {
+    "id": 134,
+    "price": 0,
+    "popularity": 1109,
+    "appType": "admin-template",
+    "details": "https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "StarAdmin-Free-Vue-Admin-Template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/StarAdmin-Free-Vue-Admin-Template.jpg",
+    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "livePreview": "https://demo.bootstrapdash.com/star-admin-vue/preview/#/dashboard",
+    "templateName": "StarAdmin-Free-Vue-Admin-Template",
+    "description": "StarAdmin is a free VueJS admin template based on Bootstrap and VueJS. It’s completely responsive and mobile-first, providing an excellent foundation for web apps. StarAdmin is very flexible and highly customizable, offering the best assistance in crafting your admin panel with amazing UI and user-friendliness. It contains excellent widgets, tables, icons, forms, and other essential elements. This admin template includes excellent notifications and sample login pages, register, 404, and 500. Check out other useful features of this free template.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]

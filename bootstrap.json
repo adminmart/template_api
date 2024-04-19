@@ -1487,5 +1487,23 @@
       
     ],
     "createdOn": "03-Nov-2019"
+  },
+  {
+    "id": 65,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/caarlos0-graveyard/up/archive/refs/heads/gh-pages.zip",
+    "category": "Bootstrap",
+    "imageAlt": "up",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/up.jpg",
+    "subtitle": "Clean and beautiful bootstrap based layout for Jekyll.",
+    "livePreview": "https://carlosbecker.com/posts/up-a-jekyll-theme/",
+    "templateName": "Up",
+    "description": "This Jekyll theme features a clean and beautiful layout based on Bootstrap, offering both aesthetic appeal and responsive design. Optimized for performance and cross-device compatibility, the theme integrates seamlessly with Bootstrap's robust framework to ensure that every element scales perfectly across different screen sizes. It is ideal for developers and bloggers seeking a professional yet customizable web template. With its well-structured codebase, this theme not only enhances visual engagement but also provides a user-friendly experience, ensuring that your content is presented in the most effective and accessible way. Whether you are setting up a blog, portfolio, or corporate website, this theme delivers a perfect balance of style and functionality.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
