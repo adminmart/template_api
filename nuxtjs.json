@@ -2894,5 +2894,28 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 135,
+    "price": 0,
+    "popularity": 1110,
+    "appType": "admin-template",
+    "details": "https://github.com/story2Dev/nuxt3-admin-dashboard/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt3-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt3-admin-dashboard.jpg",
+    "subtitle": "Building a Stunning Nuxt 3 Admin Dashboard",
+    "livePreview": "https://nuxt3-admin.netlify.app/",
+    "templateName": "Nuxt3 Admin Dashboard",
+    "description": "Embark on a journey of unparalleled development efficiency with our meticulously curated Nuxt 3 Admin Dashboard, meticulously designed to elevate your projects to new heights. This comprehensive toolkit seamlessly integrates cutting-edge technologies, including Naive UI, Echarts, Tailwind CSS, ESLint, and Prettier, empowering developers with the tools they need to create stunning, responsive admin interfaces. With Nuxt 3 at its core, this dashboard harnesses the power of server-side rendering and a modular architecture, ensuring optimal performance and scalability. Combined with the elegance and utility of Naive UI, the versatility of Echarts for data visualization, and the streamlined workflows facilitated by ESLint and Prettier, developers can focus their energies on innovation rather than tedious setup and configuration.",
+    "features": [
+      "Nuxt 3",
+      "Tailwind CSS",
+      "EChart",
+      "TypeScript",
+      "ESLint",
+      "Prettier"
+    ],
+    "createdOn": ""
   }
 ]

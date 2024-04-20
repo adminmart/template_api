@@ -1296,5 +1296,37 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 52,
+    "price": 0,
+    "popularity": 1031,
+    "appType": "admin-template",
+    "details": "https://github.com/luciano-work/angular-tailwind/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "angular-tailwind",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/angular-tailwind.jpg",
+    "subtitle": "Angular Tailwind is a great free Tailwind Angular template for dashboards",
+    "livePreview": "https://at.lanno.dev/dashboard/nfts",
+    "templateName": "Angular Tailwind",
+    "description": "Introducing the Angular & Tailwind CSS Admin Dashboard Starter Kit—an exceptional resource crafted to streamline development workflows for modern web applications. This meticulously designed toolkit merges the robustness of Angular framework with the flexibility and utility of Tailwind CSS, empowering developers to expedite their projects with ease. By harnessing the power of Angular's extensive ecosystem and Tailwind CSS's utility-first approach, developers gain unparalleled control over UI elements, ensuring both efficiency and aesthetic excellence. What sets this kit apart is its commitment to openness and accessibility—it's entirely free and open-source, enabling seamless collaboration and adaptation to diverse project requirements.",
+    "features": [
+      "Sidebar",
+      "Dark Theme",
+      "Navbar",
+      "Footer",
+      "Auth Module",
+      "Dashboard Module",
+      "Standalone components",
+      "Angular Signals",
+      "Multi Theme",
+      "Tests E2E",
+      "User Module",
+      "Guards",
+      "Animations"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
