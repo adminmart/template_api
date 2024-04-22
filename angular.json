@@ -1193,26 +1193,6 @@
     "price": 0,
     "popularity": 1026,
     "appType": "admin-template",
-    "details": "https://github.com/id1945/skote-admin/archive/refs/heads/full-version-1.0.zip",
-    "category": "Angular",
-    "imageAlt": "skote-admin",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/skote-admin.jpg",
-    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://id1945.github.io/skote-admin/#/dashboard",
-    "templateName": "Skote admin",
-    "description": "Seamlessly integrate the power of Angular 13 into your administrative workflows with this feature-rich Admin & Dashboard Template, complemented by a meticulously crafted Sketch design.",
-    "features": [
-      
-    ],
-    "createdOn": "",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 48,
-    "price": 0,
-    "popularity": 1027,
-    "appType": "admin-template",
     "details": "https://github.com/dbartumeu/atomic-ui/archive/refs/heads/master.zip",
     "category": "Angular",
     "imageAlt": "atomic-ui",
@@ -1235,9 +1215,9 @@
     "doFollow": true
   },
   {
-    "id": 49,
+    "id": 48,
     "price": 0,
-    "popularity": 1028,
+    "popularity": 1027,
     "appType": "landingpage",
     "details": "https://github.com/stimulsoft/Samples-Dashboards.JS-for-Angular/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1255,9 +1235,9 @@
     "doFollow": true
   },
   {
-    "id": 50,
+    "id": 49,
     "price": 0,
-    "popularity": 1029,
+    "popularity": 1028,
     "appType": "admin-template",
     "details": "https://github.com/primefaces/sakai-ng/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1275,9 +1255,9 @@
     "doFollow": true
   },
   {
-    "id": 51,
+    "id": 50,
     "price": 0,
-    "popularity": 1030,
+    "popularity": 1029,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1298,9 +1278,9 @@
     "doFollow": true
   },
   {
-    "id": 52,
+    "id": 51,
     "price": 0,
-    "popularity": 1031,
+    "popularity": 1030,
     "appType": "admin-template",
     "details": "https://github.com/luciano-work/angular-tailwind/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1330,9 +1310,9 @@
     "doFollow": true
   },
   {
-    "id": 53,
+    "id": 52,
     "price": 0,
-    "popularity": 1032,
+    "popularity": 1031,
     "appType": "admin-template",
     "details": "https://github.com/ng-matero/ng-matero/archive/refs/heads/main.zip",
     "category": "Angular",
