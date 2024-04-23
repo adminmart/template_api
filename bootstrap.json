@@ -1505,5 +1505,23 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 66,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/assemble/grunt-assemble/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "grunt-assemble",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/grunt-assemble.jpg",
+    "subtitle": "JamFree & Open-Source Bootstrap landingpage Template",
+    "livePreview": "https://assemble.io/",
+    "templateName": "Grunt Assemble",
+    "description": "The amalgamation of Grunt.js, Yeoman, and Node.js in the realm of static site generation represents a paradigm shift towards streamlined, efficient web development practices. This powerful combination empowers developers with a robust toolkit for automating repetitive tasks, scaffolding projects, and leveraging the extensive Node.js ecosystem. Widely adopted by prominent projects such as Zurb Foundation, Zurb Ink, H5BP, Topcoat, and the Web Experience Toolkit, this static site generator has become synonymous with versatility and reliability in the web development community. Its versatility extends beyond traditional website creation, enabling the rapid development of themes, components, documentation, blogs, and GitHub pages.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
