@@ -3372,5 +3372,23 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 158,
+    "price": 0,
+    "popularity": 1120,
+    "appType": "landingpage",
+    "details": "https://github.com/idurar/mern-admin/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "mern-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mern-admin.jpg",
+    "subtitle": "MERN Antd Admin MongoDB Nodejs React Node Js Rest Api CRUD Auth",
+    "livePreview": "https://www.idurarapp.com/",
+    "templateName": "Mern Admin",
+    "description": "Our team specializes in crafting comprehensive solutions utilizing the MERN stack coupled with Ant Design (Antd) for sophisticated administrative interfaces. Leveraging MongoDB for robust data storage and Node.js for server-side logic, we develop dynamic React-based front ends that ensure seamless user experiences. Our expertise extends to implementing RESTful APIs for CRUD operations, facilitating efficient data management and manipulation. Additionally, we prioritize the integration of authentication mechanisms to safeguard sensitive information and authenticate user access.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]

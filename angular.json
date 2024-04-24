@@ -1339,5 +1339,31 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 53,
+    "price": 0,
+    "popularity": 1032,
+    "appType": "admin-template",
+    "details": "https://github.com/uilibrary/matx-angular/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "matx-angular",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/matx-angular.jpg",
+    "subtitle": "Matx Angular Dashboard is a Free Angular admin template",
+    "livePreview": "https://uilibrary.github.io/matx-angular/dashboard/analytics",
+    "templateName": "matx-angular",
+    "description": "Matx Angular Dashboard is a Free Angular admin template built using Angular official Material design component library. And, Styles are written in SCSS. Matx Angular Material design Admin dashboard includes all the features you need to build a web application. We have implemented JWT Authentication (CanActivate AuthGuard), Lazy loaded modules, Vertical navigation, and Model-driven menu items. Also, it contains pages like Sign in, Signup, Forgot password, lock screen, etc. You can use this free Angular Material Admin Template to build any kind of web application. Web App such as ERP, CRM, or CMS-based projects. Moreover, we follow Industry-standard coding practices and naming conventions for clean code structure. The template uses the power of SCSS Variable, Functions & Mixins. Therefore, anyone can extend the design without losing design consistency. There are hundreds of utility classes. So, you can build the UI without writing CSS. Finally, this makes Matx light weight and you can easily add a new UI without gaining extra weight.",
+    "features": [
+      "JWT Authentication (How to video)",
+      "Lazy loaded modules/routing(How to video)",
+      "Dynamic Breadcrumb and Page Title",
+      "Predefined multiple Light & Dark themes",
+      "Responsive layout for any screen size",
+      "Multilevel menu",
+      "GitHub Repository"
+    ],
+    "createdOn": "06-May-2020",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
