@@ -2899,5 +2899,23 @@
       "Prettier"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 136,
+    "price": 0,
+    "popularity": 1111,
+    "appType": "landingpage",
+    "details": "https://github.com/snipcart/nuxt-cockpit/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-cockpit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-cockpit.jpg",
+    "subtitle": "A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack",
+    "livePreview": "https://snipcart.com/",
+    "templateName": "Nuxt Cockpit",
+    "description": "Integrating Cockpit CMS with Nuxt.js to construct a comprehensive JAMstack architecture presents a powerful solution for developers seeking efficient content management and dynamic web application functionality. This tutorial provides a systematic guide to seamlessly bundle Cockpit CMS, a lightweight yet robust content management system, with Nuxt.js, a progressive JavaScript framework renowned for its versatility and performance. By leveraging this integration, developers can harness the benefits of a decoupled CMS approach while capitalizing on Nuxt.js's capabilities for server-side rendering, static site generation, and client-side routing.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]

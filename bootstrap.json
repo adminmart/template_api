@@ -1523,5 +1523,23 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 67,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/AntonyJudeShaman/symp/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "symp",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/symp.jpg",
+    "subtitle": "College Symposium landing page",
+    "livePreview": "https://techfest2k23.vercel.app/",
+    "templateName": "Symp",
+    "description": "Welcome to the College Symposium landing page, your gateway to an enriching academic experience. Our platform serves as a hub for intellectual exchange, fostering collaboration and innovation among students, faculty, and industry professionals. Whether you're seeking thought-provoking discussions, engaging workshops, or networking opportunities, our Symposium offers a diverse array of events tailored to your interests and aspirations. From cutting-edge research presentations to insightful keynote speeches, our platform showcases the latest advancements in various fields of study. Join us as we embark on a journey of discovery and knowledge-sharing, empowering individuals to explore, learn, and connect in a dynamic academic environment.",
+    "features": [
+      
+    ],
+    "createdOn": "27-Aug-2023"
   }
 ]
