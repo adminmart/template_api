@@ -3390,5 +3390,23 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 159,
+    "price": 0,
+    "popularity": 1121,
+    "appType": "admin-template",
+    "details": "https://github.com/horizon-ui/horizon-ui-chakra-ts/archive/refs/heads/feature/react-table-v8.zip",
+    "category": "React",
+    "imageAlt": "horizon-ui-chakra-ts",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/horizon-ui-chakra-ts.jpg",
+    "subtitle": "Horizon UI TypeScript | The trendiest & innovative Open Source Admin Template for Chakra UI & React!",
+    "livePreview": "https://horizon-ui.com/horizon-ui-chakra-ts/#/admin/default",
+    "templateName": "Horizon UI Chakra Ts",
+    "description": "Introducing Horizon UI TypeScript, the forefront of modernity in the realm of Open Source Admin Templates tailored for Chakra UI and React. Designed to encapsulate the latest trends and innovations, Horizon UI TypeScript stands as a testament to seamless user experiences and unparalleled functionality. With a meticulous focus on usability and aesthetics, this template empowers developers to craft visually stunning and highly responsive web applications with ease. Whether embarking on a new project or seeking to elevate an existing one, Horizon UI TypeScript offers a comprehensive suite of components and utilities, all meticulously crafted to streamline development workflows.",
+    "features": [
+      
+    ],
+    "createdOn": "01-Nov-2022"
   }
 ]

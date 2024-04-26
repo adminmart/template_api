@@ -1073,7 +1073,7 @@
     "imageAlt": "vuestic-admin",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuestic-admin.jpg",
     "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
-    "livePreview": "https://admin.vuestic.dev/admin/dashboard",
+    "livePreview": "https://admin-demo.vuestic.dev/dashboard",
     "templateName": "Vuestic Admin",
     "description": "Liberate your creativity while maintaining a captivating aesthetic using our Vue 3 Admin Template. This cutting-edge solution not only exudes beauty but also empowers you with the freedom to mold and shape your administrative environment according to your preferences.",
     "features": [
