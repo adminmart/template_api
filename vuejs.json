@@ -2917,5 +2917,21 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 137,
+    "price": 0,
+    "popularity": 1112,
+    "appType": "landingpage",
+    "details": "https://github.com/Smuice-com/petra/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "petra",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/petra.jpg",
+    "subtitle": "A free Nuxt.js tailwindcss landing page template designed to showcase SaaS businesses, online services",
+    "livePreview": "https://smuice.com/",
+    "templateName": "Petra",
+    "description": "Introducing a cutting-edge Nuxt.js Tailwind CSS landing page template meticulously crafted to elevate the online presence of SaaS businesses, digital services, and a myriad of other ventures. Seamlessly blending the robustness of Nuxt.js with the sleekness of Tailwind CSS, this template offers a compelling canvas to showcase your offerings with finesse and efficiency. With its intuitive design and customizable components, it empowers businesses to effortlessly communicate their value propositions, captivate audiences, and drive conversions. Whether launching a new product, promoting a service, or establishing an online presence, this template serves as an indispensable tool for modern enterprises seeking to make a lasting impression in the digital landscape.",
+    "features": [],
+    "createdOn": "10-Dec-2020"
   }
 ]

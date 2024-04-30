@@ -3408,5 +3408,23 @@
       
     ],
     "createdOn": "01-Nov-2022"
+  },
+  {
+    "id": 160,
+    "price": 0,
+    "popularity": 1122,
+    "appType": "landingpage",
+    "details": "https://github.com/straightupjac/know-your-worth/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "know-your-worth",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/know-your-worth.jpg",
+    "subtitle": "Gender pay gap is real and while there is progress worth celebrating",
+    "livePreview": "https://www.knowyourworth.io/",
+    "templateName": "Know Your Worth",
+    "description": "The reality of the gender pay gap persists, and although strides towards equality are commendable, gauging the extent of progress within the Web3 industry remains a complex challenge. As the industry evolves rapidly, it's essential to critically examine how gender dynamics influence compensation structures and opportunities for advancement. While there may be promising developments, a comprehensive understanding of how the Web3 sector aligns with broader trends in gender pay equity requires diligent analysis and transparency from industry stakeholders.",
+    "features": [
+      
+    ],
+    "createdOn": "29-Jun-2022"
   }
 ]
