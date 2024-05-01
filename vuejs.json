@@ -2933,5 +2933,21 @@
     "description": "Introducing a cutting-edge Nuxt.js Tailwind CSS landing page template meticulously crafted to elevate the online presence of SaaS businesses, digital services, and a myriad of other ventures. Seamlessly blending the robustness of Nuxt.js with the sleekness of Tailwind CSS, this template offers a compelling canvas to showcase your offerings with finesse and efficiency. With its intuitive design and customizable components, it empowers businesses to effortlessly communicate their value propositions, captivate audiences, and drive conversions. Whether launching a new product, promoting a service, or establishing an online presence, this template serves as an indispensable tool for modern enterprises seeking to make a lasting impression in the digital landscape.",
     "features": [],
     "createdOn": "10-Dec-2020"
+  },
+  {
+    "id": 138,
+    "price": 0,
+    "popularity": 1113,
+    "appType": "landingpage",
+    "details": "https://github.com/sdras/page-transitions-travelapp/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "page-transitions-travelapp",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/page-transitions-travelapp.jpg",
+    "subtitle": "Travel App, Native-like Page Transitions",
+    "livePreview": "https://pagetransitions.netlify.app/",
+    "templateName": "Page Transitions Travelapp",
+    "description": "Our innovative travel app boasts native-like page transitions, providing users with a seamless and intuitive navigation experience. Designed to enhance user engagement and streamline interaction, our app offers fluid transitions between pages, mirroring the responsiveness and familiarity of native applications. By prioritizing smooth transitions, we ensure that users remain immersed in their journey without interruption, whether they're exploring destinations, booking accommodations, or accessing personalized recommendations. With our commitment to delivering a polished and dynamic user interface, our travel app sets the standard for intuitive navigation, offering a frictionless experience that keeps users coming back for more.",
+    "features": [],
+    "createdOn": ""
   }
 ]

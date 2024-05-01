@@ -3426,5 +3426,23 @@
       
     ],
     "createdOn": "29-Jun-2022"
+  },
+  {
+    "id": 161,
+    "price": 0,
+    "popularity": 1123,
+    "appType": "landingpage",
+    "details": "https://github.com/sozonome/muvees/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "muvees",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/muvees.jpg",
+    "subtitle": "Movie, TV Shows, Person library. Powered by themoviedb.org",
+    "livePreview": "https://muvees.sznm.dev/",
+    "templateName": "Muvees",
+    "description": "Our comprehensive entertainment platform boasts a vast library of movies, TV shows, and personal profiles, powered by the renowned themoviedb.org database. With an extensive collection of cinematic content at your fingertips, users can easily discover their favorite films and series, curated to cater to diverse tastes and preferences. Leveraging the rich data provided by themoviedb.org, our platform delivers accurate and up-to-date information on titles, cast, crew, and more, ensuring an immersive and informative browsing experience. Whether users are seeking classic films, trending TV shows, or exploring the profiles of their favorite actors and directors, our platform offers a seamless and feature-rich interface for all their entertainment needs.",
+    "features": [
+      
+    ],
+    "createdOn": "27-Dec-2020"
   }
 ]
