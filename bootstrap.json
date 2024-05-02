@@ -1541,5 +1541,28 @@
       
     ],
     "createdOn": "27-Aug-2023"
+  },
+  {
+    "id": 68,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/zerostaticthemes/jekyll-serif-theme/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "jekyll-serif-theme",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/jekyll-serif-theme.jpg",
+    "subtitle": "Serif is a multi page business theme for Jekyll.",
+    "livePreview": "https://jekyll-serif.netlify.app/",
+    "templateName": "Jekyll Serif Theme",
+    "description": "Serif embodies versatility and sophistication as a multi-page business theme meticulously crafted for Jekyll. Designed to cater to the diverse needs of businesses, Serif offers a seamless blend of aesthetics and functionality. With its clean layout and attention to detail, Serif provides a professional platform for showcasing products, services, and corporate information. Whether it's creating an engaging portfolio, presenting compelling case studies, or establishing an authoritative online presence, Serif empowers businesses to captivate their audience effectively. Elevate your digital presence with Serif, the quintessential choice for Jekyll users seeking a polished and impactful business theme.",
+    "features": [
+      "Jekyll 4.2+",
+      "Netlify & Github Pages ready",
+      "Services (Collection)",
+      "Team (Collection)",
+      "Features (Data)",
+      "SCSS"
+    ],
+    "createdOn": "09-Dec-2018"
   }
 ]

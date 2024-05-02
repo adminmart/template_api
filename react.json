@@ -3444,5 +3444,23 @@
       
     ],
     "createdOn": "27-Dec-2020"
+  },
+  {
+    "id": 162,
+    "price": 0,
+    "popularity": 1124,
+    "appType": "admin-template",
+    "details": "https://github.com/horizon-ui/horizon-tailwind-react/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "horizon-tailwind-react",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/horizon-tailwind-react.jpg",
+    "subtitle": "Horizon UI Tailwind CSS React JS ❇️ The trendiest & innovative Open Source Admin Dashboard Template",
+    "livePreview": "https://horizon-ui.com/horizon-tailwind-react/admin/default",
+    "templateName": "Horizon Tailwind React",
+    "description": "Introducing Horizon UI, the epitome of cutting-edge innovation in the realm of Open Source Admin Dashboard Templates tailored for Tailwind CSS and React JS frameworks. Seamlessly blending the robust capabilities of Tailwind CSS with the dynamic functionality of React JS, Horizon UI stands as the pinnacle of modern design and user experience. With its meticulously crafted components and intuitive interface, Horizon UI empowers developers to create stunning, responsive admin dashboards with unparalleled ease and efficiency. Stay ahead of the curve with Horizon UI, the trendiest choice for those seeking to elevate their web development projects to new heights.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
