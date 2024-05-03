@@ -3462,5 +3462,23 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 163,
+    "price": 0,
+    "popularity": 1125,
+    "appType": "admin-template",
+    "details": "https://github.com/horizon-ui/chatgpt-ai-template/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "chatgpt-ai-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chatgpt-ai-template.jpg",
+    "subtitle": "Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React",
+    "livePreview": "https://horizon-ui.com/chatgpt-ai-template/chat",
+    "templateName": "Chatgpt AI Template",
+    "description": "Introducing Horizon AI Template, the epitome of cutting-edge innovation in the realm of conversational AI interfaces. Crafted meticulously to harness the power of ChatGPT, this open-source template stands as the vanguard of intuitive and engaging user experiences. Developed for React, NextJS, and fortified with the elegance of Chakra UI, it offers an unparalleled synergy of functionality and aesthetics. Horizon AI Template empowers developers to effortlessly integrate advanced AI capabilities into their applications, elevating them to new heights of interactivity and sophistication. Whether you're delving into chatbots, virtual assistants, or interactive customer service solutions, this template provides a robust foundation, ensuring seamless deployment and scalability.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]

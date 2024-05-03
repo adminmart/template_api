@@ -2949,5 +2949,21 @@
     "description": "Our innovative travel app boasts native-like page transitions, providing users with a seamless and intuitive navigation experience. Designed to enhance user engagement and streamline interaction, our app offers fluid transitions between pages, mirroring the responsiveness and familiarity of native applications. By prioritizing smooth transitions, we ensure that users remain immersed in their journey without interruption, whether they're exploring destinations, booking accommodations, or accessing personalized recommendations. With our commitment to delivering a polished and dynamic user interface, our travel app sets the standard for intuitive navigation, offering a frictionless experience that keeps users coming back for more.",
     "features": [],
     "createdOn": ""
+  },
+  {
+    "id": 139,
+    "price": 0,
+    "popularity": 1114,
+    "appType": "landingpage",
+    "details": "https://github.com/richardeschloss/nuxt-highcharts/archive/refs/heads/master.zip",
+    "category": "Nuxt",
+    "imageAlt": "nuxt-highcharts",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-highcharts.jpg",
+    "subtitle": "Free & Open-Source NuxtJs landingpage Template",
+    "livePreview": "https://nuxt-highcharts.netlify.app/",
+    "templateName": "Nuxt Highcharts",
+    "description": "Introducing Highcharts for Nuxt, a dynamic fusion of two powerful technologies engineered to revolutionize data visualization. Seamlessly integrating the renowned Highcharts library with the versatility of Nuxt.js, this innovative solution empowers developers to create stunning and interactive charts with unparalleled ease and efficiency. Whether crafting immersive dashboards, insightful analytics platforms, or dynamic reporting systems, Highcharts for Nuxt delivers a seamless development experience coupled with exceptional performance. With its intuitive API and robust customization options, developers can effortlessly tailor visualizations to suit any project requirement or design aesthetic.",
+    "features": [],
+    "createdOn": "14-May-2020"
   }
 ]
