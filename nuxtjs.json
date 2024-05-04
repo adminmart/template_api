@@ -2815,5 +2815,28 @@
     "description": "Introducing Highcharts for Nuxt, a dynamic fusion of two powerful technologies engineered to revolutionize data visualization. Seamlessly integrating the renowned Highcharts library with the versatility of Nuxt.js, this innovative solution empowers developers to create stunning and interactive charts with unparalleled ease and efficiency. Whether crafting immersive dashboards, insightful analytics platforms, or dynamic reporting systems, Highcharts for Nuxt delivers a seamless development experience coupled with exceptional performance. With its intuitive API and robust customization options, developers can effortlessly tailor visualizations to suit any project requirement or design aesthetic.",
     "features": [],
     "createdOn": "14-May-2020"
+  },
+  {
+    "id": 140,
+    "price": 0,
+    "popularity": 1115,
+    "appType": "admin-template",
+    "details": "https://github.com/flatlogic/light-blue-vue-admin/archive/refs/heads/master.zip",
+    "category": "Vue",
+    "imageAlt": "light-blue-vue-admin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/light-blue-vue-admin.jpg",
+    "subtitle": "Vue admin dashboard template with stylish transparent design",
+    "livePreview": "https://demo.flatlogic.com/light-blue-vue/#/app/main/visits",
+    "templateName": "Light Blue Vue Admin",
+    "description": "This dashboard, a lite version(containing only a few components) of our Light Blue Vue Full, includes a selection of ready-to-use components found in the full version, offering a glimpse into its capabilities. Built with vue-cli-3, it ensures wide support across the web, providing developers with a reliable and scalable foundation for creating business software with a focus on usability and modern web standards. You can easily customize the template by changing SCSS variables. All paddings and colors are in _variables.scss file.",
+    "features": [
+      "Bootstrap 4,5 & SCSS",
+      "Responsive layout",
+      "Vue Chart.js",
+      "Simple login / logout",
+      "Error page",
+      "Styled Bootstrap components like buttons, modals, etc"
+    ],
+    "createdOn": "20-Oct-2021"
   }
 ]

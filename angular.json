@@ -1365,5 +1365,36 @@
     "createdOn": "06-May-2020",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 54,
+    "price": 0,
+    "popularity": 1033,
+    "appType": "landingpage",
+    "details": "https://github.com/flatlogic/angular-dashboard-seed/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "angular-dashboard-seed",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/angular-dashboard-seed.jpg",
+    "subtitle": "Angular dashboard sample application with nodejs REST backend integration",
+    "livePreview": "https://angular-dashboard-seed.flatlogic.com/",
+    "templateName": "Angular Dashboard Seed",
+    "description": "Integrating Angular, a powerful front-end framework, with Node.js REST backend creates a robust and scalable architecture for developing dashboard applications. By leveraging Angular's rich features for creating dynamic user interfaces and Node.js for building efficient server-side logic, developers can craft seamless user experiences while ensuring optimal performance. This integration allows for real-time data updates, interactive visualization, and secure communication between the front-end and back-end components. Through effective use of Angular's component-based architecture and Node.js's event-driven, non-blocking I/O model, developers can streamline development workflows and enhance application responsiveness.",
+    "features": [
+      "AngularJS",
+      "Angular UI Router",
+      "Bootstrap3",
+      "Nodejs backend inegration",
+      "Sass styles",
+      "Gulp build",
+      "Stylish, clean, responsive layout",
+      "Lots of utility css classes for rapid development (flatlogic css set)",
+      "Authentication and authorization",
+      "CRUD operations examples",
+      "Browsersync for the ease of development",
+      "Toastr notifications"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
