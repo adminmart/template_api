@@ -3480,5 +3480,33 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 164,
+    "price": 0,
+    "popularity": 1126,
+    "appType": "admin-template",
+    "details": "https://github.com/flatlogic/sofia-react-template/archive/refs/heads/master.zip",
+    "category": "React",
+    "imageAlt": "sofia-react-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sofia-react-template.jpg",
+    "subtitle": "Sofia React Template - Admin Dashboard Template built with React",
+    "livePreview": "https://flatlogic.github.io/sofia-react-template/#/template/dashboard",
+    "templateName": "Sofia React Template",
+    "description": "Sofia React Template is an impeccably designed Admin Dashboard Template meticulously crafted with React, offering a seamless and intuitive user experience for developers and administrators alike. With its modern aesthetic and robust functionality, Sofia React Template empowers users to effortlessly manage their projects, data, and analytics with efficiency and clarity. Boasting a responsive layout and a plethora of customizable components, this template is versatile and adaptable to diverse project requirements. Whether you are creating an enterprise-level application or a personal project, Sofia React Template provides a solid foundation, enabling you to streamline development and deliver exceptional results.",
+    "features": [
+      "React v17",
+      "Bootstrap v4.6 & SCSS",
+      "React Router v5",
+      "React functional components",
+      "React Hooks",
+      "Mobile friendly responsive layout",
+      "Recharts and Apexcharts chart libraries",
+      "Simple login / logout",
+      "Error page",
+      "Styled Bootstrap components like buttons, badges, labels, etc",
+      "Create-react-app under the hood"
+    ],
+    "createdOn": ""
   }
 ]
