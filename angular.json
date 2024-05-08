@@ -1396,5 +1396,77 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 55,
+    "price": 0,
+    "popularity": 1034,
+    "appType": "admin-template",
+    "details": "https://github.com/CreativeIT/material-angular-dashboard/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "material-angular-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/material-angular-dashboard.jpg",
+    "subtitle": "Material admin template is absolutely free for commercial usage theme",
+    "livePreview": "http://material-angular-dashboard.creativeit.io/#/app/dashboard",
+    "templateName": "Material Angular Dashboard",
+    "description": "Material Angular Dashboard is a cutting-edge free admin dashboard template that combines the power of Angular10 with the Material Design framework. This template offers a simple, sleek, and modern interface, adhering to the principles of Material Design for a visually appealing user experience. The dashboard provides enhanced performance, responsiveness, and seamless integration with various components.",
+    "features": [
+      "Angular",
+      "Material Design",
+      "TypeScript",
+      "Responsive dark material design. DARK, Carl!",
+      "User experience focused",
+      "Sass",
+      "D3 and NVD3",
+      "ag-Grid",
+      "material-angular-select",
+      "MIT License"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 56,
+    "price": 0,
+    "popularity": 1035,
+    "appType": "admin-template",
+    "details": "https://github.com/invertase/rdash-angular/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "rdash-angular",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/rdash-angular.jpg",
+    "subtitle": "AngularJS implementation of the RDash admin dashboard theme",
+    "livePreview": "https://rdash.github.io/#/",
+    "templateName": "RDash Angular",
+    "description": "Rdash Angular is a free and feature-rich dashboard admin panel template equipped with all the essential components. With its captivating design, this template incorporates CSS3-based animations and operates seamlessly on the renowned Angular JS 1.2.21 framework. Explore the world of Rdash Angular for a visually appealing and functional dashboard experience.",
+    "features": [
+      "CSS3 Based Animations",
+      "Bloat Free Dashboards",
+      "Angular JS 1.2.21 Framework",
+      "Elegant And Responsive Design"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 57,
+    "price": 0,
+    "popularity": 1036,
+    "appType": "landingpage",
+    "details": "https://github.com/krispo/angular-nvd3/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "angular-nvd3",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/angular-nvd3.jpg",
+    "subtitle": "AngularJS directive for NVD3 reusable charting library.",
+    "livePreview": "https://krispo.github.io/angular-nvd3/#/",
+    "templateName": "Angular-nvD3",
+    "description": "Angular-nvD3 is an AngularJS directive for NVD3 re-usable charting libraries (based on D3) that supports Angular 2. This open-source project enables software designers and developers to easily customize their charts with the help of JSON API. Providing a variety of charts (bullet charts, candlestick charts, parallel coordinates, etc.). Angular-nvD3 allows managing properties of models with their original structure being kept in JSON models. At the moment, this directive has more than 1,300 stars on GitHub.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
