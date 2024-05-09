@@ -1468,5 +1468,45 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 58,
+    "price": 0,
+    "popularity": 1037,
+    "appType": "landingpage",
+    "details": "https://github.com/gobijan/maverix/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "maverix",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/maverix.jpg",
+    "subtitle": "Maverix Bootstrap Theme and AngularJS Boilerplate",
+    "livePreview": "https://screenisland.com/",
+    "templateName": "Maverix",
+    "description": "The Maverix Bootstrap Theme coupled with the AngularJS Boilerplate offers a robust and versatile solution for web developers seeking to create modern and responsive web applications. Maverix Bootstrap Theme provides a sleek and visually appealing design framework built upon the popular Bootstrap framework, ensuring cross-browser compatibility and ease of customization. Complemented by the AngularJS Boilerplate, developers benefit from a structured and efficient starting point for AngularJS-based projects, facilitating rapid development and scalability.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 59,
+    "price": 0,
+    "popularity": 1038,
+    "appType": "admin-template",
+    "details": "https://github.com/start-angular/ani-theme/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "ani-theme",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ani-theme.jpg",
+    "subtitle": "Ani Free AngularJS Dashboard Theme",
+    "livePreview": "https://rawgit.com/start-angular/ani-theme/master/dist/index.html#/dashboard/overview",
+    "templateName": "Ani Dashboard",
+    "description": "The Ani Free AngularJS Dashboard Theme offers an intuitive and feature-rich platform for web developers to create dynamic and visually stunning dashboards and web applications. With its clean and modern design, Ani provides users with a seamless navigation experience across various devices and screen sizes. Leveraging the power of AngularJS, developers can easily integrate dynamic data and interactive elements into their projects, enhancing user engagement and productivity. Whether building enterprise dashboards, data visualization tools, or management interfaces, Ani empowers developers to accelerate their development process while maintaining high standards of design and functionality.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
