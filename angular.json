@@ -1508,5 +1508,45 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 60,
+    "price": 0,
+    "popularity": 1039,
+    "appType": "admin-template",
+    "details": "https://github.com/csotomon/Angular2-AdminLTE/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "Angular2-AdminLTE",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/Angular2-AdminLTE.jpg",
+    "subtitle": "DEPRECATED An Angular 4 version of the AdminLTE theme",
+    "livePreview": "https://adminlte.io/themes/v3/",
+    "templateName": "AdminLTE Angular 2",
+    "description": "AdminLTE is widely known for being one of the best open source admin dashboard & control panel themes around the web. Built on top of Bootstrap 3, AdminLTE provides a range of responsive, reusable, and commonly used components. This version is built on top of Angular 2, so you can start building your SPA soon.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 61,
+    "price": 0,
+    "popularity": 1040,
+    "appType": "admin-template",
+    "details": "https://github.com/start-angular/SB-Admin-BS4-Angular-8/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "SB-Admin-BS4-Angular-8",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/SB-Admin-BS4-Angular-8.jpg",
+    "subtitle": "Simple Dashboard Admin App built using Angular 8 and Bootstrap 4",
+    "livePreview": "https://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/dashboard",
+    "templateName": "SB Admin BS4 Angular 4",
+    "description": "SB is a very simple admin template built with Bootstrap 4 and Angular 4. This is an open source project, so the price of this template is free. SB supports any type of browsers including FIrefox, Chrome, and IE11. The small modules of this template let you get started quickly. ",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
