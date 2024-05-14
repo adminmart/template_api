@@ -1541,7 +1541,27 @@
     "subtitle": "Simple Dashboard Admin App built using Angular 8 and Bootstrap 4",
     "livePreview": "https://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/dashboard",
     "templateName": "SB Admin BS4 Angular 4",
-    "description": "SB is a very simple admin template built with Bootstrap 4 and Angular 4. This is an open source project, so the price of this template is free. SB supports any type of browsers including FIrefox, Chrome, and IE11. The small modules of this template let you get started quickly. ",
+    "description": "SB is a very simple admin template built with Bootstrap 4 and Angular 4. This is an open source project, so the price of this template is free. SB supports any type of browsers including FIrefox, Chrome, and IE11. The small modules of this template let you get started quickly.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 62,
+    "price": 0,
+    "popularity": 1041,
+    "appType": "admin-template",
+    "details": "https://github.com/mohdrashid/PaperAdmin/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "PaperAdmin",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/PaperAdmin.jpg",
+    "subtitle": "A flat admin dashboard using Angular JS 2/4",
+    "livePreview": "https://mohdrashid.github.io/PaperAdmin/#/dashboard",
+    "templateName": "Paper Admin",
+    "description": "An admin template that is built with AngularJS 4 and Bootstrap 4 under MIT license. Its built-in components make dashboard development very simple. Paper admin consists of features like list views, calender's, pie charts with status and CRUD(Create, Read, Update, Delete) functionality.",
     "features": [
       
     ],
