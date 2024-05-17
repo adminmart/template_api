@@ -1614,5 +1614,51 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 65,
+    "price": 0,
+    "popularity": 1044,
+    "appType": "admin-template",
+    "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "salvia-kit-dashboard-v4",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/salvia-kit-dashboard-v4.jpg",
+    "subtitle": "Salvia-kit Angular dashboard v4 templates",
+    "livePreview": "https://salvia-kit-dashboard-v4-demo.vercel.app/",
+    "templateName": "Salvia kit Dashboard v4",
+    "description": "Salvia-kit dashboard is a professional dashboard built with Tailwind CSS. We took advantage of Tailwind's flexibility to create a fully customizable premium dashboard, with documentation designed by a developer for developers. Feel free to customize everything to suit your needs.",
+    "features": [
+      "Support of the active route (styled by default).",
+      "Fully customizable and without external dependencies.",
+      "No vendor lock-in, you can export it and integrate it in your project.",
+      "Sidebar can be aligned left or right according to your preferences (on mobile)."
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 66,
+    "price": 0,
+    "popularity": 1045,
+    "appType": "admin-template",
+    "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "salvia-kit-dashboard-v5",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/salvia-kit-dashboard-v5.jpg",
+    "subtitle": "Salvia-kit Angular dashboard v5 templates",
+    "livePreview": "https://salvia-kit-dashboard-v5-demo.vercel.app/",
+    "templateName": "Salvia kit Dashboard v5",
+    "description": "Salvia-kit dashboard is a professional dashboard built with Tailwind CSS. We took advantage of Tailwind's flexibility to create a fully customizable premium dashboard, with documentation designed by a developer for developers. Feel free to customize everything to suit your needs.",
+    "features": [
+      "Support of the active route (styled by default).",
+      "Fully customizable and without external dependencies.",
+      "No vendor lock-in, you can export it and integrate it in your project.",
+      "Sidebar can be aligned left or right according to your preferences (on mobile)."
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
