@@ -1660,5 +1660,45 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 67,
+    "price": 0,
+    "popularity": 1046,
+    "appType": "landingpage",
+    "details": "https://github.com/StartBootstrap/sb-clean-blog-angular/archive/refs/heads/develop.zip",
+    "category": "Angular",
+    "imageAlt": "sb-clean-blog-angular",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sb-clean-blog-angular.jpg",
+    "subtitle": "SB Clean Blog Angular is a free and open-sourced Bootstrap themed Angular 9 starter project.",
+    "livePreview": "https://sb-clean-blog.startbootstrap.com/",
+    "templateName": "SB Clean Blog Angular",
+    "description": "Introducing an open-sourced Bootstrap-themed Angular 9 starter project, meticulously designed to streamline the development process for modern web applications. This starter project integrates the robust functionalities of Angular 9 with the sleek, responsive design capabilities of Bootstrap, providing developers with a solid foundation to build upon. It features a comprehensive setup with pre-configured components, modular architecture, and best practices in code organization and performance optimization. Ideal for both beginners and seasoned developers, this project serves as a versatile and scalable starting point, accelerating the creation of dynamic, user-friendly web interfaces.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 68,
+    "price": 0,
+    "popularity": 1047,
+    "appType": "landingpage",
+    "details": "https://github.com/StartBootstrap/sb-admin-angular/archive/refs/heads/develop.zip",
+    "category": "Angular",
+    "imageAlt": "sb-admin-angular",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sb-admin-angular.jpg",
+    "subtitle": "A free, open source, Angular admin dashboard template, created by Start Bootstrap",
+    "livePreview": "https://sb-admin-angular.startbootstrap.com/dashboard",
+    "templateName": "SB Admin Angular",
+    "description": "Introducing a free, open-source Angular admin dashboard template, crafted by the experts at Start Bootstrap. This template combines the power and flexibility of Angular with the sleek, modern aesthetics of Bootstrap, offering a comprehensive solution for building dynamic, user-friendly admin dashboards. Designed with developers in mind, it features a robust set of pre-configured components, responsive design elements, and a modular architecture that ensures easy customization and scalability. Ideal for both novice and experienced developers, this template simplifies the development process, enabling rapid deployment of sophisticated admin interfaces.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
