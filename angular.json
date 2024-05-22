@@ -1792,5 +1792,45 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 73,
+    "price": 0,
+    "popularity": 1052,
+    "appType": "landingpage",
+    "details": "https://github.com/NinjaCodeGen/angular-landing-page/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "angular-landing-page",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/angular-landing-page.jpg",
+    "subtitle": "Beautiful Angular landing page with firebase, chat, poll, dynamic features/gallary",
+    "livePreview": "https://ninjacodegen.github.io/angular-landing-page/",
+    "templateName": "Angular Landing Page",
+    "description": "Our stunning Angular landing page, integrated with Firebase, offers a seamless and interactive user experience. It features a robust chat system, engaging polls, and dynamic galleries that showcase your content beautifully. Enhanced with smooth animations and scrolling effects, this landing page captivates visitors and provides a modern, responsive interface. The Firebase integration ensures real-time data synchronization and secure backend support, making it a perfect solution for dynamic and feature-rich web applications.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 74,
+    "price": 0,
+    "popularity": 1053,
+    "appType": "landingpage",
+    "details": "https://github.com/NinjaCodeGen/ncg-crud-ngx-md/archive/refs/heads/dev.zip",
+    "category": "Angular",
+    "imageAlt": "ncg-crud-ngx-md",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ncg-crud-ngx-md.jpg",
+    "subtitle": "Angular 4+ Material Design CRUD/Admin app by NinjaCodeGen",
+    "livePreview": "https://ninjacodegen.github.io/ncg-crud-ngx-md/",
+    "templateName": "ncg crud ngx md",
+    "description": "The Angular 4+ Material Design CRUD/Admin app, developed by NinjaCodeGen, delivers a powerful and intuitive user interface for managing data and administrative tasks. Utilizing Angular's robust framework combined with the sleek aesthetics of Material Design, this application ensures a seamless and visually appealing experience. It includes comprehensive CRUD (Create, Read, Update, Delete) functionalities, enabling efficient data handling and management. The app's modular design and clean code architecture make it highly maintainable and scalable, catering to a wide range of business needs.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
