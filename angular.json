@@ -1832,5 +1832,45 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 75,
+    "price": 0,
+    "popularity": 1054,
+    "appType": "web-template",
+    "details": "https://github.com/NinjaCodeGen/ncg-crud-ngx-bs/archive/refs/heads/dev.zip",
+    "category": "Angular",
+    "imageAlt": "ncg-crud-ngx-bs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ncg-crud-ngx-bs.jpg",
+    "subtitle": "Angular 4+ Bootstrap 4 CRUD/Admin app by NinjaCodegen",
+    "livePreview": "https://ninjacodegen.github.io/ncg-crud-ngx-bs/",
+    "templateName": "ncg crud ngx bs",
+    "description": "The Angular 4+ Bootstrap 4 CRUD/Admin app by NinjaCodegen offers a robust solution for developing scalable and efficient administrative interfaces and CRUD (Create, Read, Update, Delete) applications. Leveraging the powerful Angular framework, this app ensures high performance and responsiveness, while the integration with Bootstrap 4 provides a sleek, modern, and user-friendly design. The combination of these technologies facilitates rapid development and easy customization, making it ideal for both small projects and large enterprise applications. NinjaCodegen's expertise is evident in the seamless integration of these technologies, resulting in a tool that not only accelerates development time but also enhances the overall user experience and application functionality.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 76,
+    "price": 0,
+    "popularity": 1055,
+    "appType": "web-template",
+    "details": "https://github.com/NinjaCodeGen/ncg-crud-ngx-kui/archive/refs/heads/dev.zip",
+    "category": "Angular",
+    "imageAlt": "ncg-crud-ngx-kui",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ncg-crud-ngx-kui.jpg",
+    "subtitle": "Angular 4+ Kendo UI CRUD/Admin app by NinjaCodegen",
+    "livePreview": "https://ninjacodegen.github.io/ncg-crud-ngx-kui/",
+    "templateName": "ncg crud ngx kui",
+    "description": "The Angular 4+ Kendo UI CRUD/Admin app by NinjaCodegen delivers a powerful and efficient solution for building dynamic administrative interfaces and CRUD (Create, Read, Update, Delete) applications. This app combines the robust capabilities of Angular with the comprehensive and versatile components of Kendo UI, ensuring high performance and an intuitive user experience. With its rich set of UI components, Kendo UI enhances the app's functionality and aesthetics, allowing for easy customization and rapid development. NinjaCodegen's integration of these technologies results in a scalable, user-friendly, and professional-grade application, making it an excellent choice for both small-scale and enterprise-level projects.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
