@@ -1872,5 +1872,51 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 77,
+    "price": 0,
+    "popularity": 1056,
+    "appType": "landingpage",
+    "details": "https://github.com/marckevinflores/kevinflor.es/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "kevinflor-es",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/kevinflor-es.jpg",
+    "subtitle": "My personal website - Built using Angular and Tailwind CSS",
+    "livePreview": "https://kevinflor.es/",
+    "templateName": "Kevinflor Es",
+    "description": "I developed my personal website utilizing Angular, a powerful framework for building dynamic web applications, and Tailwind CSS, a utility-first CSS framework that enables rapid UI development. This combination allowed me to create a highly responsive and aesthetically pleasing site with modular components and a clean, modern design. Angular's robust architecture facilitated the implementation of complex functionalities, while Tailwind CSS ensured a consistent and flexible styling system. The result is a seamless user experience that reflects both technical proficiency and an eye for design.",
+    "features": [
+      "Navbar Glassmorphism",
+      "Toolbar Color Theme Selector",
+      "Light and Dark Mode",
+      "Spotlight Glow Hover Card",
+      "Devicon with Tooltip",
+      "Spotify Music API",
+      "Trakt Watch API"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 78,
+    "price": 0,
+    "popularity": 1057,
+    "appType": "landingpage",
+    "details": "https://github.com/marckevinflores/angular-starter-buttercms/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "angular-starter-buttercms",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/angular-starter-buttercms.jpg",
+    "subtitle": "Drop-in proof-of-concept Angular app, fully integrated with your ButterCMS account",
+    "livePreview": "https://angular-starter-buttercms.vercel.app/",
+    "templateName": "Angular Starter Buttercms",
+    "description": "This Angular starter project fully integrates with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality. All of the included sample content is automatically created in your account dashboard when you sign up for a free trial of ButterCMS.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
