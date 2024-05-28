@@ -1918,5 +1918,25 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": true
+  },
+  {
+    "id": 79,
+    "price": 0,
+    "popularity": 1058,
+    "appType": "web-template",
+    "details": "https://github.com/saimon24/mobile-angular-ui/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "mobile-angular-ui",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mobile-angular-ui.jpg",
+    "subtitle": "Angular.js Mobile UI Framework with Bootstrap 3",
+    "livePreview": "http://mobileangularui.com/demo/#/",
+    "templateName": "Mobile Angular UI",
+    "description": "The Angular.js Mobile UI Framework, when integrated with Bootstrap 3, offers a robust solution for developing responsive and user-friendly mobile applications. Angular.js provides a powerful structure for building dynamic single-page applications, enabling developers to create interactive interfaces with ease. By leveraging Bootstrap 3, the framework benefits from a comprehensive set of pre-designed components and a responsive grid system, ensuring that applications are visually appealing and function seamlessly across various devices. This combination not only accelerates the development process but also enhances the user experience by providing a consistent and intuitive interface.",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
   }
 ]
