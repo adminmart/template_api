@@ -1564,5 +1564,41 @@
       "SCSS"
     ],
     "createdOn": "09-Dec-2018"
+  },
+  {
+    "id": 67,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/ColorlibHQ/AdminLTE/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "AdminLTE",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/AdminLTE.jpg",
+    "subtitle": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+    "livePreview": "https://adminlte.io/themes/v3/",
+    "templateName": "AdminLTE",
+    "description": "AdminLTE is a sophisticated and highly versatile free admin dashboard template built on the robust foundation of Bootstrap 5. Designed to streamline and enhance the user interface of web applications, AdminLTE offers a sleek, responsive, and fully customizable layout that caters to a wide array of administrative needs. It comes packed with a plethora of features including multiple reusable components, plugins, and an extensive collection of UI elements that simplify the development process. Whether you're managing data visualization, user management, or other administrative functions, AdminLTE provides a powerful and user-friendly solution that ensures a professional and efficient workflow.",
+    "features": [
+      
+    ],
+    "createdOn": "08-Feb-2022"
+  },
+  {
+    "id": 68,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://github.com/ColorlibHQ/gentelella/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "gentelella",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/gentelella.jpg",
+    "subtitle": "Free Bootstrap 4 Admin Dashboard Template",
+    "livePreview": "https://colorlib.com/polygon/gentelella/index.html",
+    "templateName": "Gentelella",
+    "description": "Gentelella Admin is a free to use Bootstrap admin template. This template uses the default Bootstrap 4 styles along with a variety of powerful jQuery plugins and tools to create a powerful framework for creating admin panels or back-end dashboards. Theme uses several libraries for charts, calendar, form validation, wizard style interface, off-canvas navigation menu, text forms, date range, upload area, form autocomplete, range slider, progress bars, notifications and much more. We would love to see how you use this awesome admin template. You can notify us about your site, app or service by tweeting to @colorlib. Once the list will grown long enough we will write a post similar to this to showcase the best examples.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
