@@ -1600,5 +1600,41 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 67,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/ColorlibHQ/shapely/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "shapely",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/shapely.jpg",
+    "subtitle": "Free multipurpose WordPress theme built using Bootstrap",
+    "livePreview": "https://colorlibhub.com/shapely/",
+    "templateName": "Shapely",
+    "description": "Introducing our versatile and free multipurpose WordPress theme, meticulously crafted using the powerful Bootstrap framework. This theme offers a perfect blend of flexibility and functionality, catering to a wide array of website needs from personal blogs to professional business sites. Leveraging Bootstrap's robust and responsive design principles, the theme ensures a seamless user experience across all devices. Its clean, modern aesthetic, coupled with customizable features and easy integration, makes it an ideal choice for anyone looking to create a professional online presence without the hassle of complex coding. With this theme, you can effortlessly build and manage a stunning website that adapts to your growing needs.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 68,
+    "price": 0,
+    "popularity": 1,
+    "appType": "web-template",
+    "details": "https://github.com/zemmyang/Bootstrap-Resume-Jekyll/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "Bootstrap-Resume-Jekyll",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/Bootstrap-Resume-Jekyll.jpg",
+    "subtitle": "A Jekyll implementation of the Resume template from StartBootstrap",
+    "livePreview": "https://zemmyang.com/Bootstrap-Resume-Jekyll/",
+    "templateName": "Bootstrap Resume Jekyll",
+    "description": "Presenting a Jekyll implementation of the acclaimed Resume template from StartBootstrap, designed to provide a sleek, modern, and responsive platform for showcasing your professional portfolio. This implementation seamlessly integrates the powerful static site capabilities of Jekyll with the visually appealing and functional design of StartBootstrap's Resume template. Ideal for developers, designers, and professionals, this template facilitates easy customization and content management, ensuring that your resume stands out in today's competitive job market. With its clean layout, intuitive navigation, and optimized performance, this Jekyll-powered Resume template offers a compelling solution for creating an impressive online CV that highlights your skills and achievements effectively.",
+    "features": [
+      
+    ],
+    "createdOn": "11-Oct-2020"
   }
 ]
