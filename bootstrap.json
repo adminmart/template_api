@@ -1636,5 +1636,47 @@
       
     ],
     "createdOn": "11-Oct-2020"
+  },
+  {
+    "id": 69,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "template-pintereso-bootstrap-jekyll",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/template-pintereso-bootstrap-jekyll.jpg",
+    "subtitle": "Pintereso is a free Jekyll theme, Pinterest style.",
+    "livePreview": "https://wowthemesnet.github.io/template-pintereso-bootstrap-jekyll/",
+    "templateName": "Template Pintereso Bootstrap Jekyll",
+    "description": "Pintereso is a free Jekyll theme designed with a Pinterest-style layout, offering a visually appealing and user-friendly interface for bloggers and content creators. Its grid-based design is ideal for showcasing images and multimedia content, making it perfect for portfolios, photography websites, and creative blogs. Pintereso's clean and responsive design ensures an optimal viewing experience across all devices, while its customizable features allow users to tailor the theme to their specific needs and preferences. With its seamless integration with Jekyll, Pintereso provides a powerful and flexible solution for those looking to create a visually engaging online presence.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 70,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/webpixels/bootstrap-starter-kit/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "bootstrap-starter-kit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/bootstrap-starter-kit.jpg",
+    "subtitle": "Minimal starter template for websites using Bootstrap 5 and Webpixels CSS next to the Eleventy static site generator.",
+    "livePreview": "https://bootstrap-starter-kit.netlify.app/",
+    "templateName": "Bootstrap Starter Kit",
+    "description": "The minimal starter template is an efficient and versatile solution for building websites, utilizing the powerful combination of Bootstrap 5 and Webpixels CSS alongside the Eleventy static site generator. This template offers a streamlined foundation, enabling developers to quickly and easily create responsive, aesthetically pleasing websites with modern design elements. Bootstrap 5 provides a robust framework for developing mobile-first, responsive sites, while Webpixels CSS enhances the design with its utility-first approach. Eleventy, a simple yet flexible static site generator, ensures fast performance and easy deployment. Together, these tools offer a comprehensive, minimalistic starting point for web development projects, catering to both simplicity and functionality.",
+    "features": [
+      "Includes Eleventy static site generator for building the layouts and pages",
+      "Includes Bootstrap (currently using v5) source files via npm",
+      "Includes Webpixels CSS as our design system based on Bootstrap 5",
+      "TIncludes npm scripts for compiling and autoprefixing Sass, compiling JS, watching for changes, and starting a basic local server",
+      "Example stylesheet (scss/main.scss)",
+      "Example JavaScript file (js/main.js) showing how to import all Bootstrap",
+      "HTML, CSS, and JS minification"
+    ],
+    "createdOn": "31-May-2021"
   }
 ]
