@@ -1720,5 +1720,41 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 73,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/volny/stylish-portfolio-jekyll/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "stylish-portfolio-jekyll",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/stylish-portfolio-jekyll.jpg",
+    "subtitle": "A Jekyll implementation of the Stylish Portfolio template by Start Bootstrap",
+    "livePreview": "https://volny.github.io/stylish-portfolio-jekyll/",
+    "templateName": "Stylish Portfolio Jekyll",
+    "description": "The Jekyll implementation of the Stylish Portfolio template by Start Bootstrap offers a seamless integration of a modern, one-page portfolio design into the versatile Jekyll static site generator. This adaptation allows developers to leverage Jekyll's powerful features, such as easy content management and site generation, while benefiting from the elegant and responsive design of the Stylish Portfolio template. The template is ideal for showcasing projects, portfolios, and personal websites, providing a sleek, user-friendly interface that enhances the visitor experience.",
+    "features": [
+      
+    ],
+    "createdOn": ""
+  },
+  {
+    "id": 74,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/swcool/landing-page-theme/archive/refs/heads/master.zip",
+    "category": "Bootstrap",
+    "imageAlt": "landing-page-theme",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/landing-page-theme.jpg",
+    "subtitle": "The Jekyll Bootstrap theme combines the robust",
+    "livePreview": "https://shaneweng.com/landing-page-theme/",
+    "templateName": "Landing Page Theme",
+    "description": "The Jekyll Bootstrap theme combines the robust, static site generation capabilities of Jekyll with the elegant, responsive design framework of Bootstrap. This theme enables developers to build visually appealing, highly functional websites quickly and efficiently. By leveraging Bootstrap's extensive library of pre-designed components and styles, users can ensure their sites are mobile-friendly and adhere to modern design standards. Meanwhile, Jekyll's simplicity in content management and site deployment streamlines the development process, making it an excellent choice for personal blogs, portfolios, and business websites.",
+    "features": [
+      
+    ],
+    "createdOn": ""
   }
 ]
