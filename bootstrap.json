@@ -1756,5 +1756,41 @@
       
     ],
     "createdOn": ""
+  },
+  {
+    "id": 75,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/Skaant/rimarok/archive/refs/heads/dev.zip",
+    "category": "Bootstrap",
+    "imageAlt": "rimarok",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/rimarok.jpg",
+    "subtitle": "My webdev profesional website, refactored on Gatsby",
+    "livePreview": "https://rimarok.com/",
+    "templateName": "Rimarok",
+    "description": "I've been crafting a refined web development portfolio to showcase my skills and experience. This revamped site, built with Gatsby, offers a seamless and engaging user experience, highlighting my capabilities in crafting modern web applications.",
+    "features": [
+      
+    ],
+    "createdOn": "03-Jun-2022"
+  },
+  {
+    "id": 76,
+    "price": 0,
+    "popularity": 1,
+    "appType": "landingpage",
+    "details": "https://github.com/sieis/cottrell-theme/archive/refs/heads/main.zip",
+    "category": "Bootstrap",
+    "imageAlt": "cottrell-theme",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cottrell-theme.jpg",
+    "subtitle": "Hugo portfolio page theme with Bootstrap 5",
+    "livePreview": "https://www.eamonncottrell.com/",
+    "templateName": "Rimarok",
+    "description": "I particularly wanted to use the latest iteration of Bootstrap, which at the time of this writing is 5. They chucked JQuery with this release, and with the exception of a small amount for some use cases, no Javascript is required anymore. Even with these improvements, Bootstrap is waaay overkill for what I am doing. However, it's also a quick to market way to get clean CSS. Bulma is another that I enjoy using for this same reason.",
+    "features": [
+      
+    ],
+    "createdOn": "13-Nov-2021"
   }
 ]
