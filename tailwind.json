@@ -62,7 +62,7 @@
         "createdOn": "08-Mar-2024"
     },
     {
-        "id": 4,
+        "id": 3,
         "price": 0,
         "popularity": 201,
         "appType": "landingpage",
@@ -89,7 +89,7 @@
         "frameworkName": ""
     },
     {
-        "id": 5,
+        "id": 4,
         "price": 0,
         "popularity": 202,
         "appType": "landingpage",
@@ -118,7 +118,7 @@
         "frameworkName": ""
     },
     {
-        "id": 6,
+        "id": 5,
         "price": 0,
         "popularity": 203,
         "appType": "landingpage",
@@ -144,7 +144,7 @@
         "frameworkName": ""
     },
     {
-        "id": 7,
+        "id": 6,
         "price": 0,
         "popularity": 204,
         "appType": "landingpage",
@@ -169,7 +169,7 @@
         "createdOn": "18-Mar-2023"
     },
     {
-        "id": 8,
+        "id": 7,
         "price": 0,
         "popularity": 205,
         "appType": "landingpage",
@@ -196,7 +196,7 @@
         "createdOn": "18-Mar-2023"
     },
     {
-        "id": 9,
+        "id": 8,
         "price": 0,
         "popularity": 206,
         "appType": "landingpage",
@@ -223,7 +223,7 @@
         "createdOn": "06-Jun-2023"
     },
     {
-        "id": 10,
+        "id": 9,
         "price": 0,
         "popularity": 207,
         "appType": "landingpage",
@@ -250,7 +250,7 @@
         "createdOn": "06-Jun-2023"
     },
     {
-        "id": 5,
+        "id": 10,
         "price": 0,
         "popularity": 301,
         "appType": "admin-template",
@@ -277,7 +277,7 @@
         "createdOn": "08-Jan-2024"
     },
     {
-        "id": 6,
+        "id": 11,
         "price": 49,
         "popularity": 302,
         "appType": "admin-template",
@@ -306,5 +306,64 @@
             "Authentication Pages"
         ],
         "createdOn": "04-Apr-2024"
+    },
+    {
+        "id": 12,
+        "price": 0,
+        "popularity": 1001,
+        "appType": "landingpage",
+        "details": "https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "hugoplate",
+        "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/hugoplate.jpg",
+        "subtitle": "Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.",
+        "livePreview": "https://hugoplate.netlify.app/",
+        "templateName": "Hugoplate",
+        "description": "Hugoplate is a versatile and efficient starter template crafted with Hugo and TailwindCSS, designed to significantly reduce development time. This free resource combines the powerful static site generation capabilities of Hugo with the highly customizable and utility-first approach of TailwindCSS. By leveraging Hugoplate, developers can streamline their workflow, focusing on creating content and refining design rather than configuring foundational elements. Whether you're building a personal blog, a corporate website, or a portfolio, Hugoplate provides a robust starting point, ensuring a professional and aesthetically pleasing result with minimal effort.",
+        "features": [
+            "Multi-Authors Support",
+            "Multilingual Support",
+            "Similar Posts Suggestion",
+            "Search Functionality",
+            "Dark Mode",
+            "Tags & Categories",
+            "Netlify setting pre-configured",
+            "Support contact form",
+            "Fully responsive",
+            "Write and update content in Markdown",
+            "Disqus Comment",
+            "Syntax Highlighting",
+            "And more..."
+        ],
+        "createdOn": "25-May-2023"
+    },
+    {
+        "id": 13,
+        "price": 0,
+        "popularity": 1002,
+        "appType": "landingpage",
+        "details": "https://github.com/themefisher/bigspring-light-astro/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "bigspring-light-astro",
+        "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/bigspring-light-astro.jpg",
+        "subtitle": "Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.",
+        "livePreview": "https://bigspring-light-astro.vercel.app/",
+        "templateName": "Bigspring Light Astro",
+        "description": "Bigspring is a highly customizable Astro theme meticulously designed to meet the unique needs of SaaS and marketing websites. This theme offers a blend of aesthetic appeal and functional versatility, allowing businesses to create engaging and dynamic online presences that effectively showcase their products and services. With Bigspring, users can effortlessly tailor their sites to reflect their brand identity, leveraging its extensive customization options and intuitive interface. By providing a solid foundation for building professional and visually stunning websites, Bigspring enables companies to focus on their core marketing strategies and customer engagement, ensuring a compelling digital experience.",
+        "features": [
+            "Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)",
+            "Fast by default (95+ Google PageSpeed Score)",
+            "Netlify setting pre-configured",
+            "Contact form support",
+            "Pricing table",
+            "Support OG image",
+            "Write and update content in Markdown / MDX",
+            "MDX components auto import",
+            "Includes draft pages and posts",
+            "Built with Tailwind CSS framework",
+            "Fully responsive on desktops, tablets, and smartphones",
+            "SEO Friendly"
+        ],
+        "createdOn": "11-Mar-2023"
     }
 ]
