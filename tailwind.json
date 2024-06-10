@@ -951,5 +951,51 @@
         "description": "Introducing Horizon UI, the epitome of cutting-edge innovation in the realm of Open Source Admin Dashboard Templates tailored for Tailwind CSS and React JS frameworks. Seamlessly blending the robust capabilities of Tailwind CSS with the dynamic functionality of React JS, Horizon UI stands as the pinnacle of modern design and user experience. With its meticulously crafted components and intuitive interface, Horizon UI empowers developers to create stunning, responsive admin dashboards with unparalleled ease and efficiency. Stay ahead of the curve with Horizon UI, the trendiest choice for those seeking to elevate their web development projects to new heights.",
         "features": [],
         "createdOn": ""
+    },
+    {
+        "id": 43,
+        "price": 0,
+        "popularity": 1032,
+        "appType": "landingpage",
+        "details": "https://github.com/statichunt/hydrogen-astro/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "hydrogen-astro",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/hydrogen-astro.jpg",
+        "subtitle": "Hydrogen is a minimal Astro Tailwind blog starter template.",
+        "livePreview": "https://hydrogen-astro.vercel.app/",
+        "templateName": "Hydrogen Astro",
+        "description": "Hydrogen is a streamlined Astro Tailwind blog starter template designed for optimal performance and customization. It serves as an excellent foundation for creating a personal blog website, offering a highly customizable framework that allows users to tailor their site to their unique preferences and needs. With its minimalistic design and robust features, Hydrogen ensures a seamless and efficient blogging experience, making it an ideal choice for individuals looking to establish a professional and visually appealing online presence.",
+        "features": [
+            "Supports Contact Form",
+            "Disqus Comment Support",
+            "Related Posts Suggestion",
+            "Semantic HTML Document Structure",
+            "Custom Logo Support",
+            "Includes All SCSS Files",
+            "Image Optimized With Astro Image",
+            "100% Responsive Design",
+            "MDX Support with many built-in custom components"
+        ],
+        "createdOn": "27-Feb-2024"
+    },
+    {
+        "id": 44,
+        "price": 0,
+        "popularity": 1033,
+        "appType": "landingpage",
+        "details": "https://github.com/michael-andreuzza/astrosaas/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "astrosaas",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/astrosaas.jpg",
+        "subtitle": "Astrosaas is an open source template for your next product.",
+        "livePreview": "https://astrosaas.vercel.app/",
+        "templateName": "AstroSaas",
+        "description": "Astrosaas is a versatile open-source template designed to accelerate the development of your next product. Built with flexibility and scalability in mind, it provides a robust foundation for a wide range of applications, ensuring that your project can grow and adapt to meet evolving demands. Whether you are developing a SaaS platform, a web application, or any other digital product, Astrosaas offers a comprehensive suite of features and customization options to streamline the development process and enhance the end-user experience.",
+        "features": [
+            "6 Demo Pages",
+            "10+ Sections",
+            "50+ components"
+        ],
+        "createdOn": "17-Dec-2022"
     }
 ]
