@@ -785,7 +785,13 @@
     "templateName": "Nefa",
     "description": "Free landing page template built using nuxt and tailwindcss",
     "features": [
-      
+      "Nuxt 3",
+      "Tailwind CSS",
+      "Chart",
+      "TypeScript",
+      "ESLint",
+      "Aos Animation",
+      "Prettier"
     ],
     "createdOn": "19 Jan 2022"
   },
@@ -803,7 +809,16 @@
     "templateName": "StarAdmin Free Vue Admin Template",
     "description": "Discover the seamless blend of cutting-edge technology with Star Admin Vue Admin - a dynamic and complimentary admin template. Merging the power of Bootstrap 4 and Vue.js, this template offers an unparalleled user experience at no cost.",
     "features": [
-      
+      "Bootstrap-vue",
+      "1 Basic Dashboard",
+      "Basic UI Elements",
+      "Basic Table",
+      "Responsive layout",
+      "Vue Apex Charts",
+      "Simple login / logout",
+      "Error page",
+      "Multi Icons",
+      "ESLint"
     ],
     "createdOn": ""
   },
@@ -2946,7 +2961,7 @@
     "category": "Vue",
     "imageAlt": "Vue Play",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vueplay.jpg",
-    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "subtitle": "Innovative Vue.js Component Playground",
     "livePreview": "https://vueplay.com/",
     "templateName": "Vue Play",
     "description": "Vue Play is a drag & drop component and application builder for Vue Single File Components or Vue applications. Build any website or component in a drag & drop interface, push it to GitHub and deploy on Github Pages in seconds. Publish and re-use single file components. Add inline/class styles and tailwind classes with style controllers. The website vueplay.com and the builder itself were built using Vue.js with Vite.",
@@ -2964,7 +2979,7 @@
     "category": "Vue",
     "imageAlt": "Vuetify Sonner",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuetify-sonner.jpg",
-    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "subtitle": "Stackable toast component for Vuetify.",
     "livePreview": "https://vuetify-sonner.vercel.app/",
     "templateName": "Vuetify Sonner",
     "description": "The Vuetify Sonner presents as a stackable Vue 3 toast component designed specifically for integration within the Vuetify framework. This versatile tool empowers users to tailor various aspects of their toast notifications, including swipe direction and the number of concurrently visible toasts, among other customizable features.",
@@ -2982,7 +2997,7 @@
     "category": "Vue",
     "imageAlt": "Vue Barcode",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-barcode.jpg",
-    "subtitle": "Free & Open-Source Vue landingpage Template",
+    "subtitle": "Bar code component for Vue.js",
     "livePreview": "https://fengyuanchen.github.io/vue-barcode/",
     "templateName": "Vue Barcode",
     "description": "The vue-barcode component, built upon JsBarcode, seamlessly integrates barcode functionality into Vue applications with user-friendly simplicity. Providing extensive customization options such as color schemes, sizing parameters, background settings, font variations, and more, it facilitates effortless implementation of barcode solutions tailored to specific requirements.",
@@ -3000,7 +3015,7 @@
     "category": "Vue",
     "imageAlt": "StarAdmin-Free-Vue-Admin-Template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/StarAdmin-Free-Vue-Admin-Template.jpg",
-    "subtitle": "Free & Open-Source Vue Admin Dashboard Template",
+    "subtitle": "Star Admin Vue Admin is a free admin template based on Bootstrap 4 and Vue.js.",
     "livePreview": "https://demo.bootstrapdash.com/star-admin-vue/preview/#/dashboard",
     "templateName": "StarAdmin-Free-Vue-Admin-Template",
     "description": "StarAdmin is a free VueJS admin template based on Bootstrap and VueJS. It’s completely responsive and mobile-first, providing an excellent foundation for web apps. StarAdmin is very flexible and highly customizable, offering the best assistance in crafting your admin panel with amazing UI and user-friendliness. It contains excellent widgets, tables, icons, forms, and other essential elements. This admin template includes excellent notifications and sample login pages, register, 404, and 500. Check out other useful features of this free template.",
@@ -3018,7 +3033,7 @@
     "category": "Nuxt",
     "imageAlt": "nuxt3-admin-dashboard",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt3-admin-dashboard.jpg",
-    "subtitle": "Building a Stunning Nuxt 3 Admin Dashboard",
+    "subtitle": "Building a Stunning Nuxt 3 Admin Dashboard: Naive UI,Echarts,Tailwind CSS,ESLint,Prettier",
     "livePreview": "https://nuxt3-admin.netlify.app/",
     "templateName": "Nuxt3 Admin Dashboard",
     "description": "Embark on a journey of unparalleled development efficiency with our meticulously curated Nuxt 3 Admin Dashboard, meticulously designed to elevate your projects to new heights. This comprehensive toolkit seamlessly integrates cutting-edge technologies, including Naive UI, Echarts, Tailwind CSS, ESLint, and Prettier, empowering developers with the tools they need to create stunning, responsive admin interfaces. With Nuxt 3 at its core, this dashboard harnesses the power of server-side rendering and a modular architecture, ensuring optimal performance and scalability. Combined with the elegance and utility of Naive UI, the versatility of Echarts for data visualization, and the streamlined workflows facilitated by ESLint and Prettier, developers can focus their energies on innovation rather than tedious setup and configuration.",
