@@ -836,7 +836,16 @@
     "templateName": "Corona vue free admin template",
     "description": "Experience the power of cutting-edge design with Corona Vue, a remarkable free admin template that takes web development to the next level. With a sleek and modern interface, Corona Vue provides an unparalleled user experience for managing and monitoring your applications. Unlock a world of possibilities with this feature-rich template that is both easy to use and fully customizable.",
     "features": [
-      
+      "Bootstrap-vue",
+      "1 Basic Dashboard",
+      "Basic UI Elements",
+      "Basic Table",
+      "Responsive layout",
+      "Vue Apex Charts",
+      "Simple login / logout",
+      "Error page",
+      "Multi Icons",
+      "ESLint"
     ],
     "createdOn": ""
   },
@@ -854,7 +863,16 @@
     "templateName": "Connect plus vue free admin template",
     "description": "Welcome to Connect Plus Vue, the ultimate free admin template that redefines web development. Seamlessly combining modern aesthetics with powerful functionalities, Connect Plus Vue offers an exceptional user experience for managing your projects. Empower your team with an admin dashboard that's feature-packed, easy to navigate, and fully customizable, making it the go-to solution for optimizing your web applications.",
     "features": [
-      
+      "Bootstrap-vue",
+      "1 Basic Dashboard",
+      "Basic UI Elements",
+      "Basic Table",
+      "Responsive layout",
+      "Vue Apex Charts",
+      "Simple login / logout",
+      "Error page",
+      "Multi Icons",
+      "ESLint"
     ],
     "createdOn": ""
   },
@@ -872,7 +890,16 @@
     "templateName": "Purple free vue admin template",
     "description": "Elevate your admin experience with Purple Free Vue, the cutting-edge and dynamic admin template that comes completely free of charge. Designed to streamline your workflow and enhance user management, this template boasts a stunning array of features and an intuitive interface, making it the ultimate choice for your next project. Say goodbye to tedious admin tasks and embrace a seamless and efficient way to manage your data and applications.",
     "features": [
-      
+      "Bootstrap-vue",
+      "1 Basic Dashboard",
+      "Basic UI Elements",
+      "Basic Table",
+      "Responsive layout",
+      "Vue Apex Charts",
+      "Simple login / logout",
+      "Error page",
+      "Multi Icons",
+      "ESLint"
     ],
     "createdOn": ""
   },
@@ -890,7 +917,16 @@
     "templateName": "Stellar admin vue free",
     "description": "Unlock the potential of your web application with Stellar Vue, an avant-garde free admin template designed to elevate your user experience. With a sleek and modern interface, Stellar Vue offers an array of powerful features that streamline administrative tasks and enhance productivity. Crafted with the latest web technologies, this template is not just visually stunning but also delivers seamless performance across various devices.",
     "features": [
-      
+      "Bootstrap-vue",
+      "1 Basic Dashboard",
+      "Basic UI Elements",
+      "Basic Table",
+      "Responsive layout",
+      "Vue Apex Charts",
+      "Simple login / logout",
+      "Error page",
+      "Multi Icons",
+      "ESLint"
     ],
     "createdOn": ""
   },
@@ -908,7 +944,12 @@
     "templateName": "Nuxt material admin",
     "description": "Nuxt Material Admin amalgamates the power of Nuxt.js and the elegance of Material Design into a unified admin dashboard solution. The result is an interface that marries functionality with aesthetics, enhancing your ability to oversee and control your application's data while enjoying a smooth and visually pleasing experience.",
     "features": [
-      
+      "vuetify",
+      "1 Basic Dashboard",
+      "Basic UI Elements",
+      "Responsive layout",
+      "Simple login / logout",
+      "Multi Apps"
     ],
     "createdOn": ""
   },
