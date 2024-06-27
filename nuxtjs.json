@@ -987,7 +987,12 @@
     "livePreview": "https://0xali.com/codefolio/",
     "templateName": "Codefolio",
     "description": "Present your coding journey effortlessly by utilizing this web app, prepped and primed for deployment. With a seamless interface and optimal performance, it's the ideal platform to showcase your coding portfolio to a global audience.",
-    "features": [],
+    "features": [
+      "NuxtJs",
+      "Bootstrap 5",
+      "supporting static deployment",
+      "Responsive layout"
+    ],
     "createdOn": ""
   },
   {
@@ -1003,7 +1008,13 @@
     "livePreview": "https://agtraveso.github.io/landing-nuxt-template/",
     "templateName": "Landing nuxt template",
     "description": "Launch your online identity with finesse using our Nuxt landing template. Built to combine aesthetics with functionality, this template empowers you to create a captivating landing page that leaves a lasting impact.",
-    "features": [],
+    "features": [
+      "NuxtJs",
+      "ESLint",
+      "Clean Code",
+      "Responsive layout",
+      "NuxtJS based project"
+    ],
     "createdOn": ""
   },
   {
@@ -1046,7 +1057,16 @@
     "livePreview": "https://nuxt-i18n-blog.vercel.app/",
     "templateName": "Nuxt i18n blog v3",
     "description": "Nuxt.js Content Module Unleashed: Crafting Multilingual Blogs Unleash the true potential of Nuxt.js Content Module in crafting compelling multilingual blogs. Witness the harmony of technology and language as your content adapts effortlessly to diverse audiences. Embrace a dynamic approach to blogging that enhances your reach and resonance.",
-    "features": [],
+    "features": [
+      "NuxtJs",
+      "ESLint",
+      "Clean Code",
+      "Responsive layout",
+      "i18n Support",
+      "Nuxt Blog using",
+      "Boilerplate",
+      "multilanguage"
+    ],
     "createdOn": ""
   },
   {
@@ -1084,7 +1104,13 @@
     "livePreview": "https://lazypeopleworkouts.com/",
     "templateName": "Nuxt lazypeopleworkouts",
     "description": "Nuxt Fitness Fusion: Lazypeopleworkouts Redefined Experience the ultimate fusion of fitness and Nuxt.js with Lazypeopleworkouts. Step into a realm where exercise meets technology, bringing you an innovative approach to staying active. Discover a new way to prioritize your well-being with engaging workouts right at your fingertips.",
-    "features": [],
+    "features": [
+      "NuxtJs",
+      "ESLint",
+      "Clean Code",
+      "Responsive layout",
+      "Vue"
+    ],
     "createdOn": ""
   },
   {
