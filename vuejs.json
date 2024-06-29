@@ -1127,7 +1127,12 @@
     "templateName": "Gp vue boilerplate",
     "description": "Unleash Excellence with Grabarz & Partner Boilerplate: Your Vue.js Front-End Solution Ignite your web development prowess with Grabarz & Partner Boilerplate – the ultimate professional front-end template. Crafted to perfection, this template empowers you to construct lightning-fast, resilient, and flexible web applications and sites using the power of Vue.js. Elevate your projects to new heights and deliver experiences that captivate users.",
     "features": [
-      
+      "NuxtJs",
+      "ESLint",
+      "Responsive layout",
+      "3 Page templates",
+      "Easy Folder Structure",
+      "Code Splitting"
     ],
     "createdOn": ""
   },
@@ -1145,7 +1150,13 @@
     "templateName": "Nuxt quickstart template",
     "description": "Nuxt Quickstart: Your Express Ticket to Web Development Introducing the Nuxt Quickstart template – your express ticket to diving into web development effortlessly. Kickstart your projects with a versatile foundation that harnesses the power of Nuxt.js. With this template, you're equipped to build responsive, high-performance web applications that resonate with modern design and functionality.",
     "features": [
-      
+      "NuxtJs",
+      "ESLint",
+      "Dark mode",
+      "Responsive layout",
+      "Authentication component",
+      "Easy Folder Structure",
+      "Code Splitting"
     ],
     "createdOn": ""
   },
@@ -1213,7 +1224,16 @@
     "templateName": "Vue admin template",
     "description": "Achieve the perfect blend of efficiency and style using our Vue Admin Template. As Vue's capabilities meet our thoughtfully designed components, you can effortlessly craft admin interfaces that are both visually appealing and highly functional, catering to your project's needs.",
     "features": [
-      
+      "Vue 3",
+      "Vuetify",
+      "Apps",
+      "Authorization",
+      "Multi Pages",
+      "Multi Language Support",
+      "Original and corporate color schemes",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source"
     ],
     "createdOn": ""
   },
