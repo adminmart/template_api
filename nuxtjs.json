@@ -1300,7 +1300,18 @@
     "livePreview": "https://sakai-nuxt.vercel.app/",
     "templateName": "Sakai Nuxt",
     "description": "Introducing the Cutting-Edge Admin Template: Revolutionize your web development experience with our latest offering - an innovative Starter Admin Template meticulously crafted on the robust foundation of Nuxt 3 and empowered by the dynamic capabilities of PrimeVue 3.",
-    "features": [],
+    "features": [
+      "Nuxt 3",
+      "1 Basic Dashboard",
+      "Authorization",
+      "15+ UI Components",
+      "UI Blocks",
+      "Original and corporate color schemes",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Multi Pages",
+      "Forever free and Open Source"
+    ],
     "createdOn": ""
   },
   {
@@ -1364,7 +1375,16 @@
     "livePreview": "https://flamey-tv.vercel.app/",
     "templateName": "FlameyTV",
     "description": "Cinematic Showcase: Immerse yourself in our TV and Movie Database platform portfolio project, a curated haven for film enthusiasts. Explore the convergence of technology and entertainment as we present an array of captivating visuals and information at your fingertips.",
-    "features": [],
+    "features": [
+      "Nuxt 3",
+      "Sass Base CSS",
+      "Tailwind CSS",
+      "15+ UI Components",
+      "UI Blocks",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source"
+    ],
     "createdOn": ""
   },
   {
@@ -1380,7 +1400,14 @@
     "livePreview": "https://movies.nuxt.space/",
     "templateName": "Movies",
     "description": "Elevate Your Entertainment Experience: Immerse yourself in our Nuxt 3-powered TMDB client, designed to revolutionize how you engage with cinematic content. Unlock a world of movies and TV shows through a sleek interface that seamlessly connects you to The Movie Database's vast collection.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "ESLint",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
