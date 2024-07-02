@@ -1423,7 +1423,17 @@
     "livePreview": "https://mazer-nuxt.vercel.app/",
     "templateName": "Mazer nuxt",
     "description": "Introducing the Mazer Free Bootstrap 5 Admin Dashboard Template and Landing Page, a game-changer in the world of web development. Seamlessly integrating Nuxt 3 and TypeScript, this template empowers you to create stunning admin dashboards and captivating landing pages. Step into a new era of design possibilities with our revolutionary offering.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "ESLint",
+      "Multi Icons",
+      "Bootstrap",
+      "Apexcharts",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -1465,7 +1475,16 @@
     "livePreview": "https://dachsbau-tautenhain.de/",
     "templateName": "Dachsbau frontend",
     "description": "Step into a realm of enhanced performance and functionality with the Nuxt 3 & KQL frontend of dachsbau-tautenhain.de. This innovative pairing redefines how users interact with websites, presenting content through a sleek interface backed by powerful querying capabilities, all for an unmatched online experience.",
-    "features": [],
+    "features": [
+      "Nuxt 3",
+      "ESLint",
+      "Animation",
+      "Multi Pages",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -1507,7 +1526,18 @@
     "livePreview": "https://nuxt-markdown-blog-starter.netlify.app/",
     "templateName": "Nuxt markdown blog starter",
     "description": "Discover the future of hassle-free blogging with the Nuxt + Markdown Blog Starter. By marrying the power of Nuxt.js with the accessibility of Markdown, this template lets you dive into content creation with ease. Elevate your blogging game and engage your audience through a captivating and responsive platform.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "i18n Support",
+      "Animation",
+      "Multi Pages",
+      "Language Support",
+      "Nuxt Blog using",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
+    ],
     "createdOn": ""
   },
   {
