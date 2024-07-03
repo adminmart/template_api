@@ -1554,7 +1554,14 @@
     "templateName": "CoPilot",
     "description": "Vue.js Enhanced AdminLTE Template with Responsive Bootstrap 3 Design Revamp your admin interface with our cutting-edge AdminLTE template powered by Vue.js and built on a foundation of responsive Bootstrap 3 components. Elevate your user experience with dynamic and interactive features, all while maintaining the familiar AdminLTE aesthetics.",
     "features": [
-      
+      "Nuxt",
+      "i18n Support",
+      "Vue",
+      "Multi Pages",
+      "Datatables",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source"
     ],
     "createdOn": ""
   },
@@ -1599,7 +1606,18 @@
     "templateName": "Vue material admin",
     "description": "Vue Material Design: A New Paradigm for Admin Templates Step into a new paradigm of admin templates with Vue Material Design. Embrace the principles of Material Design while harnessing the power of Vue.js, resulting in an admin template that not only looks stunning but also delivers dynamic functionality.",
     "features": [
-      
+      "1 Basic Dashboard",
+      "Apps",
+      "Login / Logout",
+      "vuetify",
+      "i18n Support",
+      "Card Design",
+      "Table Examples",
+      "Apexcharts",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
     ],
     "createdOn": ""
   },
@@ -1617,7 +1635,19 @@
     "templateName": "Quasar admin",
     "description": "Discover the Freedom of Quasar: Unleash Your Admin Potential Explore the boundless opportunities of our Quasar Admin Template, meticulously crafted using Vue.js and the dynamic Quasar Framework. Embrace the power of this fusion to transform your admin interface into a hub of innovation and efficiency.",
     "features": [
-      
+      "1 Basic Dashboard",
+      "Apps",
+      "Login / Logout",
+      "Maps",
+      "Vue",
+      "i18n Support",
+      "Card Design",
+      "Table Examples",
+      "Apexcharts",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
     ],
     "createdOn": ""
   },
