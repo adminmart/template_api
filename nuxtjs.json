@@ -1690,7 +1690,17 @@
     "livePreview": "https://vue-dashboard-2.vercel.app/#/",
     "templateName": "Vue dashboard-2",
     "description": "Vue.js Empowered Dynamic Dashboard Layout Experience the future of dashboard design with our Vue.js powered solution. Seamlessly adapt to various screen sizes and devices, providing users with an intuitive and interactive experience. Our responsive dashboard design using Vue.js ensures that critical information is always at your fingertips, no matter where you are or what device you're using.",
-    "features": [],
+    "features": [
+      "1 Basic Dashboard",
+      "Demo Pages",
+      "Vue",
+      "Table Examples",
+      "One-level dropdown menus",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive dashboard design using Vue.",
+      "Forever free and Open Source",
+      "Localization example"
+    ],
     "createdOn": ""
   },
   {
@@ -1754,7 +1764,18 @@
     "livePreview": "https://windzo.vercel.app/",
     "templateName": "Windzo",
     "description": "Empower Your Admin Interface with Freedom: Introducing Vue Tailwind CSS Open-Source Dashboard Template Experience the synergy of innovation and customization with our open-source admin dashboard template. Designed using Vue.js and Tailwind CSS, this template breaks barriers, offering a dynamic canvas for crafting the perfect admin experience. Elevate your admin management while enjoying the flexibility of open-source development, all at no cost.",
-    "features": [],
+    "features": [
+      "1 Basic Dashboard",
+      "8 UI Components",
+      "Login / Logout",
+      "Vue",
+      "Apexcharts",
+      "Table Examples",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
+    ],
     "createdOn": ""
   },
   {
@@ -1770,7 +1791,21 @@
     "livePreview": "https://vue3-board.netlify.app/dashboard",
     "templateName": "Vue Board",
     "description": "VueBoard: Unleash the Potential of Vue 3, Tailwind CSS, and TypeScript in Your Admin Dashboard Unlock a new level of admin dashboard capabilities with VueBoard – the embodiment of Vue 3, Tailwind CSS, and TypeScript mastery. Seamlessly navigate through tasks, delight in the visual finesse, and trust in the robustness of typed programming. Embrace VueBoard for a future where admin dashboards are elevated by the perfect blend of technologies.",
-    "features": [],
+    "features": [
+      "1 Basic Dashboard",
+      "UI Components",
+      "Login / Logout",
+      "Vue",
+      "Vue",
+      "ESLint",
+      "Tailwind CSS",
+      "Card Design",
+      "Table Examples",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
+    ],
     "createdOn": ""
   },
   {
@@ -1786,7 +1821,21 @@
     "livePreview": "https://mosaic-vue.cruip.com/",
     "templateName": "Vuejs admin dashboard template",
     "description": "Crafted with Care: Mosaic Lite stands as a meticulously designed admin dashboard template, skillfully fashioned atop the robust framework of Tailwind CSS and entirely developed using the Vue framework. This creation proudly comes from the hands of...",
-    "features": [],
+    "features": [
+      "3 Basic Dashboard",
+      "E-Commerce",
+      "Login / Logout",
+      "Vue",
+      "UI Components",
+      "Apps",
+      "Tailwind CSS",
+      "Card Design",
+      "Table Examples",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
+    ],
     "createdOn": ""
   },
   {
@@ -1802,7 +1851,21 @@
     "livePreview": "https://vuetify-material-dashboard.vuetifyjs.com/",
     "templateName": "cdesk vuetify",
     "description": "cdesk Vuetify: Your Vue Admin Solution: Presenting cdesk Vuetify, an ingenious and open-source admin dashboard template for Vue enthusiasts. Seamlessly catering to your needs, this template is set to redefine your admin experience.",
-    "features": [],
+    "features": [
+      "1 Basic Dashboard",
+      "Login / Logout",
+      "Vue",
+      "vuetify",
+      "ESLint",
+      "UI Components",
+      "Apps",
+      "Maps",
+      "Table Examples",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
+    ],
     "createdOn": ""
   },
   {
@@ -1818,7 +1881,19 @@
     "livePreview": "https://kamona-ui.github.io/kui-dashboard-vue/#/",
     "templateName": "Kui dashboard vue",
     "description": "Tailwind CSS & Vue.js 3: The Perfect Pair for Admin Templates: Discover the perfect pairing of Tailwind CSS and Vue.js 3 in our admin dashboard template. Crafted for responsiveness and user-friendliness, this template revolutionizes the way you approach admin interfaces.",
-    "features": [],
+    "features": [
+      "1 Basic Dashboard",
+      "Login / Logout",
+      "Vue",
+      "Tailwind CSS",
+      "Pages",
+      "Light / Dark Layout",
+      "Authentication component",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
+    ],
     "createdOn": ""
   },
   {
