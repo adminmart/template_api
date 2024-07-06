@@ -1959,7 +1959,16 @@
     "templateName": "Elementuivue2to3",
     "description": "Empowering developers, the admin-base-template is a valuable open source resource, delivering a complete kit to expedite the construction of admin templates without any financial constraints.",
     "features": [
-      
+      "Dashboard sample",
+      "Login / Logout",
+      "Vue",
+      "Pages",
+      "Form Variations",
+      "UI Components",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
     ],
     "createdOn": ""
   },
@@ -2003,7 +2012,18 @@
     "templateName": "Vuetify Material Dashboard",
     "description": "Transform your web applications into works of art with the Vuetify Material Dashboard, a canvas where Vuetify's capabilities blend seamlessly with the Material Design philosophy.",
     "features": [
-      
+      "Dashboard sample",
+      "Vue",
+      "vuetify",
+      "Pages",
+      "ESLint",
+      "Google Maps",
+      "Icons",
+      "Table Examples",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive",
+      "Forever free and Open Source",
+      "Localization example"
     ],
     "createdOn": ""
   },
@@ -2021,7 +2041,17 @@
     "templateName": "Tailmin",
     "description": "Experience a new era of administrative interfaces with Tailmin, an admin dashboard meticulously crafted with the power of Vue.js and the elegance of Tailwind CSS.",
     "features": [
-      
+      "Dashboard sample",
+      "Vue",
+      "Apexcharts",
+      "Pages",
+      "ESLint",
+      "Card Design",
+      "Login / Logout",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
     ],
     "createdOn": ""
   },
