@@ -2069,7 +2069,15 @@
     "templateName": "Admin panel",
     "description": "Navigate the realm of administration effortlessly using our cutting-edge admin panel, meticulously crafted using VueJS, Vite, and Tailwind. A convergence that redefines efficiency.",
     "features": [
-      
+      "Dashboard sample",
+      "Vue",
+      "Components",
+      "Tailwind CSS",
+      "Card Design",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
     ],
     "createdOn": ""
   },
@@ -2087,7 +2095,14 @@
     "templateName": "Request form template",
     "description": "Contained within this Nuxt.js template are three pages that cater to different needs: the homepage welcomes users, while the registration and login pages facilitate access. To gain comprehensive insights into the workings of these pages and further details, please direct your attention to the readme.",
     "features": [
-      
+      "Basic Homepage",
+      "Nuxt",
+      "Tailwind CSS",
+      "Login / Logout",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
     ],
     "createdOn": ""
   },
@@ -2135,7 +2150,21 @@
     "templateName": "Bluise",
     "description": "Elevate Your Branding: Elevate your brand's online presence using this static website template as a springboard. A polished and modern design sets the stage for effectively showcasing your marketing content. Through thoughtful organization and strategic layout, this template enhances user engagement and leaves a lasting impact.",
     "features": [
-      
+      "Nuxt",
+      "ESLint",
+      "Blog w/ posts, including pagination.",
+      "Configurable manifest & global settings.",
+      "CSS Markdown",
+      "Dynamic pages.",
+      "PWA ready.",
+      "SEO ready for posts & pages.",
+      "Signup form (using Netlify Forms).",
+      "Tools (Commitlint, Husky).",
+      "Typescript.",
+      "Contact form under _slug.",
+      "Dynamic sections/widgets.",
+      "Responsive CSS markdown.",
+      "Tests"
     ],
     "createdOn": ""
   },
@@ -2179,7 +2208,16 @@
     "templateName": "Karthik writes",
     "description": "Within this digital haven, you'll find my scribbles that have transformed into heartfelt sentiments. Every post is a testament to the power of words in capturing moments, unraveling thoughts, and stitching together the fabric of my experiences.",
     "features": [
-      
+      "Basic Homepage",
+      "Nuxt",
+      "ESLint",
+      "Nuxt Blog using",
+      "Tailwind CSS",
+      "Light / Dark Layout",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
     ],
     "createdOn": ""
   },
@@ -2197,7 +2235,17 @@
     "templateName": "Nuxt Resume",
     "description": "Crafted using Vue.js and Nuxt.js Elevate your personal brand with this meticulously designed professional portfolio template, powered by the dynamic Vue.js framework and optimized through Nuxt.js. Showcase your achievements, skills, and experiences in an elegant and interactive manner that captivates visitors and potential employers alike.",
     "features": [
-      
+      "VueJs",
+      "Nuxt",
+      "i18n",
+      "ESLint + Prettier",
+      "Bootstrap",
+      "Resume Apps",
+      "Light / Dark Layout",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
     ],
     "createdOn": ""
   },
