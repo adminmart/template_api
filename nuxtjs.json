@@ -2284,7 +2284,16 @@
     "livePreview": "https://agrokeep.vercel.app/",
     "templateName": "Agrokeep",
     "description": "Empower yourself to be a catalyst for change with Agrokeep's revolutionary food waste solution. Together, we're reshaping the way we approach consumption. Through real-time insights and personalized recommendations, Agrokeep equips you with the tools to make informed decisions, curbing food waste and fostering a more sustainable future.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "i18n",
+      "ESLint + Prettier",
+      "Nuxt Landing Page",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -2300,7 +2309,18 @@
     "livePreview": "https://kousikaganesan.github.io/",
     "templateName": "Nuxt resume template",
     "description": "Dynamic Storytelling Redefined Dive into the future of resume building with NuxtResume Pro. Crafted on the Nuxt.js framework, this template offers dynamic storytelling that engages and impresses. From your career milestones to your skill set, NuxtResume Pro ensures your resume is an immersive experience that showcases your professional journey in a new light.",
-    "features": [],
+    "features": [
+      "VueJs",
+      "Nuxt",
+      "Aos Animation",
+      "ESLint + Prettier",
+      "Resume Apps",
+      "Nuxt portfolio template",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -2316,7 +2336,17 @@
     "livePreview": "https://nuxt-content-blog-theme.vercel.app/",
     "templateName": "Nuxt content blog theme",
     "description": "Embrace Simplicity in Style Discover the essence of minimalism with our NuxtEssence Blog Template. Crafted on the Nuxt.js framework, this template lets your content shine without distractions. Clean lines and a minimalist design ensure your blog takes center stage, providing a delightful reading experience that resonates with both aesthetics and functionality.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "Tailwind CSS",
+      "ESLint",
+      "Nuxt Blog using",
+      "Nuxt portfolio template",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -2332,7 +2362,20 @@
     "livePreview": "https://nuxt-tailwind-dashboard.vercel.app/",
     "templateName": "Nuxt Tailwind Dashboard",
     "description": "The Nuxt.js + Tailwind CSS dashboard starter is a powerful combination that empowers developers to quickly create responsive and visually appealing web applications. Nuxt.js, a progressive Vue.js framework, provides a structured architecture and server-side rendering capabilities, enhancing the overall performance and SEO-friendliness of the application. Tailwind CSS, on the other hand, brings a utility-first approach to styling, allowing developers to build stylish interfaces with minimal effort. ",
-    "features": [],
+    "features": [
+      "1 Basic Dashboard",
+      "Nuxt",
+      "Tailwind CSS",
+      "Search across all days",
+      "Multi Button",
+      "ESLint",
+      "Nuxt tailwind dashboard",
+      "Nuxt portfolio template",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "04-Apr-2019"
   },
   {
