@@ -309,8 +309,42 @@
     },
     {
         "id": 12,
-        "price": 0,
+        "price": 49,
         "popularity": 1001,
+        "appType": "admin-template",
+        "details": "https://1.envato.market/XYbYQg",
+        "category": "Tailwind",
+        "imageAlt": "metronic-img",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-img.jpg",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://1.envato.market/XYbYQg",
+        "templateName": "Metronic | Tailwind, Bootstrap, React, Vue, Angular, Asp.Net & Laravel Admin Dashboard HTML Template",
+        "description": "Metronic is a comprehensive and versatile admin dashboard HTML template that leverages the power of Tailwind, Bootstrap, React, Vue, Angular, ASP.NET, and Laravel. Designed to cater to a wide array of development needs, Metronic provides a robust foundation for creating intuitive, responsive, and highly customizable admin panels. Its integration with popular front-end frameworks like Tailwind and Bootstrap ensures a seamless and modern design aesthetic, while support for powerful JavaScript frameworks such as React, Vue, and Angular enhances its functionality and interactivity. Additionally, the inclusion of ASP.NET and Laravel backend frameworks makes Metronic an all-encompassing solution for developing sophisticated and dynamic web applications. Whether you're building a simple admin interface or a complex enterprise system, Metronic offers the tools and flexibility needed to achieve your project goals efficiently.",
+        "features": [
+          "Tailwind CSS",
+          "Dark and light sidebar themes",
+          "100+ Pages",
+          "40+ components",
+          "1000+ Elements",
+          "Theming",
+          "UI Elements",
+          "Navigations",
+          "Menus",
+          "Forms",
+          "Datatables",
+          "Overlays",
+          "Feedback",
+          "Cards",
+          "Users",
+          "Icons",
+          "Charts"
+        ],
+        "createdOn": "13-Feb-2013"
+      },
+    {
+        "id": 13,
+        "price": 0,
+        "popularity": 1002,
         "appType": "landingpage",
         "details": "https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip",
         "category": "Tailwind",
@@ -338,9 +372,9 @@
         "createdOn": "25-May-2023"
     },
     {
-        "id": 13,
+        "id": 14,
         "price": 0,
-        "popularity": 1002,
+        "popularity": 1003,
         "appType": "landingpage",
         "details": "https://github.com/themefisher/bigspring-light-astro/archive/refs/heads/main.zip",
         "category": "Tailwind",
@@ -367,9 +401,9 @@
         "createdOn": "11-Mar-2023"
     },
     {
-        "id": 14,
+        "id": 15,
         "price": 0,
-        "popularity": 1003,
+        "popularity": 1004,
         "appType": "landingpage",
         "details": "https://github.com/naufaldi/next-landing-vpn/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -384,9 +418,9 @@
         "frameworkName": ""
     },
     {
-        "id": 15,
+        "id": 16,
         "price": 0,
-        "popularity": 1004,
+        "popularity": 1005,
         "appType": "website",
         "details": "https://github.com/themefisher/bigspring-light-nextjs/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -401,9 +435,9 @@
         "frameworkName": ""
     },
     {
-        "id": 16,
+        "id": 17,
         "price": 0,
-        "popularity": 1005,
+        "popularity": 1006,
         "appType": "website",
         "details": "https://github.com/themefisher/bookworm-light-nextjs/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -418,9 +452,9 @@
         "frameworkName": ""
     },
     {
-        "id": 17,
+        "id": 18,
         "price": 0,
-        "popularity": 1006,
+        "popularity": 1007,
         "appType": "website",
         "details": "https://github.com/zeon-studio/astroplate/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -435,9 +469,9 @@
         "frameworkName": ""
     },
     {
-        "id": 18,
+        "id": 19,
         "price": 0,
-        "popularity": 1007,
+        "popularity": 1008,
         "appType": "landingpage",
         "details": "https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -451,9 +485,9 @@
         "createdOn": "20-Mar-2023"
     },
     {
-        "id": 19,
+        "id": 20,
         "price": 0,
-        "popularity": 1008,
+        "popularity": 1009,
         "appType": "landingpage",
         "details": "https://github.com/cruip/tailwind-landing-page-template/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -467,9 +501,9 @@
         "createdOn": "15-Oct-2020"
     },
     {
-        "id": 20,
+        "id": 21,
         "price": 0,
-        "popularity": 1009,
+        "popularity": 1010,
         "appType": "landingpage",
         "details": "https://github.com/zeon-studio/nextplate/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -495,9 +529,9 @@
         "createdOn": "18-May-2023"
     },
     {
-        "id": 21,
+        "id": 22,
         "price": 0,
-        "popularity": 1010,
+        "popularity": 1011,
         "appType": "landingpage",
         "details": "https://github.com/onwidget/tailnext/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -518,9 +552,9 @@
         "createdOn": "04-Sep-2022"
     },
     {
-        "id": 22,
+        "id": 23,
         "price": 0,
-        "popularity": 1011,
+        "popularity": 1012,
         "appType": "landingpage",
         "details": "https://github.com/web3templates/sandocs-template/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -534,9 +568,9 @@
         "createdOn": "18-Jul-2022"
     },
     {
-        "id": 23,
+        "id": 24,
         "price": 0,
-        "popularity": 1012,
+        "popularity": 1013,
         "appType": "landingpage",
         "details": "https://github.com/humberni/halley/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -562,9 +596,9 @@
         "createdOn": "28-Oct-2022"
     },
     {
-        "id": 24,
+        "id": 25,
         "price": 0,
-        "popularity": 1013,
+        "popularity": 1014,
         "appType": "landingpage",
         "details": "https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -593,9 +627,9 @@
         "createdOn": "08-Feb-2023"
     },
     {
-        "id": 25,
+        "id": 26,
         "price": 0,
-        "popularity": 1014,
+        "popularity": 1015,
         "appType": "admin-template",
         "details": "https://github.com/roketid/windmill-dashboard-nextjs-typescript/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -617,9 +651,9 @@
         "createdOn": ""
     },
     {
-        "id": 26,
+        "id": 27,
         "price": 0,
-        "popularity": 1015,
+        "popularity": 1016,
         "appType": "landingpage",
         "details": "https://github.com/btahir/next-shopify-starter/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -633,9 +667,9 @@
         "createdOn": ""
     },
     {
-        "id": 27,
+        "id": 28,
         "price": 0,
-        "popularity": 1016,
+        "popularity": 1017,
         "appType": "landingpage",
         "details": "https://github.com/NextJSTemplates/startup-nextjs/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -656,9 +690,9 @@
         "createdOn": ""
     },
     {
-        "id": 28,
+        "id": 29,
         "price": 0,
-        "popularity": 1017,
+        "popularity": 1018,
         "appType": "landingpage",
         "details": "https://github.com/minor/uranium/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -672,9 +706,9 @@
         "createdOn": "13-Jun-2022"
     },
     {
-        "id": 29,
+        "id": 30,
         "price": 0,
-        "popularity": 1018,
+        "popularity": 1019,
         "appType": "landingpage",
         "details": "https://github.com/shadcn-ui/taxonomy/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -704,9 +738,9 @@
         "createdOn": "18-Oct-2022"
     },
     {
-        "id": 30,
+        "id": 31,
         "price": 0,
-        "popularity": 1019,
+        "popularity": 1020,
         "appType": "admin-template",
         "details": "https://github.com/cruip/tailwind-dashboard-template/archive/refs/heads/main.zip",
         "category": "React",
@@ -724,9 +758,9 @@
         "createdOn": ""
     },
     {
-        "id": 31,
+        "id": 32,
         "price": 0,
-        "popularity": 1020,
+        "popularity": 1021,
         "appType": "admin-template",
         "details": "https://github.com/zeon-studio/nextplate/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -752,9 +786,9 @@
         "createdOn": "18-May-2023"
     },
     {
-        "id": 32,
+        "id": 33,
         "price": 0,
-        "popularity": 1021,
+        "popularity": 1022,
         "appType": "landingpage",
         "details": "https://github.com/devwithzain/Hoobank-App-Landing-Page/archive/refs/heads/master.zip",
         "category": "NextJs",
@@ -768,9 +802,9 @@
         "createdOn": "22-Apr-2023"
     },
     {
-        "id": 33,
+        "id": 34,
         "price": 0,
-        "popularity": 1022,
+        "popularity": 1023,
         "appType": "landingpage",
         "details": "https://github.com/virtualknight8/new-landing-page/archive/refs/heads/master.zip",
         "category": "NextJs",
@@ -784,9 +818,9 @@
         "createdOn": "14-Jul-2023"
     },
     {
-        "id": 34,
+        "id": 35,
         "price": 0,
-        "popularity": 1023,
+        "popularity": 1024,
         "appType": "landingpage",
         "details": "https://github.com/vercel/nextjs-postgres-auth-starter/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -800,9 +834,9 @@
         "createdOn": "19-Mar-2022"
     },
     {
-        "id": 35,
+        "id": 36,
         "price": 0,
-        "popularity": 1024,
+        "popularity": 1025,
         "appType": "landingpage",
         "details": "https://github.com/UsmanHaider15/Knowledge-Base-Nextjs-13/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -826,9 +860,9 @@
         "createdOn": "10-Jun-2023"
     },
     {
-        "id": 36,
+        "id": 37,
         "price": 0,
-        "popularity": 1025,
+        "popularity": 1026,
         "appType": "landingpage",
         "details": "https://github.com/uptimizt/onepage-nextjs-tailwindcss-template/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -842,9 +876,9 @@
         "createdOn": "03-Jul-2022"
     },
     {
-        "id": 37,
+        "id": 38,
         "price": 0,
-        "popularity": 1026,
+        "popularity": 1027,
         "appType": "landingpage",
         "details": "https://github.com/thienjs/nice/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -858,9 +892,9 @@
         "createdOn": "21-Jan-2022"
     },
     {
-        "id": 38,
+        "id": 39,
         "price": 0,
-        "popularity": 1027,
+        "popularity": 1028,
         "appType": "landingpage",
         "details": "https://github.com/Sukrittt/Limetta/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -881,9 +915,9 @@
         "createdOn": "07-Sep-2023"
     },
     {
-        "id": 39,
+        "id": 40,
         "price": 0,
-        "popularity": 1028,
+        "popularity": 1029,
         "appType": "landingpage",
         "details": "https://github.com/StaticMania/keep-react/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -897,9 +931,9 @@
         "createdOn": "27-Jul-2023"
     },
     {
-        "id": 40,
+        "id": 41,
         "price": 0,
-        "popularity": 1029,
+        "popularity": 1030,
         "appType": "landingpage",
         "details": "https://github.com/stackhackerio/grang/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -913,9 +947,9 @@
         "createdOn": "15-May-2021"
     },
     {
-        "id": 41,
+        "id": 42,
         "price": 0,
-        "popularity": 1030,
+        "popularity": 1031,
         "appType": "landingpage",
         "details": "https://github.com/Srijan-D/News-app-master/archive/refs/heads/main.zip",
         "category": "NextJs",
@@ -937,9 +971,9 @@
         "createdOn": "22-Apr-2023"
     },
     {
-        "id": 42,
+        "id": 43,
         "price": 0,
-        "popularity": 1031,
+        "popularity": 1032,
         "appType": "admin-template",
         "details": "https://github.com/horizon-ui/horizon-tailwind-react/archive/refs/heads/main.zip",
         "category": "React",
@@ -953,9 +987,9 @@
         "createdOn": ""
     },
     {
-        "id": 43,
+        "id": 44,
         "price": 0,
-        "popularity": 1032,
+        "popularity": 1033,
         "appType": "landingpage",
         "details": "https://github.com/statichunt/hydrogen-astro/archive/refs/heads/main.zip",
         "category": "Tailwind",
@@ -979,9 +1013,9 @@
         "createdOn": "27-Feb-2024"
     },
     {
-        "id": 44,
+        "id": 45,
         "price": 0,
-        "popularity": 1033,
+        "popularity": 1034,
         "appType": "landingpage",
         "details": "https://github.com/michael-andreuzza/astrosaas/archive/refs/heads/main.zip",
         "category": "Tailwind",

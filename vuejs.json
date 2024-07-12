@@ -712,10 +712,42 @@
   },
   {
     "id": 26,
-    "price": 0,
+    "price": 49,
     "popularity": 1001,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/XYbYQg",
+    "category": "Vue",
+    "imageAlt": "metronic-img",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-img.jpg",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://1.envato.market/XYbYQg",
+    "templateName": "Metronic | Tailwind, Bootstrap, React, Vue, Angular, Asp.Net & Laravel Admin Dashboard HTML Template",
+    "description": "Metronic is a comprehensive and versatile admin dashboard HTML template that leverages the power of Tailwind, Bootstrap, React, Vue, Angular, ASP.NET, and Laravel. Designed to cater to a wide array of development needs, Metronic provides a robust foundation for creating intuitive, responsive, and highly customizable admin panels. Its integration with popular front-end frameworks like Tailwind and Bootstrap ensures a seamless and modern design aesthetic, while support for powerful JavaScript frameworks such as React, Vue, and Angular enhances its functionality and interactivity. Additionally, the inclusion of ASP.NET and Laravel backend frameworks makes Metronic an all-encompassing solution for developing sophisticated and dynamic web applications. Whether you're building a simple admin interface or a complex enterprise system, Metronic offers the tools and flexibility needed to achieve your project goals efficiently.",
+    "features": [
+      "VueJs",
+      "Bootstrap 5",
+      "Vue Router",
+      "TypeScript",
+      "Create Vue",
+      "Vee-Validate",
+      "Element Plus",
+      "Vue i18n",
+      "Vue Axios",
+      "Vite",
+      "Pinia",
+      "Apexchart",
+      "Authentication",
+      "Build Tools",
+      "RTL Support"
+    ],
+    "createdOn": "13-Feb-2013"
+  },
+  {
+    "id": 27,
+    "price": 0,
+    "popularity": 1002,
     "appType": "website",
-    "details": "https://github.com/briltec/Mode_Vue/archive/refs/heads/master.zip",
+    "details": "https://github.com/briltec/Mode_Vue/archive/refs/heads/main.zip",
     "category": "Nuxt",
     "imageAlt": "mode_vue",
     "imageSrc": "https://i.ibb.co/p3KtC5L/68747470733a2f2f6d6f64657675652e73746174696364657369676e65722e636f6d2f6461726b2e706e67-3.png",
@@ -740,11 +772,11 @@
     "createdOn": "20 Oct 2022"
   },
   {
-    "id": 27,
+    "id": 28,
     "price": 0,
-    "popularity": 1002,
+    "popularity": 1003,
     "appType": "website",
-    "details": "https://github.com/viandwi24/nuxt3-awesome-starter/archive/refs/heads/v2.zip",
+    "details": "https://github.com/viandwi24/nuxt3-awesome-starter/archive/refs/heads/main.zip",
     "category": "Nuxt",
     "imageAlt": "preview_v2",
     "imageSrc": "https://raw.githubusercontent.com/viandwi24/nuxt3-awesome-starter/main/assets/images/preview_v2.png",
@@ -772,9 +804,9 @@
     "createdOn": "14 Jan 2022"
   },
   {
-    "id": 28,
+    "id": 29,
     "price": 0,
-    "popularity": 1003,
+    "popularity": 1004,
     "appType": "website",
     "details": "https://github.com/RSurya99/nefa/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -796,9 +828,9 @@
     "createdOn": "19 Jan 2022"
   },
   {
-    "id": 29,
+    "id": 30,
     "price": 0,
-    "popularity": 1004,
+    "popularity": 1005,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -823,9 +855,9 @@
     "createdOn": ""
   },
   {
-    "id": 30,
+    "id": 31,
     "price": 0,
-    "popularity": 1005,
+    "popularity": 1006,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/corona-vue-free-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -850,9 +882,9 @@
     "createdOn": ""
   },
   {
-    "id": 31,
+    "id": 32,
     "price": 0,
-    "popularity": 1006,
+    "popularity": 1007,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/connect-plus-vue-free-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -877,9 +909,9 @@
     "createdOn": ""
   },
   {
-    "id": 32,
+    "id": 33,
     "price": 0,
-    "popularity": 1007,
+    "popularity": 1008,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/purple-free-vue-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -904,9 +936,9 @@
     "createdOn": ""
   },
   {
-    "id": 33,
+    "id": 34,
     "price": 0,
-    "popularity": 1008,
+    "popularity": 1009,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/stellar-admin-vue-free/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -931,9 +963,9 @@
     "createdOn": ""
   },
   {
-    "id": 34,
+    "id": 35,
     "price": 0,
-    "popularity": 1009,
+    "popularity": 1010,
     "appType": "admin-template",
     "details": "https://github.com/eddami/nuxt-material-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -954,9 +986,9 @@
     "createdOn": ""
   },
   {
-    "id": 35,
+    "id": 36,
     "price": 0,
-    "popularity": 1010,
+    "popularity": 1011,
     "appType": "admin-template",
     "details": "https://github.com/AsaoluElijah/portfolio/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -975,9 +1007,9 @@
     "createdOn": ""
   },
   {
-    "id": 36,
+    "id": 37,
     "price": 0,
-    "popularity": 1011,
+    "popularity": 1012,
     "appType": "admin-template",
     "details": "https://github.com/0xAliRaza/codefolio/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -996,9 +1028,9 @@
     "createdOn": ""
   },
   {
-    "id": 37,
+    "id": 38,
     "price": 0,
-    "popularity": 1012,
+    "popularity": 1013,
     "appType": "landingpage",
     "details": "https://github.com/agtraveso/landing-nuxt-template/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1018,9 +1050,9 @@
     "createdOn": ""
   },
   {
-    "id": 38,
+    "id": 39,
     "price": 0,
-    "popularity": 1013,
+    "popularity": 1014,
     "appType": "landingpage",
     "details": "https://github.com/gitsindonesia/nuxt-starter/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1045,9 +1077,9 @@
     "createdOn": ""
   },
   {
-    "id": 39,
+    "id": 40,
     "price": 0,
-    "popularity": 1014,
+    "popularity": 1015,
     "appType": "landingpage",
     "details": "https://github.com/svirmi/nuxt-i18n-blog-v3/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1070,9 +1102,9 @@
     "createdOn": ""
   },
   {
-    "id": 40,
+    "id": 41,
     "price": 0,
-    "popularity": 1015,
+    "popularity": 1016,
     "appType": "landingpage",
     "details": "https://github.com/agnelnieves/nuxty/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1092,9 +1124,9 @@
     "createdOn": ""
   },
   {
-    "id": 41,
+    "id": 42,
     "price": 0,
-    "popularity": 1016,
+    "popularity": 1017,
     "appType": "landingpage",
     "details": "https://github.com/timoanttila/nuxt-lazypeopleworkouts/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1114,9 +1146,9 @@
     "createdOn": ""
   },
   {
-    "id": 42,
+    "id": 43,
     "price": 0,
-    "popularity": 1017,
+    "popularity": 1018,
     "appType": "landingpage",
     "details": "https://github.com/GrabarzUndPartner/gp-vue-boilerplate/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1137,9 +1169,9 @@
     "createdOn": ""
   },
   {
-    "id": 43,
+    "id": 44,
     "price": 0,
-    "popularity": 1018,
+    "popularity": 1019,
     "appType": "landingpage",
     "details": "https://github.com/ZTF666/nuxt-quickstart-template/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1161,9 +1193,9 @@
     "createdOn": ""
   },
   {
-    "id": 44,
+    "id": 45,
     "price": 0,
-    "popularity": 1019,
+    "popularity": 1020,
     "appType": "admin-template",
     "details": "https://github.com/epicmaxco/vuestic-admin/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1186,9 +1218,9 @@
     "createdOn": ""
   },
   {
-    "id": 45,
+    "id": 46,
     "price": 0,
-    "popularity": 1020,
+    "popularity": 1021,
     "appType": "admin-template",
     "details": "https://github.com/Armour/vue-typescript-admin-template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1211,9 +1243,9 @@
     "createdOn": ""
   },
   {
-    "id": 46,
+    "id": 47,
     "price": 0,
-    "popularity": 1021,
+    "popularity": 1022,
     "appType": "admin-template",
     "details": "https://github.com/fatihunlu/vue-admin-template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1238,9 +1270,9 @@
     "createdOn": ""
   },
   {
-    "id": 47,
+    "id": 48,
     "price": 0,
-    "popularity": 1022,
+    "popularity": 1023,
     "appType": "admin-template",
     "details": "https://github.com/slanatech/dashblocks-template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1261,9 +1293,9 @@
     "createdOn": ""
   },
   {
-    "id": 48,
+    "id": 49,
     "price": 0,
-    "popularity": 1023,
+    "popularity": 1024,
     "appType": "admin-template",
     "details": "https://github.com/justboil/admin-one-vue-tailwind/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1288,9 +1320,9 @@
     "createdOn": ""
   },
   {
-    "id": 49,
+    "id": 50,
     "price": 0,
-    "popularity": 1024,
+    "popularity": 1025,
     "appType": "admin-template",
     "details": "https://github.com/who-jonson/sakai-nuxt/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1315,9 +1347,9 @@
     "createdOn": ""
   },
   {
-    "id": 50,
+    "id": 51,
     "price": 0,
-    "popularity": 1025,
+    "popularity": 1026,
     "appType": "landingpage",
     "details": "https://github.com/johannschopplich/cacao-kit-frontend/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1341,9 +1373,9 @@
     "createdOn": ""
   },
   {
-    "id": 51,
+    "id": 52,
     "price": 0,
-    "popularity": 1026,
+    "popularity": 1027,
     "appType": "landingpage",
     "details": "https://github.com/nuxt/hackernews/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1363,9 +1395,9 @@
     "createdOn": ""
   },
   {
-    "id": 52,
+    "id": 53,
     "price": 0,
-    "popularity": 1027,
+    "popularity": 1028,
     "appType": "landingpage",
     "details": "https://github.com/FlameyFox/FlameyTV/archive/refs/heads/nuxt3.zip",
     "category": "Nuxt",
@@ -1388,9 +1420,9 @@
     "createdOn": ""
   },
   {
-    "id": 53,
+    "id": 54,
     "price": 0,
-    "popularity": 1028,
+    "popularity": 1029,
     "appType": "admin-template",
     "details": "https://github.com/nuxt/movies/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1411,9 +1443,9 @@
     "createdOn": ""
   },
   {
-    "id": 54,
+    "id": 55,
     "price": 0,
-    "popularity": 1029,
+    "popularity": 1030,
     "appType": "admin-template",
     "details": "https://github.com/fzn0x/mazer-nuxt/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1437,9 +1469,9 @@
     "createdOn": ""
   },
   {
-    "id": 55,
+    "id": 56,
     "price": 0,
-    "popularity": 1030,
+    "popularity": 1031,
     "appType": "admin-template",
     "details": "https://github.com/gravitano/nuxt3-tailwind-kit/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1463,9 +1495,9 @@
     "createdOn": ""
   },
   {
-    "id": 56,
+    "id": 57,
     "price": 0,
-    "popularity": 1031,
+    "popularity": 1032,
     "appType": "landingpage",
     "details": "https://github.com/johannschopplich/dachsbau-frontend/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1488,9 +1520,9 @@
     "createdOn": ""
   },
   {
-    "id": 57,
+    "id": 58,
     "price": 0,
-    "popularity": 1032,
+    "popularity": 1033,
     "appType": "landingpage",
     "details": "https://github.com/Demetory/dim-nuxt-content-blog/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1514,9 +1546,9 @@
     "createdOn": ""
   },
   {
-    "id": 58,
+    "id": 59,
     "price": 0,
-    "popularity": 1033,
+    "popularity": 1034,
     "appType": "landingpage",
     "details": "https://github.com/marinaaisa/nuxt-markdown-blog-starter/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1541,9 +1573,9 @@
     "createdOn": ""
   },
   {
-    "id": 59,
+    "id": 60,
     "price": 0,
-    "popularity": 1034,
+    "popularity": 1035,
     "appType": "admin-template",
     "details": "https://github.com/misterGF/CoPilot/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1566,9 +1598,9 @@
     "createdOn": ""
   },
   {
-    "id": 60,
+    "id": 61,
     "price": 0,
-    "popularity": 1035,
+    "popularity": 1036,
     "appType": "admin-template",
     "details": "https://github.com/PanJiaChen/vue-element-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1593,7 +1625,7 @@
     "createdOn": ""
   },
   {
-    "id": 61,
+    "id": 62,
     "price": 0,
     "popularity": 1037,
     "appType": "admin-template",
@@ -1622,7 +1654,7 @@
     "createdOn": ""
   },
   {
-    "id": 62,
+    "id": 63,
     "price": 0,
     "popularity": 1038,
     "appType": "admin-template",
@@ -1652,7 +1684,7 @@
     "createdOn": ""
   },
   {
-    "id": 63,
+    "id": 64,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -1678,7 +1710,7 @@
     "createdOn": ""
   },
   {
-    "id": 64,
+    "id": 65,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -1704,7 +1736,7 @@
     "createdOn": ""
   },
   {
-    "id": 65,
+    "id": 66,
     "price": 0,
     "popularity": 1041,
     "appType": "admin-template",
@@ -1714,7 +1746,7 @@
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/master-console.jpg",
     "subtitle": "Vue Material Admin is a great template to quick-start development",
     "livePreview": "https://flatlogic.github.io/material-vue/#/dashboard",
-    "templateName": "Master Console",
+    "templateName": "master-console",
     "description": "Unleash Control with master-console: Your Open-Source Admin Dashboard Solution Step into the world of empowered administration with master-console – a cutting-edge, open-source admin dashboard template. Engineered to offer a comprehensive suite of tools, this template puts you in the driver's seat of your application. Experience the freedom of customization, all backed by the power of open-source collaboration.",
     "features": [
       "Vuetify",
@@ -1727,7 +1759,7 @@
     "createdOn": ""
   },
   {
-    "id": 66,
+    "id": 67,
     "price": 0,
     "popularity": 1042,
     "appType": "admin-template",
@@ -1752,7 +1784,7 @@
     "createdOn": ""
   },
   {
-    "id": 67,
+    "id": 68,
     "price": 0,
     "popularity": 1043,
     "appType": "admin-template",
@@ -1779,7 +1811,7 @@
     "createdOn": ""
   },
   {
-    "id": 68,
+    "id": 69,
     "price": 0,
     "popularity": 1044,
     "appType": "admin-template",
@@ -1809,7 +1841,7 @@
     "createdOn": ""
   },
   {
-    "id": 69,
+    "id": 70,
     "price": 0,
     "popularity": 1045,
     "appType": "admin-template",
@@ -1839,7 +1871,7 @@
     "createdOn": ""
   },
   {
-    "id": 70,
+    "id": 71,
     "price": 0,
     "popularity": 1046,
     "appType": "admin-template",
@@ -1869,7 +1901,7 @@
     "createdOn": ""
   },
   {
-    "id": 71,
+    "id": 72,
     "price": 0,
     "popularity": 1047,
     "appType": "admin-template",
@@ -1897,7 +1929,7 @@
     "createdOn": ""
   },
   {
-    "id": 72,
+    "id": 73,
     "price": 0,
     "popularity": 1048,
     "appType": "admin-template",
@@ -1925,7 +1957,7 @@
     "createdOn": ""
   },
   {
-    "id": 73,
+    "id": 74,
     "price": 0,
     "popularity": 1049,
     "appType": "admin-template",
@@ -1946,7 +1978,7 @@
     "createdOn": ""
   },
   {
-    "id": 74,
+    "id": 75,
     "price": 0,
     "popularity": 1050,
     "appType": "admin-template",
@@ -1973,7 +2005,7 @@
     "createdOn": ""
   },
   {
-    "id": 75,
+    "id": 76,
     "price": 0,
     "popularity": 1051,
     "appType": "admin-template",
@@ -1999,7 +2031,7 @@
     "createdOn": ""
   },
   {
-    "id": 76,
+    "id": 77,
     "price": 0,
     "popularity": 1052,
     "appType": "admin-template",
@@ -2028,7 +2060,7 @@
     "createdOn": ""
   },
   {
-    "id": 77,
+    "id": 78,
     "price": 0,
     "popularity": 1053,
     "appType": "admin-template",
@@ -2056,7 +2088,7 @@
     "createdOn": ""
   },
   {
-    "id": 78,
+    "id": 79,
     "price": 0,
     "popularity": 1054,
     "appType": "admin-template",
@@ -2082,7 +2114,7 @@
     "createdOn": ""
   },
   {
-    "id": 79,
+    "id": 80,
     "price": 0,
     "popularity": 1055,
     "appType": "landingpage",
@@ -2107,7 +2139,7 @@
     "createdOn": ""
   },
   {
-    "id": 80,
+    "id": 81,
     "price": 0,
     "popularity": 1056,
     "appType": "landingpage",
@@ -2137,7 +2169,7 @@
     "createdOn": ""
   },
   {
-    "id": 81,
+    "id": 82,
     "price": 0,
     "popularity": 1057,
     "appType": "landingpage",
@@ -2169,7 +2201,7 @@
     "createdOn": ""
   },
   {
-    "id": 82,
+    "id": 83,
     "price": 0,
     "popularity": 1058,
     "appType": "admin-template",
@@ -2195,7 +2227,7 @@
     "createdOn": ""
   },
   {
-    "id": 83,
+    "id": 84,
     "price": 0,
     "popularity": 1059,
     "appType": "landingpage",
@@ -2222,7 +2254,7 @@
     "createdOn": ""
   },
   {
-    "id": 84,
+    "id": 85,
     "price": 0,
     "popularity": 1060,
     "appType": "admin-template",
@@ -2250,7 +2282,7 @@
     "createdOn": ""
   },
   {
-    "id": 85,
+    "id": 86,
     "price": 0,
     "popularity": 1061,
     "appType": "landingpage",
@@ -2272,7 +2304,7 @@
     "createdOn": ""
   },
   {
-    "id": 86,
+    "id": 87,
     "price": 0,
     "popularity": 1062,
     "appType": "landingpage",
@@ -2297,7 +2329,7 @@
     "createdOn": ""
   },
   {
-    "id": 87,
+    "id": 88,
     "price": 0,
     "popularity": 1063,
     "appType": "landingpage",
@@ -2324,7 +2356,7 @@
     "createdOn": ""
   },
   {
-    "id": 88,
+    "id": 89,
     "price": 0,
     "popularity": 1064,
     "appType": "landingpage",
@@ -2350,7 +2382,7 @@
     "createdOn": ""
   },
   {
-    "id": 89,
+    "id": 90,
     "price": 0,
     "popularity": 1065,
     "appType": "admin-template",
@@ -2379,7 +2411,7 @@
     "createdOn": "04-Apr-2019"
   },
   {
-    "id": 90,
+    "id": 91,
     "price": 0,
     "popularity": 1066,
     "appType": "landingpage",
@@ -2391,13 +2423,11 @@
     "livePreview": "https://nuxt-storyblok-starter-zeta.vercel.app/",
     "templateName": "Nuxt Storyblok Starter",
     "description": "The Nuxt.js Website Starter template named Nujek seamlessly integrates the power of Nuxt.js, Storyblok, and Tailwind CSS to offer a robust foundation for building dynamic and content-rich websites. Nuxt.js, as a progressive Vue.js framework, provides an efficient and structured development environment, offering features like server-side rendering and easy-to-manage routing. Storyblok, a headless CMS, complements this setup by enabling content creators to manage and update website content effortlessly, decoupling the frontend and backend for a more flexible workflow.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "22-Nov-2022"
   },
   {
-    "id": 91,
+    "id": 92,
     "price": 0,
     "popularity": 1067,
     "appType": "landingpage",
@@ -2429,7 +2459,7 @@
     "createdOn": "04-Nov-2021"
   },
   {
-    "id": 92,
+    "id": 93,
     "price": 0,
     "popularity": 1068,
     "appType": "landingpage",
@@ -2441,13 +2471,11 @@
     "livePreview": "https://www.storyblok.com/",
     "templateName": "Storyblok",
     "description": "Storyblok is a CMS that works with and not against you. It's a headless CMS that is flexible enough for every use-case: corporate websites, e-commerce, helpdesks, mobile apps, and screen displays. Storyblok builds a bridge between content creators and developers without forcing the developer into a specific technology. It comes with powerful REST and GraphQL APIs and a visual editor that previews website changes. Storyblok is built around components and is fully extendable using Vue.js. Of course it can also be used to deliver content to your Vue and Nuxt apps.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "15-Dec-2024"
   },
   {
-    "id": 93,
+    "id": 94,
     "price": 0,
     "popularity": 1069,
     "appType": "landingpage",
@@ -2459,13 +2487,11 @@
     "livePreview": "https://sentry.io/welcome/",
     "templateName": "Sentry for Vue",
     "description": "Sentry provides self-hosted and cloud-based application monitoring that delivers actionable insights to resolve Vue performance bottlenecks and errors. Improve your monitoring workflow with a full view of releases so you can mark Vue errors as resolved and prioritize live issues.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "22-Dec-2024"
   },
   {
-    "id": 94,
+    "id": 95,
     "price": 0,
     "popularity": 1070,
     "appType": "landingpage",
@@ -2477,13 +2503,11 @@
     "livePreview": "https://vue-swipe-modal-docs.takumaru.dev/",
     "templateName": "Vue Swipe Modal",
     "description": "The Vue Swipe Modal is a versatile and interactive user interface component that enhances the modal experience within Vue.js applications. This specialized modal component not only provides a visually appealing overlay but also introduces swipe gestures to navigate through its content seamlessly. Leveraging the touch or drag gestures, users can effortlessly swipe between different sections or screens within the modal, creating an intuitive and engaging user experience.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "08-Dec-2024"
   },
   {
-    "id": 95,
+    "id": 96,
     "price": 0,
     "popularity": 1071,
     "appType": "landingpage",
@@ -2505,7 +2529,7 @@
     "createdOn": ""
   },
   {
-    "id": 96,
+    "id": 97,
     "price": 0,
     "popularity": 1072,
     "appType": "landingpage",
@@ -2517,13 +2541,11 @@
     "livePreview": "https://js.devexpress.com/",
     "templateName": "DevExtreme Vue",
     "description": "DevExtreme is a set of enterprise-ready UI component suites for Angular, React, Vue, and jQuery. It is everything you need to create responsive web apps for touch devices and traditional desktops: data grid, interactive charts, data editors, navigation and multi-purpose widgets. These controls are designed to look great and to provide powerful functionality in any browser.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 97,
+    "id": 98,
     "price": 0,
     "popularity": 1073,
     "appType": "admin-template",
@@ -2552,7 +2574,7 @@
     "createdOn": "31-Dec-2024"
   },
   {
-    "id": 98,
+    "id": 99,
     "price": 0,
     "popularity": 1074,
     "appType": "landingpage",
@@ -2578,7 +2600,7 @@
     "createdOn": "16-Dec-2024"
   },
   {
-    "id": 99,
+    "id": 100,
     "price": 0,
     "popularity": 1075,
     "appType": "landingpage",
@@ -2590,13 +2612,11 @@
     "livePreview": "https://joinmobilizon.org/en/",
     "templateName": "Mobilizon",
     "description": "Mobilizon is your federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool. It's a tool designed to create platforms for managing communities and events. Its purpose is to help as many people as possible to free themselves from Facebook groups and events, from Meetup, etc.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 100,
+    "id": 101,
     "price": 0,
     "popularity": 1076,
     "appType": "admin-template",
@@ -2622,7 +2642,7 @@
     "createdOn": ""
   },
   {
-    "id": 101,
+    "id": 102,
     "price": 0,
     "popularity": 1077,
     "appType": "admin-template",
@@ -2634,13 +2654,11 @@
     "livePreview": "https://sandpack-vue3.js-bridge.com/?path=/story/intro-playground--main",
     "templateName": "Sandpack Vue 3",
     "description": "Sandpack-vue3 is a remarkable set of Vue 3 components designed to empower developers with the functionality of editable sandboxes that seamlessly run directly in the browser. This innovative tool leverages the capabilities of CodeSandbox, a powerful platform for web application development. With Sandpack-vue3, developers can harness the efficiency of a sandbox environment, allowing for rapid prototyping, experimentation, and testing of Vue 3 components.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "08-Oct-2024"
   },
   {
-    "id": 102,
+    "id": 103,
     "price": 0,
     "popularity": 1078,
     "appType": "landingpage",
@@ -2652,13 +2670,11 @@
     "livePreview": "https://vue-final-modal.org/",
     "templateName": "Vue Final Modal",
     "description": "Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. As such it makes some assumptions and enforces best-practices for your modals while being versatile and customizable.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "15-Dec-2024"
   },
   {
-    "id": 103,
+    "id": 104,
     "price": 0,
     "popularity": 1079,
     "appType": "admin-template",
@@ -2670,13 +2686,11 @@
     "livePreview": "https://vue3-datatable-document.vercel.app/",
     "templateName": "Vue 3 Datatable",
     "description": "vue3-datatable is a powerful component for creating dynamic and customizable data tables. It supports large amounts of data, sorting, pagination, and filtering and is highly customizable.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 104,
+    "id": 105,
     "price": 0,
     "popularity": 1080,
     "appType": "landingpage",
@@ -2706,7 +2720,7 @@
     "createdOn": ""
   },
   {
-    "id": 105,
+    "id": 106,
     "price": 0,
     "popularity": 1081,
     "appType": "admin-template",
@@ -2731,7 +2745,7 @@
     "createdOn": ""
   },
   {
-    "id": 106,
+    "id": 107,
     "price": 0,
     "popularity": 1082,
     "appType": "landingpage",
@@ -2739,7 +2753,7 @@
     "category": "Vue",
     "imageAlt": "Simple OTP",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/simpleotp-sdk-js-vue.jpg",
-    "subtitle": "Lightweight and flexible Vue 3 library for creating PixiJS applications.",
+    "subtitle": "The SimpleOTP SDK for Vue 3",
     "livePreview": "https://simpleotp.com/",
     "templateName": "Simple OTP",
     "description": "Simple OTP is the world's easiest way to add passwordless and magic sign in link authentication to your website. The app dashboard is built with Vue.js, and it also offers a Vue SDK to easily integrate it in your apps.",
@@ -2755,7 +2769,7 @@
     "createdOn": ""
   },
   {
-    "id": 107,
+    "id": 108,
     "price": 0,
     "popularity": 1083,
     "appType": "landingpage",
@@ -2779,7 +2793,7 @@
     "createdOn": "01-Jan-2024"
   },
   {
-    "id": 108,
+    "id": 109,
     "price": 0,
     "popularity": 1084,
     "appType": "landingpage",
@@ -2802,7 +2816,7 @@
     "createdOn": ""
   },
   {
-    "id": 109,
+    "id": 110,
     "price": 0,
     "popularity": 1085,
     "appType": "landingpage",
@@ -2831,7 +2845,7 @@
     "createdOn": "10-Jan-2024"
   },
   {
-    "id": 110,
+    "id": 111,
     "price": 0,
     "popularity": 1086,
     "appType": "admin-template",
@@ -2852,7 +2866,7 @@
     "createdOn": "20-Nov-2024"
   },
   {
-    "id": 111,
+    "id": 112,
     "price": 0,
     "popularity": 1087,
     "appType": "admin-template",
@@ -2864,13 +2878,11 @@
     "livePreview": "https://menthor.io/app/",
     "templateName": "Menthor",
     "description": "Learn to code and build your own startup: Menthor is a free web programming teaching platform for people who are looking for their first job in the field or who want to build their own business. The platform and landing page are open-source and built using Nuxt.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 112,
+    "id": 113,
     "price": 0,
     "popularity": 1088,
     "appType": "landingpage",
@@ -2894,9 +2906,9 @@
     "createdOn": "29-Jun-2023"
   },
   {
-    "id": 113,
+    "id": 114,
     "price": 0,
-    "popularity": 1088,
+    "popularity": 1089,
     "appType": "admin-template",
     "details": "https://github.com/radix-vue/shadcn-vue/archive/refs/heads/dev.zip",
     "category": "Vue",
@@ -2906,15 +2918,13 @@
     "livePreview": "https://www.shadcn-vue.com/",
     "templateName": "shadcn-vue",
     "description": "shadcn-vue is an unofficial community-led Vue port of shadcn/ui. It offers accessible and customizable components that you can copy and paste into your apps. It's free and open-source – use this to build your own component library.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "12-Jan-2024"
   },
   {
-    "id": 114,
+    "id": 115,
     "price": 0,
-    "popularity": 1089,
+    "popularity": 1090,
     "appType": "admin-template",
     "details": "https://github.com/scalar/scalar/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -2934,9 +2944,9 @@
     "createdOn": "28-Nov-2023"
   },
   {
-    "id": 115,
+    "id": 116,
     "price": 0,
-    "popularity": 1090,
+    "popularity": 1091,
     "appType": "landingpage",
     "details": "https://github.com/tiny-craft/tiny-rdm/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -2966,9 +2976,9 @@
     "createdOn": "11-Jan-2024"
   },
   {
-    "id": 116,
+    "id": 117,
     "price": 0,
-    "popularity": 1091,
+    "popularity": 1092,
     "appType": "landingpage",
     "details": "https://github.com/j2only/vue-slide-unlock/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -2978,15 +2988,13 @@
     "livePreview": "https://joseph2.github.io/vue-slide-unlock/",
     "templateName": "Vue Slide Unlock",
     "description": "vue-slide-unlock is a Vue 3 slide-to-unlock component that helps you protect users from accidental clicks or protect your web app from bot attacks. It's built using the Vue 3 Composition API with Typescript and Vite, coated with tests using Cypress.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "19-Oct-2023"
   },
   {
-    "id": 117,
+    "id": 118,
     "price": 0,
-    "popularity": 1092,
+    "popularity": 1093,
     "appType": "admin-template",
     "details": "https://github.com/uptrace/uptrace/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3012,9 +3020,9 @@
     "createdOn": "08-Jan-2024"
   },
   {
-    "id": 118,
+    "id": 119,
     "price": 0,
-    "popularity": 1093,
+    "popularity": 1094,
     "appType": "landingpage",
     "details": "https://github.com/radix-vue/radix-vue/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3024,15 +3032,13 @@
     "livePreview": "https://www.radix-vue.com/",
     "templateName": "Radix Vue",
     "description": "Radix is an unstyled, customisable UI Library with built in accessibility for building top quality design systems. Radix Vue is an unofficial Vue 3 port!",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "16-Jan-2024"
   },
   {
-    "id": 119,
+    "id": 120,
     "price": 0,
-    "popularity": 1094,
+    "popularity": 1095,
     "appType": "landingpage",
     "details": "https://github.com/Noction/hippie-nav/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3042,15 +3048,13 @@
     "livePreview": "https://noction.github.io/hippie-nav/",
     "templateName": "hippie-nav",
     "description": "hippie-nav is a modern and versatile searchbar component crafted for Vue applications. Designed to operate entirely on the frontend, it offers blazing-fast searches without the overhead of backend requests. Seamlessly integrate it with your Vue routes and custom-defined actions to supercharge the user navigation experience.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "04-Nov-2023"
   },
   {
-    "id": 120,
+    "id": 121,
     "price": 0,
-    "popularity": 1095,
+    "popularity": 1096,
     "appType": "landingpage",
     "details": "https://github.com/antfu/vue-starport/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3060,15 +3064,13 @@
     "livePreview": "https://vue-starport.netlify.app/",
     "templateName": "Vue Starport",
     "description": "It's quite common you might have a same component used in different routes (pages) with a bit different sizes and positions. Sometimes you might want to animate them when user navigates between routes to provide a smooth UX. While such animation is common to be seen in native apps, it's could be a bit challenging to do it in Web. Vue's component structure is presented as a tree, and the child components are in different branches with their own instances.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "07-Sep-2023"
   },
   {
-    "id": 121,
+    "id": 122,
     "price": 0,
-    "popularity": 1096,
+    "popularity": 1097,
     "appType": "landingpage",
     "details": "https://github.com/TaTo30/vue-pdf/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3078,15 +3080,13 @@
     "livePreview": "https://tato30.github.io/vue-pdf/",
     "templateName": "VuePDF",
     "description": "VuePDF is a Vue 3 client-side component for pdf.js that allows you to flexibly display PDF pages within your project. It supports paging, scaling, annotations, loading multiple documents & more.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "12-Jan-2024"
   },
   {
-    "id": 122,
+    "id": 123,
     "price": 0,
-    "popularity": 1097,
+    "popularity": 1098,
     "appType": "landingpage",
     "details": "https://github.com/activist-org/activist/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3096,15 +3096,13 @@
     "livePreview": "https://activist.org/en",
     "templateName": "Activist",
     "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them. The current goal is the creation of a central platform to discover activist organizations and their events. The frontend is built with Vue & Nuxt.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 123,
+    "id": 124,
     "price": 0,
-    "popularity": 1098,
+    "popularity": 1099,
     "appType": "landingpage",
     "details": "https://github.com/harlan-zw/nuxt-seo/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3114,15 +3112,13 @@
     "livePreview": "https://nuxtseo.com/",
     "templateName": "Nuxt SEO",
     "description": "All the boring SEO work for Nuxt done: Nuxt SEO is a collection of hand-crafted Nuxt Modules to help you rank higher in search engines. It includes modules for managing robots & sitemaps, a link checker and more.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "16-Jan-2024"
   },
   {
-    "id": 124,
+    "id": 125,
     "price": 0,
-    "popularity": 1099,
+    "popularity": 1100,
     "appType": "landingpage",
     "details": "https://github.com/graphieros/vue-data-ui/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3132,15 +3128,13 @@
     "livePreview": "https://vue-data-ui.graphieros.com/",
     "templateName": "Vue Data UI",
     "description": "Vue Data UI is a user-empowering data visualization component library for Vue 3. It includes components for chart types like donut, sparkline or radar, a rating and a table component.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "09-Jan-2024"
   },
   {
-    "id": 125,
+    "id": 126,
     "price": 0,
-    "popularity": 1100,
+    "popularity": 1101,
     "appType": "landingpage",
     "details": "https://github.com/docusealco/docuseal/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3167,9 +3161,9 @@
     "createdOn": "22-Jan-2024"
   },
   {
-    "id": 126,
+    "id": 127,
     "price": 0,
-    "popularity": 1101,
+    "popularity": 1102,
     "appType": "admin-template",
     "details": "https://github.com/edisdev/vue-google-maps-ui/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3179,15 +3173,13 @@
     "livePreview": "https://edisdev.github.io/vue-google-maps-ui/",
     "templateName": "Vue Google Maps UI",
     "description": "Vue Google Maps UI is a versatile and user-friendly library that seamlessly integrates Google Maps into Vue.js applications. With its intuitive components and easy-to-use API, developers can effortlessly incorporate interactive maps, markers, and other location-based features into their Vue projects. The library provides a set of Vue components that simplify the process of working with Google Maps, allowing developers to focus on building rich and dynamic mapping experiences.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 127,
+    "id": 128,
     "price": 0,
-    "popularity": 1102,
+    "popularity": 1103,
     "appType": "landingpage",
     "details": "https://github.com/openobserve/openobserve/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3217,9 +3209,9 @@
     "createdOn": "16-Jan-2024"
   },
   {
-    "id": 128,
+    "id": 129,
     "price": 0,
-    "popularity": 1103,
+    "popularity": 1104,
     "appType": "landingpage",
     "details": "https://github.com/wan2land/vue-scroll-picker/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3229,15 +3221,13 @@
     "livePreview": "https://vue-scroll-picker.dist.be/",
     "templateName": "Vue Scroll Picker",
     "description": "Vue Scroll Picker is a sleek and intuitive iOS-style scroll picker component designed specifically for Vue 3. With its seamless integration, it offers support for all mouse and touch gestures, ensuring a smooth and interactive user experience. Whether selecting dates, times, or any other options, Vue Scroll Picker provides a visually appealing and functional solution for your Vue 3 projects. Its versatility and responsiveness make it an ideal choice for creating dynamic and user-friendly interfaces.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 129,
+    "id": 130,
     "price": 0,
-    "popularity": 1104,
+    "popularity": 1105,
     "appType": "landingpage",
     "details": "https://github.com/smastrom/vue-use-fixed-header/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3257,9 +3247,9 @@
     "createdOn": "05-Feb-2024"
   },
   {
-    "id": 130,
+    "id": 131,
     "price": 0,
-    "popularity": 1105,
+    "popularity": 1106,
     "appType": "admin-template",
     "details": "https://github.com/iqonicdesignofficial/hope-ui-vue-dashboard/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3283,9 +3273,9 @@
     "createdOn": "26-Sep-2023"
   },
   {
-    "id": 131,
+    "id": 132,
     "price": 0,
-    "popularity": 1106,
+    "popularity": 1107,
     "appType": "landingpage",
     "details": "https://github.com/vueplayground/vueplay.com/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3295,15 +3285,13 @@
     "livePreview": "https://vueplay.com/",
     "templateName": "Vue Play",
     "description": "Vue Play is a drag & drop component and application builder for Vue Single File Components or Vue applications. Build any website or component in a drag & drop interface, push it to GitHub and deploy on Github Pages in seconds. Publish and re-use single file components. Add inline/class styles and tailwind classes with style controllers. The website vueplay.com and the builder itself were built using Vue.js with Vite.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 132,
+    "id": 133,
     "price": 0,
-    "popularity": 1107,
+    "popularity": 1108,
     "appType": "landingpage",
     "details": "https://github.com/wobsoriano/vuetify-sonner/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3313,15 +3301,13 @@
     "livePreview": "https://vuetify-sonner.vercel.app/",
     "templateName": "Vuetify Sonner",
     "description": "The Vuetify Sonner presents as a stackable Vue 3 toast component designed specifically for integration within the Vuetify framework. This versatile tool empowers users to tailor various aspects of their toast notifications, including swipe direction and the number of concurrently visible toasts, among other customizable features.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 133,
+    "id": 134,
     "price": 0,
-    "popularity": 1108,
+    "popularity": 1109,
     "appType": "landingpage",
     "details": "https://github.com/fengyuanchen/vue-barcode/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3331,15 +3317,13 @@
     "livePreview": "https://fengyuanchen.github.io/vue-barcode/",
     "templateName": "Vue Barcode",
     "description": "The vue-barcode component, built upon JsBarcode, seamlessly integrates barcode functionality into Vue applications with user-friendly simplicity. Providing extensive customization options such as color schemes, sizing parameters, background settings, font variations, and more, it facilitates effortless implementation of barcode solutions tailored to specific requirements.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "07-Feb-2024"
   },
   {
-    "id": 134,
+    "id": 135,
     "price": 0,
-    "popularity": 1109,
+    "popularity": 1110,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3349,15 +3333,13 @@
     "livePreview": "https://demo.bootstrapdash.com/star-admin-vue/preview/#/dashboard",
     "templateName": "StarAdmin-Free-Vue-Admin-Template",
     "description": "StarAdmin is a free VueJS admin template based on Bootstrap and VueJS. It’s completely responsive and mobile-first, providing an excellent foundation for web apps. StarAdmin is very flexible and highly customizable, offering the best assistance in crafting your admin panel with amazing UI and user-friendliness. It contains excellent widgets, tables, icons, forms, and other essential elements. This admin template includes excellent notifications and sample login pages, register, 404, and 500. Check out other useful features of this free template.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 135,
+    "id": 136,
     "price": 0,
-    "popularity": 1110,
+    "popularity": 1111,
     "appType": "admin-template",
     "details": "https://github.com/story2Dev/nuxt3-admin-dashboard/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -3378,9 +3360,9 @@
     "createdOn": ""
   },
   {
-    "id": 136,
+    "id": 137,
     "price": 0,
-    "popularity": 1111,
+    "popularity": 1112,
     "appType": "landingpage",
     "details": "https://github.com/snipcart/nuxt-cockpit/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -3390,15 +3372,13 @@
     "livePreview": "https://snipcart.com/",
     "templateName": "Nuxt Cockpit",
     "description": "Integrating Cockpit CMS with Nuxt.js to construct a comprehensive JAMstack architecture presents a powerful solution for developers seeking efficient content management and dynamic web application functionality. This tutorial provides a systematic guide to seamlessly bundle Cockpit CMS, a lightweight yet robust content management system, with Nuxt.js, a progressive JavaScript framework renowned for its versatility and performance. By leveraging this integration, developers can harness the benefits of a decoupled CMS approach while capitalizing on Nuxt.js's capabilities for server-side rendering, static site generation, and client-side routing.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": ""
   },
   {
-    "id": 137,
+    "id": 138,
     "price": 0,
-    "popularity": 1112,
+    "popularity": 1113,
     "appType": "landingpage",
     "details": "https://github.com/Smuice-com/petra/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -3412,9 +3392,9 @@
     "createdOn": "10-Dec-2020"
   },
   {
-    "id": 138,
+    "id": 139,
     "price": 0,
-    "popularity": 1113,
+    "popularity": 1114,
     "appType": "landingpage",
     "details": "https://github.com/sdras/page-transitions-travelapp/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -3428,9 +3408,9 @@
     "createdOn": ""
   },
   {
-    "id": 139,
+    "id": 140,
     "price": 0,
-    "popularity": 1114,
+    "popularity": 1115,
     "appType": "landingpage",
     "details": "https://github.com/richardeschloss/nuxt-highcharts/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -3444,9 +3424,9 @@
     "createdOn": "14-May-2020"
   },
   {
-    "id": 140,
+    "id": 141,
     "price": 0,
-    "popularity": 1115,
+    "popularity": 1116,
     "appType": "admin-template",
     "details": "https://github.com/flatlogic/light-blue-vue-admin/archive/refs/heads/master.zip",
     "category": "Vue",

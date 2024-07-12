@@ -712,8 +712,38 @@
   },
   {
     "id": 26,
-    "price": 0,
+    "price": 49,
     "popularity": 1001,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/XYbYQg",
+    "category": "Nuxt",
+    "imageAlt": "metronic-img",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-img.jpg",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://1.envato.market/XYbYQg",
+    "templateName": "Metronic | Tailwind, Bootstrap, React, Vue, Angular, Asp.Net & Laravel Admin Dashboard HTML Template",
+    "description": "Metronic is a comprehensive and versatile admin dashboard HTML template that leverages the power of Tailwind, Bootstrap, React, Vue, Angular, ASP.NET, and Laravel. Designed to cater to a wide array of development needs, Metronic provides a robust foundation for creating intuitive, responsive, and highly customizable admin panels. Its integration with popular front-end frameworks like Tailwind and Bootstrap ensures a seamless and modern design aesthetic, while support for powerful JavaScript frameworks such as React, Vue, and Angular enhances its functionality and interactivity. Additionally, the inclusion of ASP.NET and Laravel backend frameworks makes Metronic an all-encompassing solution for developing sophisticated and dynamic web applications. Whether you're building a simple admin interface or a complex enterprise system, Metronic offers the tools and flexibility needed to achieve your project goals efficiently.",
+    "features": [
+      "Nuxt 3",
+      "Nuxt BS",
+      "Router",
+      "Create Nuxt Apps",
+      "TypeScript",
+      "i18 Nuxt Added",
+      "Nuxt Query",
+      "Nuxt Table",
+      "CRUDs",
+      "eCommerce",
+      "Authorization",
+      "Build Tools",
+      "Apexchart"
+    ],
+    "createdOn": "13-Feb-2013"
+  },
+  {
+    "id": 27,
+    "price": 0,
+    "popularity": 1002,
     "appType": "website",
     "details": "https://github.com/briltec/Mode_Vue/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -740,9 +770,9 @@
     "createdOn": "20 Oct 2022"
   },
   {
-    "id": 27,
+    "id": 28,
     "price": 0,
-    "popularity": 1002,
+    "popularity": 1003,
     "appType": "website",
     "details": "https://github.com/viandwi24/nuxt3-awesome-starter/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -772,9 +802,9 @@
     "createdOn": "14 Jan 2022"
   },
   {
-    "id": 28,
+    "id": 29,
     "price": 0,
-    "popularity": 1003,
+    "popularity": 1004,
     "appType": "website",
     "details": "https://github.com/RSurya99/nefa/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -796,9 +826,9 @@
     "createdOn": "19 Jan 2022"
   },
   {
-    "id": 29,
+    "id": 30,
     "price": 0,
-    "popularity": 1004,
+    "popularity": 1005,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -823,9 +853,9 @@
     "createdOn": ""
   },
   {
-    "id": 30,
+    "id": 31,
     "price": 0,
-    "popularity": 1005,
+    "popularity": 1006,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/corona-vue-free-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -850,9 +880,9 @@
     "createdOn": ""
   },
   {
-    "id": 31,
+    "id": 32,
     "price": 0,
-    "popularity": 1006,
+    "popularity": 1007,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/connect-plus-vue-free-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -877,9 +907,9 @@
     "createdOn": ""
   },
   {
-    "id": 32,
+    "id": 33,
     "price": 0,
-    "popularity": 1007,
+    "popularity": 1008,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/purple-free-vue-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -904,9 +934,9 @@
     "createdOn": ""
   },
   {
-    "id": 33,
+    "id": 34,
     "price": 0,
-    "popularity": 1008,
+    "popularity": 1009,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/stellar-admin-vue-free/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -931,9 +961,9 @@
     "createdOn": ""
   },
   {
-    "id": 34,
+    "id": 35,
     "price": 0,
-    "popularity": 1009,
+    "popularity": 1010,
     "appType": "admin-template",
     "details": "https://github.com/eddami/nuxt-material-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -954,9 +984,9 @@
     "createdOn": ""
   },
   {
-    "id": 35,
+    "id": 36,
     "price": 0,
-    "popularity": 1010,
+    "popularity": 1011,
     "appType": "admin-template",
     "details": "https://github.com/AsaoluElijah/portfolio/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -975,9 +1005,9 @@
     "createdOn": ""
   },
   {
-    "id": 36,
+    "id": 37,
     "price": 0,
-    "popularity": 1011,
+    "popularity": 1012,
     "appType": "admin-template",
     "details": "https://github.com/0xAliRaza/codefolio/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -996,9 +1026,9 @@
     "createdOn": ""
   },
   {
-    "id": 37,
+    "id": 38,
     "price": 0,
-    "popularity": 1012,
+    "popularity": 1013,
     "appType": "landingpage",
     "details": "https://github.com/agtraveso/landing-nuxt-template/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1018,9 +1048,9 @@
     "createdOn": ""
   },
   {
-    "id": 38,
+    "id": 39,
     "price": 0,
-    "popularity": 1013,
+    "popularity": 1014,
     "appType": "landingpage",
     "details": "https://github.com/gitsindonesia/nuxt-starter/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1045,9 +1075,9 @@
     "createdOn": ""
   },
   {
-    "id": 39,
+    "id": 40,
     "price": 0,
-    "popularity": 1014,
+    "popularity": 1015,
     "appType": "landingpage",
     "details": "https://github.com/svirmi/nuxt-i18n-blog-v3/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1070,9 +1100,9 @@
     "createdOn": ""
   },
   {
-    "id": 40,
+    "id": 41,
     "price": 0,
-    "popularity": 1015,
+    "popularity": 1016,
     "appType": "landingpage",
     "details": "https://github.com/agnelnieves/nuxty/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1092,9 +1122,9 @@
     "createdOn": ""
   },
   {
-    "id": 41,
+    "id": 42,
     "price": 0,
-    "popularity": 1016,
+    "popularity": 1017,
     "appType": "landingpage",
     "details": "https://github.com/timoanttila/nuxt-lazypeopleworkouts/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1114,9 +1144,9 @@
     "createdOn": ""
   },
   {
-    "id": 42,
+    "id": 43,
     "price": 0,
-    "popularity": 1017,
+    "popularity": 1018,
     "appType": "landingpage",
     "details": "https://github.com/GrabarzUndPartner/gp-vue-boilerplate/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1137,9 +1167,9 @@
     "createdOn": ""
   },
   {
-    "id": 43,
+    "id": 44,
     "price": 0,
-    "popularity": 1018,
+    "popularity": 1019,
     "appType": "landingpage",
     "details": "https://github.com/ZTF666/nuxt-quickstart-template/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1161,9 +1191,9 @@
     "createdOn": ""
   },
   {
-    "id": 44,
+    "id": 45,
     "price": 0,
-    "popularity": 1019,
+    "popularity": 1020,
     "appType": "admin-template",
     "details": "https://github.com/epicmaxco/vuestic-admin/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1186,9 +1216,9 @@
     "createdOn": ""
   },
   {
-    "id": 45,
+    "id": 46,
     "price": 0,
-    "popularity": 1020,
+    "popularity": 1021,
     "appType": "admin-template",
     "details": "https://github.com/Armour/vue-typescript-admin-template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1211,9 +1241,9 @@
     "createdOn": ""
   },
   {
-    "id": 46,
+    "id": 47,
     "price": 0,
-    "popularity": 1021,
+    "popularity": 1022,
     "appType": "admin-template",
     "details": "https://github.com/fatihunlu/vue-admin-template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1238,9 +1268,9 @@
     "createdOn": ""
   },
   {
-    "id": 47,
+    "id": 48,
     "price": 0,
-    "popularity": 1022,
+    "popularity": 1023,
     "appType": "admin-template",
     "details": "https://github.com/slanatech/dashblocks-template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1261,9 +1291,9 @@
     "createdOn": ""
   },
   {
-    "id": 48,
+    "id": 49,
     "price": 0,
-    "popularity": 1023,
+    "popularity": 1024,
     "appType": "admin-template",
     "details": "https://github.com/justboil/admin-one-vue-tailwind/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -1288,9 +1318,9 @@
     "createdOn": ""
   },
   {
-    "id": 49,
+    "id": 50,
     "price": 0,
-    "popularity": 1024,
+    "popularity": 1025,
     "appType": "admin-template",
     "details": "https://github.com/who-jonson/sakai-nuxt/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1315,9 +1345,9 @@
     "createdOn": ""
   },
   {
-    "id": 50,
+    "id": 51,
     "price": 0,
-    "popularity": 1025,
+    "popularity": 1026,
     "appType": "landingpage",
     "details": "https://github.com/johannschopplich/cacao-kit-frontend/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1341,9 +1371,9 @@
     "createdOn": ""
   },
   {
-    "id": 51,
+    "id": 52,
     "price": 0,
-    "popularity": 1026,
+    "popularity": 1027,
     "appType": "landingpage",
     "details": "https://github.com/nuxt/hackernews/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1363,9 +1393,9 @@
     "createdOn": ""
   },
   {
-    "id": 52,
+    "id": 53,
     "price": 0,
-    "popularity": 1027,
+    "popularity": 1028,
     "appType": "landingpage",
     "details": "https://github.com/FlameyFox/FlameyTV/archive/refs/heads/nuxt3.zip",
     "category": "Nuxt",
@@ -1388,9 +1418,9 @@
     "createdOn": ""
   },
   {
-    "id": 53,
+    "id": 54,
     "price": 0,
-    "popularity": 1028,
+    "popularity": 1029,
     "appType": "admin-template",
     "details": "https://github.com/nuxt/movies/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1411,9 +1441,9 @@
     "createdOn": ""
   },
   {
-    "id": 54,
+    "id": 55,
     "price": 0,
-    "popularity": 1029,
+    "popularity": 1030,
     "appType": "admin-template",
     "details": "https://github.com/fzn0x/mazer-nuxt/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1437,9 +1467,9 @@
     "createdOn": ""
   },
   {
-    "id": 55,
+    "id": 56,
     "price": 0,
-    "popularity": 1030,
+    "popularity": 1031,
     "appType": "admin-template",
     "details": "https://github.com/gravitano/nuxt3-tailwind-kit/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1463,9 +1493,9 @@
     "createdOn": ""
   },
   {
-    "id": 56,
+    "id": 57,
     "price": 0,
-    "popularity": 1031,
+    "popularity": 1032,
     "appType": "landingpage",
     "details": "https://github.com/johannschopplich/dachsbau-frontend/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1488,9 +1518,9 @@
     "createdOn": ""
   },
   {
-    "id": 57,
+    "id": 58,
     "price": 0,
-    "popularity": 1032,
+    "popularity": 1033,
     "appType": "landingpage",
     "details": "https://github.com/Demetory/dim-nuxt-content-blog/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -1514,9 +1544,9 @@
     "createdOn": ""
   },
   {
-    "id": 58,
+    "id": 59,
     "price": 0,
-    "popularity": 1033,
+    "popularity": 1034,
     "appType": "landingpage",
     "details": "https://github.com/marinaaisa/nuxt-markdown-blog-starter/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1541,9 +1571,9 @@
     "createdOn": ""
   },
   {
-    "id": 59,
+    "id": 60,
     "price": 0,
-    "popularity": 1034,
+    "popularity": 1035,
     "appType": "admin-template",
     "details": "https://github.com/misterGF/CoPilot/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1566,9 +1596,9 @@
     "createdOn": ""
   },
   {
-    "id": 60,
+    "id": 61,
     "price": 0,
-    "popularity": 1035,
+    "popularity": 1036,
     "appType": "admin-template",
     "details": "https://github.com/PanJiaChen/vue-element-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -1593,7 +1623,7 @@
     "createdOn": ""
   },
   {
-    "id": 61,
+    "id": 62,
     "price": 0,
     "popularity": 1037,
     "appType": "admin-template",
@@ -1622,7 +1652,7 @@
     "createdOn": ""
   },
   {
-    "id": 62,
+    "id": 63,
     "price": 0,
     "popularity": 1038,
     "appType": "admin-template",
@@ -1652,7 +1682,7 @@
     "createdOn": ""
   },
   {
-    "id": 63,
+    "id": 64,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -1678,7 +1708,7 @@
     "createdOn": ""
   },
   {
-    "id": 64,
+    "id": 65,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -1704,7 +1734,7 @@
     "createdOn": ""
   },
   {
-    "id": 65,
+    "id": 66,
     "price": 0,
     "popularity": 1041,
     "appType": "admin-template",
@@ -1727,7 +1757,7 @@
     "createdOn": ""
   },
   {
-    "id": 66,
+    "id": 67,
     "price": 0,
     "popularity": 1042,
     "appType": "admin-template",
@@ -1752,7 +1782,7 @@
     "createdOn": ""
   },
   {
-    "id": 67,
+    "id": 68,
     "price": 0,
     "popularity": 1043,
     "appType": "admin-template",
@@ -1779,7 +1809,7 @@
     "createdOn": ""
   },
   {
-    "id": 68,
+    "id": 69,
     "price": 0,
     "popularity": 1044,
     "appType": "admin-template",
@@ -1809,7 +1839,7 @@
     "createdOn": ""
   },
   {
-    "id": 69,
+    "id": 70,
     "price": 0,
     "popularity": 1045,
     "appType": "admin-template",
@@ -1839,7 +1869,7 @@
     "createdOn": ""
   },
   {
-    "id": 70,
+    "id": 71,
     "price": 0,
     "popularity": 1046,
     "appType": "admin-template",
@@ -1869,7 +1899,7 @@
     "createdOn": ""
   },
   {
-    "id": 71,
+    "id": 72,
     "price": 0,
     "popularity": 1047,
     "appType": "admin-template",
@@ -1897,7 +1927,7 @@
     "createdOn": ""
   },
   {
-    "id": 72,
+    "id": 73,
     "price": 0,
     "popularity": 1048,
     "appType": "admin-template",
@@ -1925,7 +1955,7 @@
     "createdOn": ""
   },
   {
-    "id": 73,
+    "id": 74,
     "price": 0,
     "popularity": 1049,
     "appType": "admin-template",
@@ -1946,7 +1976,7 @@
     "createdOn": ""
   },
   {
-    "id": 74,
+    "id": 75,
     "price": 0,
     "popularity": 1050,
     "appType": "admin-template",
@@ -1973,7 +2003,7 @@
     "createdOn": ""
   },
   {
-    "id": 75,
+    "id": 76,
     "price": 0,
     "popularity": 1051,
     "appType": "admin-template",
@@ -1999,7 +2029,7 @@
     "createdOn": ""
   },
   {
-    "id": 76,
+    "id": 77,
     "price": 0,
     "popularity": 1052,
     "appType": "admin-template",
@@ -2028,7 +2058,7 @@
     "createdOn": ""
   },
   {
-    "id": 77,
+    "id": 78,
     "price": 0,
     "popularity": 1053,
     "appType": "admin-template",
@@ -2056,7 +2086,7 @@
     "createdOn": ""
   },
   {
-    "id": 78,
+    "id": 79,
     "price": 0,
     "popularity": 1054,
     "appType": "admin-template",
@@ -2082,7 +2112,7 @@
     "createdOn": ""
   },
   {
-    "id": 79,
+    "id": 80,
     "price": 0,
     "popularity": 1055,
     "appType": "landingpage",
@@ -2107,7 +2137,7 @@
     "createdOn": ""
   },
   {
-    "id": 80,
+    "id": 81,
     "price": 0,
     "popularity": 1056,
     "appType": "landingpage",
@@ -2137,7 +2167,7 @@
     "createdOn": ""
   },
   {
-    "id": 81,
+    "id": 82,
     "price": 0,
     "popularity": 1057,
     "appType": "landingpage",
@@ -2169,7 +2199,7 @@
     "createdOn": ""
   },
   {
-    "id": 82,
+    "id": 83,
     "price": 0,
     "popularity": 1058,
     "appType": "admin-template",
@@ -2195,7 +2225,7 @@
     "createdOn": ""
   },
   {
-    "id": 83,
+    "id": 84,
     "price": 0,
     "popularity": 1059,
     "appType": "landingpage",
@@ -2222,7 +2252,7 @@
     "createdOn": ""
   },
   {
-    "id": 84,
+    "id": 85,
     "price": 0,
     "popularity": 1060,
     "appType": "admin-template",
@@ -2250,7 +2280,7 @@
     "createdOn": ""
   },
   {
-    "id": 85,
+    "id": 86,
     "price": 0,
     "popularity": 1061,
     "appType": "landingpage",
@@ -2272,7 +2302,7 @@
     "createdOn": ""
   },
   {
-    "id": 86,
+    "id": 87,
     "price": 0,
     "popularity": 1062,
     "appType": "landingpage",
@@ -2297,7 +2327,7 @@
     "createdOn": ""
   },
   {
-    "id": 87,
+    "id": 88,
     "price": 0,
     "popularity": 1063,
     "appType": "landingpage",
@@ -2324,7 +2354,7 @@
     "createdOn": ""
   },
   {
-    "id": 88,
+    "id": 89,
     "price": 0,
     "popularity": 1064,
     "appType": "landingpage",
@@ -2350,7 +2380,7 @@
     "createdOn": ""
   },
   {
-    "id": 89,
+    "id": 90,
     "price": 0,
     "popularity": 1065,
     "appType": "admin-template",
@@ -2379,7 +2409,7 @@
     "createdOn": "04-Apr-2019"
   },
   {
-    "id": 90,
+    "id": 91,
     "price": 0,
     "popularity": 1066,
     "appType": "landingpage",
@@ -2395,7 +2425,7 @@
     "createdOn": "22-Nov-2022"
   },
   {
-    "id": 91,
+    "id": 92,
     "price": 0,
     "popularity": 1067,
     "appType": "landingpage",
@@ -2427,7 +2457,7 @@
     "createdOn": "04-Nov-2021"
   },
   {
-    "id": 92,
+    "id": 93,
     "price": 0,
     "popularity": 1068,
     "appType": "landingpage",
@@ -2443,7 +2473,7 @@
     "createdOn": "15-Dec-2024"
   },
   {
-    "id": 93,
+    "id": 94,
     "price": 0,
     "popularity": 1069,
     "appType": "landingpage",
@@ -2459,7 +2489,7 @@
     "createdOn": "22-Dec-2024"
   },
   {
-    "id": 94,
+    "id": 95,
     "price": 0,
     "popularity": 1070,
     "appType": "landingpage",
@@ -2475,7 +2505,7 @@
     "createdOn": "08-Dec-2024"
   },
   {
-    "id": 95,
+    "id": 96,
     "price": 0,
     "popularity": 1071,
     "appType": "landingpage",
@@ -2497,7 +2527,7 @@
     "createdOn": ""
   },
   {
-    "id": 96,
+    "id": 97,
     "price": 0,
     "popularity": 1072,
     "appType": "landingpage",
@@ -2513,7 +2543,7 @@
     "createdOn": ""
   },
   {
-    "id": 97,
+    "id": 98,
     "price": 0,
     "popularity": 1073,
     "appType": "admin-template",
@@ -2542,7 +2572,7 @@
     "createdOn": "31-Dec-2024"
   },
   {
-    "id": 98,
+    "id": 99,
     "price": 0,
     "popularity": 1074,
     "appType": "landingpage",
@@ -2568,7 +2598,7 @@
     "createdOn": "16-Dec-2024"
   },
   {
-    "id": 99,
+    "id": 100,
     "price": 0,
     "popularity": 1075,
     "appType": "landingpage",
@@ -2584,7 +2614,7 @@
     "createdOn": ""
   },
   {
-    "id": 100,
+    "id": 101,
     "price": 0,
     "popularity": 1076,
     "appType": "admin-template",
@@ -2610,7 +2640,7 @@
     "createdOn": ""
   },
   {
-    "id": 101,
+    "id": 102,
     "price": 0,
     "popularity": 1077,
     "appType": "admin-template",
@@ -2626,7 +2656,7 @@
     "createdOn": "08-Oct-2024"
   },
   {
-    "id": 102,
+    "id": 103,
     "price": 0,
     "popularity": 1078,
     "appType": "landingpage",
@@ -2642,7 +2672,7 @@
     "createdOn": "15-Dec-2024"
   },
   {
-    "id": 103,
+    "id": 104,
     "price": 0,
     "popularity": 1079,
     "appType": "admin-template",
@@ -2658,7 +2688,7 @@
     "createdOn": ""
   },
   {
-    "id": 104,
+    "id": 105,
     "price": 0,
     "popularity": 1080,
     "appType": "landingpage",
@@ -2688,7 +2718,7 @@
     "createdOn": ""
   },
   {
-    "id": 105,
+    "id": 106,
     "price": 0,
     "popularity": 1081,
     "appType": "admin-template",
@@ -2713,7 +2743,7 @@
     "createdOn": ""
   },
   {
-    "id": 106,
+    "id": 107,
     "price": 0,
     "popularity": 1082,
     "appType": "landingpage",
@@ -2737,7 +2767,7 @@
     "createdOn": ""
   },
   {
-    "id": 107,
+    "id": 108,
     "price": 0,
     "popularity": 1083,
     "appType": "landingpage",
@@ -2761,7 +2791,7 @@
     "createdOn": "01-Jan-2024"
   },
   {
-    "id": 108,
+    "id": 109,
     "price": 0,
     "popularity": 1084,
     "appType": "landingpage",
@@ -2784,7 +2814,7 @@
     "createdOn": ""
   },
   {
-    "id": 109,
+    "id": 110,
     "price": 0,
     "popularity": 1085,
     "appType": "landingpage",
@@ -2813,7 +2843,7 @@
     "createdOn": "10-Jan-2024"
   },
   {
-    "id": 110,
+    "id": 111,
     "price": 0,
     "popularity": 1086,
     "appType": "admin-template",
@@ -2834,7 +2864,7 @@
     "createdOn": "20-Nov-2024"
   },
   {
-    "id": 111,
+    "id": 112,
     "price": 0,
     "popularity": 1087,
     "appType": "admin-template",
@@ -2850,7 +2880,7 @@
     "createdOn": ""
   },
   {
-    "id": 112,
+    "id": 113,
     "price": 0,
     "popularity": 1088,
     "appType": "landingpage",
@@ -2874,9 +2904,9 @@
     "createdOn": "29-Jun-2023"
   },
   {
-    "id": 113,
+    "id": 114,
     "price": 0,
-    "popularity": 1088,
+    "popularity": 1089,
     "appType": "admin-template",
     "details": "https://github.com/radix-vue/shadcn-vue/archive/refs/heads/dev.zip",
     "category": "Vue",
@@ -2890,9 +2920,9 @@
     "createdOn": "12-Jan-2024"
   },
   {
-    "id": 114,
+    "id": 115,
     "price": 0,
-    "popularity": 1089,
+    "popularity": 1090,
     "appType": "admin-template",
     "details": "https://github.com/scalar/scalar/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -2912,9 +2942,9 @@
     "createdOn": "28-Nov-2023"
   },
   {
-    "id": 115,
+    "id": 116,
     "price": 0,
-    "popularity": 1090,
+    "popularity": 1091,
     "appType": "landingpage",
     "details": "https://github.com/tiny-craft/tiny-rdm/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -2944,9 +2974,9 @@
     "createdOn": "11-Jan-2024"
   },
   {
-    "id": 116,
+    "id": 117,
     "price": 0,
-    "popularity": 1091,
+    "popularity": 1092,
     "appType": "landingpage",
     "details": "https://github.com/j2only/vue-slide-unlock/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -2960,9 +2990,9 @@
     "createdOn": "19-Oct-2023"
   },
   {
-    "id": 117,
+    "id": 118,
     "price": 0,
-    "popularity": 1092,
+    "popularity": 1093,
     "appType": "admin-template",
     "details": "https://github.com/uptrace/uptrace/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -2988,9 +3018,9 @@
     "createdOn": "08-Jan-2024"
   },
   {
-    "id": 118,
+    "id": 119,
     "price": 0,
-    "popularity": 1093,
+    "popularity": 1094,
     "appType": "landingpage",
     "details": "https://github.com/radix-vue/radix-vue/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3004,9 +3034,9 @@
     "createdOn": "16-Jan-2024"
   },
   {
-    "id": 119,
+    "id": 120,
     "price": 0,
-    "popularity": 1094,
+    "popularity": 1095,
     "appType": "landingpage",
     "details": "https://github.com/Noction/hippie-nav/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3020,9 +3050,9 @@
     "createdOn": "04-Nov-2023"
   },
   {
-    "id": 120,
+    "id": 121,
     "price": 0,
-    "popularity": 1095,
+    "popularity": 1096,
     "appType": "landingpage",
     "details": "https://github.com/antfu/vue-starport/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3036,9 +3066,9 @@
     "createdOn": "07-Sep-2023"
   },
   {
-    "id": 121,
+    "id": 122,
     "price": 0,
-    "popularity": 1096,
+    "popularity": 1097,
     "appType": "landingpage",
     "details": "https://github.com/TaTo30/vue-pdf/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3052,9 +3082,9 @@
     "createdOn": "12-Jan-2024"
   },
   {
-    "id": 122,
+    "id": 123,
     "price": 0,
-    "popularity": 1097,
+    "popularity": 1098,
     "appType": "landingpage",
     "details": "https://github.com/activist-org/activist/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3068,9 +3098,9 @@
     "createdOn": ""
   },
   {
-    "id": 123,
+    "id": 124,
     "price": 0,
-    "popularity": 1098,
+    "popularity": 1099,
     "appType": "landingpage",
     "details": "https://github.com/harlan-zw/nuxt-seo/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3084,9 +3114,9 @@
     "createdOn": "16-Jan-2024"
   },
   {
-    "id": 124,
+    "id": 125,
     "price": 0,
-    "popularity": 1099,
+    "popularity": 1100,
     "appType": "landingpage",
     "details": "https://github.com/graphieros/vue-data-ui/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3100,9 +3130,9 @@
     "createdOn": "09-Jan-2024"
   },
   {
-    "id": 125,
+    "id": 126,
     "price": 0,
-    "popularity": 1100,
+    "popularity": 1101,
     "appType": "landingpage",
     "details": "https://github.com/docusealco/docuseal/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3129,9 +3159,9 @@
     "createdOn": "22-Jan-2024"
   },
   {
-    "id": 126,
+    "id": 127,
     "price": 0,
-    "popularity": 1101,
+    "popularity": 1102,
     "appType": "admin-template",
     "details": "https://github.com/edisdev/vue-google-maps-ui/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3145,9 +3175,9 @@
     "createdOn": ""
   },
   {
-    "id": 127,
+    "id": 128,
     "price": 0,
-    "popularity": 1102,
+    "popularity": 1103,
     "appType": "landingpage",
     "details": "https://github.com/openobserve/openobserve/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3177,9 +3207,9 @@
     "createdOn": "16-Jan-2024"
   },
   {
-    "id": 128,
+    "id": 129,
     "price": 0,
-    "popularity": 1103,
+    "popularity": 1104,
     "appType": "landingpage",
     "details": "https://github.com/wan2land/vue-scroll-picker/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3193,9 +3223,9 @@
     "createdOn": ""
   },
   {
-    "id": 129,
+    "id": 130,
     "price": 0,
-    "popularity": 1104,
+    "popularity": 1105,
     "appType": "landingpage",
     "details": "https://github.com/smastrom/vue-use-fixed-header/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3215,9 +3245,9 @@
     "createdOn": "05-Feb-2024"
   },
   {
-    "id": 130,
+    "id": 131,
     "price": 0,
-    "popularity": 1105,
+    "popularity": 1106,
     "appType": "admin-template",
     "details": "https://github.com/iqonicdesignofficial/hope-ui-vue-dashboard/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3241,9 +3271,9 @@
     "createdOn": "26-Sep-2023"
   },
   {
-    "id": 131,
+    "id": 132,
     "price": 0,
-    "popularity": 1106,
+    "popularity": 1107,
     "appType": "landingpage",
     "details": "https://github.com/vueplayground/vueplay.com/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3257,9 +3287,9 @@
     "createdOn": ""
   },
   {
-    "id": 132,
+    "id": 133,
     "price": 0,
-    "popularity": 1107,
+    "popularity": 1108,
     "appType": "landingpage",
     "details": "https://github.com/wobsoriano/vuetify-sonner/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3273,9 +3303,9 @@
     "createdOn": ""
   },
   {
-    "id": 133,
+    "id": 134,
     "price": 0,
-    "popularity": 1108,
+    "popularity": 1109,
     "appType": "landingpage",
     "details": "https://github.com/fengyuanchen/vue-barcode/archive/refs/heads/main.zip",
     "category": "Vue",
@@ -3289,9 +3319,9 @@
     "createdOn": "07-Feb-2024"
   },
   {
-    "id": 134,
+    "id": 135,
     "price": 0,
-    "popularity": 1109,
+    "popularity": 1110,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template/archive/refs/heads/master.zip",
     "category": "Vue",
@@ -3305,9 +3335,9 @@
     "createdOn": ""
   },
   {
-    "id": 135,
+    "id": 136,
     "price": 0,
-    "popularity": 1110,
+    "popularity": 1111,
     "appType": "admin-template",
     "details": "https://github.com/story2Dev/nuxt3-admin-dashboard/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -3328,9 +3358,9 @@
     "createdOn": ""
   },
   {
-    "id": 136,
+    "id": 137,
     "price": 0,
-    "popularity": 1111,
+    "popularity": 1112,
     "appType": "landingpage",
     "details": "https://github.com/snipcart/nuxt-cockpit/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -3344,9 +3374,9 @@
     "createdOn": ""
   },
   {
-    "id": 137,
+    "id": 138,
     "price": 0,
-    "popularity": 1112,
+    "popularity": 1113,
     "appType": "landingpage",
     "details": "https://github.com/Smuice-com/petra/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -3360,9 +3390,9 @@
     "createdOn": "10-Dec-2020"
   },
   {
-    "id": 138,
+    "id": 139,
     "price": 0,
-    "popularity": 1113,
+    "popularity": 1114,
     "appType": "landingpage",
     "details": "https://github.com/sdras/page-transitions-travelapp/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -3376,9 +3406,9 @@
     "createdOn": ""
   },
   {
-    "id": 139,
+    "id": 140,
     "price": 0,
-    "popularity": 1114,
+    "popularity": 1115,
     "appType": "landingpage",
     "details": "https://github.com/richardeschloss/nuxt-highcharts/archive/refs/heads/master.zip",
     "category": "Nuxt",
@@ -3392,9 +3422,9 @@
     "createdOn": "14-May-2020"
   },
   {
-    "id": 140,
+    "id": 141,
     "price": 0,
-    "popularity": 1115,
+    "popularity": 1116,
     "appType": "admin-template",
     "details": "https://github.com/flatlogic/light-blue-vue-admin/archive/refs/heads/master.zip",
     "category": "Vue",
