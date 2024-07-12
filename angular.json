@@ -652,9 +652,45 @@
     "doFollow": true
   },
   {
-    "id": 22,
-    "price": 0,
+    "id": 23,
+    "price": 49,
     "popularity": 1001,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/XYbYQg",
+    "category": "Angular",
+    "imageAlt": "metronic-img",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-img.jpg",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://1.envato.market/XYbYQg",
+    "templateName": "Metronic | Tailwind, Bootstrap, React, Vue, Angular, Asp.Net & Laravel Admin Dashboard HTML Template",
+    "description": "Metronic is a comprehensive and versatile admin dashboard HTML template that leverages the power of Tailwind, Bootstrap, React, Vue, Angular, ASP.NET, and Laravel. Designed to cater to a wide array of development needs, Metronic provides a robust foundation for creating intuitive, responsive, and highly customizable admin panels. Its integration with popular front-end frameworks like Tailwind and Bootstrap ensures a seamless and modern design aesthetic, while support for powerful JavaScript frameworks such as React, Vue, and Angular enhances its functionality and interactivity. Additionally, the inclusion of ASP.NET and Laravel backend frameworks makes Metronic an all-encompassing solution for developing sophisticated and dynamic web applications. Whether you're building a simple admin interface or a complex enterprise system, Metronic offers the tools and flexibility needed to achieve your project goals efficiently.",
+    "features": [
+      "7 Unique Demos",
+      "Angular 17+",
+      "1+ Unique Dashboards",
+      "ng-bootstrap",
+      "NGRX",
+      "Material Angular",
+      "RxJS",
+      "Angular UI Router",
+      "Forms",
+      "i18n Support",
+      "Apexcharts",
+      "Ivy Renderer",
+      "eCommerce",
+      "Authorization",
+      "Permissions management",
+      "build Tools",
+      "CRUD operations examples"
+    ],
+    "createdOn": "13-Feb-2013",
+    "frameworkName": "Ng Bootstrap",
+    "doFollow": true
+  },
+  {
+    "id": 24,
+    "price": 0,
+    "popularity": 1002,
     "appType": "admin-template",
     "details": "https://github.com/akveo/ngx-admin/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -680,9 +716,9 @@
     "doFollow": true
   },
   {
-    "id": 23,
+    "id": 25,
     "price": 0,
-    "popularity": 1002,
+    "popularity": 1003,
     "appType": "admin-template",
     "details": "https://github.com/marmelab/ng-admin-demo/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -700,9 +736,9 @@
     "doFollow": true
   },
   {
-    "id": 24,
+    "id": 26,
     "price": 0,
-    "popularity": 1003,
+    "popularity": 1004,
     "appType": "admin-template",
     "details": "https://github.com/bknds/ng-pi-admin/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -720,9 +756,9 @@
     "doFollow": true
   },
   {
-    "id": 25,
+    "id": 27,
     "price": 0,
-    "popularity": 1004,
+    "popularity": 1005,
     "appType": "admin-template",
     "details": "https://github.com/codetok/cdk-admin/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -740,9 +776,9 @@
     "doFollow": true
   },
   {
-    "id": 26,
+    "id": 28,
     "price": 0,
-    "popularity": 1005,
+    "popularity": 1006,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/PurpleAdmin-Free-Angular-Admin-Template/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -760,9 +796,9 @@
     "doFollow": true
   },
   {
-    "id": 27,
+    "id": 29,
     "price": 0,
-    "popularity": 1006,
+    "popularity": 1007,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/corona-angular-free-admin-template/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -783,9 +819,9 @@
     "doFollow": true
   },
   {
-    "id": 28,
+    "id": 30,
     "price": 0,
-    "popularity": 1007,
+    "popularity": 1008,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/StarAdmin-Free-Angular-Admin-Template/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -803,9 +839,9 @@
     "doFollow": true
   },
   {
-    "id": 29,
+    "id": 31,
     "price": 0,
-    "popularity": 1008,
+    "popularity": 1009,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/stellar-angular-free-admin-template/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -823,9 +859,9 @@
     "doFollow": true
   },
   {
-    "id": 30,
+    "id": 32,
     "price": 0,
-    "popularity": 1009,
+    "popularity": 1010,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/Azia-Angular/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -843,9 +879,9 @@
     "doFollow": true
   },
   {
-    "id": 31,
+    "id": 33,
     "price": 0,
-    "popularity": 1010,
+    "popularity": 1011,
     "appType": "admin-template",
     "details": "https://github.com/akveo/blur-admin/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -871,9 +907,9 @@
     "doFollow": true
   },
   {
-    "id": 32,
+    "id": 34,
     "price": 0,
-    "popularity": 1011,
+    "popularity": 1012,
     "appType": "admin-template",
     "details": "https://github.com/flatlogic/angular-material-dashboard/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -897,9 +933,9 @@
     "doFollow": true
   },
   {
-    "id": 33,
+    "id": 35,
     "price": 0,
-    "popularity": 1012,
+    "popularity": 1013,
     "appType": "admin-template",
     "details": "https://github.com/eashish93/degree-material-admin-template/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -917,9 +953,9 @@
     "doFollow": true
   },
   {
-    "id": 34,
+    "id": 36,
     "price": 0,
-    "popularity": 1013,
+    "popularity": 1014,
     "appType": "admin-template",
     "details": "https://github.com/start-angular/ani-angular-2/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -937,9 +973,9 @@
     "doFollow": true
   },
   {
-    "id": 35,
+    "id": 37,
     "price": 0,
-    "popularity": 1014,
+    "popularity": 1015,
     "appType": "admin-template",
     "details": "https://github.com/start-angular/versatile-dashboard-theme/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -957,9 +993,9 @@
     "doFollow": true
   },
   {
-    "id": 36,
+    "id": 38,
     "price": 0,
-    "popularity": 1015,
+    "popularity": 1016,
     "appType": "admin-template",
     "details": "https://github.com/DevCloudFE/ng-devui-admin/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -982,9 +1018,9 @@
     "doFollow": true
   },
   {
-    "id": 37,
+    "id": 39,
     "price": 0,
-    "popularity": 1016,
+    "popularity": 1017,
     "appType": "website",
     "details": "https://github.com/DevExpress/devextreme-angular-template/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1002,9 +1038,9 @@
     "doFollow": true
   },
   {
-    "id": 38,
+    "id": 40,
     "price": 0,
-    "popularity": 1017,
+    "popularity": 1018,
     "appType": "admin-template",
     "details": "https://github.com/petter-ka/youpez-admin/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1029,9 +1065,9 @@
     "doFollow": true
   },
   {
-    "id": 39,
+    "id": 41,
     "price": 0,
-    "popularity": 1018,
+    "popularity": 1019,
     "appType": "admin-template",
     "details": "https://github.com/id1945/enlink-admin/archive/refs/heads/full-version-1.0.zip",
     "category": "Angular",
@@ -1049,9 +1085,9 @@
     "doFollow": true
   },
   {
-    "id": 40,
+    "id": 42,
     "price": 0,
-    "popularity": 1019,
+    "popularity": 1020,
     "appType": "landingpage",
     "details": "https://github.com/andresjosehr/andresjosehr-portfolio/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1069,9 +1105,9 @@
     "doFollow": true
   },
   {
-    "id": 41,
+    "id": 43,
     "price": 0,
-    "popularity": 1020,
+    "popularity": 1021,
     "appType": "admin-template",
     "details": "https://github.com/id1945/gull-admin/archive/refs/heads/full-version-12.0.zip",
     "category": "Angular",
@@ -1089,9 +1125,9 @@
     "doFollow": true
   },
   {
-    "id": 42,
+    "id": 44,
     "price": 0,
-    "popularity": 1021,
+    "popularity": 1022,
     "appType": "admin-template",
     "details": "https://github.com/firminoweb/angular-tailwind-starter/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1109,9 +1145,9 @@
     "doFollow": true
   },
   {
-    "id": 43,
+    "id": 45,
     "price": 0,
-    "popularity": 1022,
+    "popularity": 1023,
     "appType": "admin-template",
     "details": "https://github.com/sanogotech/angular-prime-ng-template/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1129,9 +1165,9 @@
     "doFollow": true
   },
   {
-    "id": 44,
+    "id": 46,
     "price": 0,
-    "popularity": 1023,
+    "popularity": 1024,
     "appType": "landingpage",
     "details": "https://github.com/mesinkasir/angular-mvc/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1149,9 +1185,9 @@
     "doFollow": true
   },
   {
-    "id": 45,
+    "id": 47,
     "price": 0,
-    "popularity": 1024,
+    "popularity": 1025,
     "appType": "landingpage",
     "details": "https://github.com/mesinkasir/angular-simple-site/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1169,9 +1205,9 @@
     "doFollow": true
   },
   {
-    "id": 46,
+    "id": 48,
     "price": 0,
-    "popularity": 1025,
+    "popularity": 1026,
     "appType": "admin-template",
     "details": "https://github.com/jun-tech/ng-ant-design-pro-platform/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1189,9 +1225,9 @@
     "doFollow": true
   },
   {
-    "id": 47,
+    "id": 49,
     "price": 0,
-    "popularity": 1026,
+    "popularity": 1027,
     "appType": "admin-template",
     "details": "https://github.com/dbartumeu/atomic-ui/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1215,9 +1251,9 @@
     "doFollow": true
   },
   {
-    "id": 48,
+    "id": 50,
     "price": 0,
-    "popularity": 1027,
+    "popularity": 1028,
     "appType": "landingpage",
     "details": "https://github.com/stimulsoft/Samples-Dashboards.JS-for-Angular/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1235,9 +1271,9 @@
     "doFollow": true
   },
   {
-    "id": 49,
+    "id": 51,
     "price": 0,
-    "popularity": 1028,
+    "popularity": 1029,
     "appType": "admin-template",
     "details": "https://github.com/primefaces/sakai-ng/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1255,9 +1291,9 @@
     "doFollow": true
   },
   {
-    "id": 50,
+    "id": 52,
     "price": 0,
-    "popularity": 1029,
+    "popularity": 1030,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1278,9 +1314,9 @@
     "doFollow": true
   },
   {
-    "id": 51,
+    "id": 53,
     "price": 0,
-    "popularity": 1030,
+    "popularity": 1031,
     "appType": "admin-template",
     "details": "https://github.com/luciano-work/angular-tailwind/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1310,9 +1346,9 @@
     "doFollow": true
   },
   {
-    "id": 52,
+    "id": 54,
     "price": 0,
-    "popularity": 1031,
+    "popularity": 1032,
     "appType": "admin-template",
     "details": "https://github.com/ng-matero/ng-matero/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1341,9 +1377,9 @@
     "doFollow": true
   },
   {
-    "id": 53,
+    "id": 55,
     "price": 0,
-    "popularity": 1032,
+    "popularity": 1033,
     "appType": "admin-template",
     "details": "https://github.com/uilibrary/matx-angular/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1367,9 +1403,9 @@
     "doFollow": true
   },
   {
-    "id": 54,
+    "id": 56,
     "price": 0,
-    "popularity": 1033,
+    "popularity": 1034,
     "appType": "landingpage",
     "details": "https://github.com/flatlogic/angular-dashboard-seed/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1398,9 +1434,9 @@
     "doFollow": true
   },
   {
-    "id": 55,
+    "id": 57,
     "price": 0,
-    "popularity": 1034,
+    "popularity": 1035,
     "appType": "admin-template",
     "details": "https://github.com/CreativeIT/material-angular-dashboard/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1427,9 +1463,9 @@
     "doFollow": true
   },
   {
-    "id": 56,
+    "id": 58,
     "price": 0,
-    "popularity": 1035,
+    "popularity": 1036,
     "appType": "admin-template",
     "details": "https://github.com/invertase/rdash-angular/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1450,9 +1486,9 @@
     "doFollow": true
   },
   {
-    "id": 57,
+    "id": 59,
     "price": 0,
-    "popularity": 1036,
+    "popularity": 1037,
     "appType": "landingpage",
     "details": "https://github.com/krispo/angular-nvd3/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1470,9 +1506,9 @@
     "doFollow": true
   },
   {
-    "id": 58,
+    "id": 60,
     "price": 0,
-    "popularity": 1037,
+    "popularity": 1038,
     "appType": "landingpage",
     "details": "https://github.com/gobijan/maverix/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1490,9 +1526,9 @@
     "doFollow": true
   },
   {
-    "id": 59,
+    "id": 61,
     "price": 0,
-    "popularity": 1038,
+    "popularity": 1039,
     "appType": "admin-template",
     "details": "https://github.com/start-angular/ani-theme/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1510,9 +1546,9 @@
     "doFollow": true
   },
   {
-    "id": 60,
+    "id": 62,
     "price": 0,
-    "popularity": 1039,
+    "popularity": 1040,
     "appType": "admin-template",
     "details": "https://github.com/csotomon/Angular2-AdminLTE/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1530,9 +1566,9 @@
     "doFollow": true
   },
   {
-    "id": 61,
+    "id": 63,
     "price": 0,
-    "popularity": 1040,
+    "popularity": 1041,
     "appType": "admin-template",
     "details": "https://github.com/start-angular/SB-Admin-BS4-Angular-8/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1550,9 +1586,9 @@
     "doFollow": true
   },
   {
-    "id": 62,
+    "id": 64,
     "price": 0,
-    "popularity": 1041,
+    "popularity": 1042,
     "appType": "admin-template",
     "details": "https://github.com/mohdrashid/PaperAdmin/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1570,9 +1606,9 @@
     "doFollow": true
   },
   {
-    "id": 63,
+    "id": 65,
     "price": 0,
-    "popularity": 1042,
+    "popularity": 1043,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1593,9 +1629,9 @@
     "doFollow": true
   },
   {
-    "id": 64,
+    "id": 66,
     "price": 0,
-    "popularity": 1043,
+    "popularity": 1044,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1616,9 +1652,9 @@
     "doFollow": true
   },
   {
-    "id": 65,
+    "id": 67,
     "price": 0,
-    "popularity": 1044,
+    "popularity": 1045,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1639,9 +1675,9 @@
     "doFollow": true
   },
   {
-    "id": 66,
+    "id": 68,
     "price": 0,
-    "popularity": 1045,
+    "popularity": 1046,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1662,9 +1698,9 @@
     "doFollow": true
   },
   {
-    "id": 67,
+    "id": 69,
     "price": 0,
-    "popularity": 1046,
+    "popularity": 1047,
     "appType": "landingpage",
     "details": "https://github.com/StartBootstrap/sb-clean-blog-angular/archive/refs/heads/develop.zip",
     "category": "Angular",
@@ -1682,9 +1718,9 @@
     "doFollow": true
   },
   {
-    "id": 68,
+    "id": 70,
     "price": 0,
-    "popularity": 1047,
+    "popularity": 1048,
     "appType": "landingpage",
     "details": "https://github.com/StartBootstrap/sb-admin-angular/archive/refs/heads/develop.zip",
     "category": "Angular",
@@ -1702,9 +1738,9 @@
     "doFollow": true
   },
   {
-    "id": 69,
+    "id": 71,
     "price": 0,
-    "popularity": 1048,
+    "popularity": 1049,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1725,9 +1761,9 @@
     "doFollow": true
   },
   {
-    "id": 70,
+    "id": 72,
     "price": 0,
-    "popularity": 1049,
+    "popularity": 1050,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1748,9 +1784,9 @@
     "doFollow": true
   },
   {
-    "id": 71,
+    "id": 73,
     "price": 0,
-    "popularity": 1050,
+    "popularity": 1051,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1771,9 +1807,9 @@
     "doFollow": true
   },
   {
-    "id": 72,
+    "id": 74,
     "price": 0,
-    "popularity": 1051,
+    "popularity": 1052,
     "appType": "admin-template",
     "details": "https://github.com/salvia-kit/angular-dashboards/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1794,9 +1830,9 @@
     "doFollow": true
   },
   {
-    "id": 73,
+    "id": 75,
     "price": 0,
-    "popularity": 1052,
+    "popularity": 1053,
     "appType": "landingpage",
     "details": "https://github.com/NinjaCodeGen/angular-landing-page/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1814,9 +1850,9 @@
     "doFollow": true
   },
   {
-    "id": 74,
+    "id": 76,
     "price": 0,
-    "popularity": 1053,
+    "popularity": 1054,
     "appType": "landingpage",
     "details": "https://github.com/NinjaCodeGen/ncg-crud-ngx-md/archive/refs/heads/dev.zip",
     "category": "Angular",
@@ -1834,9 +1870,9 @@
     "doFollow": true
   },
   {
-    "id": 75,
+    "id": 77,
     "price": 0,
-    "popularity": 1054,
+    "popularity": 1055,
     "appType": "web-template",
     "details": "https://github.com/NinjaCodeGen/ncg-crud-ngx-bs/archive/refs/heads/dev.zip",
     "category": "Angular",
@@ -1854,9 +1890,9 @@
     "doFollow": true
   },
   {
-    "id": 76,
+    "id": 78,
     "price": 0,
-    "popularity": 1055,
+    "popularity": 1056,
     "appType": "web-template",
     "details": "https://github.com/NinjaCodeGen/ncg-crud-ngx-kui/archive/refs/heads/dev.zip",
     "category": "Angular",
@@ -1874,9 +1910,9 @@
     "doFollow": true
   },
   {
-    "id": 77,
+    "id": 79,
     "price": 0,
-    "popularity": 1056,
+    "popularity": 1057,
     "appType": "landingpage",
     "details": "https://github.com/marckevinflores/kevinflor.es/archive/refs/heads/master.zip",
     "category": "Angular",
@@ -1900,9 +1936,9 @@
     "doFollow": true
   },
   {
-    "id": 78,
+    "id": 80,
     "price": 0,
-    "popularity": 1057,
+    "popularity": 1058,
     "appType": "landingpage",
     "details": "https://github.com/marckevinflores/angular-starter-buttercms/archive/refs/heads/main.zip",
     "category": "Angular",
@@ -1920,9 +1956,9 @@
     "doFollow": true
   },
   {
-    "id": 79,
+    "id": 81,
     "price": 0,
-    "popularity": 1058,
+    "popularity": 1059,
     "appType": "web-template",
     "details": "https://github.com/saimon24/mobile-angular-ui/archive/refs/heads/master.zip",
     "category": "Angular",
