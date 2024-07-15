@@ -2423,7 +2423,19 @@
     "livePreview": "https://nuxt-storyblok-starter-zeta.vercel.app/",
     "templateName": "Nuxt Storyblok Starter",
     "description": "The Nuxt.js Website Starter template named Nujek seamlessly integrates the power of Nuxt.js, Storyblok, and Tailwind CSS to offer a robust foundation for building dynamic and content-rich websites. Nuxt.js, as a progressive Vue.js framework, provides an efficient and structured development environment, offering features like server-side rendering and easy-to-manage routing. Storyblok, a headless CMS, complements this setup by enabling content creators to manage and update website content effortlessly, decoupling the frontend and backend for a more flexible workflow.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "Tailwind CSS",
+      "Google Fonts",
+      "ESLint",
+      "Form",
+      "Pages",
+      "Typography",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "22-Nov-2022"
   },
   {
