@@ -2483,7 +2483,17 @@
     "livePreview": "https://www.storyblok.com/",
     "templateName": "Storyblok",
     "description": "Storyblok is a CMS that works with and not against you. It's a headless CMS that is flexible enough for every use-case: corporate websites, e-commerce, helpdesks, mobile apps, and screen displays. Storyblok builds a bridge between content creators and developers without forcing the developer into a specific technology. It comes with powerful REST and GraphQL APIs and a visual editor that previews website changes. Storyblok is built around components and is fully extendable using Vue.js. Of course it can also be used to deliver content to your Vue and Nuxt apps.",
-    "features": [],
+    "features": [
+      "Vue",
+      "ESLint",
+      "Form",
+      "Pages",
+      "Vue Landing Page",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "15-Dec-2024"
   },
   {
@@ -2499,7 +2509,18 @@
     "livePreview": "https://sentry.io/welcome/",
     "templateName": "Sentry for Vue",
     "description": "Sentry provides self-hosted and cloud-based application monitoring that delivers actionable insights to resolve Vue performance bottlenecks and errors. Improve your monitoring workflow with a full view of releases so you can mark Vue errors as resolved and prioritize live issues.",
-    "features": [],
+    "features": [
+      "Vue",
+      "ESLint",
+      "Vite",
+      "Simple login / logout",
+      "Multi Pages",
+      "Vue Landing Page",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "22-Dec-2024"
   },
   {
@@ -2515,7 +2536,17 @@
     "livePreview": "https://vue-swipe-modal-docs.takumaru.dev/",
     "templateName": "Vue Swipe Modal",
     "description": "The Vue Swipe Modal is a versatile and interactive user interface component that enhances the modal experience within Vue.js applications. This specialized modal component not only provides a visually appealing overlay but also introduces swipe gestures to navigate through its content seamlessly. Leveraging the touch or drag gestures, users can effortlessly swipe between different sections or screens within the modal, creating an intuitive and engaging user experience.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Multi Pages",
+      "Landing Page",
+      "Light / Dark Layout",
+      "Documentation",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "08-Dec-2024"
   },
   {
@@ -2553,7 +2584,20 @@
     "livePreview": "https://js.devexpress.com/",
     "templateName": "DevExtreme Vue",
     "description": "DevExtreme is a set of enterprise-ready UI component suites for Angular, React, Vue, and jQuery. It is everything you need to create responsive web apps for touch devices and traditional desktops: data grid, interactive charts, data editors, navigation and multi-purpose widgets. These controls are designed to look great and to provide powerful functionality in any browser.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Multi Pages",
+      "Landing Page",
+      "Demo Gallery",
+      "Responsive UI Templates",
+      "Documentation",
+      "Examples on GitHub",
+      "YouTube videos",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
