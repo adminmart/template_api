@@ -2666,7 +2666,20 @@
     "livePreview": "https://joinmobilizon.org/en/",
     "templateName": "Mobilizon",
     "description": "Mobilizon is your federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool. It's a tool designed to create platforms for managing communities and events. Its purpose is to help as many people as possible to free themselves from Facebook groups and events, from Meetup, etc.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Tailwind CSS",
+      "Landing Page",
+      "ESLint",
+      "Vite",
+      "Documentation",
+      "Examples on GitHub",
+      "Multi Language Support",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -2708,7 +2721,19 @@
     "livePreview": "https://sandpack-vue3.js-bridge.com/?path=/story/intro-playground--main",
     "templateName": "Sandpack Vue 3",
     "description": "Sandpack-vue3 is a remarkable set of Vue 3 components designed to empower developers with the functionality of editable sandboxes that seamlessly run directly in the browser. This innovative tool leverages the capabilities of CodeSandbox, a powerful platform for web application development. With Sandpack-vue3, developers can harness the efficiency of a sandbox environment, allowing for rapid prototyping, experimentation, and testing of Vue 3 components.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Responsive dashboard design using Vue.",
+      "ESLint",
+      "Vite",
+      "Components",
+      "CodeEditor",
+      "CodeViewer",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "08-Oct-2024"
   },
   {
