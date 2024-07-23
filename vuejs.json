@@ -2751,7 +2751,18 @@
     "livePreview": "https://vue-final-modal.org/",
     "templateName": "Vue Final Modal",
     "description": "Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. As such it makes some assumptions and enforces best-practices for your modals while being versatile and customizable.",
-    "features": [],
+    "features": [
+      "Vue",
+      "ESLint",
+      "Vite",
+      "Examples on GitHub",
+      "Vue Modal",
+      "Documentation",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "15-Dec-2024"
   },
   {
