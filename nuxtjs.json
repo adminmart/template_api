@@ -2776,7 +2776,19 @@
     "livePreview": "https://vue3-datatable-document.vercel.app/",
     "templateName": "Vue 3 Datatable",
     "description": "vue3-datatable is a powerful component for creating dynamic and customizable data tables. It supports large amounts of data, sorting, pagination, and filtering and is highly customizable.",
-    "features": [],
+    "features": [
+      "Vue 3 & Vite",
+      "Tailwind CSS",
+      "Vite",
+      "Datatables",
+      "Typescript base",
+      "Grid",
+      "Documentation",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -2968,7 +2980,17 @@
     "livePreview": "https://menthor.io/app/",
     "templateName": "Menthor",
     "description": "Learn to code and build your own startup: Menthor is a free web programming teaching platform for people who are looking for their first job in the field or who want to build their own business. The platform and landing page are open-source and built using Nuxt.",
-    "features": [],
+    "features": [
+      "Vue 3 & Vite",
+      "Vite",
+      "Search across all days",
+      "Login / Logout",
+      "Dashboard sample",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
