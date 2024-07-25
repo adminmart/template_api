@@ -3032,7 +3032,22 @@
     "livePreview": "https://www.shadcn-vue.com/",
     "templateName": "shadcn-vue",
     "description": "shadcn-vue is an unofficial community-led Vue port of shadcn/ui. It offers accessible and customizable components that you can copy and paste into your apps. It's free and open-source – use this to build your own component library.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Vite",
+      "Search across all days",
+      "Documentation",
+      "ESLint",
+      "Shadcn UI for creating this beautiful project.",
+      "Shadcn Svelte for some inspiration for registry.",
+      "Radix Vue for doing all the hard work to make sure components are accessible.",
+      "VueUse for providing many useful utilities.",
+      "ahmedmayara for populating many components",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "12-Jan-2024"
   },
   {
@@ -3102,7 +3117,18 @@
     "livePreview": "https://joseph2.github.io/vue-slide-unlock/",
     "templateName": "Vue Slide Unlock",
     "description": "vue-slide-unlock is a Vue 3 slide-to-unlock component that helps you protect users from accidental clicks or protect your web app from bot attacks. It's built using the Vue 3 Composition API with Typescript and Vite, coated with tests using Cypress.",
-    "features": [],
+    "features": [
+      "Vue 3",
+      "Vite",
+      "typescript",
+      "vue slide",
+      "vue slide to unlock",
+      "Documentation",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "19-Oct-2023"
   },
   {
@@ -3146,7 +3172,22 @@
     "livePreview": "https://www.radix-vue.com/",
     "templateName": "Radix Vue",
     "description": "Radix is an unstyled, customisable UI Library with built in accessibility for building top quality design systems. Radix Vue is an unofficial Vue 3 port!",
-    "features": [],
+    "features": [
+      "Vue 3",
+      "Vite",
+      "typescript",
+      "ESLint",
+      "Light / Dark Layout",
+      "Documentation",
+      "Radix UI for doing all the hard work to make sure components are accessible",
+      "Floating UI for creating powerful components that as the base of many Radix Vue components",
+      "VueUse for providing many useful utilities.",
+      "Ark UI for the <Primitive> component",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "16-Jan-2024"
   },
   {
