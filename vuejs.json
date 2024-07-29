@@ -3203,7 +3203,18 @@
     "livePreview": "https://noction.github.io/hippie-nav/",
     "templateName": "hippie-nav",
     "description": "hippie-nav is a modern and versatile searchbar component crafted for Vue applications. Designed to operate entirely on the frontend, it offers blazing-fast searches without the overhead of backend requests. Seamlessly integrate it with your Vue routes and custom-defined actions to supercharge the user navigation experience.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Vite",
+      "typescript",
+      "ESLint",
+      "Search across all days",
+      "Pages",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "04-Nov-2023"
   },
   {
@@ -3219,7 +3230,20 @@
     "livePreview": "https://vue-starport.netlify.app/",
     "templateName": "Vue Starport",
     "description": "It's quite common you might have a same component used in different routes (pages) with a bit different sizes and positions. Sometimes you might want to animate them when user navigates between routes to provide a smooth UX. While such animation is common to be seen in native apps, it's could be a bit challenging to do it in Web. Vue's component structure is presented as a tree, and the child components are in different branches with their own instances.",
-    "features": [],
+    "features": [
+      "Vue 3",
+      "Vite",
+      "typescript",
+      "ESLint",
+      "Animation",
+      "Blog using",
+      "Light / Dark Layout",
+      "Git info",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "07-Sep-2023"
   },
   {
@@ -3235,7 +3259,20 @@
     "livePreview": "https://tato30.github.io/vue-pdf/",
     "templateName": "VuePDF",
     "description": "VuePDF is a Vue 3 client-side component for pdf.js that allows you to flexibly display PDF pages within your project. It supports paging, scaling, annotations, loading multiple documents & more.",
-    "features": [],
+    "features": [
+      "Vue 3",
+      "Vite",
+      "typescript",
+      "ESLint",
+      "Animation",
+      "Composables",
+      "Light / Dark Layout",
+      "Documentation",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "12-Jan-2024"
   },
   {
