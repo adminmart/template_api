@@ -3286,7 +3286,21 @@
     "livePreview": "https://activist.org/en",
     "templateName": "Activist",
     "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them. The current goal is the creation of a central platform to discover activist organizations and their events. The frontend is built with Vue & Nuxt.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Vite",
+      "Nuxt",
+      "i18n Vue Added",
+      "typescript",
+      "ESLint",
+      "Tailwind CSS",
+      "Language Support",
+      "Light / Dark Layout",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -3302,7 +3316,26 @@
     "livePreview": "https://nuxtseo.com/",
     "templateName": "Nuxt SEO",
     "description": "All the boring SEO work for Nuxt done: Nuxt SEO is a collection of hand-crafted Nuxt Modules to help you rank higher in search engines. It includes modules for managing robots & sitemaps, a link checker and more.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Vite",
+      "Nuxt",
+      "i18n Vue Added",
+      "typescript",
+      "ESLint",
+      "Git info",
+      "Light / Dark Layout",
+      "@nuxtjs/sitemap - Sitemap.xml Support",
+      "@nuxtjs/robots - Manage site crawling",
+      " nuxt-schema-org - Generate Schema.org JSON-LD for SEO",
+      "nuxt-seo-experiments - Experimental SEO meta features",
+      "nuxt-og-image - Generate dynamic social share images",
+      "nuxt-link-checker - Check for broken links",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "16-Jan-2024"
   },
   {
@@ -3318,7 +3351,20 @@
     "livePreview": "https://vue-data-ui.graphieros.com/",
     "templateName": "Vue Data UI",
     "description": "Vue Data UI is a user-empowering data visualization component library for Vue 3. It includes components for chart types like donut, sparkline or radar, a rating and a table component.",
-    "features": [],
+    "features": [
+      "Vue 3",
+      "Vite",
+      "typescript",
+      "Chart",
+      "Documentation",
+      "Table Examples",
+      "Language Support",
+      "Light / Dark Layout",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "09-Jan-2024"
   },
   {
