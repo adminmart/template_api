@@ -3409,7 +3409,18 @@
     "livePreview": "https://edisdev.github.io/vue-google-maps-ui/",
     "templateName": "Vue Google Maps UI",
     "description": "Vue Google Maps UI is a versatile and user-friendly library that seamlessly integrates Google Maps into Vue.js applications. With its intuitive components and easy-to-use API, developers can effortlessly incorporate interactive maps, markers, and other location-based features into their Vue projects. The library provides a set of Vue components that simplify the process of working with Google Maps, allowing developers to focus on building rich and dynamic mapping experiences.",
-    "features": [],
+    "features": [
+      "Vue",
+      "ESLint",
+      "Google Maps",
+      "Documentation",
+      "Git info",
+      "Light / Dark Layout",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -3457,7 +3468,18 @@
     "livePreview": "https://vue-scroll-picker.dist.be/",
     "templateName": "Vue Scroll Picker",
     "description": "Vue Scroll Picker is a sleek and intuitive iOS-style scroll picker component designed specifically for Vue 3. With its seamless integration, it offers support for all mouse and touch gestures, ensuring a smooth and interactive user experience. Whether selecting dates, times, or any other options, Vue Scroll Picker provides a visually appealing and functional solution for your Vue 3 projects. Its versatility and responsiveness make it an ideal choice for creating dynamic and user-friendly interfaces.",
-    "features": [],
+    "features": [
+      "Vue",
+      "ESLint",
+      "Vite",
+      "Typescript base",
+      "Git info",
+      "Vue Scroll Picker",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
