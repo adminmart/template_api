@@ -3545,7 +3545,17 @@
     "livePreview": "https://vueplay.com/",
     "templateName": "Vue Play",
     "description": "Vue Play is a drag & drop component and application builder for Vue Single File Components or Vue applications. Build any website or component in a drag & drop interface, push it to GitHub and deploy on Github Pages in seconds. Publish and re-use single file components. Add inline/class styles and tailwind classes with style controllers. The website vueplay.com and the builder itself were built using Vue.js with Vite.",
-    "features": [],
+    "features": [
+      "Vue",
+      "Tailwind CSS v3",
+      "Vite",
+      "Landing Page",
+      "Git info",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -3561,7 +3571,17 @@
     "livePreview": "https://vuetify-sonner.vercel.app/",
     "templateName": "Vuetify Sonner",
     "description": "The Vuetify Sonner presents as a stackable Vue 3 toast component designed specifically for integration within the Vuetify framework. This versatile tool empowers users to tailor various aspects of their toast notifications, including swipe direction and the number of concurrently visible toasts, among other customizable features.",
-    "features": [],
+    "features": [
+      "Vue",
+      "vuetify",
+      "Vite",
+      "ESLint",
+      "Toast",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
