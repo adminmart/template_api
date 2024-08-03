@@ -3597,7 +3597,19 @@
     "livePreview": "https://fengyuanchen.github.io/vue-barcode/",
     "templateName": "Vue Barcode",
     "description": "The vue-barcode component, built upon JsBarcode, seamlessly integrates barcode functionality into Vue applications with user-friendly simplicity. Providing extensive customization options such as color schemes, sizing parameters, background settings, font variations, and more, it facilitates effortless implementation of barcode solutions tailored to specific requirements.",
-    "features": [],
+    "features": [
+      "Vue 3",
+      "typescript",
+      "Vite",
+      "ESLint",
+      "Sass Base CSS",
+      "vue Barcode",
+      "Documentation",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "07-Feb-2024"
   },
   {
@@ -3613,7 +3625,22 @@
     "livePreview": "https://demo.bootstrapdash.com/star-admin-vue/preview/#/dashboard",
     "templateName": "StarAdmin-Free-Vue-Admin-Template",
     "description": "StarAdmin is a free VueJS admin template based on Bootstrap and VueJS. It’s completely responsive and mobile-first, providing an excellent foundation for web apps. StarAdmin is very flexible and highly customizable, offering the best assistance in crafting your admin panel with amazing UI and user-friendliness. It contains excellent widgets, tables, icons, forms, and other essential elements. This admin template includes excellent notifications and sample login pages, register, 404, and 500. Check out other useful features of this free template.",
-    "features": [],
+    "features": [
+      "Vue",
+      "1 Basic Dashboard",
+      "Bootstrap-vue",
+      "ESLint",
+      "UI Components",
+      "Chart",
+      "Table Examples",
+      "Icons",
+      "Login / Logout",
+      "Documentation",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -3652,7 +3679,18 @@
     "livePreview": "https://snipcart.com/",
     "templateName": "Nuxt Cockpit",
     "description": "Integrating Cockpit CMS with Nuxt.js to construct a comprehensive JAMstack architecture presents a powerful solution for developers seeking efficient content management and dynamic web application functionality. This tutorial provides a systematic guide to seamlessly bundle Cockpit CMS, a lightweight yet robust content management system, with Nuxt.js, a progressive JavaScript framework renowned for its versatility and performance. By leveraging this integration, developers can harness the benefits of a decoupled CMS approach while capitalizing on Nuxt.js's capabilities for server-side rendering, static site generation, and client-side routing.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "ESLint",
+      "Multi Pages",
+      "Login / Logout",
+      "Documentation",
+      "Landing Page",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": ""
   },
   {
@@ -3668,7 +3706,18 @@
     "livePreview": "https://smuice.com/",
     "templateName": "Petra",
     "description": "Introducing a cutting-edge Nuxt.js Tailwind CSS landing page template meticulously crafted to elevate the online presence of SaaS businesses, digital services, and a myriad of other ventures. Seamlessly blending the robustness of Nuxt.js with the sleekness of Tailwind CSS, this template offers a compelling canvas to showcase your offerings with finesse and efficiency. With its intuitive design and customizable components, it empowers businesses to effortlessly communicate their value propositions, captivate audiences, and drive conversions. Whether launching a new product, promoting a service, or establishing an online presence, this template serves as an indispensable tool for modern enterprises seeking to make a lasting impression in the digital landscape.",
-    "features": [],
+    "features": [
+      "Nuxt",
+      "Tailwind CSS",
+      "Nuxt Blog using",
+      "Login / Logout",
+      "Documentation",
+      "Landing Page",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
     "createdOn": "10-Dec-2020"
   },
   {
