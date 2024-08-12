@@ -23,7 +23,35 @@
       "Organized Code Structure",
       "The Hassle-free Setup Process"
     ],
-    "createdOn": "18-Mar-2023"
+    "createdOn": "18-Mar-2023",
+    "updatedOn": "18-Mar-2024",
+    "demos": [
+      {
+        "title": "Home Page",
+        "image": "https://adminmart.com/wp-content/uploads/2023/06/chef-kitchen-free-restaurant-next-js-landing.png",
+        "livedemo": "https://restaurant-tailwind-nextjs-free.vercel.app?ref=36"
+      },
+      {
+        "title": "About Page",
+        "image": "https://adminmart.com/wp-content/uploads/2023/06/chef-kitchen-free-restaurant-next-js-landing.png",
+        "livedemo": "https://restaurant-tailwind-nextjs-free.vercel.app?ref=36"
+      },
+      {
+        "title": "About Page",
+        "image": "https://adminmart.com/wp-content/uploads/2023/06/chef-kitchen-free-restaurant-next-js-landing.png",
+        "livedemo": "https://restaurant-tailwind-nextjs-free.vercel.app?ref=36"
+      }
+    ],
+    "frameworkName": [
+      {
+        "name": "Tailwind",
+        "version": "1.0.0"
+      },
+      {
+        "name": "Next.Js",
+        "version": "14.0.2"
+      }
+    ]
   },
   {
     "id": 2,
