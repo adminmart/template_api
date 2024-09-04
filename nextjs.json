@@ -77,7 +77,13 @@
     "templateName": "NPM React Sidebar with MUI",
     "description": "The integration of NPM (Node Package Manager) with React Sidebar utilizing Material-UI (MUI) framework represents a sophisticated approach to web application development. By leveraging the power of NPM, developers gain access to a vast repository of reusable code modules, facilitating efficient project management and accelerated development cycles. Paired with React, a widely adopted JavaScript library for building user interfaces, and enhanced by the aesthetic and functional components of MUI, this solution offers a robust foundation for crafting modern, responsive web applications. The incorporation of a sidebar component adds to the user experience by providing intuitive navigation and organization of content, while MUI's design principles ensure consistency and elegance throughout the application interface. Through this integration, developers can streamline their workflow, enhance the user interface, and ultimately deliver a polished and feature-rich web application to their audience.",
     "features": [
-      
+      "React 18+",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "Icons",
+      "React MUI Sidebar"
     ],
     "createdOn": "18-Mar-2024"
   },
@@ -1133,7 +1139,24 @@
     "livePreview": "https://hull.dev/",
     "templateName": "HULL",
     "description": "Headless Shopify starter powered by Next.js + Sanity.io",
-    "features": [],
+    "features": [
+      "Utility-first CSS with Tailwind CSS",
+      "Animations powered by Framer Motion",
+      "Cart powered by Shopify Buy SDK",
+      "Real-time inventory check for products using SWR",
+      "Customizable Filtering & Sorting for product collections",
+      "Klaviyo waitlist form for out-of-stock products",
+      "Klaviyo newsletter form with opt-in field",
+      "Dynamic Page Routes for custom page creation",
+      "Automatic Sitemap.xml generation",
+      "Automatic robots.txt generation",
+      "Automatic 301 Redirects from Sanity",
+      "Live Preview content directly from Sanity",
+      "Modern Image component using Sanity's Hotspot, Crop, and automatic WEBP format",
+      "Modular page content for all pages, including dynamic grid layouts",
+      "Customizable Promotion Banner",
+      "Customizable Cookie Notice"
+    ],
     "createdOn": ""
   },
   {
