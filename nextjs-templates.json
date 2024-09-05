@@ -8,7 +8,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "venus-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/venus/venus-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/venus/venus-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://venus-nextjs-pro.vercel.app/",
     "templateName": "Venus Pro NextJS 14 Website Template",
@@ -28,27 +28,27 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/venus/venus-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/venus/venus-nextjs-14-website-template.png",
         "livedemo": "https://venus-nextjs-pro.vercel.app/"
       },
       {
         "title": "Portfolio Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/venus/innerpage/venus-nextjs-14-portfolio-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/venus/innerpage/venus-nextjs-14-portfolio-page.png",
         "livedemo": "https://venus-nextjs-pro.vercel.app/portfolio"
       },
       {
         "title": "Blog Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/venus/innerpage/venus-nextjs-14-blog-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/venus/innerpage/venus-nextjs-14-blog-page.png",
         "livedemo": "https://venus-nextjs-pro.vercel.app/blog"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/venus/innerpage/venus-nextjs-14-blog-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/venus/innerpage/venus-nextjs-14-blog-detail-page.png",
         "livedemo": "https://venus-nextjs-pro.vercel.app/blog/Blog_1"
       },
       {
         "title": "Contact Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/venus/innerpage/venus-nextjs-14-contact-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/venus/innerpage/venus-nextjs-14-contact-page.png",
         "livedemo": "https://venus-nextjs-pro.vercel.app/contact"
       }
     ],
@@ -92,7 +92,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "saturn-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/saturn/saturn-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/saturn/saturn-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://saturn-nextjs-pro.vercel.app/",
     "templateName": "Saturn Pro NextJS 14 Website Template",
@@ -112,37 +112,37 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/saturn/saturn-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/saturn-nextjs-14-website-template.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/"
       },
       {
         "title": "Features Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/saturn/innerpage/saturn-nextjs-14-features-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/innerpage/saturn-nextjs-14-features-page.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/features"
       },
       {
         "title": "Pricing Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/saturn/innerpage/saturn-nextjs-14-pricing-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/innerpage/saturn-nextjs-14-pricing-page.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/pricing"
       },
       {
         "title": "About Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/saturn/innerpage/saturn-nextjs-14-about-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/innerpage/saturn-nextjs-14-about-page.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/about"
       },
       {
         "title": "Blog Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/saturn/innerpage/saturn-nextjs-14-blog-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/innerpage/saturn-nextjs-14-blog-page.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/blogs"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/saturn/innerpage/saturn-nextjs-14-blog-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/innerpage/saturn-nextjs-14-blog-detail-page.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/blogs/Blog_1"
       },
       {
         "title": "Contact Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/saturn/innerpage/saturn-nextjs-14-contact-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/innerpage/saturn-nextjs-14-contact-page.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/contact"
       }
     ],
@@ -186,7 +186,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "healthpoint-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/healthpoint-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/healthpoint/healthpoint-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://health-point-nextjs-pro.vercel.app/",
     "templateName": "Healthpoint Pro NextJS 14 Medical Website Template",
@@ -206,42 +206,42 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/healthpoint-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/healthpoint-nextjs-14-website-template.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/"
       },
       {
         "title": "Services Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/innerpage/healthpoint-nextjs-14-services-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-services-page.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/services"
       },
       {
         "title": "Doctors Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/innerpage/healthpoint-nextjs-14-services-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-services-page",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/doctors"
       },
       {
         "title": "About Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/innerpage/healthpoint-nextjs-14-about-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-about-page.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/about"
       },
       {
         "title": "Blog Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/innerpage/healthpoint-nextjs-14-blog-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-blog-page.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/blogs"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/innerpage/healthpoint-nextjs-14-blog-details-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-blog-details-page.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/blogs/Blog_1"
       },
       {
         "title": "Contact Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/innerpage/healthpoint-nextjs-14-contact-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-contact-page.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/contact"
       },
       {
         "title": "Doctors Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/healthpoint/innerpage/healthpoint-nextjs-14-doctor-details-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-doctor-details-page.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/doctors/Dr-Jessica-Joan"
       }
     ],
@@ -285,7 +285,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "property-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/property/property-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/property/property-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://property-nextjs-pro.vercel.app/",
     "templateName": "Property Pro NextJS 14 Real-Estate Website Template",
@@ -305,32 +305,32 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/property/property-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/property/property-nextjs-14-website-template.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/"
       },
       {
         "title": "Property List Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/property/innerpage/property-nextjs-14-property-list-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-property-list-page.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/properties-list"
       },
       {
         "title": "Property Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/property/innerpage/property-nextjs-14-property-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-property-detail-page.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/properties-list/property-1"
       },
       {
         "title": "Blog Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/property/innerpage/property-nextjs-14-blog-list-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-blog-list-page.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/blogs"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/property/innerpage/property-nextjs-14-blog-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-blog-detail-page.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/blogs/blog_1"
       },
       {
         "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-templates/property/innerpage/property-nextjs-14-blog-detail-page.png",
+        "image":"https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-blog-detail-page.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/contact"
       }
     ],
@@ -374,7 +374,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "avenue-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/avenue/avenue-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/avenue/avenue-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://avenue-nextjs-pro-three.vercel.app/",
     "templateName": "Avenue Pro NextJS 14 Traveling Website Template",
@@ -394,32 +394,32 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/avenue/avenue-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/avenue-nextjs-14-website-template.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/"
       },
       {
         "title": "Tour Package Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/avenue/innerpage/avenue-nextjs-14-tour-package-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-tour-package-page.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/tours"
       },
       {
         "title": "Package Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/avenue/innerpage/avenue-nextjs-14-package-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-package-detail-page.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/tours/package_1"
       },
       {
         "title": "Blog Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/avenue/innerpage/avenue-nextjs-14-blog-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-blog-page.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/blog"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/avenue/innerpage/avenue-nextjs-14-blog-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-blog-detail-page.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/blog/blog_1"
       },
       {
         "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-templates/avenue/innerpage/avenue-nextjs-14-contact-page.png",
+        "image":"https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-contact-page.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/contact"
       }
     ],
@@ -463,7 +463,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "grammar-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/grammar/grammar-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/grammar/grammar-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://grammer-nextjs-pro.vercel.app/",
     "templateName": "Grammar Pro NextJS 14 E-Learning Website Template",
@@ -483,32 +483,32 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/grammar/grammar-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/grammar-nextjs-14-website-template.png",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/"
       },
       {
         "title": "Course List Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/grammar/innerpage/grammar-nextjs-14-course-list-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-course-list-page.png",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/course"
       },
       {
         "title": "Course Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/grammar/innerpage/grammar-nextjs-14-course-detail-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-course-detail-page",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/course/course_1"
       },
       {
         "title": "Blog Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/grammar/innerpage/grammar-nextjs-14-blog-list-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-blog-list-page.png",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/blog"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/grammar/innerpage/grammar-nextjs-14-blog-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-blog-detail-page.png",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/blog/blog_1"
       },
       {
         "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-templates/grammar/innerpage/grammar-nextjs-14-contact-page",
+        "image":"https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-contact-page",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/contact"
       }
     ],
@@ -552,7 +552,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "symposium-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/symposium/symposium-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/symposium/symposium-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://symposium-next-js.vercel.app/",
     "templateName": "Symposium Pro NextJS 14 Project Management System Website Template",
@@ -572,32 +572,32 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/symposium/symposium-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/symposium-nextjs-14-website-template.png",
         "livedemo": "https://symposium-next-js.vercel.app/"
       },
       {
         "title": "Shedules Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/symposium/innerpage/symposium-nextjs-14-scheduel-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-scheduel-page.png",
         "livedemo": "https://symposium-next-js.vercel.app/schedules"
       },
       {
         "title": "Speakers Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/symposium/innerpage/symposium-nextjs-14-speakers-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-speakers-page.png",
         "livedemo": "https://symposium-next-js.vercel.app/speakers"
       },
       {
         "title": "Blog Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/symposium/innerpage/symposium-nextjs-14-blog-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-blog-page.png",
         "livedemo": "https://symposium-next-js.vercel.app/blog"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/symposium/innerpage/symposium-nextjs-14-blog-detail-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-blog-detail-page.png",
         "livedemo": "https://symposium-next-js.vercel.app/blog/blog_1"
       },
       {
         "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-templates/symposium/innerpage/symposium-nextjs-14-contact-page.png",
+        "image":"https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-contact-page.png",
         "livedemo": "https://symposium-next-js.vercel.app/contact"
       }
     ],
@@ -641,7 +641,7 @@
     "downloads": "#",
     "category": "NextJs",
     "imageAlt": "sustainable-next-js-website",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-templates/sustainable/sustainable-nextjs-14-website-template.png",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/sustainable/sustainable-nextjs-14-website-template.png",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://sustainable-nextjs.vercel.app/",
     "templateName": "Sustainable Pro NextJS 14 Website Template",
@@ -661,42 +661,42 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/sustainable/sustainable-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/sustainable-nextjs-14-website-template.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/"
       },
       {
         "title": "About Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/sustainable/innerpage/sustainable-nextjs-14-about-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-about-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/about"
       },
       {
         "title": "Portfolio Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/sustainable/innerpage/sustainable-nextjs-14-portfolio-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-portfolio-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/portfolio"
       },
       {
         "title": "Pricing Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/sustainable/innerpage/sustainable-nextjs-14-pricing-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-pricing-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/pricing"
       },
       {
         "title": "Faq Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/sustainable/innerpage/sustainable-nextjs-14-faqs-page.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-faqs-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/faqs"
       },
       {
         "title":"Blog Page",
-        "image":"https://adminmart.github.io/template_api/images/website-templates/sustainable/innerpage/sustainable-nextjs-14-blog-page.png",
+        "image":"https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-blog-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/blog"
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/sustainable/innerpage/sustainable-nextjs-14-blog-detail-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-blog-detail-page",
         "livedemo": "https://sustainable-nextjs.vercel.app/blog/blog_1"
       },
       {
         "title": "Contact Page",
-        "image": "https://adminmart.github.io/template_api/images/website-templates/sustainable/innerpage/sustainable-nextjs-14-contact-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-contact-page",
         "livedemo": "https://sustainable-nextjs.vercel.app/contact"
       }
     ],
