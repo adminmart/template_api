@@ -1168,7 +1168,19 @@
     "livePreview": "https://theme-nextjs-bea-the-good-newsroom.vercel.app/",
     "templateName": "Prezly Bea Theme",
     "description": "News site built with NextJS, Typescript and Prezly SDK",
-    "features": [],
+    "features": [
+      "React 18+",
+      "Next.js",
+      "TypeScript",
+      "Sass",
+      "Made with TypeScript, Prezly SDK and Prezly Content React Renderer.",
+      "Data-fetching is handled by Prezly Theme Kit and Prezly SDK.",
+      "Multi-language is powered by React Intl and Prezly Themes Translations.",
+      "Analytics powered by Prezly Analytics.",
+      "Code-style is ensured by ESLint, StyleLint and Prettier.",
+      "Search is powered by Algolia",
+      "Error-logging with Sentry."
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
