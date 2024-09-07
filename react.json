@@ -1221,7 +1221,16 @@
     "livePreview": "https://nextjs-blog-page.vercel.app/",
     "templateName": "Minimal Blog | NextJS",
     "description": "A simple blog site created with NextJs",
-    "features": [],
+    "features": [
+      "React 18+",
+      "Next.js",
+      "NextJs Blog",
+      "Dark Mode",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
@@ -1238,7 +1247,20 @@
     "livePreview": "https://next-landing-vpn.vercel.app/",
     "templateName": "Tailwind VPN Landingpage",
     "description": "An Open Source Landingpage For VPN or Apps.",
-    "features": [],
+    "features": [
+      "React",
+      "Next.js",
+      "NextJs Blog",
+      "Dark Mode",
+      "Landing Page",
+      "Tailwind CSS",
+      "Using NextJS Image for Image Optimization",
+      "Slider using React Slick",
+      "Smooth Scrolling and Active menu using React Scroll",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
