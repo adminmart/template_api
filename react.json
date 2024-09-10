@@ -1335,7 +1335,17 @@
     "livePreview": "https://andrewnelson.net/",
     "templateName": "Andrew Nelson",
     "description": "An open source portfolio site built on Nextjs and React.",
-    "features": [],
+    "features": [
+      "React",
+      "Next.js",
+      "Eslint",
+      "Dark Mode",
+      "Landing Page",
+      "4+ Page Templates",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
