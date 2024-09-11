@@ -1366,7 +1366,17 @@
     "livePreview": "https://enji.dev/",
     "templateName": "Enji Dev",
     "description": "A monorepo for my personal website and projects, built with Turborepo + pnpm",
-    "features": [],
+    "features": [
+      "Next.js + TypeScript",
+      "Framer Motion",
+      "Tailwind CSS",
+      "MDX",
+      "Eslint",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
@@ -1383,7 +1393,20 @@
     "livePreview": "https://transitivebullsh.it/nextjs-notion-starter-kit",
     "templateName": "Notion",
     "description": "Deploy your own Notion-powered website in minutes with NextJs and Vercel.",
-    "features": [],
+    "features": [
+      "Setup only takes a few minutes",
+      "Robust support for Notion content via react-notion-x",
+      "Built using Next.js, TS, and React",
+      "Excellent page speeds",
+      "Smooth image previews",
+      "Automatic social images",
+      "Automatic pretty URLs",
+      "Automatic table of contents",
+      "Full support for dark mode",
+      "Quick search via CMD+K / CMD+P",
+      "Responsive for different devices",
+      "Optimized for Next.js and Vercel"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
