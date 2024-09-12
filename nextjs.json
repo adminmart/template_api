@@ -1502,7 +1502,20 @@
     "livePreview": "https://astroplate.netlify.app/",
     "templateName": "Astroplate Free Starter Template",
     "description": "Astroplate is a free starter template built with Astro and TailwindCSS.",
-    "features": [],
+    "features": [
+      "Multi-Authors",
+      "Multilingual",
+      "Similar Posts Suggestion",
+      "Search Functionality",
+      "Dark Mode",
+      "Tags & Categories",
+      "Netlify setting pre-configured",
+      "Support contact form",
+      "Fully responsive",
+      "Write and update content in Markdown / MDX",
+      "Disqus Comment",
+      "Syntax Highlighting"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
@@ -1519,7 +1532,18 @@
     "livePreview": "https://github.com/cruip/open-react-template/archive/refs/heads/main.zip",
     "templateName": "Cruip Free Landing Page",
     "description": "Cruip is a free React / Next.js landing page template for your next web project.",
-    "features": [],
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Eslint",
+      "Aos",
+      "Tailwind CSS",
+      "TypeScript",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
@@ -1536,7 +1560,18 @@
     "livePreview": "https://unft-marketplace.vercel.app/",
     "templateName": "uNFT Marketplace",
     "description": "A digital art marketplace built using Next.js, Stripe, and Cosmic.",
-    "features": [],
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Eslint",
+      "Log in and Sign up pages",
+      "Dark & Light Themes",
+      "Search Functionality",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
@@ -1553,7 +1588,14 @@
     "livePreview": "https://mos-app-nextjs-opal.vercel.app/",
     "templateName": "Mos - A Free Landing Page",
     "description": "A free landing page built on Next.js",
-    "features": [],
+    "features": [
+      "Simple and Minimal",
+      "Fully Responsive",
+      "Google analytics support",
+      "Caching enabled",
+      "Supports Contact Form",
+      "SEO Friendly"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
