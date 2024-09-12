@@ -1419,12 +1419,21 @@
     "livePreview": "https://bigspring-light-nextjs.vercel.app/",
     "templateName": "Bigspring Light Nextjs",
     "description": "Bigspring is a web development company Nextjs template with Tailwind CSS.",
-    "features": [],
+    "features": [
+      "9+ Pre-Designed Pages",
+      "Simple and Minimal",
+      "Fully Responsive",
+      "Google Page Speed score 100! (Desktop)",
+      "Google Analytics support",
+      "Caching enabled",
+      "Supports Contact Form",
+      "SEO Friendly"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
   {
-    "id": 501,
+    "id": 51,
     "price": 0,
     "popularity": 1013,
     "appType": "website",
@@ -1436,7 +1445,17 @@
     "livePreview": "https://bookworm-light-nextjs.vercel.app/",
     "templateName": "Bookworm Light Nextjs",
     "description": "Bookworm is a minimal NextJs Tailwind blog starter template.",
-    "features": [],
+    "features": [
+      "13+ Pre-Designed Pages",
+      "Multi-Author support",
+      "Google Page Speed score 100! (Desktop)",
+      "Supports Contact Form",
+      "Search Functionality",
+      "Semantic HTML Document Structure",
+      "Custom Logo Support",
+      "Includes All SCSS Files",
+      "Image Optimized With Next/image"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
@@ -1453,7 +1472,16 @@
     "livePreview": "https://brendanglancy.software/",
     "templateName": "Brendan Glancy Nextjs",
     "description": "Software Developer Portfolio Template built with Next.js bootstrap.",
-    "features": [],
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Eslint",
+      "Dark & Light Themes",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
     "createdOn": "",
     "frameworkName": ""
   },
