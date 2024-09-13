@@ -1609,7 +1609,15 @@
     "templateName": "Developer Portfolio Starter",
     "description": "Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion.",
     "features": [
-
+      "NextJs 14+",
+      "React 18+",
+      "Eslint",
+      "3+ Page Templates",
+      "Dark & Light Themes",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "20-Mar-2023"
   },
@@ -1627,7 +1635,16 @@
     "templateName": "Simple Light",
     "description": "Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more.",
     "features": [
-
+      "NextJs 14+",
+      "React 18+",
+      "TypeScript",
+      "Aos",
+      "Documentation",
+      "Tailwind CSS",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "15-Oct-2020"
   },
@@ -1673,7 +1690,16 @@
     "templateName": "Developer Portfolio",
     "description": "Software Developer Portfolio Template built with Next.js and bootstrap.",
     "features": [
-      
+      "NextJs 13+",
+      "React 18+",
+      "TypeScript",
+      "Eslint",
+      "Feedbacks",
+      "Github Profile",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "19-Jan-2021"
   },
@@ -1691,7 +1717,12 @@
     "templateName": "Bookstore",
     "description": "An e-commerce project for an online bookstore developed using NextJS 13 and its experimental",
     "features": [
-      
+      "Responsive Design",
+      "Search Functionality",
+      "Add To Cart",
+      "Add To Wishlist",
+      "SEO-friendly",
+      "Accessible"
     ],
     "createdOn": "13-Nov-2022"
   },
@@ -1787,7 +1818,11 @@
     "templateName": "Sandocs",
     "description": "Sandocs Documentation Starter Website Template built with Next.js, TailwindCSS & Sanity CMS",
     "features": [
-      
+      "The Landing Page",
+      "Dark Mode",
+      "Remove Backlink",
+      "Personal License",
+      "6 Months Support"
     ],
     "createdOn": "18-Jul-2022"
   },
