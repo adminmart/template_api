@@ -1862,7 +1862,15 @@
     "templateName": "Precedent",
     "description": "An opinionated collection of components, hooks, and utilities for your Next.js project.",
     "features": [
-      
+      "NextJs 14+",
+      "React 18+",
+      "Responsive Design",
+      "Auth.js",
+      "Prisma",
+      "Tailwind CSS",
+      "TypeScript",
+      "Prettier",
+      "Eslint"
     ],
     "createdOn": "13-Jan-2023"
   },
@@ -1880,7 +1888,14 @@
     "templateName": "Nextjs Starter Buttercms",
     "description": "This Next.js starter project fully integrates with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality.",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "11-Nov-2021"
   },
@@ -1957,7 +1972,14 @@
     "templateName": "The Mars",
     "description": "Ready to use Next.js (TypeScript) template to create high-performance e-commerce websites.",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "24-Jun-2022"
   },
