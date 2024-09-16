@@ -2,7 +2,7 @@
   {
     "id": 8,
     "price": 9,
-    "popularity": 234,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
@@ -86,10 +86,10 @@
   {
     "id": 9,
     "price": 9,
-    "popularity": 201,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
-    "downloads": "#",
+    "downloads": "https://nextjstemplates.lemonsqueezy.com/buy/67002a8f-46d4-4223-b4f5-6b4741637c7a",
     "category": "NextJs",
     "imageAlt": "saturn-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/saturn/saturn-nextjs-14-website-template.png",
@@ -180,7 +180,7 @@
   {
     "id": 10,
     "price": 9,
-    "popularity": 321,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
@@ -279,7 +279,7 @@
   {
     "id": 11,
     "price": 9,
-    "popularity": 652,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
@@ -368,7 +368,7 @@
   {
     "id": 12,
     "price": 9,
-    "popularity": 652,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
@@ -457,7 +457,7 @@
   {
     "id": 13,
     "price": 9,
-    "popularity": 652,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
@@ -546,7 +546,7 @@
   {
     "id": 14,
     "price": 9,
-    "popularity": 652,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
@@ -635,7 +635,7 @@
   {
     "id": 15,
     "price": 9,
-    "popularity": 652,
+    "popularity":200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
@@ -735,7 +735,7 @@
   {
     "id": 1,
     "price": 0,
-    "popularity": 201,
+    "popularity":200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/chefs-kichen-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://app.gumroad.com/checkout?product=zwvqdz&quantity=1",
@@ -789,7 +789,7 @@
   {
     "id": 2,
     "price": 0,
-    "popularity": 202,
+    "popularity":200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/dsign-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://github.com/adminmart/dsign-tailwind-nextjs-free/archive/refs/heads/main.zip",
@@ -817,7 +817,7 @@
   {
     "id": 3,
     "price": 0,
-    "popularity": 203,
+    "popularity":200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/paidin-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://github.com/adminmart/paidin-tailwind-nextjs-free/archive/refs/heads/main.zip",
@@ -845,7 +845,7 @@
   {
     "id": 4,
     "price": 0,
-    "popularity": 204,
+    "popularity":200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/e-learning-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://github.com/adminmart/eLearning-tailwind-nextjs-free/archive/refs/heads/main.zip",
@@ -873,7 +873,7 @@
   {
     "id": 5,
     "price": 0,
-    "popularity": 205,
+    "popularity":200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/crypto-free-next-js-template?ref=36",
     "downloads": "https://github.com/adminmart/crypto-tailwind-nextjs-free/archive/refs/heads/main.zip",
@@ -900,7 +900,7 @@
   {
     "id": 6,
     "price": 0,
-    "popularity": 206,
+    "popularity":200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/desgy-solution-free-next-js-template?ref=36",
     "downloads": "https://github.com/adminmart/desgy-tailwind-nextjs-free/archive/refs/heads/main.zip",
@@ -928,7 +928,7 @@
   {
     "id": 7,
     "price": 0,
-    "popularity": 207,
+    "popularity":200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/si-educational-next-js?ref=36",
     "downloads": "https://github.com/adminmart/si-educational-nextjs/archive/refs/heads/main.zip",
