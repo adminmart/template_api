@@ -1976,7 +1976,14 @@
     "templateName": "The Mars",
     "description": "Ready to use Next.js (TypeScript) template to create high-performance e-commerce websites.",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "Landing Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "24-Jun-2022"
   },
@@ -1994,7 +2001,15 @@
     "templateName": "Cinnamon Agency",
     "description": "This is Cinnamon Agency starter template for NextJS projects shared for public access and usage.",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "TypeScript",
+      "5+ Page Templates",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "03-Aug-2022"
   },
@@ -2012,7 +2027,16 @@
     "templateName": "Nextjs Restaurant",
     "description": "A restaurant website template built with Next.js and Cosmic",
     "features": [
-      
+      "Next.js",
+      "React",
+      "Responsive Design",
+      "Eslint",
+      "Sass",
+      "Cosmic",
+      "3+ Page Templates",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "22-Apr-2022"
   },
@@ -2030,7 +2054,15 @@
     "templateName": "StarAdmin Free React Admin Template",
     "description": "Unlock the potential of your web applications with our highly anticipated React version of Star Admin. Seamlessly integrated with the renowned features and design elements of Star Admin, this free React template offers a remarkable user interface and exceptional user experience. Empower your development process with a powerful, flexible, and customizable solution, tailored to meet the needs of modern web applications.",
     "features": [
-      
+      "React",
+      "bootstrap",
+      "Responsive Design",
+      "chart.js",
+      "Material Design Icons",
+      "3+ Page Templates",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2048,7 +2080,17 @@
     "templateName": "Corona react free admin template",
     "description": "Introducing Corona React - Empowering Your Admin Experience: Step into a new era of admin templates with Corona React, the ultimate solution to streamline your administrative tasks. Designed with a focus on user-friendliness and functionality, Corona React offers a breath of fresh air for managing your projects efficiently.",
     "features": [
-      
+      "React",
+      "React-bootstrap",
+      "Responsive Design",
+      "chart.js",
+      "table",
+      "UI Components",
+      "Material Design Icons",
+      "3+ Page Templates",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2066,7 +2108,17 @@
     "templateName": "Connect Plus React Free Admin Template",
     "description": "Elevate your web application's user interface with Connect Plus React, a cutting-edge and versatile admin template available to you completely free! With its modern design and seamless integration of React components, this template provides a powerful foundation for building intuitive and dynamic admin dashboards. Unlock the true potential of your project and streamline your development process with Connect Plus React Free Admin Template",
     "features": [
-      
+      "React",
+      "bootstrap",
+      "Responsive Design",
+      "chart.js",
+      "table",
+      "UI Components",
+      "Material Design Icons",
+      "3+ Page Templates",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
