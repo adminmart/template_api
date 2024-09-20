@@ -97,7 +97,7 @@
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/saturn/saturn-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
     "livePreview": "https://saturn-nextjs-pro.vercel.app/",
-    "templateName": "Saturn Pro NextJS 14 Website Template",
+    "templateName": "Saturn Pro NextJS 14 Template",
     "description": "Use Saturn Pro NextJs Elevate your site with this modern, responsive template. Built with Next.js for speed and Tailwind CSS for easy customization.",
     "features": [
       "React 18+",
@@ -739,7 +739,7 @@
       }
     ]
   },
-  
+
   {
     "id": 1,
     "price": 0,
