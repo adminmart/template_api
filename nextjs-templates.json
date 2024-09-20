@@ -2,12 +2,12 @@
   {
     "id": 8,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/47f73c06-6784-4219-8ea3-17f84af234f9",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/47f73c06-6784-4219-8ea3-17f84af234f9",
     "imageAlt": "venus-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/venus/venus-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -29,7 +29,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/venus/venus-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/venus/innerpage/venus-nextjs-14-home-page.png",
         "livedemo": "https://venus-nextjs-pro.vercel.app/"
       },
       {
@@ -87,12 +87,12 @@
   {
     "id": 9,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "https://nextjstemplates.lemonsqueezy.com/buy/67002a8f-46d4-4223-b4f5-6b4741637c7a",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/67002a8f-46d4-4223-b4f5-6b4741637c7a",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/67002a8f-46d4-4223-b4f5-6b4741637c7a",
     "imageAlt": "saturn-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/saturn/saturn-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -114,7 +114,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/saturn-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/saturn/innerpage/saturn-nextjs-14-home-page.png",
         "livedemo": "https://saturn-nextjs-pro.vercel.app/"
       },
       {
@@ -182,12 +182,12 @@
   {
     "id": 10,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/1a5b7afc-b031-4446-aa33-d587c99024a8",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/1a5b7afc-b031-4446-aa33-d587c99024a8",
     "imageAlt": "healthpoint-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/healthpoint/healthpoint-nextjs-14-website-template.jap",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -209,7 +209,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/healthpoint-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-home-page.png",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/"
       },
       {
@@ -282,12 +282,12 @@
   {
     "id": 11,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/39ae2f6f-6d27-4c81-b698-45eb4eb0f0ee",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/39ae2f6f-6d27-4c81-b698-45eb4eb0f0ee",
     "imageAlt": "property-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/property/property-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -309,7 +309,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/property/property-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-home-page.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/"
       },
       {
@@ -333,8 +333,8 @@
         "livedemo": "https://property-nextjs-pro.vercel.app/blogs/blog_1"
       },
       {
-        "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-blog-detail-page.png",
+        "title": "Contact Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/property/innerpage/property-nextjs-14-blog-detail-page.png",
         "livedemo": "https://property-nextjs-pro.vercel.app/contact"
       }
     ],
@@ -372,12 +372,12 @@
   {
     "id": 12,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/33e5eec5-9929-4c71-b39e-162ed520a195",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/33e5eec5-9929-4c71-b39e-162ed520a195",
     "imageAlt": "avenue-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/avenue/avenue-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -399,7 +399,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/avenue-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-home-page.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/"
       },
       {
@@ -423,8 +423,8 @@
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/blog/blog_1"
       },
       {
-        "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-contact-page.png",
+        "title": "Contact Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/avenue/innerpage/avenue-nextjs-14-contact-page.png",
         "livedemo": "https://avenue-nextjs-pro-three.vercel.app/contact"
       }
     ],
@@ -462,12 +462,12 @@
   {
     "id": 13,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/815adc7b-eb21-4fef-af91-f3fba5ef5910",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/815adc7b-eb21-4fef-af91-f3fba5ef5910",
     "imageAlt": "grammar-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/grammar/grammar-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -489,7 +489,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/grammar-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-home-page.png",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/"
       },
       {
@@ -513,8 +513,8 @@
         "livedemo": "https://grammer-nextjs-pro.vercel.app/blog/blog_1"
       },
       {
-        "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-contact-page",
+        "title": "Contact Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-contact-page",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/contact"
       }
     ],
@@ -552,12 +552,12 @@
   {
     "id": 14,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/bbae3523-217e-409a-b25a-e92eb59c2dc7",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/bbae3523-217e-409a-b25a-e92eb59c2dc7",
     "imageAlt": "symposium-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/symposium/symposium-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -579,7 +579,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/symposium-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-home-page.png",
         "livedemo": "https://symposium-next-js.vercel.app/"
       },
       {
@@ -603,8 +603,8 @@
         "livedemo": "https://symposium-next-js.vercel.app/blog/blog_1"
       },
       {
-        "title":"Contact Page",
-        "image":"https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-contact-page.png",
+        "title": "Contact Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/symposium/innerpage/symposium-nextjs-14-contact-page.png",
         "livedemo": "https://symposium-next-js.vercel.app/contact"
       }
     ],
@@ -642,12 +642,12 @@
   {
     "id": 15,
     "price": 9,
-    "popularity":200,
+    "popularity": 200,
     "appType": "Website",
     "details": "#",
     "downloads": "#",
     "category": "NextJs",
-    "buyUrl":"https://nextjstemplates.lemonsqueezy.com/buy/4d3c746f-0573-4e5d-94c6-91659667eb67",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/4d3c746f-0573-4e5d-94c6-91659667eb67",
     "imageAlt": "sustainable-next-js-website",
     "imageSrc": "https://adminmart.github.io/template_api/images/website-template/sustainable/sustainable-nextjs-14-website-template.jpg",
     "subtitle": "Professional Tailwind NextJs 14 with App Directory Website Template",
@@ -669,7 +669,7 @@
     "demos": [
       {
         "title": "Home Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/sustainable-nextjs-14-website-template.png",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-home-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/"
       },
       {
@@ -693,8 +693,8 @@
         "livedemo": "https://sustainable-nextjs.vercel.app/faqs"
       },
       {
-        "title":"Blog Page",
-        "image":"https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-blog-page.png",
+        "title": "Blog Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-blog-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/blog"
       },
       {
@@ -739,16 +739,16 @@
       }
     ]
   },
-
+  
   {
     "id": 1,
     "price": 0,
-    "popularity":200,
+    "popularity": 200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/chefs-kichen-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://app.gumroad.com/checkout?product=zwvqdz&quantity=1",
     "category": "NextJs",
-    "buyUrl":"#",
+    "buyUrl": "#",
     "imageAlt": "chef-kitchen-free-restaurant-next-js-landing",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/chef-kitchen-free-restaurant-next-js-landing.png",
     "subtitle": "Free Tailwind NextJs 13 with App Directory Landing Page Template",
@@ -798,12 +798,12 @@
   {
     "id": 2,
     "price": 0,
-    "popularity":200,
+    "popularity": 200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/dsign-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://github.com/adminmart/dsign-tailwind-nextjs-free/archive/refs/heads/main.zip",
     "category": "NextJs",
-    "buyUrl":"#",
+    "buyUrl": "#",
     "imageAlt": "dsign-new",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/Dsign-new.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
@@ -827,12 +827,12 @@
   {
     "id": 3,
     "price": 0,
-    "popularity":200,
+    "popularity": 200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/paidin-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://github.com/adminmart/paidin-tailwind-nextjs-free/archive/refs/heads/main.zip",
     "category": "NextJs",
-    "buyUrl":"#",
+    "buyUrl": "#",
     "imageAlt": "paidin-new",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/Paidin-new.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
@@ -856,12 +856,12 @@
   {
     "id": 4,
     "price": 0,
-    "popularity":200,
+    "popularity": 200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/e-learning-free-nextjs-landing-page-template?ref=36",
     "downloads": "https://github.com/adminmart/eLearning-tailwind-nextjs-free/archive/refs/heads/main.zip",
     "category": "NextJs",
-    "buyUrl":"#",
+    "buyUrl": "#",
     "imageAlt": "e-learning-free-next-js-landing-page",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/06/e-learning-free-next-js-landing-page.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
@@ -885,12 +885,12 @@
   {
     "id": 5,
     "price": 0,
-    "popularity":200,
+    "popularity": 200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/crypto-free-next-js-template?ref=36",
     "downloads": "https://github.com/adminmart/crypto-tailwind-nextjs-free/archive/refs/heads/main.zip",
     "category": "NextJs",
-    "buyUrl":"#",
+    "buyUrl": "#",
     "imageAlt": "crypto",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/crypto-next-js-tailwind-landing-page.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
@@ -913,12 +913,12 @@
   {
     "id": 6,
     "price": 0,
-    "popularity":200,
+    "popularity": 200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/desgy-solution-free-next-js-template?ref=36",
     "downloads": "https://github.com/adminmart/desgy-tailwind-nextjs-free/archive/refs/heads/main.zip",
     "category": "NextJs",
-    "buyUrl":"#",
+    "buyUrl": "#",
     "imageAlt": "desgy",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/desgy-solutions-next-js-free-landing-page.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
@@ -942,12 +942,12 @@
   {
     "id": 7,
     "price": 0,
-    "popularity":200,
+    "popularity": 200,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/si-educational-next-js?ref=36",
     "downloads": "https://github.com/adminmart/si-educational-nextjs/archive/refs/heads/main.zip",
     "category": "NextJs",
-    "buyUrl":"#",
+    "buyUrl": "#",
     "imageAlt": "education-template",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/si-educational-next-js-free-landing-page.png",
     "subtitle": "Free Tailwind NextJs Landing Page Template",
