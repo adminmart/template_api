@@ -1124,5 +1124,57 @@
             "Authors"
         ],
         "createdOn": "09-Jan-2023"
+    },
+    {
+        "id": 49,
+        "price": 0,
+        "popularity": 1035,
+        "appType": "landingpage",
+        "details": "https://github.com/web3templates/nextly-template/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "nextly-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextly-template.jpg",
+        "subtitle": "Nextly Landing Page Template built with Next.js & TailwindCSS",
+        "livePreview": "https://nextly.web3templates.com/",
+        "templateName": "Flowbite Admin Dashboard",
+        "description": "Nextly is a free landing page & marketing website template for startups and indie projects. It's built with Next.js & TailwindCSS. And it's completely open-source.",
+        "features": [
+            "Clean & Modern Design",
+            "Light & Dark Mode",
+            "Built with Next.js & TailwindCSS",
+            "Fast Page Load Speed",
+            "SEO Friendly",
+            "Well Documented",
+            "Version Control with Github",
+            "Support Available"
+        ],
+        "createdOn": "08-Jun-2021"
+    },
+    {
+        "id": 50,
+        "price": 0,
+        "popularity": 1036,
+        "appType": "admin-template",
+        "details": "https://github.com/moesaid/cleopatra/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "cleopatra",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/cleopatra.jpg",
+        "subtitle": "Admin Dashboard Template Built On Tailwind CSS",
+        "livePreview": "https://moesaid.github.io/cleopatra/",
+        "templateName": "Cleopatra",
+        "description": "Looking for an admin dashboard that was made with you in mind, look no further than Cleopatra Admin Template. A powerful admin dashboard template built on top of Tailwind CSS. Cleopatra is a developer-first template, rich with features and highly customizable. It follows the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable.",
+        "features": [
+            "Clean & Modern Design",
+            "2 unique dashboards",
+            "Application Designs",
+            "5+ UI Components",
+            "Version Control with Github",
+            "Support Available",
+            "High resolution",
+            "Well documented",
+            "Responsive",
+            "Open source"
+        ],
+        "createdOn": "14-Feb-2020"
     }
 ]
