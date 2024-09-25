@@ -1176,5 +1176,31 @@
             "Open source"
         ],
         "createdOn": "14-Feb-2020"
+    },
+    {
+        "id": 51,
+        "price": 0,
+        "popularity": 1037,
+        "appType": "landingpage",
+        "details": "https://github.com/surjithctly/astroship/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "astroship",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/astroship.jpg",
+        "subtitle": "Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS",
+        "livePreview": "https://astroship.web3templates.com/",
+        "templateName": "Astroship Starter",
+        "description": "Astroship Starter provides a simple yet modern solution for your startup/marketing website. This free template is a streamlined version of the Astroship Pro premium template and is specifically designed for those who want a neat, efficient online presence without all the hassle. Built with Astro.build, Tailwind CSS, and Alpine.js, Astroship Starter is a lean but capable option for your front-facing website.",
+        "features": [
+            "Fully responsive",
+            "100% lighthhouse scores",
+            "Free updates",
+            "Blog included",
+            "Responsive Navbar with Dropdown",
+            "Icon-based Features Section",
+            "Minimal Blog Pages",
+            "Working Contact Form",
+            "About Page with Team Section"
+        ],
+        "createdOn": "09-Nov-2022"
     }
 ]

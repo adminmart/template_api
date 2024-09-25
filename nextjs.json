@@ -2381,7 +2381,17 @@
     "templateName": "DashUi free nextjs admin template",
     "description": "Elevate Your NextJS Project with DashUi - The Ultimate Admin Template: Discover the ultimate NextJS admin template - DashUi. Crafted to perfection, this free template offers a comprehensive set of tools to manage your application with ease. From customizable widgets to user-friendly navigation, DashUi is a powerful yet flexible solution for all your administrative needs. Empower your team and supercharge your NextJS project with DashUi today!",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "1 Basic Dashboard",
+      "Profile",
+      "Settings",
+      "Billing",
+      "Pricing",
+      "404 Error",
+      "Authentication"
     ],
     "createdOn": ""
   },
