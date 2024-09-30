@@ -1227,5 +1227,26 @@
             "Math display support"
         ],
         "createdOn": "09-Jan-2021"
+    },
+    {
+        "id": 53,
+        "price": 0,
+        "popularity": 1039,
+        "appType": "admin-template",
+        "details": "https://github.com/davidgrzyb/tailwind-admin-template/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "tailwind-admin-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwind-admin-template.jpg",
+        "subtitle": "An admin dashboard template built with Tailwind and Alpine.js",
+        "livePreview": "https://davidgrzyb.github.io/tailwind-admin-template/",
+        "templateName": "Tailwind Admin Template",
+        "description": "This is an admin dashboard template built with Tailwind and Alpine.js. This is inspired by the dribbble shots of Vishnu Prasad and Filip Justić. Tailwind Admin Template is a beautifully crafted dashboard that stands out and is suitable for any application or SaaS business.",
+        "features": [
+            "Open sourced and well maintained",
+            "Beautifully crafted with a fresh UI",
+            "Interactive graphs and charts",
+            "Fully responsive with a nice sidebar & top navigation layout"
+        ],
+        "createdOn": "17-Apr-2020"
     }
 ]
