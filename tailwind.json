@@ -1248,5 +1248,28 @@
             "Fully responsive with a nice sidebar & top navigation layout"
         ],
         "createdOn": "17-Apr-2020"
+    },
+    {
+        "id": 54,
+        "price": 0,
+        "popularity": 1040,
+        "appType": "landingpage",
+        "details": "https://github.com/Tailus-UI/ada-html/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "ada-html",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/ada-html.jpg",
+        "subtitle": "Modern html landing page built with tailus themer",
+        "livePreview": "https://ada.tailus.io/",
+        "templateName": "Ada",
+        "description": "Ada is a contemporary, free landing page HTML template crafted with an eye for detail and a modern aesthetic. It is ideal for startups, SaaS businesses or open-source projects/tools. Ada presents a polished and sophisticated interface highlighted by its attention to detail and clean, modern layout.",
+        "features": [
+            "Modern",
+            "Responsive",
+            "Fully Customizable",
+            "Easy to use",
+            "Dark Mode",
+            "Bento Box"
+        ],
+        "createdOn": ""
     }
 ]
