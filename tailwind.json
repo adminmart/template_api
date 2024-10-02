@@ -1271,5 +1271,29 @@
             "Bento Box"
         ],
         "createdOn": ""
+    },
+    {
+        "id": 55,
+        "price": 0,
+        "popularity": 1041,
+        "appType": "landingpage",
+        "details": "https://github.com/tailwindtoolbox/Rainblur-Landing-Page/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "Rainblur-Landing-Page",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/Rainblur-Landing-Page.jpg",
+        "subtitle": "Tailwind CSS Starter Template - Rainblur Landing Page (dark)",
+        "livePreview": "https://tailwindtoolbox.github.io/Rainblur-Landing-Page/",
+        "templateName": "Rainblur Landing Page",
+        "description": "The Rainblur landing page is a sleek and modern digital gateway designed to captivate and engage visitors. Featuring a minimalist aesthetic with smooth transitions and intuitive navigation, the page effectively showcases the brand’s core values and services. With strategically placed call-to-action buttons, it guides users effortlessly toward their desired goals, whether it's learning more about the company, exploring product offerings, or initiating contact. The responsive design ensures a seamless experience across all devices, while optimized performance guarantees fast loading times.",
+        "features": [
+            "Dark Theme",
+            "Background and Text gradients",
+            "Transition/Transformations",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": ""
     }
 ]
