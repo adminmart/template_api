@@ -1295,5 +1295,29 @@
             "Open source"
         ],
         "createdOn": ""
+    },
+    {
+        "id": 56,
+        "price": 0,
+        "popularity": 1042,
+        "appType": "landingpage",
+        "details": "https://github.com/themesberg/landwind/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "landwind",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/landwind.jpg",
+        "subtitle": "Responsive and clean landing page built with Tailwind CSS and Flowbite",
+        "livePreview": "https://demo.themesberg.com/landwind/",
+        "templateName": "Landwind",
+        "description": "Landwind is a free and open-source HTML landing page built for SaaS and product websites based on the Tailwind CSS utility-first framework and the Flowbite Component Library featuring a hero section, customer logos, feature sections, testimonials, pricing cards, FAQ section, pre-footer CTA button and a footer.",
+        "features": [
+            "Tailwind CSS",
+            "Flowbite Library",
+            "Flowbite Blocks",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "05-Jul-2022"
     }
 ]
