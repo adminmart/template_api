@@ -1349,5 +1349,55 @@
             "Include a FREE theme"
         ],
         "createdOn": "30-Mar-2021"
+    },
+    {
+        "id": 58,
+        "price": 0,
+        "popularity": 1040,
+        "appType": "admin-template",
+        "details": "https://github.com/estevanmaito/windmill-dashboard/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "windmill-dashboard",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/windmill-dashboard.jpg",
+        "subtitle": "A multi theme, completely accessible, ready for production dashboard.",
+        "livePreview": "https://windmill-dashboard.vercel.app/",
+        "templateName": "Windmill Dashboard HTML",
+        "description": "Windmill Dashboard is a multi-theme, completely accessible, with components and page examples, ready for production dashboard. If you're looking for the React version, go here. This application is perfect if you are looking for flexibility, like a server-rendered or a framework implementation that is not currently offered, or just don't want too many dependencies",
+        "features": [
+            "Dark theme enabled (load even different images based on theme)",
+            "Thoroughly accessible (developed using screen readers)",
+            "100% keyboard navigable",
+            "Custom components",
+            "Alpine JS (used for dropdowns and toggles)",
+            "Tailwind CSS",
+            "Chart.js",
+            "Heroicons"
+        ],
+        "createdOn": "09-Jun-2020"
+    },
+    {
+        "id": 59,
+        "price": 0,
+        "popularity": 1041,
+        "appType": "landingpage",
+        "details": "https://github.com/TailGrids/play-tailwind/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "play-tailwind",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/play-tailwind.jpg",
+        "subtitle": "Play is free and open source Tailwind CSS template for - Startup, SaaS, Apps, Business and More.",
+        "livePreview": "https://play-tailwind.tailgrids.com/",
+        "templateName": "Play Tailwind",
+        "description": "Play is an open-source and free Tailwind CSS template co-created by TailGrids and UIdeck. This template specially crafted for SaaS, startup, business and software website. Play crafted in a way that you can use with almost all sort of web project. This is Tailwind CSS template built using TailGrids components.",
+        "features": [
+            "Design refresh",
+            "New marketing section",
+            "Dark mode support",
+            "Code and performance optimization",
+            "Updated dependencies",
+            "Responsive",
+            "SCSS Files and Documentation",
+            "Open Source"
+        ],
+        "createdOn": "14-Oct-2021"
     }
 ]
