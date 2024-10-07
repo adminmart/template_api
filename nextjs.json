@@ -2265,7 +2265,17 @@
     "templateName": "Salvia-kit dashboard template v4 with Next.js",
     "description": "Elevate your Web Projects with Salvia-Kit Dashboard Template v4 and Next.js Integration! Unleash the true potential of your web projects using the Salvia-Kit Dashboard Template v4, now integrated with Next.js for even greater flexibility and performance. Benefit from the simplicity of Salvia-Kit's elegant UI components and combine it with Next.js's cutting-edge features, including server-side rendering and dynamic routing, to create blazing-fast, SEO-friendly web applications with ease.",
     "features": [
-      
+      "NextJs 13+",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "TypeScript",
+      "Tailwind CSS",
+      "Search Bar",
+      "table",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2283,7 +2293,19 @@
     "templateName": "Horizon ui chakra nextjs",
     "description": "The Horizon UI, powered by the Chakra UI library, takes your Next.js applications to the next level. Seamlessly combining cutting-edge design and intuitive user experience, Horizon UI enhances the overall look and feel of your web projects. With its easy-to-use components and responsive layout, building beautiful and interactive interfaces has never been easier.",
     "features": [
-      
+      "NextJs 14+",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "TypeScript",
+      "Apexchart",
+      "Search Bar",
+      "table",
+      "Dark & Light Themes",
+      "Log in and Sign up pages",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2301,7 +2323,18 @@
     "templateName": "Chakra nextjs dashboard",
     "description": "Harmonize your digital experience with the Chakra NextJS Dashboard, a beautifully crafted interface that brings balance and efficiency to your web applications. This thoughtfully designed dashboard empowers you with intuitive controls and stunning visualizations to manage your data effortlessly.",
     "features": [
-      
+      "Next.js",
+      "React",
+      "Responsive Design",
+      "Chakra UI",
+      "ChartJS",
+      "React Icons (Feather)",
+      "Search Bar",
+      "React Chart 2",
+      "Log in and Sign up pages",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2319,7 +2352,18 @@
     "templateName": "Tokyo free white nextjs admin dashboard",
     "description": "Tokyo Free White is an elegant and feature-rich admin dashboard built with Next.js, a cutting-edge technology that provides seamless server-side rendering and exceptional performance. This modern dashboard template offers a clean and minimalist design, making it the perfect choice for professionals seeking a polished and efficient interface to manage their applications and data.",
     "features": [
-      
+      "Next.js",
+      "React",
+      "Responsive Design",
+      "Eslint",
+      "TypeScript",
+      "1 Basic Dashboard",
+      "Search Bar",
+      "UI Components",
+      "Multiple Pages",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2337,7 +2381,17 @@
     "templateName": "DashUi free nextjs admin template",
     "description": "Elevate Your NextJS Project with DashUi - The Ultimate Admin Template: Discover the ultimate NextJS admin template - DashUi. Crafted to perfection, this free template offers a comprehensive set of tools to manage your application with ease. From customizable widgets to user-friendly navigation, DashUi is a powerful yet flexible solution for all your administrative needs. Empower your team and supercharge your NextJS project with DashUi today!",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "Eslint",
+      "1 Basic Dashboard",
+      "Profile",
+      "Settings",
+      "Billing",
+      "Pricing",
+      "404 Error",
+      "Authentication"
     ],
     "createdOn": ""
   },
