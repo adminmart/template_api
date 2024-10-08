@@ -219,7 +219,7 @@
       },
       {
         "title": "Doctors Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-services-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/healthpoint/innerpage/healthpoint-nextjs-14-services-page.page",
         "livedemo": "https://health-point-nextjs-pro.vercel.app/doctors"
       },
       {
@@ -499,7 +499,7 @@
       },
       {
         "title": "Course Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-course-detail-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-course-detail-page.png",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/course/course_1"
       },
       {
@@ -514,7 +514,7 @@
       },
       {
         "title": "Contact Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-contact-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/grammar/innerpage/grammar-nextjs-14-contact-page.png",
         "livedemo": "https://grammer-nextjs-pro.vercel.app/contact"
       }
     ],
@@ -699,12 +699,12 @@
       },
       {
         "title": "Blog Detail Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-blog-detail-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-blog-detail-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/blog/blog_1"
       },
       {
         "title": "Contact Page",
-        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-contact-page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/sustainable/innerpage/sustainable-nextjs-14-contact-page.png",
         "livedemo": "https://sustainable-nextjs.vercel.app/contact"
       }
     ],
