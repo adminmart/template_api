@@ -1399,5 +1399,29 @@
             "Open Source"
         ],
         "createdOn": "14-Oct-2021"
+    },
+    {
+        "id": 60,
+        "price": 0,
+        "popularity": 1042,
+        "appType": "admin-template",
+        "details": "https://github.com/Kamona-WD/kwd-dashboard/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "kwd-dashboard",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/kwd-dashboard.jpg",
+        "subtitle": "Fully responsive dashboard template built with tailwindcss & alpinejs",
+        "livePreview": "https://kamona-wd.github.io/kwd-dashboard/",
+        "templateName": "K-WD Dashboard",
+        "description": "This is a beautiful dashboard template with various pages and components. This template includes both a light and dark theme and allows you to easily customize your colors. The template is fully responsive, includes multiple layouts and all the features necessary to create a great admin interface. ",
+        "features": [
+            "High resolution",
+            "Responsive",
+            "Dark color scheme",
+            "Well documented",
+            "Multi Pages",
+            "Authentication",
+            "Open Source"
+        ],
+        "createdOn": "02-Feb-2021"
     }
 ]
