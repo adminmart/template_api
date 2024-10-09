@@ -1423,5 +1423,27 @@
             "Open Source"
         ],
         "createdOn": "02-Feb-2021"
+    },
+    {
+        "id": 61,
+        "price": 0,
+        "popularity": 1043,
+        "appType": "landingpage",
+        "details": "https://github.com/davidgrzyb/tailwind-blog-template/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "tailwind-blog-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwind-blog-template.jpg",
+        "subtitle": "A simple blog & post template built with Tailwind and AlpineJS.",
+        "livePreview": "https://davidgrzyb.github.io/tailwind-blog-template/blog.html",
+        "templateName": "Tailwind Blog Template",
+        "description": "This project showcases a clean and minimalist blog and post template built using Tailwind CSS and AlpineJS. The template is designed to offer a responsive and user-friendly interface, making it ideal for modern web applications or personal blogs. Tailwind's utility-first CSS framework allows for quick styling customization, while AlpineJS provides lightweight, reactive components that enhance user interaction without the need for heavier JavaScript libraries. This combination results in a sleek, performant, and easily maintainable template that can be tailored to meet various content presentation needs.",
+        "features": [
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "Multi Pages",
+            "Open Source"
+        ],
+        "createdOn": "10-Apr-2020"
     }
 ]
