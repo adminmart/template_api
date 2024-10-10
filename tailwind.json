@@ -1445,5 +1445,28 @@
             "Open Source"
         ],
         "createdOn": "10-Apr-2020"
+    },
+    {
+        "id": 62,
+        "price": 0,
+        "popularity": 1044,
+        "appType": "landingpage",
+        "details": "https://github.com/tailwindtoolbox/Nordic-Store/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "Nordic-Store",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/Nordic-Store.jpg",
+        "subtitle": "Tailwind CSS Starter Template - Nordic Shop / Store",
+        "livePreview": "https://tailwindtoolbox.github.io/Nordic-Store/",
+        "templateName": "Nordic Store",
+        "description": "The Tailwind CSS Starter Template - Nordic Shop/Store is a sleek, modern, and highly customizable e-commerce template designed to provide a seamless shopping experience. Built with Tailwind CSS, this template features a minimalist design inspired by Nordic aesthetics, focusing on clean lines, simplicity, and functionality. It includes pre-designed sections for product listings, shopping carts, and checkout processes, all optimized for performance and responsive across devices. Perfect for developers and designers looking for a fast and scalable solution, this template ensures an efficient setup while maintaining a professional and user-friendly interface.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "Multi Pages",
+            "Open Source"
+        ],
+        "createdOn": "11-Dec-2019"
     }
 ]
