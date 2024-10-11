@@ -1468,5 +1468,30 @@
             "Open Source"
         ],
         "createdOn": "11-Dec-2019"
+    },
+    {
+        "id": 63,
+        "price": 0,
+        "popularity": 1045,
+        "appType": "landingpage",
+        "details": "https://github.com/ixartz/Astro-boilerplate/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "Astro-boilerplate",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/Astro-boilerplate.jpg",
+        "subtitle": "Astro is a boilerplate responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS.",
+        "livePreview": "https://creativedesignsguru.com/demo/astro-boilerplate/",
+        "templateName": "Astro Boilerplate",
+        "description": "Astro boilerplate is a starter template for a blog or portfolio based on Astro and Tailwind CSS 3.  It prioritizes developer experience and is built  with the following technologies: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode.",
+        "features": [
+            "Syntax Highlighting",
+            "SEO friendly with sitemap.xml and robots.txt",
+            "RSS feed",
+            "Pagination",
+            "Include a dark blog theme",
+            "Markdown",
+            "Image lazy loading",
+            "Responsive design"
+        ],
+        "createdOn": "03-May-2022"
     }
 ]
