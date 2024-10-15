@@ -1514,5 +1514,26 @@
             "Easy to set up and customize"
         ],
         "createdOn": "29-May-2018"
+    },
+    {
+        "id": 65,
+        "price": 0,
+        "popularity": 1047,
+        "appType": "landingpage",
+        "details": "https://github.com/tailwindtoolbox/Ghostwind/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "Ghostwind",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/Ghostwind.jpg",
+        "subtitle": "Tailwind CSS Starter Template - Ghostwind (Ghost Casper theme in Tailwind CSS)",
+        "livePreview": "https://tailwindtoolbox.github.io/Ghostwind/",
+        "templateName": "Ghostwind",
+        "description": "Ghostwind is a sleek and minimalist blog template built with Tailwind CSS, designed to provide a streamlined and efficient starting point for creating modern blogs. Featuring a clean and simple home page as well as a dedicated post page, Ghostwind offers an intuitive and responsive layout, making it an excellent choice for developers looking to build fast, lightweight, and visually appealing blog sites. With its minimal design and easy customization options, Ghostwind ensures that content remains the focus while providing a smooth user experience across all devices.",
+        "features": [
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "12-Feb-2019"
     }
 ]
