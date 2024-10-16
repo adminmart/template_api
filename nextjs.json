@@ -2409,7 +2409,12 @@
     "templateName": "Dashboard design",
     "description": "Crafting an intuitive and visually appealing dashboard is essential to provide users with a seamless data visualization experience. Next.js, a powerful React framework, offers a perfect blend of flexibility and performance to build stunning dashboards. Leveraging the dynamic routing and server-side rendering capabilities of Next.js, developers can create interactive and responsive dashboards that adapt to various screen sizes. With a myriad of pre-built components and UI libraries available, designing a feature-rich dashboard becomes an enjoyable task for developers.",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "Apexchart",
+      "1 Basic Dashboard",
+      "Tailwind CSS"
     ],
     "createdOn": ""
   },
@@ -2455,7 +2460,13 @@
     "templateName": "Next shopify starter",
     "description": "Seamlessly Integrated E-commerce: Unveiling Our Next.js + Tailwind CSS + Shopify Starter Discover the Power of Integration: Next.js, Tailwind CSS, and Shopify Combined Elevate Your E-commerce Game: Introducing the Ultimate Starter Kit for Next-gen Entrepreneurs",
     "features": [
-      
+      "Next.js + Tailwind CSS",
+      "GraphQL",
+      "localStorage to persist user session",
+      "Shopify",
+      "Vercel",
+      "Font Awesome Icons",
+      "Josefin Sans Google Font"
     ],
     "createdOn": ""
   },
@@ -2496,7 +2507,15 @@
     "templateName": "Uranium",
     "description": "Seamlessly Launch Your Website with our Ready-to-Go Next.js + Tailwind Template Welcome to the Future of Web Development: Next.js + Tailwind Website Template Accelerate Your Web Project: Introducing the Turnkey Next.js + Tailwind Solution Your Website, Elevated: Unveiling the Power of our Ready-to-Use Template",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "TypeScript",
+      "Landing Page",
+      "Tailwind CSS",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "13-Jun-2022"
   },
@@ -2514,7 +2533,16 @@
     "templateName": "Nextjs Portfolio Template",
     "description": "Present Your Work with Pride: Next.js Portfolio Template Revealed Welcome to the Next.js Portfolio Revolution: Introducing our Pre-Built Template Streamlined Portfolio Development: Unveiling the Ready-to-Go Next.js Solution Stand Out from the Crowd: Launch Your Portfolio with our Ready-Made Template",
     "features": [
-      
+      "Landing Page - greeting",
+      "Work section",
+      "Capabilities",
+      "Education",
+      "About",
+      "Projects",
+      "Work Experience",
+      "Blogs - Custom, Medium and DevTo support",
+      "Contact me",
+      "Socials"
     ],
     "createdOn": "03-Aug-2021"
   },
@@ -2586,7 +2614,16 @@
     "templateName": "Material kit react",
     "description": "Experience the seamless fusion of aesthetics and functionality with Material Kit React. Crafted to perfection using the power of React components, this UI kit brings the modern elegance of Material Design to your web applications. Immerse your users in an interface that's not only visually stunning but also highly intuitive. With a comprehensive collection of pre-designed components and templates, Material Kit React accelerates your development process, allowing you to focus on creating exceptional user experiences. Elevate your projects with smooth animations, responsive layouts, and a harmonious blend of colors, all while maintaining the consistency and usability that Material Design is renowned for.",
     "features": [
-      
+      "Next.js",
+      "React 18+",
+      "Responsive Design",
+      "TypeScript",
+      "Eslint",
+      "Custom Authentication",
+      "1 Basic Dashboard",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2604,7 +2641,19 @@
     "templateName": "Minimal kit react",
     "description": "Introducing the Minimal Dashboard, an exquisite creation meticulously crafted using React Material UI components. This dashboard exemplifies simplicity and elegance, offering a clutter-free interface that allows you to focus on what truly matters. Built upon the robust foundation of React, the Minimal Dashboard provides a seamless user experience that aligns perfectly with Material Design principles. With its clean layout and intuitive navigation, you can effortlessly monitor key metrics and insights. Dive into a world of efficiency and visual appeal, where every element serves a purpose, and complexity gives way to clarity.",
     "features": [
-      
+      "React 18+",
+      "Responsive Design",
+      "TypeScript",
+      "Eslint",
+      "Vite",
+      "Apexchart",
+      "Log in and Sign up pages",
+      "1 Basic Dashboard",
+      "5+ Page Templates",
+      "Partial theme customize",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2646,7 +2695,17 @@
     "templateName": "Horizon ui chakra",
     "description": "Step into the future of admin templates with Horizon UI JavaScript – a groundbreaking and forward-thinking open-source solution designed for Chakra UI and React. This template is a testament to innovation and modernity, presenting a cutting-edge approach to crafting admin interfaces that are both sleek and highly functional. Horizon UI JavaScript harnesses the power of Chakra UI and React to create an admin template that aligns seamlessly with contemporary design trends. Elevate your projects with an intuitive user experience, stunning visual elements, and a responsive layout that adapts effortlessly to various screen sizes. Embrace innovation and set new standards in admin template design with Horizon UI JavaScript.",
     "features": [
-      
+      "React 18+",
+      "Responsive Design",
+      "Apexchart",
+      "Log in and Sign up pages",
+      "2 Basic Dashboard",
+      "Profile",
+      "RTL Version",
+      "Data Table",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2664,7 +2723,19 @@
     "templateName": "Volt react dashboard",
     "description": "Welcome to a world of possibilities with our free and open-source React.js admin dashboard template and UI library, inspired by the excellence of Bootstrap 5. Seamlessly integrate the power of React.js with the versatility of Bootstrap 5, creating stunning and functional admin interfaces that cater to your every need. Crafted with developers in mind, this template provides a head start for your projects, delivering ready-to-use components and a responsive layout that adapts flawlessly to any device. From customization to rapid prototyping, our solution offers an unbridled canvas for creativity, ensuring you create memorable and impactful user experiences.",
     "features": [
-      
+      "React 18+",
+      "Responsive Design",
+      "Charts",
+      "1 Basic Dashboard",
+      "Demo",
+      "Quick Start",
+      "Documentation",
+      "Browser Support",
+      "Reporting Issues",
+      "Technical Support or Questions",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2705,7 +2776,19 @@
     "templateName": "React Reduction",
     "description": "Seamlessly Functional: React Reduction stands as a testament to seamless integration of React and Bootstrap 4. This free admin template reimagines efficiency, offering an intuitive interface that empowers you to manage tasks effortlessly.",
     "features": [
-      
+      "React",
+      "Responsive Design",
+      "Charts",
+      "1 Basic Dashboard",
+      "UI Components",
+      "Log in and Sign up pages",
+      "Table",
+      "Browser Support",
+      "Cards",
+      "Technical Support or Questions",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
