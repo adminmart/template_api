@@ -2802,7 +2802,16 @@
     "templateName": "Tabler React",
     "description": "Dive into the world of React components nestled within the captivating Tabler UI theme. Unveil a realm where functionality and aesthetics harmonize, as we dissect the building blocks that power this seamless user experience. Journey through an exploration that uncovers the marriage of design and interactivity, showcasing the ingenious synergy between Tabler's visual appeal and React's dynamic components.",
     "features": [
-      
+      "React",
+      "Responsive Design",
+      "Charts",
+      "Browser Support",
+      "Cards",
+      "Source code",
+      "Technical Support or Questions",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },
@@ -2820,7 +2829,18 @@
     "templateName": "Shards dashboard react",
     "description": "Open the door to elegance and sophistication with our suite of complimentary React admin dashboard templates. Witness the art of design in motion as you navigate through these meticulously crafted interfaces, each reflecting a blend of seamless user experience and eye-catching visuals. Elevate your project with these free treasures, and reimagine the way you manage your data.",
     "features": [
-      
+      "React",
+      "Responsive Design",
+      "Shards React",
+      "Browser Support",
+      "Chart.js",
+      "Flux",
+      "No UI Slider",
+      "React Datepicker",
+      "Quill",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": ""
   },

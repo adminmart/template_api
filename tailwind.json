@@ -1539,7 +1539,7 @@
     {
         "id": 66,
         "price": 0,
-        "popularity": 1047,
+        "popularity": 1048,
         "appType": "admin-template",
         "details": "https://github.com/estevanmaito/windmill-dashboard-react/archive/refs/heads/master.zip",
         "category": "Tailwind",
@@ -1562,5 +1562,28 @@
             "PWA delivering offline-first and an app-like experience"
         ],
         "createdOn": "16-Jun-2020"
+    },
+    {
+        "id": 67,
+        "price": 0,
+        "popularity": 1049,
+        "appType": "landingpage",
+        "details": "https://github.com/web3templates/stablo/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "stablo",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/stablo.jpg",
+        "subtitle": "Stablo is a minimal blog website template built with Next.js, TailwindCSS & Sanity CMS",
+        "livePreview": "https://stablo.web3templates.com/",
+        "templateName": "Stablo",
+        "description": "Stablo is an open-source, minimal blog website template built with Next.js, Tailwind CSS & Sanity CMS. This is the free version of the premium Stablo blog template made by Web3Templates. Built with Next.js and Tailwind CSS, the free version of Stablo is empowered by Sanity CMS and allows you to set up a fully functional personal/startup blog with just one click.",
+        "features": [
+            "Next.js v3",
+            "Tailwind CSS v3",
+            "Sanity CMS Integration",
+            "One-Click Deploy",
+            "Light & Dark Mode",
+            "5 working pages"
+        ],
+        "createdOn": "19-May-2022"
     }
 ]
