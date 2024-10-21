@@ -2910,7 +2910,17 @@
     "templateName": "Fct Project",
     "description": "Define the scope of your project. Determine whether you want to focus on restaurant booking, online ordering, or both. List the features and requirements you want to include, such as user registration, menu management, reservation system, order processing, and payment integration.",
     "features": [
-      
+      "NextJs 13+",
+      "React",
+      "Responsive Design",
+      "chart.js",
+      "Browser Support",
+      "Chart.js",
+      "Eslint",
+      "Tailwind CSS",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "03-Apr-2023"
   },
@@ -2928,7 +2938,16 @@
     "templateName": "Hoobank",
     "description": "It sounds like you're describing a landing page called Hoobank that has been built using Next.js and Tailwind CSS, two popular technologies for web development. Let's break down what each of these technologies is and how they might contribute to the modern UI/UX of the landing page",
     "features": [
-      
+      "NextJs 13+",
+      "React",
+      "Responsive Design",
+      "chart.js",
+      "Browser Support",
+      "TypeScript",
+      "Tailwind CSS",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "22-Apr-2023"
   },
