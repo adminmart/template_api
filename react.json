@@ -2961,7 +2961,13 @@
     "templateName": "Reactjs Nextjs Ecommerce",
     "description": "Next.js is a powerful framework for building React applications, and it provides an excellent foundation for creating feature-rich ecommerce websites. Leveraging the benefits of server-side rendering (SSR) and a simplified development workflow, Next.js ensures a seamless and performant user experience.",
     "features": [
-      
+      "NextJs 13+",
+      "React",
+      "Sanity",
+      "Stripe",
+      "Add products and banners with Sanity dashboard.",
+      "Add products to shopping cart.",
+      "Pay with Stripe (Since Stripe is not available in Turkey, it is not yet fully implemented)."
     ],
     "createdOn": "08-Sep-2022"
   },
@@ -2979,7 +2985,16 @@
     "templateName": "Nextjs Prisma Auth Template",
     "description": "A Next.js Prisma Auth Template would likely be a starting point for building web applications with authentication using Next.js for the frontend, Prisma for database interaction, and some authentication mechanism (e.g., OAuth, JWT, or traditional username/password). Here's a hypothetical paragraph describing the key features",
     "features": [
-      
+      "NextJs 13+",
+      "Responsive Design",
+      "Prisma",
+      "Browser Support",
+      "TypeScript",
+      "Tailwind CSS",
+      "tRPC",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "21-Sep-2022"
   },
@@ -2997,7 +3012,16 @@
     "templateName": "Nft Marketplace",
     "description": "The NOTROX APEs NFT marketplace is a revolutionary platform that caters exclusively to the vibrant ecosystem of unique and digitally crafted NOTROX APE non-fungible tokens (NFTs). NOTROX APEs, characterized by their distinctive and captivating visual designs, have gained immense popularity in the digital art and collectibles space.",
     "features": [
-      
+      "NextJs 13+",
+      "Responsive Design",
+      "NextUI v2",
+      "Browser Support",
+      "TypeScript",
+      "Tailwind CSS",
+      "Tailwind Variants",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "08-Sep-2023"
   },
