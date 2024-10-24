@@ -3039,7 +3039,15 @@
     "templateName": "Persa_app",
     "description": "The project structure follows best practices, employing modular components and organized directories for a clean and maintainable codebase. To further enrich my learning experience, I've integrated state management using React hooks and explored advanced routing techniques offered by Next.js.",
     "features": [
-      
+      "React",
+      "NextJs",
+      "Responsive Design",
+      "React Bootstrap",
+      "Browser Support",
+      "Landingpage Page",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
     ],
     "createdOn": "14-Feb-2021"
   },
