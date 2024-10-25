@@ -1585,5 +1585,28 @@
             "5 working pages"
         ],
         "createdOn": "19-May-2022"
+    },
+    {
+        "id": 68,
+        "price": 0,
+        "popularity": 1050,
+        "appType": "landingpage",
+        "details": "https://github.com/ttntm/11ty-landing-page/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "11ty-landing-page",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/11ty-landing-page.jpg",
+        "subtitle": "imple landing page built with 11ty and Tailwind CSS.",
+        "livePreview": "https://ttntm.github.io/11ty-landing-page/",
+        "templateName": "11ty Landing Page",
+        "description": "This streamlined landing page, crafted using 11ty (Eleventy) and Tailwind CSS, exemplifies modern, efficient web development. With 11ty, a static site generator known for its flexibility and performance, content is served swiftly, providing users with a seamless browsing experience. Tailwind CSS complements this by enabling highly customizable, responsive design, ensuring the page looks polished across all devices. This combination of technologies produces a clean, minimalist aesthetic while maintaining excellent performance metrics, making the landing page both visually appealing and technically robust.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "PostCSS for processing Tailwind CSS and integrated to styled-jsx",
+            "Open Source"
+        ],
+        "createdOn": "31-Mar-2021"
     }
 ]
