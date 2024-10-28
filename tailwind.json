@@ -1608,5 +1608,28 @@
             "Open Source"
         ],
         "createdOn": "31-Mar-2021"
+    },
+    {
+        "id": 69,
+        "price": 0,
+        "popularity": 1051,
+        "appType": "landingpage",
+        "details": "https://github.com/r1/nine4-3/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "nine4-3",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/nine4-3.jpg",
+        "subtitle": "Elegant & Responsive Design: NINE4 Template 3 for Modern Web Solutions.",
+        "livePreview": "https://nine4-3.vercel.app/",
+        "templateName": "NINE4 Template 3",
+        "description": "This template is the third in the NINE4 series by Jack Latimer. It is a beautifully crafted dark-themed landing page that can be used for any SaaS or business. It is built on top of Next.js, bootstrapped with create-next-app, and styled with TailwindCSS.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "PostCSS for processing Tailwind CSS and integrated to styled-jsx",
+            "Open Source"
+        ],
+        "createdOn": "10-Mar-2021"
     }
 ]
