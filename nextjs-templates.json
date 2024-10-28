@@ -739,7 +739,106 @@
       }
     ]
   },
-
+  {
+    "id": 15,
+    "price": 9,
+    "popularity": 200,
+    "appType": "Website",
+    "details": "#",
+    "downloads": "#",
+    "category": "NextJs",
+    "buyUrl": "https://nextjstemplates.lemonsqueezy.com/buy/c2816ea8-faaa-4181-8b1c-add3f367d8c6",
+    "imageAlt": "endeavor-next-js-website",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/endeavor/endeavor-nextjs-14-website-template.jpg",
+    "subtitle": "Inspiring Generosity Through Innovation With Endeavor Next.js Pro",
+    "livePreview": "https://endeavor-nextjs-pro.vercel.app/",
+    "templateName": "Endeavor Pro Nextjs 14 Charity Website Templet",
+    "description": "The Endeavor Pro Charity Website Template is a modern and responsive solution designed for nonprofits, charitable organizations, and fundraising initiatives. Built with Next.js 14 and Tailwind CSS, this template offers a sleek and user-friendly experience, ensuring your mission is communicated effectively.",
+    "features": [
+      "React 18+",
+      "NextJs 14+",
+      "Tailwind",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "03-Aug-2024",
+    "updatedOn": "09-Aug-2024",
+    "demos": [
+      {
+        "title": "Home Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/endeavor-nextjs-14-website-template.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/"
+      },
+      {
+        "title": "Cause List Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/innerpage/endeavor-nextjs-14-cause-list-page.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/cause"
+      },
+      {
+        "title": "Cause Detail Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/innerpage/endeavor-nextjs-14-cause-detail-page.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/cause/cause-1"
+      },
+      {
+        "title": "Event List Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/innerpage/endeavor-nextjs-14-event-list-page.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/events"
+      },
+      {
+        "title": "Event Detail Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/innerpage/endeavor-nextjs-14-event-detail-page.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/events/event-1"
+      },
+      {
+        "title": "Blog List Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/innerpage/endeavor-nextjs-14-blog-list-page.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/blog"
+      },
+      {
+        "title": "Blog Detail Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/innerpage/endeavor-nextjs-14-blog-detail-page.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/blog/blog_1"
+      },
+      {
+        "title": "Contact Page",
+        "image": "https://adminmart.github.io/template_api/images/website-template/endeavor/innerpage/endeavor-nextjs-14-contact-page.png",
+        "livedemo": "https://endeavor-nextjs-pro.vercel.app/contact"
+      }
+    ],
+    "frameworkName": [
+      {
+        "name": "Tailwind",
+        "version": "3.4.1"
+      },
+      {
+        "name": "react.Js",
+        "version": "18"
+      },
+      {
+        "name": "react-slick",
+        "version": "0.30.2"
+      },
+      {
+        "name": "aos",
+        "version": "2.3.4"
+      },
+      {
+        "name": "Next.Js",
+        "version": "14.2.4"
+      },
+      {
+        "name": "next-auth",
+        "version": "4.24.7"
+      },
+      {
+        "name": "slick-carousel",
+        "version": "1.8.1"
+      }
+    ]
+  },
   {
     "id": 1,
     "price": 0,
