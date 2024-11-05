@@ -1654,5 +1654,57 @@
             "Open Source"
         ],
         "createdOn": "10-Mar-2021"
+    },
+    {
+        "id": 71,
+        "price": 0,
+        "popularity": 1053,
+        "appType": "admin-template",
+        "details": "https://github.com/themesberg/tailwind-dashboard-windster/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "tailwind-dashboard-windster",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwind-dashboard-windster.jpg",
+        "subtitle": "Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite",
+        "livePreview": "https://demo.themesberg.com/windster/",
+        "templateName": "Windster",
+        "description": "Windster is a free and open-source Tailwind CSS admin dashboard template with a responsive sidebar layout, authentication pages, charts, users, and various product pages. It includes hundreds of Tailwind CSS components from the Flowbite component library, such as buttons, dropdowns, navbars, modals, and date pickers.",
+        "features": [
+            "Demo",
+            "Quick Start",
+            "Documentation",
+            "Folder Structure",
+            "Browser Support",
+            "Resources",
+            "Upgrade to PRO",
+            "Reporting Issues",
+            "Technical Support or Questions",
+            "Licensing",
+            "Useful Links"
+        ],
+        "createdOn": "15-Nov-2021"
+    },
+    {
+        "id": 72,
+        "price": 0,
+        "popularity": 1054,
+        "appType": "admin-template",
+        "details": "https://github.com/tailwindtoolbox/Admin-Template/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "Admin-Template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/Admin-Template.jpg",
+        "subtitle": "Tailwind CSS Starter Template - Admin Dashboard Template",
+        "livePreview": "https://tailwindtoolbox.github.io/Admin-Template/",
+        "templateName": "Admin Dashboard Template",
+        "description": "Admin Dashboard Template is a well-designed dashboard for any application, SaaS, or project. The template is open-source, built with Tailwind CSS, and created by Tailwind Toolbox. It has multiple well-designed and fully responsive UI elements and components. The template is just an HTML file using a full CDN hosted Tailwind CSS file.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Responsive",
+            "Chart.js",
+            "Well documented",
+            "PostCSS for processing Tailwind CSS and integrated to styled-jsx",
+            "Open Source"
+        ],
+        "createdOn": "03-Oct-2018"
     }
 ]
