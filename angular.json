@@ -73,7 +73,7 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/flexy-free-angular.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/flexy-angular-free/landingpage/index.html?ref=342",
-    "templateName": "Flexy Material Angular 17 Free",
+    "templateName": "Flexy Material Angular 18 Free",
     "description": "A free Flexible Angular Dashboard Template based on the Material Angular Framework is called Flexy Angular Lite. Its modular design makes it simple to customize, and it includes a wide range of reusable gorgeous UI elements. Because it is responsive by design, this Flexy Angular Admin Dashboard Template is compatible with all smartphone, desktop, and laptop screen sizes. It creates consistent web designs and improved user experiences by combining the fundamental Angular components with pre-established design patterns and re-styling plugins.",
     "features": [
       "7 Page Templates",
@@ -101,13 +101,13 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2022/03/flexy-angular-pro.jpg",
     "subtitle": "Premium Angular Admin Dashboard Template",
     "livePreview": "https://www.wrappixel.com/templates/flexy-material-angular-admin/#demos?ref=342",
-    "templateName": "Flexy Material Angular 17 Template",
+    "templateName": "Flexy Material Angular 18 Template",
     "description": "This Flexy Angular Admin Dashboard Template offers a smooth experience that is both appealing and thought-provoking. Some of the most well-known angular components that assist businesses in streamlining their monitoring systems were expertly used to create this particular Angular Material Dashboard. Some of the high-end industries, like the pharmaceutical industry, can use the robust Material UI Dashboard for pharma data analytics, predictive pharma analytics, health insurance dashboards, and medical admin dashboards. Flexy is a multipurpose template that can be used to create any type of admin panel for any industry. This dashboard WebApp template is very interesting since it draws inspiration from Google's Material Design, making it the most useful and trustworthy dashboard to use.",
     "features": [
       "RTL Dashboard Version",
       "6 Unique Demos",
       "3+ Unique Dashboards",
-      "Angular 17+",
+      "Angular 18+",
       "PSDs for Dashboard Pages",
       "3000+ Font Icons",
       "Completely Responsive Pages",
@@ -134,12 +134,12 @@
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-angular-lite-y.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
     "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/material-angular-free/landingpage/index.html?ref=342",
-    "templateName": "MaterialPro Angular 17 Lite",
+    "templateName": "MaterialPro Angular 18 Lite",
     "description": "This free Material Dashboard Template based on the Angular Framework is called MaterialPro Angular Lite. Its modular design makes it simple to customize, and it includes a wide range of reusable gorgeous UI elements. Because it is responsive by design, the MaterialPro Angular Admin Dashboard Template is compatible with all smartphone, desktop, and laptop screen sizes. To create consistent web designs and improved user interfaces, Free Material Pro Angular combines the key Angular components with pre-set design patterns and re-styling plugins.",
     "features": [
       "7 Page Templates",
       "10 UI Components",
-      "Angular 17+",
+      "Angular 18+",
       "10+ Integrated Plugins",
       "Lifetime Free Updates",
       "Few Ready to Use Widgets",
@@ -190,27 +190,30 @@
     "price": 0,
     "popularity": 305,
     "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminpro-angular-lite?ref=342",
+    "details": "https://www.wrappixel.com/templates/spike-free-angular-admin-template/?ref=342",
     "category": "Angular",
-    "imageAlt": "adminpro-angular-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-angular-lite-y.jpg",
+    "imageAlt": "Spike-Admin-Angular-WrapPixel-Preview-1",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2023/10/Spike-Admin-Angular-WrapPixel-Preview-1.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/adminpro-angular-free/landingpage/index.html?ref=342",
-    "templateName": "AdminPro Angular 17 Lite",
-    "description": "The efficient Angular Admin Dashboard Template AdminPro Angular Lite has been painstakingly built and is jam-packed with all the tools you need to build gorgeous, high-performance Admin Dashboards. It features plenty of white space, cool neutral tones, and a minimalist design ethos. One of the most potent, dynamic, and effective free Angular Themes available on our market is AdminPro Angular Lite. The angular theme's free edition includes fully responsive pages, basic table examples, 10+ UI Components, and more than seven-page templates. For more features, upgrade to the pro edition of AdminPro Angular before using it for personal or professional projects.",
+    "livePreview": "https://bootstrapdemos.wrappixel.com/spike-angular-free/landingpage/index.html?ref=342",
+    "templateName": "Spike Free Angular Admin Template",
+    "description": "Spike Free Angular Admin Template is a powerful, professional-grade template designed to streamline the development of responsive and high-performance admin dashboards. Built on the latest Angular framework, it combines a clean, modern interface with robust functionality, making it ideal for a range of applications from SaaS platforms to e-commerce admin panels. Spike Free is packed with essential features, including customizable UI components, pre-built widgets, and advanced charting options, enabling developers to create dynamic, data-driven applications with ease. Its modular design and intuitive layout prioritize scalability and flexibility, ensuring that the template can adapt to growing project needs. With Spike Free, developers can accelerate their workflow, maintain high coding standards, and deliver a polished, user-friendly experience.",
     "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "Angular 17+",
-      "10+ Integrated Plugins",
-      "Lifetime Free Updates",
-      "Few Ready to Use Widgets",
-      "3 Table Example",
-      "100+ Font Icon",
-      "1 or 2 Chart Options"
+      "1 Basic Dashboard",
+      "10+ Pages Template",
+      "5+ UI Components",
+      "Angular 18 Version",
+      "Material Angular",
+      "Tabler Icons",
+      "Google Fonts",
+      "Code splitting",
+      "Organized Code Structure",
+      "SCSS Base CSS",
+      "Easy To Customize",
+      "Fully Responsive Pages"
     ],
-    "createdOn": "17-Jan-2018",
-    "frameworkName": "Ng Bootstrap",
+    "createdOn": "17-Oct-2023",
+    "frameworkName": "Material Angular",
     "doFollow": true
   },
   {
@@ -218,33 +221,39 @@
     "price": 49,
     "popularity": 306,
     "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminpro-angular-dashboard?ref=342",
+    "details": "https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=342",
     "category": "Angular",
-    "imageAlt": "adminpro-angular-dashboard-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-angular-dashboard-y.jpg",
+    "imageAlt": "spike-angular-admin-wpn",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg",
     "subtitle": "Premium Angular Admin Dashboard Template",
-    "livePreview": "https://www.wrappixel.com/templates/adminpro-angular-dashboard/#demos?ref=342",
-    "templateName": "AdminPro Angular 17 Admin",
-    "description": "Consider this AdminPro Angular Admin Dashboard Template if user experience, flexibility, and customization are your top priorities. With its capabilities, the Premium Admin UI Dashboard is profitable and useful in a variety of settings, including Web Series Dashboard, Google Analytics Web Dashboard, Subscriber Admin Dashboard, and others. The components of this exquisitely designed Angular Admin Dashboard Template, which uses an improved Angular framework that is a Typescript framework, aid in the development of sophisticated WebApps. When further examined, this angular admin panel provides a variety of components, ready-to-use plugins, and a great deal more functionality to create a better environment for user experience. Additionally, you have access to a variety of color schemes, original demos, and page templates that were entirely created using the modular design concept.",
+    "livePreview": "https://www.wrappixel.com/templates/spike-angular-admin-template/#demos?ref=342",
+    "templateName": "Spike Angular Admin Template",
+    "description": "Spike Angular Admin Template is a versatile and comprehensive admin template crafted for building robust and interactive web applications. Leveraging the latest Angular framework, Spike is designed to provide a seamless development experience, offering a suite of fully customizable components, responsive layouts, and visually appealing design elements. This template is packed with pre-configured modules, advanced charting tools, and dynamic widgets, making it perfect for creating scalable dashboards, CRM systems, and analytics platforms. Spike’s clean code structure and modular architecture make it highly maintainable and adaptable to various project requirements. By using the Spike Angular Admin Template, developers can save significant time while delivering a refined, user-focused interface that enhances overall productivity and user engagement.",
     "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Angular 17+",
-      "3+ Unique Dashboards",
-      "6 Color Skins",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Dashboard Pages PSD",
-      "Data Tables",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "Easy Customization"
+      "2+ Stunning Dashboards",
+      "80+ Page Templates",
+      "50+ UI Components",
+      "10+ Integrated Plugins",
+      "Material Angular",
+      "Angular Landing Page",
+      "1 Year Premium Support",
+      "3400+ Font Icons",
+      "Lots of Charts Added",
+      "Angular 18 Version",
+      "Fully Responsive Pages",
+      "6+ Unique Demos",
+      "12+ Ready to Use App",
+      "Almost all pages Figma Files",
+      "Documentation Provided",
+      "Lots of Widgets",
+      "Tons of Table Example",
+      "Variety of Forms Included",
+      "SCSS Base CSS",
+      "i18n Added",
+      "Easy to Customize"
     ],
-    "createdOn": "17-Jan-2018",
-    "frameworkName": "Ng Bootstrap",
+    "createdOn": "16-Oct-2023",
+    "frameworkName": "Material Angular",
     "doFollow": true
   },
   {
@@ -252,24 +261,30 @@
     "price": 0,
     "popularity": 307,
     "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-angular-lite?ref=342",
+    "details": "https://www.wrappixel.com/templates/materialm-free-angular-18-material-template/?ref=342",
     "category": "Angular",
-    "imageAlt": "xtreme-angular-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-angular-lite-y.jpg",
+    "imageAlt": "MaterialM_Free_version_Angular",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM_Free_version_Angular.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/xtreme-angular-free/landingpage/index.html?ref=342",
-    "templateName": "Xtreme Angular 17 Admin Lite",
-    "description": "Xtreme Angular Admin Lite is carefully hand crafted Angular 17 admin template of 2022. It's awesome and clean design with great colors & modular approach will please your eyes. Xtreme Angular Admin Lite is completely free to download and use for your personal as well as commercial projects.",
+    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/materialm-angular-free/landingpage/index.html?ref=342",
+    "templateName": "MaterialM Free Angular 18 Material Template",
+    "description": "MaterialM Free Angular 18 Material Template is a sleek, professional template that brings the power of Angular 18 and Google's Material Design to modern web applications. This free template offers a carefully crafted layout with intuitive, responsive design elements, making it ideal for creating functional and visually appealing admin dashboards, data-driven applications, and internal tools. Built with Angular 18, MaterialM includes a range of pre-built components, cards, tables, and forms that are easy to customize and integrate, enabling developers to implement Material Design standards effortlessly. Its modular architecture, combined with the latest Angular performance enhancements, ensures a smooth, efficient development process. With MaterialM, developers have access to a high-quality template that accelerates project timelines while delivering a polished, user-friendly experience.",
     "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "Angular 17+",
-      "10+ Integrated Plugins",
-      "Lifetime Free Updates",
-      "Few Ready to Use Widgets"
+      "1 Basic Dashboard",
+      "10+ Pages Template",
+      "5+ UI Components",
+      "Angular 18 Version",
+      "Material Angular",
+      "Solar Icons",
+      "Google Fonts",
+      "Code splitting",
+      "Organized Code Structure",
+      "SCSS Base CSS",
+      "Easy To Customize",
+      "Fully Responsive Pages"
     ],
-    "createdOn": "04-July-2019",
-    "frameworkName": "Ng Bootstrap",
+    "createdOn": "18-Sept-2024",
+    "frameworkName": "Material Angular",
     "doFollow": true
   },
   {
@@ -277,382 +292,43 @@
     "price": 49,
     "popularity": 308,
     "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-angular-admin?ref=342",
+    "details": "https://www.wrappixel.com/templates/materialm-material-angular-dashboard-template/?ref=342",
     "category": "Angular",
-    "imageAlt": "xtreme-angular-admin-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-angular-admin-y.jpg",
+    "imageAlt": "MaterialM-angular-pro-version",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-angular-pro-version.jpg",
     "subtitle": "Premium Angular Admin Dashboard Template",
-    "livePreview": "https://www.wrappixel.com/templates/xtreme-angular-admin/#demos?ref=342",
-    "templateName": "Xtreme Angular 17 Template",
-    "description": "While considering a masterpiece and the most successful Angular admin theme ever created by WrapPixel is Xtreme Angular 17+ Admin. A perfect combination of robust functionality and minimalist design of this responsive angular admin dashboard template helps developers to implement easily for their commercial projects. Xtreme Angular 17+ Admin is known for its consistency and creativity with modern as well as a modular design. Gone are the days when you had to pay a high amount to a designer just for the dashboard with your ideas. The premium angular admin panel template is completely responsive and offers a lot of customization options with a perfect bunch of components, ready-to-use plugins and elements for your commercial projects.",
+    "livePreview": "https://www.wrappixel.com/templates/materialm-material-angular-dashboard-template/#demos?ref=342",
+    "templateName": "MaterialM Material Angular Dashboard Template",
+    "description": "MaterialM Material Angular Dashboard Template is a dynamic and powerful template designed for developers aiming to build sophisticated, high-performance dashboards and admin panels. Based on Angular and Google's Material Design, this template combines modern aesthetics with functional components, making it ideal for a variety of web applications, from data analytics to enterprise-level systems. MaterialM provides a comprehensive suite of pre-designed widgets, charts, and interactive elements that can be easily customized to meet unique project requirements. Its responsive design ensures compatibility across devices, while its modular architecture supports scalability and code reusability. With MaterialM, developers gain a polished, user-centric dashboard template that streamlines the development process and enhances end-user experience with seamless navigation and clear data visualization.",
     "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Range Slider",
-      "Angular 17+",
-      "10+ Unique Dashboards",
-      "6 Color Skins",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table export to PDF, Excel, CSV",
-      "Dashboard Pages PSD",
-      "Data Tables",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "Easy Customization"
+      "3+ Stunning Dashboards",
+      "80+ Page Templates",
+      "50+ UI Components",
+      "10+ Integrated Plugins",
+      "Material Angular",
+      "Angular Landing Page",
+      "1 Year Premium Support",
+      "3400+ Font Icons",
+      "Lots of Charts Added",
+      "Angular 18 Version",
+      "Fully Responsive Pages",
+      "6+ Unique Demos",
+      "12+ Ready to Use App",
+      "Almost all pages Figma Files",
+      "Documentation Provided",
+      "Lots of Widgets",
+      "Tons of Table Example",
+      "Variety of Forms Included",
+      "SCSS Base CSS",
+      "i18n Added",
+      "Easy to Customize"
     ],
-    "createdOn": "21-June-2018",
-    "frameworkName": "Ng Bootstrap",
+    "createdOn": "18-Sept-2024",
+    "frameworkName": "Material Angular",
     "doFollow": true
   },
   {
     "id": 11,
-    "price": 0,
-    "popularity": 309,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monster-angular-lite?ref=342",
-    "category": "Angular",
-    "imageAlt": "monster-angular-lite-admin-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-angular-lite-admin-y.jpg",
-    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/monster-angular-free/landingpage/index.html?ref=342",
-    "templateName": "Monster Angular 17 Lite",
-    "description": "Free monster admin angular is well received amongst users for admin dashboards and control admin panels.Monster Angular Admin Lite is carefully hand crafted sober admin template of 2023. Its awesome and clean design with great colors will amaze your eyes in no time. Monster Admin Lite is completely free to download and use for your personal projects.",
-    "features": [
-      "1 Basic Dashboard",
-      "SaSS Base CSS",
-      "7+ Page Templates",
-      "Easy To Customize",
-      "10+ UI Components",
-      "Angular 17+",
-      "Fully Responsive Pages"
-    ],
-    "createdOn": "01-Jan-2018",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 12,
-    "price": 49,
-    "popularity": 310,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monster-angular-dashboard?ref=342",
-    "category": "Angular",
-    "imageAlt": "monster-angular-admin-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-angular-admin-y.jpg",
-    "subtitle": "Premium Angular Admin Dashboard Template",
-    "livePreview": "https://www.wrappixel.com/templates/monster-angular-dashboard/#demos?ref=342",
-    "templateName": "Monster Angular 17 Admin Dashboard",
-    "description": "You always have a preference for using the most recognized, trusted and verified premium Angular 17 UI dashboard for all of your commercial projects. The list does not end here, you have also got the support of a powerful Angular 17/ CLI framework to give midas touch for all your commercial WebApp projects. Eventually, Monster Angular Admin is fully responsive, customizable and offers vast options for dashboards, demos, colour schemes and lot many other essential features. This Angular CLI admin template offers components, plugins, Calendar, email app, chat app, contact app, todo list app, and ready-to-use widgets that are simple, minimalist and high performing for any projects.",
-    "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Range Slider",
-      "Angular 17+",
-      "10+ Unique Dashboards",
-      "6 Color Skins",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table export to PDF, Excel, CSV",
-      "Dashboard Pages PSD",
-      "Data Tables",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "Easy Customization"
-    ],
-    "createdOn": "01-Jan-2018",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 13,
-    "price": 0,
-    "popularity": 311,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/nice-admin-angular-lite?ref=342",
-    "category": "Angular",
-    "imageAlt": "nice-angular-admin-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/nice-angular-admin-lite-y.jpg",
-    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/nice-angular-free/landingpage/index.html?ref=342",
-    "templateName": "Nice Admin Angular 17 Lite",
-    "description": "Free Nice Admin Angular Admin is well received amongst users for admin dashboards and control admin panels.Nice Admin Angular Lite is carefully hand crafted Angular 17 admin template of 2023. Its awesome and clean design with great colors & modular design will amaze your eyes in no time. This Angular Admin is completely free to download and use for your personal projects.",
-    "features": [
-      "1 Basic Dashboard",
-      "SaSS Base CSS",
-      "7+ Page Templates",
-      "Easy To Customize",
-      "10+ UI Components",
-      "10+ Integrated Plugins",
-      "Basic Table Examples",
-      "Angular 17+",
-      "Font Awesome Icons",
-      "Google Map",
-      "Fully Responsive Pages"
-    ],
-    "createdOn": "11-Jan-2019",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 14,
-    "price": 49,
-    "popularity": 312,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/niceadmin-angular?ref=342",
-    "category": "Angular",
-    "imageAlt": "nice-angular-admin-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/nice-angular-admin-y.jpg",
-    "subtitle": "Premium Angular Admin Dashboard Template",
-    "livePreview": "https://www.wrappixel.com/templates/niceadmin-angular/#demos?ref=342",
-    "templateName": "Nice Admin Angular 17 Dashboard",
-    "description": "Are you looking for a best angular 17 dashboard that helps you to give a stunning look to your WebApp? Well, Nice Admin Angular Dashboard provides a seamless user experience with its customization and remarkable features. The premium angular template has a fresh, outperforming and easy-to-use design. It also offers the integration features to other projects helping you to save time and development cost to start from scratch. The Angular responsive UI template has a clean coding structure and is designed using the most prolific as well as essential Angular framework components. Having the base of Angular framework, this template and modular design with excellent SEO optimized architecture makes it the most unique Angular powered- admin template. ",
-    "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Angular 17+",
-      "3+ Unique Dashboards",
-      "PSDs Files for Dashboard Pages",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Clean and Modern Design",
-      "Data Table",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 color skins"
-    ],
-    "createdOn": "11-Jan-2019",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 15,
-    "price": 0,
-    "popularity": 313,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/elite-angular-lite?ref=342",
-    "category": "Angular",
-    "imageAlt": "elite-angular-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/elite-angular-lite-y.jpg",
-    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/elite-angular-free/landingpage/index.html?ref=342",
-    "templateName": "Elite Angular 16 Lite",
-    "description": "Looking for a powerful and easily customizable angular admin template to build your website or app? WrapPixel's Elite Angular 16 Lite is a competent, powerful, and carefully handcrafted Angular Admin Template with a clean and minimalist design aesthetic. The template has been used by thousands of developers across the globe and is one of the most sought-after free Angular templates online.",
-    "features": [
-      "7+ Page Templates",
-      "10 UI Components",
-      "10+ Integrated Plugins",
-      "Few Ready to Use Widgets",
-      "Angular 16+",
-      "3 Table Example",
-      "100+ Font Icon",
-      "1 or 2 Chart Options"
-    ],
-    "createdOn": "17-Apr-2018",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 16,
-    "price": 49,
-    "popularity": 314,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/elite-angular-admin?ref=342",
-    "category": "Angular",
-    "imageAlt": "elite-angular-admin-template-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/elite-angular-admin-template-y.jpg",
-    "subtitle": "Premium Angular Admin Dashboard Template",
-    "livePreview": "https://www.wrappixel.com/templates/elite-angular-admin/#demos?ref=342",
-    "templateName": "Elite Angular 17 Admin",
-    "description": "Elite Angular Admin is well received amongst users for admin dashboards and control admin panels.Elite Angular Dashboard is a powerful Angular 17 / CLI WebApp template for angular admin dashboards and control admin panels. Elite Angular Admin is fully responsive Angular 17 / CLI template, based on the Angular framework. It includes 80+ Page Templates, 50+ Ready to Use Angular Components, 3 Unique Dashboards, 6 Unique Demos and lots more for your user interface for backend applications. Elite Angular Dashboard is based on a modular design, which allows it to be easily customised and built upon.",
-    "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Angular 17+",
-      "4+ Unique Dashboards",
-      "PSDs Files for Dashboard Pages",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Clean and Modern Design",
-      "Data Table",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 color skins"
-    ],
-    "createdOn": "17-Feb-2018",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 17,
-    "price": 0,
-    "popularity": 315,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/ample-angular-dashboard-free?ref=342",
-    "category": "Angular",
-    "imageAlt": "ample-angular-dashboard-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/10/ample-angular-dashboard-lite-y.jpg",
-    "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/landingpage/index.html?ref=342",
-    "templateName": "Ample Angular 17 Dashboard Lite",
-    "description": "WrapPixel’s Ample Angular Dashboard Lite is a free angular dashboard theme providing essential features at no extra cost like chart options, stunning font icons, ready-to-use widgets, regular updates for free, UI components, page templates, integrated plugins and much more. It has a minimalist design with neutral colors and adequate whitespaces.",
-    "features": [
-      "1 Basic Dashboard",
-      "7+ Page Templates",
-      "10 UI Components",
-      "10+ Integrated Plugins",
-      "Few Ready to Use Widgets",
-      "Angular 17+"
-    ],
-    "createdOn": "13-Oct-2020",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 18,
-    "price": 49,
-    "popularity": 316,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/ample-admin-angular?ref=342",
-    "category": "Angular",
-    "imageAlt": "ample-admin-angular-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-angular-y.jpg",
-    "subtitle": "Premium Angular Admin Dashboard Template",
-    "livePreview": "https://www.wrappixel.com/templates/ample-admin-angular/#demos?ref=342",
-    "templateName": "Ample Admin Angular 17",
-    "description": "Do you want to build your web apps and websites in a quick and hassle-free manner, using efficient customization options and powerful UI elements? Ample Admin Angular 17 is the complete package that you're looking for. It incorporates a host of indispensable features and functionalities together with ease of integration for different types of angular web development projects. ",
-    "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Angular 17+",
-      "6+ Unique Dashboards",
-      "6 color skins",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Dashboard Pages PSD",
-      "Data Table",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "Easy Customization"
-    ],
-    "createdOn": "09-Dec-2019",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 19,
-    "price": 0,
-    "popularity": 317,
-    "appType": "web-template",
-    "details": "https://www.wrappixel.com/templates/free-wrapkit-angular-blog?ref=342",
-    "category": "Angular",
-    "imageAlt": "angular-blog",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/04/angular-blog.jpg",
-    "subtitle": "Free & Open-Source Angular Admin web Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/blog-angular-free/landingpage/index.html?ref=342",
-    "templateName": "Free Wrapkit Angular Blog",
-    "description": "Free Wrapkit Angular Blog Template is a carefully handcrafted, resourceful Angular template that comes packed with all the features you need to create stunning, high-performance angular blog, we also provide angular admin dashboards. It follows a Ng Bootstrap components and ample whitespace.",
-    "features": [
-      "Basic Homepage",
-      "Angular 16+",
-      "Blog Lising",
-      "Blog Detail Page",
-      "About Page",
-      "Font Awesome Icons",
-      "Easy To Customize",
-      "SaSS Base CSS",
-      "Fully Responsive Pages"
-    ],
-    "createdOn": "19-Mar-2021",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 20,
-    "price": 19,
-    "popularity": 318,
-    "appType": "web-template",
-    "details": "https://www.wrappixel.com/templates/wrapkit-angular-blog?ref=342",
-    "category": "Angular",
-    "imageAlt": "wrapkitangular-blog",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2021/04/wrapkitangular-blog.jpg",
-    "subtitle": "Premium Angular Admin web Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/angular/blog-angular/main?ref=342",
-    "templateName": "Wrapkit Angular Blog",
-    "description": "WrapPixel's wrapkit Angular Blog is an Angular CLI WebApp template that based on ng-Bootstrap and creates a magically intuitive ready to use user interface for your website and applications.The seamless experience provided by Wrapkit Angular blog Template is appealing and thought-provoking. This particular Angular Blog is beautifully created using some of the most prominent angular components that help corporates to simplify their monitoring systems.",
-    "features": [
-      "Angular 17+",
-      "Blog Lising",
-      "Blog Detail",
-      "Login-Logout Facility",
-      "About Us Page",
-      "Contact Page",
-      "1 year Premium support",
-      "2000+ Font Icons",
-      "wt Authentication Added",
-      "12+ Ui Components Pages",
-      "Blog Add,Edit and Delete Facility",
-      "SaSS Base CSS",
-      "Easy to Customize",
-      "Fully Responsive Pages"
-    ],
-    "createdOn": "19-Apr-2021",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 21,
-    "price": 49,
-    "popularity": 319,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminwrap-angular?ref=342",
-    "category": "Angular",
-    "imageAlt": "adminwrap-angular-dashboard-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminwrap-angular-dashboard-y.jpg",
-    "subtitle": "Premium Angular Admin Dashboard Template",
-    "livePreview": "https://www.wrappixel.com/templates/adminwrap-angular/#demos?ref=342",
-    "templateName": "AdminWrap Angular 16 Theme",
-    "description": "WrapPixel has beautifully created a well-known admin template as AdminWrap Angular Theme. This premium react admin is the complete solution in proving the most stunning look for your WebApps. It is fully-customizable, responsive and has a minimalistic design approach. Being a strong Angular / CLI WebApp template to beautify your admin control panel with ready-to-use components, plugins, widgets, UI elements and lot more. Many businesses require constant monitoring over their sales, products or services used. The responsive UI material react-redux template is the perfect solution for paid media dashboard, digital metrics dashboard, digital reporting dashboard, real-time ad campaign analytics and various other places to help you get the most updated data. Above that, you also get access to components, UI elements, plugins and cumulative widgets with 1 Year updates for the template. Grab AdminWrap Angular 16 Now.",
-    "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Angular 16+",
-      "3+ Unique Dashboards",
-      "PSDs Files for Dashboard Pages",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Clean and Modern Design",
-      "Data Table",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 color skins"
-    ],
-    "createdOn": "01-Mar-2018",
-    "frameworkName": "Ng Bootstrap",
-    "doFollow": true
-  },
-  {
-    "id": 23,
     "price": 49,
     "popularity": 1001,
     "appType": "admin-template",
@@ -688,7 +364,7 @@
     "doFollow": true
   },
   {
-    "id": 24,
+    "id": 12,
     "price": 0,
     "popularity": 1002,
     "appType": "admin-template",
@@ -716,7 +392,7 @@
     "doFollow": true
   },
   {
-    "id": 25,
+    "id": 13,
     "price": 0,
     "popularity": 1003,
     "appType": "admin-template",
@@ -736,7 +412,7 @@
     "doFollow": true
   },
   {
-    "id": 26,
+    "id": 14,
     "price": 0,
     "popularity": 1004,
     "appType": "admin-template",
@@ -756,7 +432,7 @@
     "doFollow": true
   },
   {
-    "id": 27,
+    "id": 15,
     "price": 0,
     "popularity": 1005,
     "appType": "admin-template",
@@ -776,7 +452,7 @@
     "doFollow": true
   },
   {
-    "id": 28,
+    "id": 16,
     "price": 0,
     "popularity": 1006,
     "appType": "admin-template",
@@ -796,7 +472,7 @@
     "doFollow": true
   },
   {
-    "id": 29,
+    "id": 17,
     "price": 0,
     "popularity": 1007,
     "appType": "admin-template",
@@ -819,7 +495,7 @@
     "doFollow": true
   },
   {
-    "id": 30,
+    "id": 18,
     "price": 0,
     "popularity": 1008,
     "appType": "admin-template",
@@ -839,7 +515,7 @@
     "doFollow": true
   },
   {
-    "id": 31,
+    "id": 19,
     "price": 0,
     "popularity": 1009,
     "appType": "admin-template",
@@ -859,7 +535,7 @@
     "doFollow": true
   },
   {
-    "id": 32,
+    "id": 20,
     "price": 0,
     "popularity": 1010,
     "appType": "admin-template",
@@ -879,7 +555,7 @@
     "doFollow": true
   },
   {
-    "id": 33,
+    "id": 21,
     "price": 0,
     "popularity": 1011,
     "appType": "admin-template",
@@ -907,7 +583,7 @@
     "doFollow": true
   },
   {
-    "id": 34,
+    "id": 22,
     "price": 0,
     "popularity": 1012,
     "appType": "admin-template",
@@ -933,7 +609,7 @@
     "doFollow": true
   },
   {
-    "id": 35,
+    "id": 23,
     "price": 0,
     "popularity": 1013,
     "appType": "admin-template",
@@ -953,7 +629,7 @@
     "doFollow": true
   },
   {
-    "id": 36,
+    "id": 24,
     "price": 0,
     "popularity": 1014,
     "appType": "admin-template",
@@ -973,7 +649,7 @@
     "doFollow": true
   },
   {
-    "id": 37,
+    "id": 25,
     "price": 0,
     "popularity": 1015,
     "appType": "admin-template",
@@ -993,7 +669,7 @@
     "doFollow": true
   },
   {
-    "id": 38,
+    "id": 26,
     "price": 0,
     "popularity": 1016,
     "appType": "admin-template",
@@ -1018,7 +694,7 @@
     "doFollow": true
   },
   {
-    "id": 39,
+    "id": 27,
     "price": 0,
     "popularity": 1017,
     "appType": "website",
@@ -1038,7 +714,7 @@
     "doFollow": true
   },
   {
-    "id": 40,
+    "id": 28,
     "price": 0,
     "popularity": 1018,
     "appType": "admin-template",
@@ -1065,7 +741,7 @@
     "doFollow": true
   },
   {
-    "id": 41,
+    "id": 29,
     "price": 0,
     "popularity": 1019,
     "appType": "admin-template",
@@ -1085,7 +761,7 @@
     "doFollow": true
   },
   {
-    "id": 42,
+    "id": 30,
     "price": 0,
     "popularity": 1020,
     "appType": "landingpage",
@@ -1105,7 +781,7 @@
     "doFollow": true
   },
   {
-    "id": 43,
+    "id": 31,
     "price": 0,
     "popularity": 1021,
     "appType": "admin-template",
@@ -1125,7 +801,7 @@
     "doFollow": true
   },
   {
-    "id": 44,
+    "id": 32,
     "price": 0,
     "popularity": 1022,
     "appType": "admin-template",
@@ -1145,7 +821,7 @@
     "doFollow": true
   },
   {
-    "id": 45,
+    "id": 33,
     "price": 0,
     "popularity": 1023,
     "appType": "admin-template",
@@ -1165,7 +841,7 @@
     "doFollow": true
   },
   {
-    "id": 46,
+    "id": 34,
     "price": 0,
     "popularity": 1024,
     "appType": "landingpage",
@@ -1185,7 +861,7 @@
     "doFollow": true
   },
   {
-    "id": 47,
+    "id": 35,
     "price": 0,
     "popularity": 1025,
     "appType": "landingpage",
@@ -1205,7 +881,7 @@
     "doFollow": true
   },
   {
-    "id": 48,
+    "id": 36,
     "price": 0,
     "popularity": 1026,
     "appType": "admin-template",
@@ -1225,7 +901,7 @@
     "doFollow": true
   },
   {
-    "id": 49,
+    "id": 37,
     "price": 0,
     "popularity": 1027,
     "appType": "admin-template",
@@ -1251,7 +927,7 @@
     "doFollow": true
   },
   {
-    "id": 50,
+    "id": 38,
     "price": 0,
     "popularity": 1028,
     "appType": "landingpage",
@@ -1271,7 +947,7 @@
     "doFollow": true
   },
   {
-    "id": 51,
+    "id": 39,
     "price": 0,
     "popularity": 1029,
     "appType": "admin-template",
@@ -1291,7 +967,7 @@
     "doFollow": true
   },
   {
-    "id": 52,
+    "id": 40,
     "price": 0,
     "popularity": 1030,
     "appType": "admin-template",
@@ -1314,7 +990,7 @@
     "doFollow": true
   },
   {
-    "id": 53,
+    "id": 41,
     "price": 0,
     "popularity": 1031,
     "appType": "admin-template",
@@ -1346,7 +1022,7 @@
     "doFollow": true
   },
   {
-    "id": 54,
+    "id": 42,
     "price": 0,
     "popularity": 1032,
     "appType": "admin-template",
@@ -1377,7 +1053,7 @@
     "doFollow": true
   },
   {
-    "id": 55,
+    "id": 43,
     "price": 0,
     "popularity": 1033,
     "appType": "admin-template",
@@ -1403,7 +1079,7 @@
     "doFollow": true
   },
   {
-    "id": 56,
+    "id": 44,
     "price": 0,
     "popularity": 1034,
     "appType": "landingpage",
@@ -1434,7 +1110,7 @@
     "doFollow": true
   },
   {
-    "id": 57,
+    "id": 45,
     "price": 0,
     "popularity": 1035,
     "appType": "admin-template",
@@ -1463,7 +1139,7 @@
     "doFollow": true
   },
   {
-    "id": 58,
+    "id": 46,
     "price": 0,
     "popularity": 1036,
     "appType": "admin-template",
@@ -1486,7 +1162,7 @@
     "doFollow": true
   },
   {
-    "id": 59,
+    "id": 47,
     "price": 0,
     "popularity": 1037,
     "appType": "landingpage",
@@ -1506,7 +1182,7 @@
     "doFollow": true
   },
   {
-    "id": 60,
+    "id": 48,
     "price": 0,
     "popularity": 1038,
     "appType": "landingpage",
@@ -1526,7 +1202,7 @@
     "doFollow": true
   },
   {
-    "id": 61,
+    "id": 49,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -1546,7 +1222,7 @@
     "doFollow": true
   },
   {
-    "id": 62,
+    "id": 50,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -1566,7 +1242,7 @@
     "doFollow": true
   },
   {
-    "id": 63,
+    "id": 51,
     "price": 0,
     "popularity": 1041,
     "appType": "admin-template",
@@ -1586,7 +1262,7 @@
     "doFollow": true
   },
   {
-    "id": 64,
+    "id": 52,
     "price": 0,
     "popularity": 1042,
     "appType": "admin-template",
@@ -1606,7 +1282,7 @@
     "doFollow": true
   },
   {
-    "id": 65,
+    "id": 53,
     "price": 0,
     "popularity": 1043,
     "appType": "admin-template",
@@ -1629,7 +1305,7 @@
     "doFollow": true
   },
   {
-    "id": 66,
+    "id": 54,
     "price": 0,
     "popularity": 1044,
     "appType": "admin-template",
@@ -1652,7 +1328,7 @@
     "doFollow": true
   },
   {
-    "id": 67,
+    "id": 55,
     "price": 0,
     "popularity": 1045,
     "appType": "admin-template",
@@ -1675,7 +1351,7 @@
     "doFollow": true
   },
   {
-    "id": 68,
+    "id": 56,
     "price": 0,
     "popularity": 1046,
     "appType": "admin-template",
@@ -1698,7 +1374,7 @@
     "doFollow": true
   },
   {
-    "id": 69,
+    "id": 57,
     "price": 0,
     "popularity": 1047,
     "appType": "landingpage",
@@ -1718,7 +1394,7 @@
     "doFollow": true
   },
   {
-    "id": 70,
+    "id": 58,
     "price": 0,
     "popularity": 1048,
     "appType": "landingpage",
@@ -1738,7 +1414,7 @@
     "doFollow": true
   },
   {
-    "id": 71,
+    "id": 59,
     "price": 0,
     "popularity": 1049,
     "appType": "admin-template",
@@ -1761,7 +1437,7 @@
     "doFollow": true
   },
   {
-    "id": 72,
+    "id": 60,
     "price": 0,
     "popularity": 1050,
     "appType": "admin-template",
@@ -1784,7 +1460,7 @@
     "doFollow": true
   },
   {
-    "id": 73,
+    "id": 61,
     "price": 0,
     "popularity": 1051,
     "appType": "admin-template",
@@ -1807,7 +1483,7 @@
     "doFollow": true
   },
   {
-    "id": 74,
+    "id": 62,
     "price": 0,
     "popularity": 1052,
     "appType": "admin-template",
@@ -1830,7 +1506,7 @@
     "doFollow": true
   },
   {
-    "id": 75,
+    "id": 63,
     "price": 0,
     "popularity": 1053,
     "appType": "landingpage",
@@ -1850,7 +1526,7 @@
     "doFollow": true
   },
   {
-    "id": 76,
+    "id": 64,
     "price": 0,
     "popularity": 1054,
     "appType": "landingpage",
@@ -1870,7 +1546,7 @@
     "doFollow": true
   },
   {
-    "id": 77,
+    "id": 65,
     "price": 0,
     "popularity": 1055,
     "appType": "web-template",
@@ -1890,7 +1566,7 @@
     "doFollow": true
   },
   {
-    "id": 78,
+    "id": 66,
     "price": 0,
     "popularity": 1056,
     "appType": "web-template",
@@ -1910,7 +1586,7 @@
     "doFollow": true
   },
   {
-    "id": 79,
+    "id": 67,
     "price": 0,
     "popularity": 1057,
     "appType": "landingpage",
@@ -1936,7 +1612,7 @@
     "doFollow": true
   },
   {
-    "id": 80,
+    "id": 68,
     "price": 0,
     "popularity": 1058,
     "appType": "landingpage",
@@ -1956,7 +1632,7 @@
     "doFollow": true
   },
   {
-    "id": 81,
+    "id": 69,
     "price": 0,
     "popularity": 1059,
     "appType": "web-template",
@@ -1976,7 +1652,7 @@
     "doFollow": true
   },
   {
-    "id": 82,
+    "id": 70,
     "price": 0,
     "popularity": 201,
     "appType": "admin-template",
@@ -2007,7 +1683,7 @@
     "doFollow": true
   },
   {
-    "id": 83,
+    "id": 71,
     "price": 49,
     "popularity": 202,
     "appType": "admin-template",

@@ -1706,5 +1706,29 @@
             "Open Source"
         ],
         "createdOn": "03-Oct-2018"
+    },
+    {
+        "id": 73,
+        "price": 0,
+        "popularity": 1055,
+        "appType": "landingpage",
+        "details": "https://github.com/tailwindtoolbox/Landing-Page/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "Landing-Page",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/Landing-Page.jpg",
+        "subtitle": "Tailwind CSS Starter Template - Landing Page",
+        "livePreview": "https://tailwindtoolbox.github.io/Landing-Page/",
+        "templateName": "Landing Page",
+        "description": "Landing Page is an open-source, generic landing page template for Tailwind CSS created by Tailwind Toolbox. The template is just an HTML file using a full CDN hosted Tailwind CSS file. It is suitable for any physical or digital product, startup, or business.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Responsive",
+            "1 Basic Landingpage",
+            "Well documented",
+            "PostCSS for processing Tailwind CSS and integrated to styled-jsx",
+            "Open Source"
+        ],
+        "createdOn": "25-Mar-2019"
     }
 ]

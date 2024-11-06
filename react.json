@@ -147,65 +147,6 @@
     "price": 0,
     "popularity": 303,
     "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-react-admin-lite?ref=341",
-    "category": "React",
-    "imageAlt": "Xtreme React Admin Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-lite-y.jpg",
-    "subtitle": "Xtreme React Admin Lite: Streamlined Dashboard Template for Modern Web Applications",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/xtreme-react-free/landingpage/index.html?ref=341",
-    "templateName": "Xtreme React Admin Lite",
-    "description": "One of the best and Free React Native Themes that combine aesthetics and functionality is Xtreme React Admin Lite Template. Additionally, you can choose from a wide variety of customized page versions and UI elements, which can help you advance your projects. This React Dashboard Template's plugins and customizations all work together flawlessly to produce robust and gorgeous admin pages. Although there are several React Templates available, this Xtreme React Admin Lite is certain to grab your attention because of its wealth of appealing features. The free version includes more than 100 font icons, and the Sass-based CSS makes it simple to expand upon.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "Integrated Plugins",
-      "Lifetime Free Updates",
-      "Ready-to-Use Widgets",
-      "100+ Font Icons",
-      "Sass Base CSS",
-      "1 to 2 Chart Options",
-      "6.4.0 Bootstrap Version"
-    ],
-    "createdOn": "06-Oct-2018",
-    "frameworkName": ""
-  },
-  {
-    "id": 7,
-    "price": 49,
-    "popularity": 304,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-react-redux-admin/#demos?ref=341",
-    "category": "React",
-    "imageAlt": "Xtreme React Dashboard Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg",
-    "subtitle": "Premium React Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/xtreme-react/main/dashboards/classic?ref=341",
-    "templateName": "Xtreme React Dashboard Template",
-    "description": "The one to watch out for when it comes to the vibrancy and great appearance is this Premium Xtreme React Dashboard Admin Template. You may give your WebApps a captivating appearance by using this React-Redux dashboard design. The two key elements of flexibility and user experience have quickly increased the demand for this Admin Template. The Premium React Admin Template is cost-effective, completely customizable, and built with key React Framework elements. You can access a range of parts, plugins, features, and widgets when you purchase a responsive React Admin Dashboard. In addition, a variety of color schemes, page templates, dashboard settings, UI components, and much more are available and popular among businesses and developers.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "PSDs & XD for Dashboard Pages",
-      "5+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark and Light Sidebar Themes",
-      "React Redux with Redux Thunk to applyMiddleware",
-      "Axios-Based Apps to Make API Call",
-      "Widgets and UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "06-Oct-2018",
-    "frameworkName": ""
-  },
-  {
-    "id": 8,
-    "price": 0,
-    "popularity": 305,
-    "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/free-material-ui-template?ref=341",
     "category": "React",
     "imageAlt": "Flexy React Material Admin Lite",
@@ -229,9 +170,9 @@
     "frameworkName": ""
   },
   {
-    "id": 9,
+    "id": 7,
     "price": 49,
-    "popularity": 306,
+    "popularity": 304,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/#demos?ref=341",
     "category": "React",
@@ -262,213 +203,7 @@
     "frameworkName": ""
   },
   {
-    "id": 10,
-    "price": 0,
-    "popularity": 307,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminpro-react-admin-lite?ref=341",
-    "category": "React",
-    "imageAlt": "AdminPro React Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-lite-y.jpg",
-    "subtitle": "AdminPro React Lite: Efficient and User-Friendly Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/adminpro-react-free/landingpage/index.html?ref=341",
-    "templateName": "AdminPro React Lite",
-    "description": "The sleek Free Admin Template of this year is called AdminPro React Admin Lite. It was constructed using a modern, modular design. Downloading and using AdminPro React Admin Lite for both personal and business projects is totally free. You can get the premium edition of AdminPro React if your project requires additional features and options. There are many wonderful features in it. You should check out the AdminPro React Premium edition to learn more about its incredible features.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "Integrated Plugins",
-      "6 Months Free Updates",
-      "Ready-to-Use Widgets",
-      "100+ Font Icons",
-      "Sass Base CSS",
-      "1 to 2 Chart Options",
-      "Reactstrap Version 9"
-    ],
-    "createdOn": "09-Aug-2019",
-    "frameworkName": ""
-  },
-  {
-    "id": 11,
-    "price": 49,
-    "popularity": 308,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminpro-react-redux-admin/#demos?ref=341",
-    "category": "React",
-    "imageAlt": "AdminPro React Redux Admin",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-y.jpg",
-    "subtitle": "Premium React Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/adminpro-react/main/dashboards/modern?ref=341",
-    "templateName": "AdminPro React Redux Admin",
-    "description": "What if you need a React-Redux UI Premium Admin Dashboard Template on a tight budget for your high-yielding web app project? Based on the requirements of the project and the anticipated features, it is very challenging to locate the appropriate Admin Template. But just for you, We have expertly created AdminPro React Redux Admin Dashboard Template, which satisfies all the demands. Due to its React foundation and modular design, this responsive react-redux admin template supports lifetime updates, design flexibility, and compatibility across many devices. As a result, you receive choices for complete customization, different dashboards, demos, color schemes, page templates, and other creative ready-to-use UI elements. With its functionality and features, a product with such a smooth, simple form and appealing architecture offers an exhilarating user experience.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "PSDs for Dashboard Pages",
-      "5+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "React Redux with Redux Thunk to applyMiddleware",
-      "Axios-Based Apps to Make API Call",
-      "Widgets and UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "31-July-2019",
-    "frameworkName": ""
-  },
-  {
-    "id": 12,
-    "price": 0,
-    "popularity": 309,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monster-react-admin-lite?ref=341",
-    "category": "React",
-    "imageAlt": "Monster React Admin Lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-lite-template-y-20.jpg",
-    "subtitle": "Streamlined React Admin Dashboard for Efficient Project Management",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/monster-react-free/landingpage/index.html?ref=341",
-    "templateName": "Monster React Admin Lite",
-    "description": "This Free Monster React Admin Lite is a sleek, modular, and meticulously handcrafted simple Admin Template based on React Framework. Downloading and using Monster React Admin Lite for both personal and professional projects is totally Free. You can purchase the premium edition of Monster React Admin if your project requires additional features and options. There are many wonderful features in it. You should check out the Monster React Admin Premium edition to learn more about its actual potential.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "Integrated Plugins",
-      "6 Months Free Updates",
-      "Ready-to-Use Widgets",
-      "100+ Font Icons",
-      "Sass Base CSS",
-      "1 to 2 Chart Options",
-      "Reactstrap Version 9"
-    ],
-    "createdOn": "27-Jun-2020",
-    "frameworkName": ""
-  },
-  {
-    "id": 13,
-    "price": 49,
-    "popularity": 310,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monster-react-admin/#demos?ref=341",
-    "category": "React",
-    "imageAlt": "monster-react-admin-template-y-20",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-template-y-20.jpg",
-    "subtitle": "Premium React Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/adminpro-react/main/dashboards/modern?ref=341",
-    "templateName": "Monster React Admin Template",
-    "description": "You can easily construct beautiful web applications and products with the aid of this Premium Admin Dashboard Template like this Monster React Template, which is built on React hooks and Redux. It has beautiful interface designs to provide people with a fantastic experience when using your application or product. This React hooks template has numerous pre-built components and functionalities and is simple to customize. As it offers five ready-to-use dashboard variations, light and dark color options, and different page layouts, charts, tables, and forms, among other features, the Monster React hooks admin dashboard template is the perfect solution for creating your project. You may finish your work more quickly as a result of not having to bother about creating the aforementioned components from scratch.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "PSDs for Dashboard Pages",
-      "5+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "React Redux with Redux Thunk to applyMiddleware",
-      "Axios-Based Apps to Make API Call",
-      "Widgets and UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "16-Jun-2020",
-    "frameworkName": ""
-  },
-  {
-    "id": 14,
-    "price": 0,
-    "popularity": 311,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/ample-free-react-dashboard?ref=341",
-    "category": "React",
-    "imageAlt": "ample-react-dashboard-lite",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-dashboard-lite.jpg",
-    "subtitle": "Ample React Dashboard Lite: Streamlined and Efficient Admin Interface",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/ample-react-free/landingpage/index.html?ref=341",
-    "templateName": "Ample React Dashboard Lite",
-    "description": "Many people suffer financially and are unable to invest in a Premium theme. They can use Ample React Dashboard Lite, a free React modular Dashboard Template, for both personal and professional projects. This lovely React Theme is constructed using React Technology, SaSS base CSS, and a modular and contemporary design approach. You may design a UI (user interface) with a spectacular appearance and feel by using the ideal color combinations and page themes. This React Template Dashboard aids in the execution of projects with constrained functionality. If you're looking for a full complement of features with the latest widgets, tools, and components, the pro version is available and gives you total control.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "Integrated Plugins",
-      "6 Months Free Updates",
-      "Ready-to-Use Widgets",
-      "100+ Font Icons",
-      "Sass Base CSS",
-      "1 to 2 Chart Options",
-      "Bootstrap Version 5.1",
-      "Reactstrap Version 9"
-    ],
-    "createdOn": "21-Sep-2020",
-    "frameworkName": ""
-  },
-  {
-    "id": 15,
-    "price": 49,
-    "popularity": 312,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/ample-react-dashboard/#demos?ref=341",
-    "category": "React",
-    "imageAlt": "Ample React Dashboard Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-admin-template-y.png",
-    "subtitle": "Premium React Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/react/ample-react/main/dashboards/dashboard1?ref=341",
-    "templateName": "Ample React Dashboard Template",
-    "description": "Want to get one of the most popular and Premium React Template that is also fully responsive and uses React Bootstrap? A modular design, the React with Redux Framework, and SaSS base CSS are the foundations of WrapPixel's very own Ample React Redux Dashboard. Along with a tonne of features like customization options, table examples, fantastic 2000+ font icons, sidebar variants, page templates, color schemes, and many other integrated plugins, this theme makes use of the Webpack and Babel compilers. People adore this Ample React Dashboard Template since it is renowned for delivering a seamless user experience while assisting in the execution of difficult needs. It rapidly provides UI components, imaginative pages, and an environment that is user-friendly. With its characteristics making it the most well-liked among developers worldwide, this specific React-Redux Admin Template is well-known and respected.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "PSDs for Dashboard Pages",
-      "5+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "React Redux with Redux Thunk to applyMiddleware",
-      "Axios-Based Apps to Make API Call",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 color Skins"
-    ],
-    "createdOn": "16-Sep-2020",
-    "frameworkName": ""
-  },
-  {
-    "id": 16,
-    "price": 0,
-    "popularity": 313,
-    "appType": "website",
-    "details": "https://www.wrappixel.com/templates/wrapkit-react-lite?ref=341",
-    "category": "React",
-    "imageAlt": "WrapKit React Lite UI Kit",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/wrapkit-react-lite-y.jpg",
-    "subtitle": "WrapKit React Lite UI Kit: Essential Components for Modern Web Design",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/wrapkit-react-free/#?ref=341",
-    "templateName": "WrapKit React Lite UI Kit",
-    "description": "A complete responsive web development Free website template is WrapKit UI Kit. You may quickly test out and create full web-based applications and dashboards with its assistance. It can be altered and improved to produce numerous prototypes at no cost. When the prototype meets your approval, you can upgrade to the complete version for usage in commerce. You can choose from a variety of additional live demos and a myriad of other features in the pro edition. You can customize the web app's appearance and feel using the one-level dropdown menus and beautiful grid design that are included in the free version. Clean code and thorough documentation will quickly bring even a beginner developer up to speed.",
-    "features": [
-      "17+ Readymade UI Blocks",
-      "25 Essential UI Elements",
-      "Reactstrap Enabled Framework",
-      "Unlimited Google Web Fonts",
-      "Retina Ready Templates",
-      "SaSS Base CSS Framework",
-      "One-Level Dropdown Menus",
-      "W3C Validated Code",
-      "Search Engine Optimized Code That Enhances Your Web Application's SEO Score",
-      "Lightning-Fast Performance"
-    ],
-    "createdOn": "02-Dec-2019",
-    "frameworkName": ""
-  },
-  {
-    "id": 17,
+    "id": 8,
     "price": 0,
     "popularity": 401,
     "appType": "admin-template",
@@ -497,7 +232,7 @@
     "frameworkName": ""
   },
   {
-    "id": 18,
+    "id": 9,
     "price": 49,
     "popularity": 402,
     "appType": "admin-template",
@@ -532,7 +267,7 @@
     "frameworkName": ""
   },
   {
-    "id": 19,
+    "id": 10,
     "price": 0,
     "popularity": 501,
     "appType": "landingpage",
@@ -559,7 +294,7 @@
     "frameworkName": ""
   },
   {
-    "id": 20,
+    "id": 11,
     "price": 0,
     "popularity": 502,
     "appType": "landingpage",
@@ -588,7 +323,7 @@
     "frameworkName": ""
   },
   {
-    "id": 21,
+    "id": 12,
     "price": 0,
     "popularity": 503,
     "appType": "landingpage",
@@ -614,7 +349,7 @@
     "frameworkName": ""
   },
   {
-    "id": 22,
+    "id": 13,
     "price": 0,
     "popularity": 504,
     "appType": "landingpage",
@@ -639,7 +374,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 23,
+    "id": 14,
     "price": 0,
     "popularity": 505,
     "appType": "landingpage",
@@ -666,7 +401,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 24,
+    "id": 15,
     "price": 0,
     "popularity": 506,
     "appType": "landingpage",
@@ -693,7 +428,7 @@
     "createdOn": "06-Jun-2023"
   },
   {
-    "id": 25,
+    "id": 16,
     "price": 0,
     "popularity": 507,
     "appType": "landingpage",
@@ -720,7 +455,7 @@
     "createdOn": "06-Jun-2023"
   },
   {
-    "id": 26,
+    "id": 17,
     "price": 0,
     "popularity": 601,
     "appType": "admin-template",
@@ -742,7 +477,7 @@
     "frameworkName": ""
   },
   {
-    "id": 27,
+    "id": 18,
     "price": 49,
     "popularity": 602,
     "appType": "admin-template",
@@ -775,7 +510,7 @@
     "frameworkName": ""
   },
   {
-    "id": 28,
+    "id": 19,
     "price": 0,
     "popularity": 603,
     "appType": "admin-template",
@@ -796,7 +531,7 @@
     "frameworkName": ""
   },
   {
-    "id": 29,
+    "id": 20,
     "price": 49,
     "popularity": 604,
     "appType": "admin-template",
@@ -829,7 +564,7 @@
     "frameworkName": ""
   },
   {
-    "id": 30,
+    "id": 21,
     "price": 0,
     "popularity": 605,
     "appType": "admin-template",
@@ -856,7 +591,7 @@
     "frameworkName": ""
   },
   {
-    "id": 31,
+    "id": 22,
     "price": 49,
     "popularity": 606,
     "appType": "admin-template",
@@ -889,216 +624,12 @@
     "frameworkName": ""
   },
   {
-    "id": 32,
-    "price": 0,
-    "popularity": 607,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/ample-next-js-free-admin-template?ref=340",
-    "category": "NextJs",
-    "imageAlt": "Ample Admin Free NextJs Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/ample-admin-nextjs-free.jpg",
-    "subtitle": "Ample Admin: Free Next.js Template for Streamlined Web Administration",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/ample-nextjs-admin-free-dist/landingpage/index.html?ref=340",
-    "templateName": "Ample Admin Free NextJs Template",
-    "description": "Many people suffer financially and are unable to invest in a Premium Theme. Ample NextJs Admin is there for people to help with their personal as well as commercial undertakings. You may design a user interface with a spectacular appearance and feel by using the ideal color combinations and page themes. The web app's appearance and feel can be customized in the free version thanks to its attractive grid architecture. With the help of this NextJs Dashboard Template, it enables you to carry out projects with constrained features. Downloading and using it for both personal and professional projects is free. If your project calls for additional features and alternatives.",
-    "features": [
-      "Created with NextJs React Framework with Reactstrap (Bootstrap)",
-      "8+ Readymade UI Component Pages",
-      "Reactstrap Enabled Framework",
-      "Unlimited Google Web Fonts",
-      "Retina Ready Templates",
-      "SCSS Base CSS Framework",
-      "Search Engine Optimized Code That Enhances Your Web Application's SEO Score",
-      "Lightning-Fast Performance"
-    ],
-    "createdOn": "18-Jan-2022",
-    "frameworkName": ""
-  },
-  {
-    "id": 33,
-    "price": 49,
-    "popularity": 608,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/#demos?ref=340",
-    "category": "NextJs",
-    "imageAlt": "Ample NextJs Admin Dashboard",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/ample.jpg",
-    "subtitle": "Premium NextJs Admin Dashboard Template",
-    "livePreview": "https://ample-nextjs-admin.vercel.app/dashboards/dashboard1?ref=340",
-    "templateName": "Ample NextJs Admin Dashboard",
-    "description": "The one to be on the lookout for is this Premium Ample NextJs Admin Dashboard Template. With the help of this next.js + redux dashboard template, you can give your WebApps a captivating appearance. The two key elements of flexibility and user experience have quickly increased the demand for this admin template. The NextJs admin premium template is pricey, completely customizable, and built with crucial React framework elements. You can access a range of parts, plugins, elements, and widgets when you purchase a responsive React admin dashboard. In addition, a variety of color schemes, page templates, dashboard settings, UI components, and much more are available and popular among businesses and developers.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "PSDs for Dashboard Pages",
-      "7+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark and Light Sidebar Themes",
-      "React Redux Toolkit",
-      "Axios-Based Apps to Make API Call",
-      "Widgets and UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "05-Feb-2022",
-    "frameworkName": ""
-  },
-  {
-    "id": 34,
-    "price": 0,
-    "popularity": 609,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-next-js-free-admin-template?ref=340",
-    "category": "NextJs",
-    "imageAlt": " Xtreme NextJs Free Admin",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/xtreme-next-js-free.jpg",
-    "subtitle": "Xtreme: Free Next.js Admin Template for Dynamic Web Management",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/xtreme-nextjs-admin-free-dist/landingpage/index.html?ref=340",
-    "templateName": "Xtreme NextJs Free Admin",
-    "description": "This Free NextJs React Admin Dashboard Template is called Xtreme Admin. You can design beautiful backend applications and more using them. It includes ready-to-use UI Blocks & Elements that can assist elevate the look and feel of your project. Reactstrap is a responsive React Framework that is used to build Xtreme NextJs. The web app's appearance and feel can be customized in the free version thanks to its attractive grid architecture. Clean coding and ease of customization will quickly bring even a beginner developer up to speed. We've put up a list of the top React templates available online that is sure to satisfy your demands.",
-    "features": [
-      "Created with NextJs React Framework with Reactstrap (Bootstrap)",
-      "8+ Readymade UI Component Pages",
-      "Reactstrap Enabled Framework",
-      "Unlimited Google Web Fonts",
-      "Retina Ready Templates",
-      "SCSS Base CSS Framework",
-      "Search Engine Optimized Code That Enhances Your Web Application's SEO Score",
-      "Lightning-Fast Performance"
-    ],
-    "createdOn": "17-Jan-2022",
-    "frameworkName": ""
-  },
-  {
-    "id": 35,
-    "price": 49,
-    "popularity": 610,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard/#demos?ref=340",
-    "category": "NextJs",
-    "imageAlt": "Xtreme NextJs Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/xtreme-nextjs-image.jpg",
-    "subtitle": "Premium NextJs Admin Dashboard Template",
-    "livePreview": "https://xtreme-nextjs-admin.vercel.app/dashboards/classic?ref=340",
-    "templateName": "Xtreme NextJs Admin Template",
-    "description": "Premium React Framework, a JavaScript package used to develop user interfaces based UI components is the basis for this Xtreme NextJs Admin Dashboard Template. A dark and light sidebar design, five distinct demos, a wide range of components, PSDs for admin dashboard pages, 3000+ font icons, an RTL dashboard version, and many more features can be found in the premium NextJS dashboard template. It offers fully responsive pages that enable web apps to function smoothly across all platforms and browsers. The user experience is more interactive thanks to the template's selection of application designs, which includes email, chat, contact, calendar, shop, ticket, and notes applications. The structure's thorough documentation makes customization simple.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "PSDs for Dashboard Pages",
-      "5+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark and Light Sidebar Themes",
-      "React Redux",
-      "Axios-Based Apps to Make API Call",
-      "Widgets and UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "03-Feb-2022",
-    "frameworkName": ""
-  },
-  {
-    "id": 36,
-    "price": 0,
-    "popularity": 611,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monster-next-js-free-admin-template?ref=340",
-    "category": "NextJs",
-    "imageAlt": "Monster NextJs Free Dashboard",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monster-free-nextjs.jpg",
-    "subtitle": "Monster: Free Next.js Dashboard for Powerful Data Management",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/monster-nextjs-admin-free-dist/landingpage?ref=340",
-    "templateName": "Monster NextJs Free Dashboard",
-    "description": "This Free Monster NextJs Admin Lite React Dashboard Template features hooks to design a lovely and attractive admin interface. The appearance and feel can be customized in the free version, thanks to its attractive grid architecture. It is a meticulously handcrafted basic admin template that features a contemporary, modular style. Downloading and using it for both personal and professional projects is totally free. You can purchase the premium edition of Monster NextJs Admin if your project requires additional features and options. There are many wonderful features in it. You should check out the Monster NextJs Admin Premium edition to learn more about its incredible features.",
-    "features": [
-      "Created with NextJs React Framework with Reactstrap (Bootstrap)",
-      "8+ Readymade UI Component Pages",
-      "Reactstrap Enabled Framework",
-      "Unlimited Google Web Fonts",
-      "Retina Ready Templates",
-      "SCSS Base CSS Framework",
-      "Search Engine Optimized Code That Enhances Your Web Application's SEO Score",
-      "Lightning-Fast Performance"
-    ],
-    "createdOn": "18-Jan-2022",
-    "frameworkName": ""
-  },
-  {
-    "id": 37,
-    "price": 49,
-    "popularity": 612,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/#demos?ref=340",
-    "category": "NextJs",
-    "imageAlt": "Monster NextJs Admin Dashboard",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monsternextjs.jpg",
-    "subtitle": "Premium NextJs Admin Dashboard Template",
-    "livePreview": "https://monster-nextjs-admin.vercel.app/dashboards/modern?ref=340",
-    "templateName": "Monster NextJs Admin Dashboard",
-    "description": "You can easily construct beautiful web applications and products with the aid of the Premium Monster NextJs Admin Dashboard Template, which is built on the React Hooks and Redux Toolkit. It is simple to customize and SEO-friendly. This NextJs template includes a lot of features and components that are ready to use. The Monster NextJs Admin Dashboard Template is the greatest alternative for building your project because it offers numerous color possibilities, 50+ page layouts and 5 ready-to-use dashboard versions, charts, tables, and forms, among other features. It includes a Firebase demo and a package that demonstrates login before the dashboard. Additionally, Monster's NextJs react admin template was created by top designers in the field to provide you with the finest user experience.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "Firebase Demo Added",
-      "PSDs for Dashboard Pages",
-      "5+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Used Redux Toolkit For Store Management",
-      "Dark and Light Sidebar Themes",
-      "React Redux",
-      "Axios-Based Apps to Make API Call",
-      "Widgets and UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "28-Jan-2022",
-    "frameworkName": ""
-  },
-  {
-    "id": 38,
-    "price": 0,
-    "popularity": 613,
-    "appType": "website",
-    "details": "https://www.wrappixel.com/templates/nextkit-nextjs-free-uikit?ref=340",
-    "category": "NextJs",
-    "imageAlt": "Nextkit - Nextjs Free UI Kit",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nextkit-nextjs-free-uikit.jpg",
-    "subtitle": "Nextkit – Comprehensive Free UI Kit for Next.js Development",
-    "livePreview": "https://next-kit-free.vercel.app?ref=340",
-    "templateName": "Nextkit - Nextjs Free UI Kit",
-    "description": "Free NextJs UI Kit Website Template: Nextkit React. You may use it to make beautiful websites, landing pages, home pages, and more. It includes ready-to-use UI Blocks & Elements that can assist elevate the look and feel of your project. Reactstrap, a responsive React Framework, is the foundation on which Nextkit is constructed. One-level dropdown menus and an attractive grid are included in the Free NextJs UI Kit so you may play with how the web app looks and feels. Clean code and thorough documentation will quickly bring even a beginner developer up to speed.",
-    "features": [
-      "Created with NextJs React Framework with Reactstrap (Bootstrap)",
-      "17+ Readymade UI Blocks",
-      "25 Essential UI Elements",
-      "Reactstrap Enabled Framework",
-      "Unlimited Google Web Fonts",
-      "Retina Ready Templates",
-      "SCSS Base CSS Framework",
-      "One-Level Dropdown Menus",
-      "Search Engine Optimized Code That Enhances Your Web Application's SEO Score",
-      "Lightning-Fast Performance"
-    ],
-    "createdOn": "15-Sep-2021",
-    "frameworkName": ""
-  },
-  {
-    "id": 39,
+    "id": 23,
     "price": 49,
     "popularity": 1001,
     "appType": "admin-template",
     "details": "https://1.envato.market/XYbYQg",
-    "category": "React",
+    "category": "NextJs",
     "imageAlt": "metronic-img",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-img.jpg",
     "subtitle": "Premium Admin Dashboard Template",
@@ -1106,24 +637,28 @@
     "templateName": "Metronic | Tailwind, Bootstrap, React, Vue, Angular, Asp.Net & Laravel Admin Dashboard HTML Template",
     "description": "Metronic is a comprehensive and versatile admin dashboard HTML template that leverages the power of Tailwind, Bootstrap, React, Vue, Angular, ASP.NET, and Laravel. Designed to cater to a wide array of development needs, Metronic provides a robust foundation for creating intuitive, responsive, and highly customizable admin panels. Its integration with popular front-end frameworks like Tailwind and Bootstrap ensures a seamless and modern design aesthetic, while support for powerful JavaScript frameworks such as React, Vue, and Angular enhances its functionality and interactivity. Additionally, the inclusion of ASP.NET and Laravel backend frameworks makes Metronic an all-encompassing solution for developing sophisticated and dynamic web applications. Whether you're building a simple admin interface or a complex enterprise system, Metronic offers the tools and flexibility needed to achieve your project goals efficiently.",
     "features": [
-      "React 18+",
-      "React BS",
-      "Router",
-      "Create React Apps",
-      "TypeScript",
-      "i18 React Added",
-      "React Query",
-      "React Table",
-      "CRUDs",
-      "eCommerce",
-      "Authorization",
-      "Build Tools",
-      "Apexchart"
+      "Next.js",
+      "Dark and light sidebar themes",
+      "100+ Pages",
+      "40+ components",
+      "1000+ Elements",
+      "Theming",
+      "UI Elements",
+      "Navigations",
+      "Menus",
+      "Forms",
+      "Datatables",
+      "Overlays",
+      "Feedback",
+      "Cards",
+      "Users",
+      "Icons",
+      "Charts"
     ],
     "createdOn": "13-Feb-2013"
   },
   {
-    "id": 40,
+    "id": 24,
     "price": 0,
     "popularity": 1002,
     "appType": "website",
@@ -1156,7 +691,7 @@
     "createdOn": ""
   },
   {
-    "id": 41,
+    "id": 25,
     "price": 0,
     "popularity": 1003,
     "appType": "website",
@@ -1185,7 +720,7 @@
     "frameworkName": ""
   },
   {
-    "id": 42,
+    "id": 26,
     "price": 0,
     "popularity": 1004,
     "appType": "website",
@@ -1209,7 +744,7 @@
     "frameworkName": ""
   },
   {
-    "id": 43,
+    "id": 27,
     "price": 0,
     "popularity": 1005,
     "appType": "website",
@@ -1235,7 +770,7 @@
     "frameworkName": ""
   },
   {
-    "id": 44,
+    "id": 28,
     "price": 0,
     "popularity": 1006,
     "appType": "landingpage",
@@ -1265,7 +800,7 @@
     "frameworkName": ""
   },
   {
-    "id": 45,
+    "id": 29,
     "price": 0,
     "popularity": 1007,
     "appType": "landingpage",
@@ -1295,7 +830,7 @@
     "frameworkName": ""
   },
   {
-    "id": 46,
+    "id": 30,
     "price": 0,
     "popularity": 1008,
     "appType": "landingpage",
@@ -1323,7 +858,7 @@
     "frameworkName": ""
   },
   {
-    "id": 47,
+    "id": 31,
     "price": 0,
     "popularity": 1009,
     "appType": "website",
@@ -1350,7 +885,7 @@
     "frameworkName": ""
   },
   {
-    "id": 48,
+    "id": 32,
     "price": 0,
     "popularity": 1010,
     "appType": "website",
@@ -1377,7 +912,7 @@
     "frameworkName": ""
   },
   {
-    "id": 49,
+    "id": 33,
     "price": 0,
     "popularity": 1011,
     "appType": "website",
@@ -1407,7 +942,7 @@
     "frameworkName": ""
   },
   {
-    "id": 50,
+    "id": 34,
     "price": 0,
     "popularity": 1012,
     "appType": "website",
@@ -1433,7 +968,7 @@
     "frameworkName": ""
   },
   {
-    "id": 51,
+    "id": 35,
     "price": 0,
     "popularity": 1013,
     "appType": "website",
@@ -1460,7 +995,7 @@
     "frameworkName": ""
   },
   {
-    "id": 52,
+    "id": 36,
     "price": 0,
     "popularity": 1014,
     "appType": "website",
@@ -1486,7 +1021,7 @@
     "frameworkName": ""
   },
   {
-    "id": 53,
+    "id": 37,
     "price": 0,
     "popularity": 1015,
     "appType": "website",
@@ -1516,7 +1051,7 @@
     "frameworkName": ""
   },
   {
-    "id": 54,
+    "id": 38,
     "price": 0,
     "popularity": 1016,
     "appType": "landingpage",
@@ -1544,7 +1079,7 @@
     "frameworkName": ""
   },
   {
-    "id": 55,
+    "id": 39,
     "price": 0,
     "popularity": 1017,
     "appType": "website",
@@ -1572,7 +1107,7 @@
     "frameworkName": ""
   },
   {
-    "id": 56,
+    "id": 40,
     "price": 0,
     "popularity": 1018,
     "appType": "landingpage",
@@ -1596,7 +1131,7 @@
     "frameworkName": ""
   },
   {
-    "id": 57,
+    "id": 41,
     "price": 0,
     "popularity": 1019,
     "appType": "landingpage",
@@ -1622,7 +1157,7 @@
     "createdOn": "20-Mar-2023"
   },
   {
-    "id": 58,
+    "id": 42,
     "price": 0,
     "popularity": 1020,
     "appType": "landingpage",
@@ -1649,7 +1184,7 @@
     "createdOn": "15-Oct-2020"
   },
   {
-    "id": 59,
+    "id": 43,
     "price": 0,
     "popularity": 1021,
     "appType": "landingpage",
@@ -1677,7 +1212,7 @@
     "createdOn": "18-May-2023"
   },
   {
-    "id": 60,
+    "id": 44,
     "price": 0,
     "popularity": 1022,
     "appType": "landingpage",
@@ -1704,7 +1239,7 @@
     "createdOn": "19-Jan-2021"
   },
   {
-    "id": 61,
+    "id": 45,
     "price": 0,
     "popularity": 1023,
     "appType": "landingpage",
@@ -1727,7 +1262,7 @@
     "createdOn": "13-Nov-2022"
   },
   {
-    "id": 62,
+    "id": 46,
     "price": 0,
     "popularity": 1024,
     "appType": "landingpage",
@@ -1755,7 +1290,7 @@
     "createdOn": "26-Apr-2021"
   },
   {
-    "id": 63,
+    "id": 47,
     "price": 0,
     "popularity": 1025,
     "appType": "landingpage",
@@ -1778,7 +1313,7 @@
     "createdOn": "04-Sep-2022"
   },
   {
-    "id": 64,
+    "id": 48,
     "price": 0,
     "popularity": 1026,
     "appType": "landingpage",
@@ -1805,7 +1340,7 @@
     "createdOn": "06-Jan-2022"
   },
   {
-    "id": 65,
+    "id": 49,
     "price": 0,
     "popularity": 1027,
     "appType": "landingpage",
@@ -1827,7 +1362,7 @@
     "createdOn": "18-Jul-2022"
   },
   {
-    "id": 66,
+    "id": 50,
     "price": 0,
     "popularity": 1028,
     "appType": "landingpage",
@@ -1849,7 +1384,7 @@
     "createdOn": "28-Jan-2021"
   },
   {
-    "id": 67,
+    "id": 51,
     "price": 0,
     "popularity": 1029,
     "appType": "landingpage",
@@ -1875,7 +1410,7 @@
     "createdOn": "13-Jan-2023"
   },
   {
-    "id": 68,
+    "id": 52,
     "price": 0,
     "popularity": 1030,
     "appType": "landingpage",
@@ -1900,7 +1435,7 @@
     "createdOn": "11-Nov-2021"
   },
   {
-    "id": 69,
+    "id": 53,
     "price": 0,
     "popularity": 1031,
     "appType": "landingpage",
@@ -1928,7 +1463,7 @@
     "createdOn": "28-Oct-2022"
   },
   {
-    "id": 70,
+    "id": 54,
     "price": 0,
     "popularity": 1032,
     "appType": "landingpage",
@@ -1959,7 +1494,7 @@
     "createdOn": "08-Feb-2023"
   },
   {
-    "id": 71,
+    "id": 55,
     "price": 0,
     "popularity": 1033,
     "appType": "landingpage",
@@ -1984,7 +1519,7 @@
     "createdOn": "24-Jun-2022"
   },
   {
-    "id": 72,
+    "id": 56,
     "price": 0,
     "popularity": 1034,
     "appType": "landingpage",
@@ -2010,7 +1545,7 @@
     "createdOn": "03-Aug-2022"
   },
   {
-    "id": 73,
+    "id": 57,
     "price": 0,
     "popularity": 1035,
     "appType": "landingpage",
@@ -2037,7 +1572,7 @@
     "createdOn": "22-Apr-2022"
   },
   {
-    "id": 74,
+    "id": 58,
     "price": 0,
     "popularity": 1036,
     "appType": "admin-template",
@@ -2063,7 +1598,7 @@
     "createdOn": ""
   },
   {
-    "id": 75,
+    "id": 59,
     "price": 0,
     "popularity": 1037,
     "appType": "admin-template",
@@ -2091,7 +1626,7 @@
     "createdOn": ""
   },
   {
-    "id": 76,
+    "id": 60,
     "price": 0,
     "popularity": 1038,
     "appType": "admin-template",
@@ -2119,7 +1654,7 @@
     "createdOn": ""
   },
   {
-    "id": 77,
+    "id": 61,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -2147,7 +1682,7 @@
     "createdOn": ""
   },
   {
-    "id": 78,
+    "id": 62,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -2175,7 +1710,7 @@
     "createdOn": ""
   },
   {
-    "id": 79,
+    "id": 63,
     "price": 0,
     "popularity": 1041,
     "appType": "admin-template",
@@ -2203,7 +1738,7 @@
     "createdOn": ""
   },
   {
-    "id": 80,
+    "id": 64,
     "price": 0,
     "popularity": 1042,
     "appType": "admin-template",
@@ -2224,7 +1759,7 @@
     "createdOn": ""
   },
   {
-    "id": 81,
+    "id": 65,
     "price": 0,
     "popularity": 1043,
     "appType": "admin-template",
@@ -2248,7 +1783,7 @@
     "createdOn": ""
   },
   {
-    "id": 82,
+    "id": 66,
     "price": 0,
     "popularity": 1044,
     "appType": "admin-template",
@@ -2276,7 +1811,7 @@
     "createdOn": ""
   },
   {
-    "id": 83,
+    "id": 67,
     "price": 0,
     "popularity": 1045,
     "appType": "admin-template",
@@ -2306,7 +1841,7 @@
     "createdOn": ""
   },
   {
-    "id": 84,
+    "id": 68,
     "price": 0,
     "popularity": 1046,
     "appType": "admin-template",
@@ -2335,7 +1870,7 @@
     "createdOn": ""
   },
   {
-    "id": 85,
+    "id": 69,
     "price": 0,
     "popularity": 1047,
     "appType": "admin-template",
@@ -2364,7 +1899,7 @@
     "createdOn": ""
   },
   {
-    "id": 86,
+    "id": 70,
     "price": 0,
     "popularity": 1048,
     "appType": "admin-template",
@@ -2392,7 +1927,7 @@
     "createdOn": ""
   },
   {
-    "id": 87,
+    "id": 71,
     "price": 0,
     "popularity": 1049,
     "appType": "admin-template",
@@ -2415,7 +1950,7 @@
     "createdOn": ""
   },
   {
-    "id": 88,
+    "id": 72,
     "price": 0,
     "popularity": 1050,
     "appType": "landingpage",
@@ -2443,7 +1978,7 @@
     "createdOn": ""
   },
   {
-    "id": 89,
+    "id": 73,
     "price": 0,
     "popularity": 1051,
     "appType": "landingpage",
@@ -2467,7 +2002,7 @@
     "createdOn": ""
   },
   {
-    "id": 90,
+    "id": 74,
     "price": 0,
     "popularity": 1052,
     "appType": "landingpage",
@@ -2490,7 +2025,7 @@
     "createdOn": ""
   },
   {
-    "id": 91,
+    "id": 75,
     "price": 0,
     "popularity": 1053,
     "appType": "landingpage",
@@ -2516,7 +2051,7 @@
     "createdOn": "13-Jun-2022"
   },
   {
-    "id": 92,
+    "id": 76,
     "price": 0,
     "popularity": 1054,
     "appType": "landingpage",
@@ -2543,7 +2078,7 @@
     "createdOn": "03-Aug-2021"
   },
   {
-    "id": 93,
+    "id": 77,
     "price": 0,
     "popularity": 1055,
     "appType": "landingpage",
@@ -2565,7 +2100,7 @@
     "createdOn": "07-Jul-2022"
   },
   {
-    "id": 94,
+    "id": 78,
     "price": 0,
     "popularity": 1056,
     "appType": "landingpage",
@@ -2597,7 +2132,7 @@
     "createdOn": "18-Oct-2022"
   },
   {
-    "id": 95,
+    "id": 79,
     "price": 0,
     "popularity": 1057,
     "appType": "admin-template",
@@ -2624,7 +2159,7 @@
     "createdOn": ""
   },
   {
-    "id": 96,
+    "id": 80,
     "price": 0,
     "popularity": 1058,
     "appType": "admin-template",
@@ -2654,7 +2189,7 @@
     "createdOn": ""
   },
   {
-    "id": 97,
+    "id": 81,
     "price": 0,
     "popularity": 1059,
     "appType": "admin-template",
@@ -2678,7 +2213,7 @@
     "createdOn": ""
   },
   {
-    "id": 98,
+    "id": 82,
     "price": 0,
     "popularity": 1060,
     "appType": "admin-template",
@@ -2706,7 +2241,7 @@
     "createdOn": ""
   },
   {
-    "id": 99,
+    "id": 83,
     "price": 0,
     "popularity": 1061,
     "appType": "admin-template",
@@ -2736,7 +2271,7 @@
     "createdOn": ""
   },
   {
-    "id": 100,
+    "id": 84,
     "price": 0,
     "popularity": 1062,
     "appType": "admin-template",
@@ -2759,7 +2294,7 @@
     "createdOn": ""
   },
   {
-    "id": 101,
+    "id": 85,
     "price": 0,
     "popularity": 1063,
     "appType": "admin-template",
@@ -2789,7 +2324,7 @@
     "createdOn": ""
   },
   {
-    "id": 102,
+    "id": 86,
     "price": 0,
     "popularity": 1064,
     "appType": "admin-template",
@@ -2816,7 +2351,7 @@
     "createdOn": ""
   },
   {
-    "id": 103,
+    "id": 87,
     "price": 0,
     "popularity": 1065,
     "appType": "admin-template",
@@ -2845,7 +2380,7 @@
     "createdOn": ""
   },
   {
-    "id": 104,
+    "id": 88,
     "price": 0,
     "popularity": 1066,
     "appType": "admin-template",
@@ -2865,7 +2400,7 @@
     "createdOn": ""
   },
   {
-    "id": 105,
+    "id": 89,
     "price": 0,
     "popularity": 1067,
     "appType": "admin-template",
@@ -2893,7 +2428,7 @@
     "createdOn": "18-May-2023"
   },
   {
-    "id": 106,
+    "id": 90,
     "price": 0,
     "popularity": 1068,
     "appType": "landingpage",
@@ -2921,7 +2456,7 @@
     "createdOn": "03-Apr-2023"
   },
   {
-    "id": 107,
+    "id": 91,
     "price": 0,
     "popularity": 1069,
     "appType": "landingpage",
@@ -2948,7 +2483,7 @@
     "createdOn": "22-Apr-2023"
   },
   {
-    "id": 108,
+    "id": 92,
     "price": 0,
     "popularity": 1070,
     "appType": "landingpage",
@@ -2972,7 +2507,7 @@
     "createdOn": "08-Sep-2022"
   },
   {
-    "id": 109,
+    "id": 93,
     "price": 0,
     "popularity": 1071,
     "appType": "admin-template",
@@ -2999,7 +2534,7 @@
     "createdOn": "21-Sep-2022"
   },
   {
-    "id": 110,
+    "id": 94,
     "price": 0,
     "popularity": 1072,
     "appType": "admin-template",
@@ -3026,7 +2561,7 @@
     "createdOn": "08-Sep-2023"
   },
   {
-    "id": 111,
+    "id": 95,
     "price": 0,
     "popularity": 1073,
     "appType": "landingpage",
@@ -3052,7 +2587,7 @@
     "createdOn": "14-Feb-2021"
   },
   {
-    "id": 112,
+    "id": 96,
     "price": 0,
     "popularity": 1074,
     "appType": "landingpage",
@@ -3070,7 +2605,7 @@
     "createdOn": "26-Jun-2023"
   },
   {
-    "id": 113,
+    "id": 97,
     "price": 0,
     "popularity": 1075,
     "appType": "landingpage",
@@ -3088,7 +2623,7 @@
     "createdOn": "19-May-2023"
   },
   {
-    "id": 114,
+    "id": 98,
     "price": 0,
     "popularity": 1076,
     "appType": "landingpage",
@@ -3106,7 +2641,7 @@
     "createdOn": "05-Jun-2022"
   },
   {
-    "id": 115,
+    "id": 99,
     "price": 0,
     "popularity": 1077,
     "appType": "admin-template",
@@ -3124,7 +2659,7 @@
     "createdOn": "05-Jan-2023"
   },
   {
-    "id": 116,
+    "id": 100,
     "price": 0,
     "popularity": 1078,
     "appType": "landingpage",
@@ -3142,7 +2677,7 @@
     "createdOn": "20-Jan-2023"
   },
   {
-    "id": 117,
+    "id": 101,
     "price": 0,
     "popularity": 1079,
     "appType": "landingpage",
@@ -3160,7 +2695,7 @@
     "createdOn": "12-Sep-2022"
   },
   {
-    "id": 118,
+    "id": 102,
     "price": 0,
     "popularity": 1080,
     "appType": "landingpage",
@@ -3178,7 +2713,7 @@
     "createdOn": "04-Jun-2023"
   },
   {
-    "id": 119,
+    "id": 103,
     "price": 0,
     "popularity": 1081,
     "appType": "landingpage",
@@ -3196,7 +2731,7 @@
     "createdOn": "14-Jul-2023"
   },
   {
-    "id": 120,
+    "id": 104,
     "price": 0,
     "popularity": 1082,
     "appType": "landingpage",
@@ -3214,7 +2749,7 @@
     "createdOn": "02-Dec-2020"
   },
   {
-    "id": 121,
+    "id": 105,
     "price": 0,
     "popularity": 1083,
     "appType": "landingpage",
@@ -3232,7 +2767,7 @@
     "createdOn": "15-Aug-2020"
   },
   {
-    "id": 122,
+    "id": 106,
     "price": 0,
     "popularity": 1084,
     "appType": "landingpage",
@@ -3250,7 +2785,7 @@
     "createdOn": "04-Dec-2020"
   },
   {
-    "id": 123,
+    "id": 107,
     "price": 0,
     "popularity": 1085,
     "appType": "landingpage",
@@ -3268,7 +2803,7 @@
     "createdOn": "19-Mar-2022"
   },
   {
-    "id": 124,
+    "id": 108,
     "price": 0,
     "popularity": 1086,
     "appType": "landingpage",
@@ -3286,7 +2821,7 @@
     "createdOn": "03-Oct-2022"
   },
   {
-    "id": 125,
+    "id": 109,
     "price": 0,
     "popularity": 1087,
     "appType": "landingpage",
@@ -3304,7 +2839,7 @@
     "createdOn": "03-Oct-2022"
   },
   {
-    "id": 126,
+    "id": 110,
     "price": 0,
     "popularity": 1088,
     "appType": "landingpage",
@@ -3322,7 +2857,7 @@
     "createdOn": "16-Nov-2021"
   },
   {
-    "id": 127,
+    "id": 111,
     "price": 0,
     "popularity": 1089,
     "appType": "landingpage",
@@ -3340,7 +2875,7 @@
     "createdOn": "15-Oct-2021"
   },
   {
-    "id": 128,
+    "id": 112,
     "price": 0,
     "popularity": 1090,
     "appType": "landingpage",
@@ -3358,7 +2893,7 @@
     "createdOn": "05-Dec-2021"
   },
   {
-    "id": 129,
+    "id": 113,
     "price": 0,
     "popularity": 1091,
     "appType": "landingpage",
@@ -3376,7 +2911,7 @@
     "createdOn": "26-Aug-2021"
   },
   {
-    "id": 130,
+    "id": 114,
     "price": 0,
     "popularity": 1092,
     "appType": "landingpage",
@@ -3394,7 +2929,7 @@
     "createdOn": "12-Sep-2021"
   },
   {
-    "id": 131,
+    "id": 115,
     "price": 0,
     "popularity": 1093,
     "appType": "landingpage",
@@ -3412,7 +2947,7 @@
     "createdOn": "15-Sep-2021"
   },
   {
-    "id": 132,
+    "id": 116,
     "price": 0,
     "popularity": 1094,
     "appType": "landingpage",
@@ -3438,7 +2973,7 @@
     "createdOn": "10-Jun-2023"
   },
   {
-    "id": 133,
+    "id": 117,
     "price": 0,
     "popularity": 1095,
     "appType": "landingpage",
@@ -3456,7 +2991,7 @@
     "createdOn": "31-Mar-2023"
   },
   {
-    "id": 134,
+    "id": 118,
     "price": 0,
     "popularity": 1096,
     "appType": "landingpage",
@@ -3474,7 +3009,7 @@
     "createdOn": "03-Jul-2022"
   },
   {
-    "id": 135,
+    "id": 119,
     "price": 0,
     "popularity": 1097,
     "appType": "admin-template",
@@ -3492,7 +3027,7 @@
     "createdOn": "15-Jan-2020"
   },
   {
-    "id": 136,
+    "id": 120,
     "price": 0,
     "popularity": 1098,
     "appType": "landingpage",
@@ -3510,7 +3045,7 @@
     "createdOn": "27-Mar-2022"
   },
   {
-    "id": 137,
+    "id": 121,
     "price": 0,
     "popularity": 1099,
     "appType": "admin-template",
@@ -3528,7 +3063,7 @@
     "createdOn": "11-Mar-2020"
   },
   {
-    "id": 138,
+    "id": 122,
     "price": 0,
     "popularity": 1100,
     "appType": "landingpage",
@@ -3546,7 +3081,7 @@
     "createdOn": "27-Nov-2022"
   },
   {
-    "id": 139,
+    "id": 123,
     "price": 0,
     "popularity": 1101,
     "appType": "landingpage",
@@ -3564,7 +3099,7 @@
     "createdOn": "21-Jan-2022"
   },
   {
-    "id": 140,
+    "id": 124,
     "price": 0,
     "popularity": 1102,
     "appType": "landingpage",
@@ -3582,7 +3117,7 @@
     "createdOn": "19-Sep-2023"
   },
   {
-    "id": 141,
+    "id": 125,
     "price": 0,
     "popularity": 1103,
     "appType": "landingpage",
@@ -3600,7 +3135,7 @@
     "createdOn": "14-Mar-2023"
   },
   {
-    "id": 142,
+    "id": 126,
     "price": 0,
     "popularity": 1104,
     "appType": "landingpage",
@@ -3618,7 +3153,7 @@
     "createdOn": "10-Dec-2022"
   },
   {
-    "id": 143,
+    "id": 127,
     "price": 0,
     "popularity": 1105,
     "appType": "landingpage",
@@ -3636,7 +3171,7 @@
     "createdOn": "11-Jan-2023"
   },
   {
-    "id": 144,
+    "id": 128,
     "price": 0,
     "popularity": 1106,
     "appType": "landingpage",
@@ -3659,7 +3194,7 @@
     "createdOn": "07-Sep-2023"
   },
   {
-    "id": 145,
+    "id": 129,
     "price": 0,
     "popularity": 1107,
     "appType": "landingpage",
@@ -3677,7 +3212,7 @@
     "createdOn": "13-Feb-2023"
   },
   {
-    "id": 146,
+    "id": 130,
     "price": 0,
     "popularity": 1108,
     "appType": "landingpage",
@@ -3695,7 +3230,7 @@
     "createdOn": "08-Nov-2019"
   },
   {
-    "id": 147,
+    "id": 131,
     "price": 0,
     "popularity": 1109,
     "appType": "landingpage",
@@ -3713,7 +3248,7 @@
     "createdOn": "27-Apr-2020"
   },
   {
-    "id": 148,
+    "id": 132,
     "price": 0,
     "popularity": 1110,
     "appType": "landingpage",
@@ -3731,7 +3266,7 @@
     "createdOn": "27-Jul-2023"
   },
   {
-    "id": 149,
+    "id": 133,
     "price": 0,
     "popularity": 1111,
     "appType": "landingpage",
@@ -3749,7 +3284,7 @@
     "createdOn": "27-Jul-2023"
   },
   {
-    "id": 150,
+    "id": 134,
     "price": 0,
     "popularity": 1112,
     "appType": "landingpage",
@@ -3767,7 +3302,7 @@
     "createdOn": "15-May-2021"
   },
   {
-    "id": 151,
+    "id": 135,
     "price": 0,
     "popularity": 1113,
     "appType": "landingpage",
@@ -3791,7 +3326,7 @@
     "createdOn": "22-Apr-2023"
   },
   {
-    "id": 152,
+    "id": 136,
     "price": 0,
     "popularity": 1114,
     "appType": "landingpage",
@@ -3809,7 +3344,7 @@
     "createdOn": "02-Oct-2023"
   },
   {
-    "id": 153,
+    "id": 137,
     "price": 0,
     "popularity": 1115,
     "appType": "landingpage",
@@ -3827,7 +3362,7 @@
     "createdOn": "15-Aug-2020"
   },
   {
-    "id": 154,
+    "id": 138,
     "price": 0,
     "popularity": 1116,
     "appType": "landingpage",
@@ -3851,7 +3386,7 @@
     "createdOn": "26-Aug-2023"
   },
   {
-    "id": 155,
+    "id": 139,
     "price": 0,
     "popularity": 1117,
     "appType": "admin-template",
@@ -3869,7 +3404,7 @@
     "createdOn": "20-Sep-2022"
   },
   {
-    "id": 156,
+    "id": 140,
     "price": 0,
     "popularity": 1118,
     "appType": "admin-template",
@@ -3887,7 +3422,7 @@
     "createdOn": "09-Dec-2022"
   },
   {
-    "id": 157,
+    "id": 141,
     "price": 0,
     "popularity": 1119,
     "appType": "admin-template",
@@ -3917,7 +3452,7 @@
     "createdOn": ""
   },
   {
-    "id": 158,
+    "id": 142,
     "price": 0,
     "popularity": 1120,
     "appType": "admin-template",
@@ -3935,7 +3470,7 @@
     "createdOn": ""
   },
   {
-    "id": 159,
+    "id": 143,
     "price": 0,
     "popularity": 1121,
     "appType": "landingpage",
@@ -3953,7 +3488,7 @@
     "createdOn": ""
   },
   {
-    "id": 160,
+    "id": 144,
     "price": 0,
     "popularity": 1122,
     "appType": "admin-template",
@@ -3971,7 +3506,7 @@
     "createdOn": "01-Nov-2022"
   },
   {
-    "id": 161,
+    "id": 145,
     "price": 0,
     "popularity": 1123,
     "appType": "landingpage",
@@ -3989,7 +3524,7 @@
     "createdOn": "29-Jun-2022"
   },
   {
-    "id": 162,
+    "id": 146,
     "price": 0,
     "popularity": 1124,
     "appType": "landingpage",
@@ -4007,7 +3542,7 @@
     "createdOn": "27-Dec-2020"
   },
   {
-    "id": 163,
+    "id": 147,
     "price": 0,
     "popularity": 1125,
     "appType": "admin-template",
@@ -4025,7 +3560,7 @@
     "createdOn": ""
   },
   {
-    "id": 164,
+    "id": 148,
     "price": 0,
     "popularity": 1126,
     "appType": "admin-template",
@@ -4043,7 +3578,7 @@
     "createdOn": ""
   },
   {
-    "id": 165,
+    "id": 149,
     "price": 0,
     "popularity": 1127,
     "appType": "admin-template",
@@ -4071,9 +3606,9 @@
     "createdOn": ""
   },
   {
-    "id": 166,
+    "id": 150,
     "price": 0,
-    "popularity": 614,
+    "popularity": 314,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/?ref=340",
     "category": "NextJs",
@@ -4099,9 +3634,9 @@
     "frameworkName": ""
   },
   {
-    "id": 167,
+    "id": 151,
     "price": 49,
-    "popularity": 615,
+    "popularity": 315,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-next-js-tailwind-dashboard-template/?ref=340",
     "category": "NextJs",

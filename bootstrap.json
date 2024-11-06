@@ -153,6 +153,71 @@
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/materialm-free-bootstrap-admin/",
+    "category": "Bootstrap",
+    "imageAlt": "materialM-free-preview-img",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2024/05/materialM-free-preview-img.jpg",
+    "subtitle": "Free & Open Source Dashboard Admin Template",
+    "livePreview": "https://bootstrapdemos.wrappixel.com/MaterialM-free/landingpage/index.html",
+    "templateName": "MaterialM Free Bootstrap Admin",
+    "description": "MaterialM Free Bootstrap Admin is a versatile and elegantly designed admin template built with Bootstrap, tailored to meet the needs of modern web applications and administrative dashboards. This free template combines the reliability of Bootstrap’s responsive framework with a clean, user-friendly interface inspired by Material Design principles. MaterialM offers a variety of pre-built components, including interactive charts, tables, and form elements, that make it easy for developers to create data-driven, visually engaging dashboards. Its modular structure ensures a streamlined development process, allowing for effortless customization and expansion to meet specific project needs. With MaterialM Free Bootstrap Admin, developers have access to a powerful and intuitive template that accelerates project development, while delivering a polished, professional user experience.",
+    "features": [
+      "1 Basic Dashboard",
+      "10+ Pages Template",
+      "5+ UI Components",
+      "Bootstrap 5 Version",
+      "Tabler Icons",
+      "SCSS Base CSS",
+      "Easy To Customize",
+      "Basic Form Examples",
+      "Fully Responsive Pages"
+    ],
+    "createdOn": "29-May-2024"
+  },
+  {
+    "id": 7,
+    "price": 29,
+    "popularity": 1,
+    "appType": "admin-template",
+    "details": "https://www.wrappixel.com/templates/materialm-admin-dashboard-template/",
+    "category": "Bootstrap",
+    "imageAlt": "materialm-bootstrap-admin-dashboard-wpn",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialm-bootstrap-admin-dashboard-wpn.jpg",
+    "subtitle": "Discover the Hottest Bootstrap 5 Dashboard Template",
+    "livePreview": "https://www.wrappixel.com/templates/materialm-admin-dashboard-template/#demos",
+    "templateName": "MaterialM Admin Dashboard Template",
+    "description": "MaterialM Admin Dashboard Template is a robust, feature-rich solution designed to streamline the development of high-quality, interactive dashboards and admin panels. Built with Material Design principles and the latest web technologies, MaterialM offers a modern, responsive interface packed with pre-designed components, widgets, and interactive charts. This template is ideal for a wide range of applications, from data analytics to enterprise management systems, providing a user-friendly, visually cohesive environment for managing data and workflows. With its modular architecture, MaterialM allows developers to easily customize layouts and functionality, adapting to project-specific requirements without compromising performance. By using MaterialM Admin Dashboard Template, developers can deliver a polished, engaging user experience that drives productivity and enhances usability across devices.",
+    "features": [
+      "3+ Stunning Dashboards",
+      "690+ Page Templates",
+      "150+ UI Components",
+      "25+ Integrated Plugins",
+      "Bootstrap Landing Page",
+      "1 Year Premium Support",
+      "Right-to-Left(RTL) Verion",
+      "Unlimited Colors",
+      "3400+ Font Icons",
+      "Lots of Chart Options",
+      "Bootstrap 5 Version",
+      "Fully Responsive Pages",
+      "6+ Unique Demos",
+      "12+ Ready to Use App",
+      "Light and Dark Sidebar",
+      "Dashboard Figma Files",
+      "Documentation Provided",
+      "Lots of Widgets",
+      "Tons of Table Example",
+      "Variety of Forms Included",
+      "SCSS Base CSS",
+      "Easy to Customize"
+    ],
+    "createdOn": "27-Apr-2024"
+  },
+  {
+    "id": 8,
+    "price": 0,
+    "popularity": 1,
+    "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-free-bootstrap-admin/",
     "category": "Bootstrap",
     "imageAlt": "Free-Spike-Admin-WrapPixel-Preview",
@@ -177,7 +242,7 @@
     "createdOn": "25-Sept-2023"
   },
   {
-    "id": 7,
+    "id": 9,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -208,7 +273,7 @@
     "createdOn": "20-Sept-2023"
   },
   {
-    "id": 8,
+    "id": 10,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -239,193 +304,7 @@
     "createdOn": "11-Jul-2017"
   },
   {
-    "id": 9,
-    "price": 49,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monsteradmin/#demos",
-    "category": "Bootstrap",
-    "imageAlt": "monster-bootstrap-admin-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-y.jpg",
-    "subtitle": "Premium Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/monster-bootstrap/package/html/main/index2.html",
-    "templateName": "Monster Bootstrap  Admin Template",
-    "description": "Since there are so many Bootstrap Templates available, finding one can occasionally be difficult. Your search can end happily with this Monster Bootstrap Admin Template. One of the best and most well-liked Bootstrap 5 Templates is available here. It is a well-liked WebApp Template for administrative panels and dashboards. It's not your typical backend template; with a high-quality and simple user interface, it may elevate the backends of your applications and websites. You've come to the right place if you're looking for premium Bootstrap Templates. One of the best Bootstrap themes, it can give any project or application a polished, expert appearance.",
-    "features": [
-      "RTL Dashboard Version",
-      "7 Unique Demos",
-      "5+ Unique Dashboards",
-      "9 Ready to Use Application Designs",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table Export to PDF, Excel, CSV",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "6 Color Schemes",
-      "Range Slider"
-    ],
-    "createdOn": "10-May-2017"
-  },
-  {
-    "id": 10,
-    "price": 49,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminpro/#demos",
-    "category": "Bootstrap",
-    "imageAlt": "adminpro-bootstrap-admin-template-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-admin-template-y.jpg",
-    "subtitle": "Premium Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/adminpro-bootstrap/package/html/main/index2.html",
-    "templateName": "AdminPro Bootstrap Theme",
-    "description": "One of the main benefits of utilizing this AdminPro Bootstrap Template is its outstanding user experience, which can improve the performance of your WebApp projects. You may always speed up the performance by using this Premium Bootstrap 5 Template. Many developers adore its complete customizability possibilities and reactivity, which offer users an amazing experience. The SaaS sector may fully benefit from employing SaaS CRM Analytics, SaaS Admin Templates, and SaaS monitoring dashboards to stay on top of the most recent trends and events in the SaaS sector.",
-    "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "5+ Unique Dashboards",
-      "9 Ready to Use Application Designs",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table Export to PDF, Excel, CSV",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "6 Color Schemes",
-      "Range Slider"
-    ],
-    "createdOn": "06-Sep-2017"
-  },
-  {
     "id": 11,
-    "price": 49,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtremeadmin/#demos",
-    "category": "Bootstrap",
-    "imageAlt": "xtreme-bootstrap-admin-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg",
-    "subtitle": "Premium Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/xtreme-bootstrap/package/html/ltr/index.html",
-    "templateName": "Xtreme Bootstrap Admin",
-    "description": "Xtreme Bootstrap Admin is one of the most effective and bright Bootstrap 5 Admin Dashboards, and it's also quite simple to use. Being the most popular Premium Bootstrap Admin Template with many industries, it is highly sought after for assisting businesses in thriving and managing their exponential business growth. When it comes to this Bootstrap 5 Dashboard's adaptability, we can say that it is user-friendly, responsive, and provides a huge selection of spotless landing pages. It also provides some incredible features, including demos, dashboard choices, lightning-fast, pre-defined color skins, and much more. One of the straightforward bootstrap dashboards is very helpful for trading admin dashboards, Fin-tech data analytics, cryptocurrency admin, and many other things.",
-    "features": [
-      "RTL Dashboard Version",
-      "10 Unique Demos",
-      "Range Slider",
-      "9+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table Export to PDF, Excel, CSV",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "16-May-2018"
-  },
-  {
-    "id": 12,
-    "price": 79,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/mega-bundle/#demos",
-    "category": "Bootstrap",
-    "imageAlt": "bootstrap-bundle-yt",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/bootstrap-bundle-yt.jpg",
-    "subtitle": "Bootstrap Mega Bundle",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/material/index.html",
-    "templateName": "Bootstrap Mega Bundle",
-    "description": "Are you an advertising agency or a product company looking to cut expenses and shorten the development process? The meticulously picked Bootstrap Templates in this Mega Bundle is an unbeatable deal that you simply can't pass up. This bundle contains 10+ Premium Bootstrap Templates. Our Bootstrap Templates are a crucial resource for agencies looking to expand their web development capabilities. A collection of the top Bootstrap tools and templates from across the internet, each having a wealth of customization options and plugins to make creation simple for even inexperienced developers. Each template is meticulously created to follow the most recent trends in user experience and is adaptable enough for a variety of purposes. Quickly and easily create websites that are gorgeous, modular, fully responsive, and lightning-fast.",
-    "features": [
-      "45+ Dashboard Variations",
-      "10+ Bootstrap Templates",
-      "PSDs for Dashboard Pages",
-      "500+ Widgets & Components",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table Export to PDF, Excel, CSV",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "15-May-2017"
-  },
-  {
-    "id": 13,
-    "price": 49,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/niceadmin/#demos",
-    "category": "Bootstrap",
-    "imageAlt": "nice-bootstrap-admin-template-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/nice-bootstrap-admin-template-y.jpg",
-    "subtitle": "Premium Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/nice-bootstrap/package/html/ltr/index.html",
-    "templateName": "Nice Bootstrap Admin",
-    "description": "We have expertly created this Nice Bootstrap Admin Dashboard Template for you if your worry is getting your hands on Bootstrap's fundamental minimalist style. It is renowned among developers all over the world for its amazing appearance, features, and components that you get when you buy the admin dashboard premium version. You have a fantastic selection of reusable widgets, elements, components, and plugins at your disposal to create some of the most powerful dashboards for your very own business projects. When your work is well-received, it often leads to unexpected chances.",
-    "features": [
-      "RTL Dashboard Version",
-      "6 Unique Demos",
-      "Dark & Light Sidebar",
-      "6+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table Export to PDF, Excel, CSV",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "25-Jul-2018"
-  },
-  {
-    "id": 14,
-    "price": 49,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/elegant-admin/#demos",
-    "category": "Bootstrap",
-    "imageAlt": "elegant-bootstrap-admin-template-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/elegant-bootstrap-admin-template-y.jpg",
-    "subtitle": "Premium Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/elegant-bootstrap/main/index.html",
-    "templateName": "Elegant Bootstrap Admin",
-    "description": "Are you looking for some of the most cutting-edge, modern, fashionable, and effective admin dashboards? The answer to your query is this Elegant Bootstrap Admin Template. Such an exciting premium admin dashboard template with all of your demands' solutions is unfathomable. The Bootstrap Admin Panel is straightforward, sophisticated, and profitable for all types of businesses. It includes unique functions, elements, widgets, and ready-to-use plugins that are primarily provided by the Bootstrap Framework. It's awesome because it's a fully responsive HTML template for your web apps, has SEO-friendly components, and has a high-performing, optimized load time. It is built using a CSS framework, has a modular design, and has features that function on all devices.",
-    "features": [
-      "RTL Dashboard Version",
-      "5 Unique Demos",
-      "Dark & Light Sidebar",
-      "5+ Unique Dashboards",
-      "3000+ Font Icons",
-      "Completely Responsive Pages",
-      "Charts & Tables",
-      "Dark & Light Sidebar Themes",
-      "Megamenu",
-      "Data Table Export to PDF, Excel, CSV",
-      "Widgets & UI Components",
-      "Validation Forms",
-      "Application Designs",
-      "6 Color Skins"
-    ],
-    "createdOn": "07-Apr-2018"
-  },
-  {
-    "id": 15,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -455,93 +334,7 @@
     "createdOn": "11-May-2021"
   },
   {
-    "id": 16,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/ample-admin-lite/",
-    "category": "Bootstrap",
-    "imageAlt": "ample-admin-bootstrap-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-bootstrap-lite-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/premium-admin-templates/bootstrap/flexy-bootstrap/package/html/main/index.html",
-    "templateName": "Ample Bootstrap Admin Lite",
-    "description": "Choose Ample Bootstrap Admin Lite if you're looking for high-quality Bootstrap HTML Templates to advance your design endeavors. Its adaptable and responsive design makes it the ideal choice for any project or app. The variety of features and components serve as practical tools for carrying out many complex duties. The Ample Bootstrap Admin Lite is practical and easy to use thanks to a variety of helpful options. To add to the various features of the design, you may pick from a variety of widgets. The astounding 100+ font choices guarantee that your finished project will seem chic, modern, and appealing.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "10 Integrated Plugins",
-      "Lifetime Free Updates",
-      "Ready-to-Use Widgets",
-      "1 Form",
-      "3 Table Examples",
-      "100+ Font Icons",
-      "Sass Case CSS",
-      "1 to 2 Chart Options",
-      "3.3.7 Bootstrap Version"
-    ],
-    "createdOn": "09-Mar-2017"
-  },
-  {
-    "id": 17,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://matrixadmin.wrappixel.com/",
-    "category": "Bootstrap",
-    "imageAlt": "matrix-bootstrap-admin-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/matrix-bootstrap-admin-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://matrixadmin.wrappixel.com/",
-    "templateName": "Matrix Bootstrap Admin",
-    "description": "For your projects, Matrix Admin is a straightforward yet highly helpful Bootstrap 5 Dashboard Template. If you need an Admin Template for your backend project that is both contemporary and clean. For you, Matrix Admin is the best option. if more options are needed for your application. We recommend visiting the collection of our Premium Templates.",
-    "features": [
-      "1 Basic Dashboard",
-      "20+ Pages Template",
-      "10+ UI Components",
-      "Bootstrap 5 Version",
-      "Icons",
-      "Fully Responsive Pages",
-      "No Support Provided",
-      "Sass Base CSS",
-      "Easy To Customize",
-      "Basic Table Examples",
-      "Profile Page Included",
-      "No Documentation",
-      "Backlink Required"
-    ],
-    "createdOn": "28-May-2018"
-  },
-  {
-    "id": 18,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/monster-admin-lite/",
-    "category": "Bootstrap",
-    "imageAlt": "monster-bootstrap-admin-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-lite-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html",
-    "templateName": "Monster Bootstrap Admin Lite",
-    "description": "It's unlike anything you've ever seen before thanks to its potent features and configurations. The best plugins, elements, widgets, and tools are all included in this straightforward Bootstrap Template, giving you the freedom to modify your designs and programs precisely how you need them. It can give your site development efforts a classy touch. You can count on an outstanding look, exceptional functionality, clean code, and simple-to-understand documentation from a Bootstrap basic template like Monster Bootstrap Admin Lite.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "10 Integrated Plugins",
-      "Lifetime Free Updates",
-      "Ready-to-Use Widgets",
-      "1 Form",
-      "3 Table Examples",
-      "100+ Font Icons",
-      "Sass Base CSS",
-      "1 to 2 Chart Options",
-      "Bootstrap 5 Version"
-    ],
-    "createdOn": "10-May-2017"
-  },
-  {
-    "id": 19,
+    "id": 12,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -569,149 +362,7 @@
     "createdOn": "07-Oct-2017"
   },
   {
-    "id": 20,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/xtreme-admin-lite/",
-    "category": "Bootstrap",
-    "imageAlt": "xtreme-bootstrap-admin-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-lite-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/landingpage/index.html",
-    "templateName": "Xtreme Bootstrap Admin Lite",
-    "description": "The quality and aesthetic appeal of your applications can be substantially enhanced by using this Bootstrap 5 Admin Template Xtreme Admin Lite. This template may certainly allow you to add your own creative touch to it because of the variety of setups and customizations it supports. With this Bootstrap 5 template's adaptable capabilities, you can easily create beautiful websites and applications. With the right plugins, components, charts, and widgets, you can create a feature-rich, fast web app in a matter of days. This template's responsiveness, which allows it to seamlessly adapt to any screen of your choice, gives it additional flair. The 100+ amazing font options, which can instantly transform your applications, are another appealing aspect.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "10 Integrated Plugins",
-      "Lifetime Free Updates",
-      "Ready-to-Use Widgets",
-      "1 Form",
-      "3 Table Examples",
-      "100+ Font Icons",
-      "Sass Base CSS",
-      "1 to 2 Chart Options",
-      "Bootstrap 5 Version"
-    ],
-    "createdOn": "27-Aug-2018"
-  },
-  {
-    "id": 21,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/niceadmin-lite/",
-    "category": "Bootstrap",
-    "imageAlt": "nice-bootstrap-admin-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/nice-bootstrap-admin-lite-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/nice-bootstrap-free/landingpage/index.html",
-    "templateName": "Nice Bootstrap Admin Lite",
-    "description": "This stunning admin template for this year is called Nice Admin Lite and was expertly handcrafted. It was constructed using a modern, modular design. Downloading and using Nice Admin Lite for both personal and business projects is totally free. You can visit the Premium version for more features in this same Template.",
-    "features": [
-      "1 Basic Dashboard",
-      "SaSS Base CSS",
-      "7+ Pages Template",
-      "Easy To Customize",
-      "10+ UI Components",
-      "Basic Table Examples",
-      "Bootstrap 5 Version",
-      "Profile Page Included",
-      "Font Awesome Icons",
-      "Google Map",
-      "Fully Responsive Pages"
-    ],
-    "createdOn": "25-Jul-2018"
-  },
-  {
-    "id": 22,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminwrap-lite/",
-    "category": "Bootstrap",
-    "imageAlt": "adminwrap-bootstrap-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminwrap-bootstrap-lite-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/adminwrap-bootstrap-free/landingpage/index.html",
-    "templateName": "AdminWrap Bootstrap Lite",
-    "description": "AdminWrap Lite is an Admin Template that has been meticulously handcrafted. It is built in a modular style. AdminWrap Lite is available for free download and usage in both personal and business applications. Please check out the Premium version of this template if you require more features.",
-    "features": [
-      "1 Basic Dashboard",
-      "SaSS Base CSS",
-      "7+ Pages Template",
-      "Easy To Customize",
-      "10+ UI Components",
-      "Basic Table Examples",
-      "Bootstrap 5 Version",
-      "Font Awesome Icons",
-      "Google Map",
-      "Fully Responsive Pages",
-      "Basic Table Examples",
-      "Profile Page Included"
-    ],
-    "createdOn": "18-Jan-2018"
-  },
-  {
-    "id": 23,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/elegant-admin-lite/",
-    "category": "Bootstrap",
-    "imageAlt": "elegant-bootstrap-admin-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/elegant-bootstrap-admin-lite-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/elegant-bootstrap-free/landingpage/index.html",
-    "templateName": "Elegant Bootstrap Admin Lite",
-    "description": "The lively admin template, Elegant Admin Lite, was meticulously designed. It was built using a modular system. Elegant Admin Dashboard Template Lite can be downloaded and used without charge for noncommercial purposes. You can visit it's Premium Version if you require more features.",
-    "features": [
-      "1 Basic Dashboard",
-      "SaSS Base CSS",
-      "6+ Pages Template",
-      "Easy To Customize",
-      "10+ UI Components",
-      "Basic Table Examples",
-      "Bootstrap 5 Version",
-      "Font Awesome Icons",
-      "Google Map",
-      "Fully Responsive Pages",
-      "Basic Table Examples",
-      "Profile Page Included"
-    ],
-    "createdOn": "15-Jun-2018"
-  },
-  {
-    "id": 24,
-    "price": 0,
-    "popularity": 1,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/adminpro-free/",
-    "category": "Bootstrap",
-    "imageAlt": "adminpro-bootstrap-lite-y",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-lite-y.jpg",
-    "subtitle": "Free & Open-Source Bootstrap Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/landingpage/index.html",
-    "templateName": "AdminPro Bootstrap Lite",
-    "description": "The AdminPro Bootstrap Lite has made it simpler than ever to create designs that appear professional. You need not look further if you're looking for free Bootstrap admin templates. This pre-built template can be used to lay the groundwork for your ideal project, and you can even modify it to meet your requirements. You may create a feature-rich application with the many components, options, and widgets included in this straightforward Bootstrap framework. The fact that this Bootstrap blog template is responsive and suitable for all types of device screens adds to its attractiveness. You can use some of the widgets to utilize the template's full capabilities.",
-    "features": [
-      "7 Page Templates",
-      "10 UI Components",
-      "10 Integrated Plugins",
-      "Lifetime Free Updates",
-      "Ready-to-Use Widgets",
-      "1 Form",
-      "3 Table Examples",
-      "100+ Font Icons",
-      "Sass Base CSS",
-      "1 to 2 Chart Options",
-      "4.0.0 Bootstrap Version"
-    ],
-    "createdOn": "09-May-2017"
-  },
-  {
-    "id": 25,
+    "id": 13,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -739,7 +390,7 @@
     "createdOn": "15-May-2021"
   },
   {
-    "id": 26,
+    "id": 14,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -762,7 +413,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 27,
+    "id": 15,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -785,7 +436,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 28,
+    "id": 16,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -809,7 +460,7 @@
     "createdOn": "18-Mar-2023"
   },
   {
-    "id": 29,
+    "id": 17,
     "price": 49,
     "popularity": 1,
     "appType": "admin-template",
@@ -849,7 +500,7 @@
     "createdOn": "13-Feb-2013"
   },
   {
-    "id": 30,
+    "id": 18,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -867,7 +518,7 @@
     "createdOn": ""
   },
   {
-    "id": 31,
+    "id": 19,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -890,7 +541,7 @@
     "createdOn": ""
   },
   {
-    "id": 32,
+    "id": 20,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -908,7 +559,7 @@
     "createdOn": ""
   },
   {
-    "id": 33,
+    "id": 21,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -926,7 +577,7 @@
     "createdOn": ""
   },
   {
-    "id": 34,
+    "id": 22,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -944,7 +595,7 @@
     "createdOn": ""
   },
   {
-    "id": 35,
+    "id": 23,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -962,7 +613,7 @@
     "createdOn": ""
   },
   {
-    "id": 36,
+    "id": 24,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -980,7 +631,7 @@
     "createdOn": ""
   },
   {
-    "id": 37,
+    "id": 25,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -998,7 +649,7 @@
     "createdOn": ""
   },
   {
-    "id": 38,
+    "id": 26,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1016,7 +667,7 @@
     "createdOn": ""
   },
   {
-    "id": 39,
+    "id": 27,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1034,7 +685,7 @@
     "createdOn": ""
   },
   {
-    "id": 40,
+    "id": 28,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1052,7 +703,7 @@
     "createdOn": ""
   },
   {
-    "id": 41,
+    "id": 29,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1070,7 +721,7 @@
     "createdOn": ""
   },
   {
-    "id": 42,
+    "id": 30,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1088,7 +739,7 @@
     "createdOn": ""
   },
   {
-    "id": 43,
+    "id": 31,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1106,7 +757,7 @@
     "createdOn": ""
   },
   {
-    "id": 44,
+    "id": 32,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1124,7 +775,7 @@
     "createdOn": ""
   },
   {
-    "id": 45,
+    "id": 33,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1142,7 +793,7 @@
     "createdOn": ""
   },
   {
-    "id": 46,
+    "id": 34,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1169,7 +820,7 @@
     "createdOn": "12-Sep-2018"
   },
   {
-    "id": 47,
+    "id": 35,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1187,7 +838,7 @@
     "createdOn": "03-Mar-2021"
   },
   {
-    "id": 48,
+    "id": 36,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1205,7 +856,7 @@
     "createdOn": "10-Dec-2023"
   },
   {
-    "id": 49,
+    "id": 37,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1223,7 +874,7 @@
     "createdOn": "15-Mar-2023"
   },
   {
-    "id": 50,
+    "id": 38,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1241,7 +892,7 @@
     "createdOn": "26-Jun-2023"
   },
   {
-    "id": 51,
+    "id": 39,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1259,7 +910,7 @@
     "createdOn": "15-Jan-2020"
   },
   {
-    "id": 52,
+    "id": 40,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1277,7 +928,7 @@
     "createdOn": "09-Dec-2022"
   },
   {
-    "id": 53,
+    "id": 41,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1295,7 +946,7 @@
     "createdOn": "01-Oct-2022"
   },
   {
-    "id": 54,
+    "id": 42,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1313,7 +964,7 @@
     "createdOn": "13-Apr-2020"
   },
   {
-    "id": 55,
+    "id": 43,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1331,7 +982,7 @@
     "createdOn": "04-Mar-2021"
   },
   {
-    "id": 56,
+    "id": 44,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1349,7 +1000,7 @@
     "createdOn": "29-Aug-2023"
   },
   {
-    "id": 57,
+    "id": 45,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1367,7 +1018,7 @@
     "createdOn": "03-Oct-2022"
   },
   {
-    "id": 58,
+    "id": 46,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1390,7 +1041,7 @@
     "createdOn": "29-Oct-2023"
   },
   {
-    "id": 59,
+    "id": 47,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1408,7 +1059,7 @@
     "createdOn": "30-Aug-2023"
   },
   {
-    "id": 60,
+    "id": 48,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1426,7 +1077,7 @@
     "createdOn": "18-Dec-2023"
   },
   {
-    "id": 61,
+    "id": 49,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1444,7 +1095,7 @@
     "createdOn": "16-Feb-2016"
   },
   {
-    "id": 62,
+    "id": 50,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1462,7 +1113,7 @@
     "createdOn": "13-Oct-2019"
   },
   {
-    "id": 63,
+    "id": 51,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1480,7 +1131,7 @@
     "createdOn": "22-Jul-2019"
   },
   {
-    "id": 64,
+    "id": 52,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1498,7 +1149,7 @@
     "createdOn": "03-Nov-2019"
   },
   {
-    "id": 65,
+    "id": 53,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1516,7 +1167,7 @@
     "createdOn": ""
   },
   {
-    "id": 66,
+    "id": 54,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1534,7 +1185,7 @@
     "createdOn": ""
   },
   {
-    "id": 67,
+    "id": 55,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1552,7 +1203,7 @@
     "createdOn": "27-Aug-2023"
   },
   {
-    "id": 68,
+    "id": 56,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1575,7 +1226,7 @@
     "createdOn": "09-Dec-2018"
   },
   {
-    "id": 69,
+    "id": 57,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1593,7 +1244,7 @@
     "createdOn": "08-Feb-2022"
   },
   {
-    "id": 70,
+    "id": 58,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1611,7 +1262,7 @@
     "createdOn": ""
   },
   {
-    "id": 71,
+    "id": 59,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1629,7 +1280,7 @@
     "createdOn": ""
   },
   {
-    "id": 72,
+    "id": 60,
     "price": 0,
     "popularity": 1,
     "appType": "web-template",
@@ -1647,7 +1298,7 @@
     "createdOn": "11-Oct-2020"
   },
   {
-    "id": 73,
+    "id": 61,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1665,7 +1316,7 @@
     "createdOn": ""
   },
   {
-    "id": 74,
+    "id": 62,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1689,7 +1340,7 @@
     "createdOn": "31-May-2021"
   },
   {
-    "id": 75,
+    "id": 63,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1713,7 +1364,7 @@
     "createdOn": "09-Feb-2022"
   },
   {
-    "id": 76,
+    "id": 64,
     "price": 0,
     "popularity": 1,
     "appType": "admin-template",
@@ -1731,7 +1382,7 @@
     "createdOn": ""
   },
   {
-    "id": 77,
+    "id": 65,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1749,7 +1400,7 @@
     "createdOn": ""
   },
   {
-    "id": 78,
+    "id": 66,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1767,7 +1418,7 @@
     "createdOn": ""
   },
   {
-    "id": 79,
+    "id": 67,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
@@ -1785,7 +1436,7 @@
     "createdOn": "03-Jun-2022"
   },
   {
-    "id": 80,
+    "id": 68,
     "price": 0,
     "popularity": 1,
     "appType": "landingpage",
