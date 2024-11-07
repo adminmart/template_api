@@ -1730,5 +1730,29 @@
             "Open Source"
         ],
         "createdOn": "25-Mar-2019"
+    },
+    {
+        "id": 74,
+        "price": 0,
+        "popularity": 1056,
+        "appType": "landingpage",
+        "details": "https://github.com/r1/nine4-1/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "nine4-1",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/nine4-1.jpg",
+        "subtitle": "Elegant & Responsive Design: NINE4 Template 1 for Modern Web Solutions.",
+        "livePreview": "https://nine4-1.vercel.app/",
+        "templateName": "NINE4 Template 1",
+        "description": "This is a free-to-use template for websites made with Next.js, bootstrapped with create-next-app, and styled with Tailwind CSS. It is great for any agency or business site. The template was made by Jack Latimer, a Front-End React Developer based in Liverpool, England.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "1 Basic Landingpage",
+            "PostCSS for processing Tailwind CSS and integrated to styled-jsx",
+            "Open Source"
+        ],
+        "createdOn": "10-Mar-2021"
     }
 ]
