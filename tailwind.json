@@ -1778,5 +1778,29 @@
             "Open Source"
         ],
         "createdOn": "03-Nov-2021"
+    },
+    {
+        "id": 76,
+        "price": 0,
+        "popularity": 1058,
+        "appType": "landingpage",
+        "details": "https://github.com/tailwindtoolbox/App-Landing-Page/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "App-Landing-Page",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/App-Landing-Page.jpg",
+        "subtitle": "Tailwind CSS Starter Template - App Landing Page",
+        "livePreview": "https://tailwindtoolbox.github.io/App-Landing-Page/",
+        "templateName": "App Landing Page",
+        "description": "App Landing Page is an open-source, generic App Landing Page template for Tailwind CSS created by Tailwind Toolbox. This app landing page is a simple yet stylish template to showcase your next mobile application, product, or startup.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "1 Basic Landingpage",
+            "PostCSS for processing Tailwind CSS and integrated to styled-jsx",
+            "Open Source"
+        ],
+        "createdOn": "31-May-2019"
     }
 ]
