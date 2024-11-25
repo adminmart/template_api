@@ -1802,5 +1802,28 @@
             "Open Source"
         ],
         "createdOn": "31-May-2019"
+    },
+    {
+        "id": 77,
+        "price": 0,
+        "popularity": 1059,
+        "appType": "admin-template",
+        "details": "https://github.com/mertJF/tailblocks/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "tailblocks",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailblocks.jpg",
+        "subtitle": "Ready-to-use Tailwind CSS blocks.",
+        "livePreview": "https://tailblocks.cc/",
+        "templateName": "Admin Dashboard Template",
+        "description": "This project provides multiple blocks built using Tailwind CSS that you can use in your own projects. This project is not a dependency that you add to your project but instead provides you with HTML that you can easily copy and paste into your own project.",
+        "features": [
+            "60+ Blocks",
+            "Responsive",
+            "Dark Mode Support",
+            "Color Variations",
+            "Well documented",
+            "Open Source"
+        ],
+        "createdOn": "14-May-2020"
     }
 ]
