@@ -3607,6 +3607,31 @@
   },
   {
     "id": 150,
+    "price": 0,
+    "popularity": 1128,
+    "appType": "landingpage",
+    "details": "https://nextjs-templates.com/products/crypgo-nextjs-tailwind-free-landing-page-template",
+    "category": "NextJs",
+    "imageAlt": "crypgo-nextjs-tailwind-free-landing-page-template",
+    "imageSrc": "https://nextjs-templates.com/_next/image?url=https%3A%2F%2Fadminmart.github.io%2Ftemplate_api%2Fimages%2Fwebsite-template%2FCrypgo-Nextjs-tailwind-Free-Landing-Page-Template.jpg&w=640&q=75",
+    "subtitle": "Crypgo: A Free, Responsive Landing Page Template Built with Next.js and Tailwind CSS",
+    "livePreview": "https://flatlogic.github.io/sofia-react-template/#/template/dashboard",
+    "templateName": "Crypgo Nextjs tailwind Free Landing Page Template",
+    "description": "Crypgo: A feature-rich, responsive landing page template for crypto buying and selling, expertly built with Next.js, Tailwind CSS, and TypeScript. It offers seamless performance, modern design, and easy customization, perfect for launching your crypto platform.",
+    "features": [
+      "React 18+",
+      "NextJs 14+",
+      "Tailwind",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "27-Nov-2024"
+  },
+  {
+    "id": 151,
     "price": 19,
     "popularity": 209,
     "appType": "website",
@@ -3631,7 +3656,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 151,
+    "id": 152,
     "price": 19,
     "popularity": 210,
     "appType": "website",
@@ -3656,7 +3681,7 @@
     "createdOn": "25-Nov-2024"
   },
   {
-    "id": 152,
+    "id": 153,
     "price": 19,
     "popularity": 211,
     "appType": "website",
@@ -3681,7 +3706,7 @@
     "createdOn": "26-Jun-2024"
   },
   {
-    "id": 153,
+    "id": 154,
     "price": 19,
     "popularity": 212,
     "appType": "website",
@@ -3706,7 +3731,7 @@
     "createdOn": "11-Jul-2024"
   },
   {
-    "id": 154,
+    "id": 155,
     "price": 19,
     "popularity": 213,
     "appType": "website",
@@ -3731,7 +3756,7 @@
     "createdOn": "20-Jul-2024"
   },
   {
-    "id": 155,
+    "id": 156,
     "price": 19,
     "popularity": 214,
     "appType": "website",
@@ -3756,7 +3781,7 @@
     "createdOn": "28-Jul-2024"
   },
   {
-    "id": 156,
+    "id": 157,
     "price": 19,
     "popularity": 215,
     "appType": "website",
@@ -3781,7 +3806,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 157,
+    "id": 158,
     "price": 19,
     "popularity": 216,
     "appType": "website",
@@ -3806,7 +3831,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 158,
+    "id": 159,
     "price": 19,
     "popularity": 217,
     "appType": "website",
@@ -3831,7 +3856,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 159,
+    "id": 160,
     "price": 19,
     "popularity": 218,
     "appType": "website",
@@ -3856,7 +3881,7 @@
     "createdOn": "26-Jun-2024"
   },
   {
-    "id": 160,
+    "id": 161,
     "price": 0,
     "popularity": 314,
     "appType": "admin-template",
@@ -3884,7 +3909,7 @@
     "frameworkName": ""
   },
   {
-    "id": 161,
+    "id": 162,
     "price": 49,
     "popularity": 315,
     "appType": "admin-template",
