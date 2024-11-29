@@ -1814,7 +1814,7 @@
         "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailblocks.jpg",
         "subtitle": "Ready-to-use Tailwind CSS blocks.",
         "livePreview": "https://tailblocks.cc/",
-        "templateName": "Admin Dashboard Template",
+        "templateName": "Tailblocks",
         "description": "This project provides multiple blocks built using Tailwind CSS that you can use in your own projects. This project is not a dependency that you add to your project but instead provides you with HTML that you can easily copy and paste into your own project.",
         "features": [
             "60+ Blocks",
@@ -1825,5 +1825,33 @@
             "Open Source"
         ],
         "createdOn": "14-May-2020"
+    },
+    {
+        "id": 78,
+        "price": 0,
+        "popularity": 1060,
+        "appType": "landingpage",
+        "details": "https://github.com/abhinavs/cookie/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "cookie",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/cookie.jpg",
+        "subtitle": "Landing website + Blog using Jekyll & Tailwind CSS",
+        "livePreview": "https://cookie-demo.netlify.app/",
+        "templateName": "Cookie",
+        "description": "Cookie is a fast and easy to deploy landing website for your next project. Cookie is a Jekyll and Tailwind CSS based static website that makes the whole process of creating and launching landing websites extremely easy. With its responsive and mobile friendly pages, integrated blog, additional pages and [Soopr](https://www.soopr.co) integration, you can focus on building your product than landing website.",
+        "features": [
+            "Well-designed landing page",
+            "Responsive and mobile friendly",
+            "Additional pages like about us, terms of service & privacy policy",
+            "Integrated blog, write content in markdown format",
+            "Easy to customize using Tailwind CSS",
+            "Fast and performant website",
+            "SEO optimized (uses Jekyll SEO Tag)",
+            "RSS feed (uses Jekyll Feed)",
+            "Easy to deploy, one-click deploy on Netlify possible",
+            "Soopr integrated - easy to customize share & like buttons, URL shortning and website analytics",
+            "Auto generated share images for social media using Soopr"
+        ],
+        "createdOn": "12-Jan-2021"
     }
 ]
