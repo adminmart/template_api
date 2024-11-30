@@ -1853,5 +1853,29 @@
             "Auto generated share images for social media using Soopr"
         ],
         "createdOn": "12-Jan-2021"
+    },
+    {
+        "id": 79,
+        "price": 0,
+        "popularity": 1061,
+        "appType": "website",
+        "details": "https://github.com/estevanmaito/windmill-react-ui/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "windmill-react-ui",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/windmill-react-ui.jpg",
+        "subtitle": "🧩 The component library for fast and accessible development of gorgeous interfaces.",
+        "livePreview": "https://windmillui.com/react-ui",
+        "templateName": "Windmill React UI",
+        "description": "Windmill React UI is a modern, open-source component library designed for building sleek and responsive web applications with React. It offers a collection of reusable, customizable components and templates, enabling developers to quickly create consistent and visually appealing user interfaces. Built with Tailwind CSS, Windmill React UI provides flexibility and ease of customization, allowing seamless integration with existing design systems and workflows. Its focus on accessibility ensures that applications built with Windmill are inclusive and user-friendly.",
+        "features": [
+            "Dark theme enabled",
+            "Fully accessible",
+            "Open source",
+            "Well documented",
+            "You get dark theme using one prop",
+            "It's accessible out-of-the-box (and built listening to a real screen reader)",
+            "Easier to learn through live code examples"
+        ],
+        "createdOn": "24-Jun-2020"
     }
 ]
