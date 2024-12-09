@@ -1877,5 +1877,29 @@
             "Easier to learn through live code examples"
         ],
         "createdOn": "24-Jun-2020"
+    },
+    {
+        "id": 80,
+        "price": 0,
+        "popularity": 1062,
+        "appType": "landingpage",
+        "details": "https://github.com/tushargugnani/tailwind-stamps/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "tailwind-stamps",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwind-stamps.jpg",
+        "subtitle": "Tailwind Stamps is free and open-source component library for TailwindCSS",
+        "livePreview": "https://tailwindcss.5balloons.info/",
+        "templateName": "Tailwind Stamps",
+        "description": "Tailwind Stamps is a free and open-source collection of reusable UI components that can be used in a variety of web applications. It provides simple, stylish, and customizable elements for the most common application UI use cases. The library includes components such as headers, alerts, navbars, cards, and much more. All of the components are built with HTML and the default utility classes provided by Tailwind CSS. Additionally, the interactive components are built with Alpine.js so the components are truly copy-paste.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "free & open-source",
+            "Copy-paste ready",
+            "1 Basic Landingpage",
+            "Fully responsive",
+            "Easy to customize"
+        ],
+        "createdOn": "19-Dec-2022"
     }
 ]
