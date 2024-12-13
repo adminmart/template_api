@@ -3632,6 +3632,44 @@
   },
   {
     "id": 151,
+    "price": 0,
+    "popularity": 1129,
+    "appType": "admin-template",
+    "details": "https://github.com/ThemeNate/Ecme-lite/archive/refs/heads/main.zip",
+    "category": "React",
+    "imageAlt": "Ecme-lite",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/Ecme-lite.jpg",
+    "subtitle": "Ecme is a modern and responsive admin dashboard template built with React and TypeScript.",
+    "livePreview": "https://ecme-react.themenate.net/dashboards/ecommerce",
+    "templateName": "Ecme - React Tailwind Admin Template",
+    "description": "Ecme is not just another web template—it’s a meticulously crafted masterpiece that stands out in a market flooded with generic, poorly designed options. Every aspect of Ecme, from its elegant UI to its robust code architecture, has been thoughtfully designed to ensure unparalleled flexibility and scalability for your projects.",
+    "features": [
+      "Latest version React",
+      "Vite",
+      "TailwindCSS",
+      "Typescript",
+      "React hooks based architecture",
+      "Zustand state management",
+      "React router",
+      "REST Api integration ready",
+      "Prebuild Tailwind components",
+      "Light & Dark mode",
+      "Multiple layouts variation",
+      "Fully Responsive",
+      "Flexible Layout",
+      "In built practical demo",
+      "i18n",
+      "React hook form",
+      "RTL Support",
+      "Trusted Support",
+      "Constantly Updates",
+      "Well Documented",
+      "And many more…"
+    ],
+    "createdOn": "27-Sept-2024"
+  },
+  {
+    "id": 152,
     "price": 19,
     "popularity": 209,
     "appType": "website",
@@ -3656,7 +3694,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 152,
+    "id": 153,
     "price": 19,
     "popularity": 210,
     "appType": "website",
@@ -3681,7 +3719,7 @@
     "createdOn": "25-Nov-2024"
   },
   {
-    "id": 153,
+    "id": 154,
     "price": 19,
     "popularity": 211,
     "appType": "website",
@@ -3706,7 +3744,7 @@
     "createdOn": "26-Jun-2024"
   },
   {
-    "id": 154,
+    "id": 155,
     "price": 19,
     "popularity": 212,
     "appType": "website",
@@ -3731,7 +3769,7 @@
     "createdOn": "11-Jul-2024"
   },
   {
-    "id": 155,
+    "id": 156,
     "price": 19,
     "popularity": 213,
     "appType": "website",
@@ -3756,7 +3794,7 @@
     "createdOn": "20-Jul-2024"
   },
   {
-    "id": 156,
+    "id": 157,
     "price": 19,
     "popularity": 214,
     "appType": "website",
@@ -3781,7 +3819,7 @@
     "createdOn": "28-Jul-2024"
   },
   {
-    "id": 157,
+    "id": 158,
     "price": 19,
     "popularity": 215,
     "appType": "website",
@@ -3806,7 +3844,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 158,
+    "id": 159,
     "price": 19,
     "popularity": 216,
     "appType": "website",
@@ -3831,7 +3869,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 159,
+    "id": 160,
     "price": 19,
     "popularity": 217,
     "appType": "website",
@@ -3856,7 +3894,7 @@
     "createdOn": "03-Aug-2024"
   },
   {
-    "id": 160,
+    "id": 161,
     "price": 19,
     "popularity": 218,
     "appType": "website",
@@ -3881,7 +3919,7 @@
     "createdOn": "26-Jun-2024"
   },
   {
-    "id": 161,
+    "id": 162,
     "price": 19,
     "popularity": 219,
     "appType": "website",
@@ -3907,7 +3945,7 @@
     "createdOn": "04-Dec-2024"
   },
   {
-    "id": 162,
+    "id": 163,
     "price": 0,
     "popularity": 220,
     "appType": "website",
@@ -3931,7 +3969,7 @@
     "createdOn": "04-Dec-2024"
   },
   {
-    "id": 163,
+    "id": 164,
     "price": 0,
     "popularity": 221,
     "appType": "website",
@@ -3956,7 +3994,7 @@
     "createdOn": "04-Dec-2024"
   },
   {
-    "id": 164,
+    "id": 165,
     "price": 0,
     "popularity": 314,
     "appType": "admin-template",
@@ -3984,7 +4022,7 @@
     "frameworkName": ""
   },
   {
-    "id": 165,
+    "id": 166,
     "price": 49,
     "popularity": 315,
     "appType": "admin-template",
