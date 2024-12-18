@@ -1901,5 +1901,35 @@
             "Easy to customize"
         ],
         "createdOn": "19-Dec-2022"
+    },
+    {
+        "id": 81,
+        "price": 0,
+        "popularity": 1063,
+        "appType": "landingpage",
+        "details": "https://github.com/reeseschultz/11r/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "11r",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/11r.jpg",
+        "subtitle": "America's favorite Eleventy blog template.",
+        "livePreview": "https://reeseschultz.github.io/11r/",
+        "templateName": "11r",
+        "description": "11r is a modern and elegant blog template designed with a sleek dark color scheme, ideal for developers and content creators. Built using the powerful static site generator Eleventy (11ty), it leverages Rollup for efficient bundling, ensuring optimized performance. The template integrates Tailwind CSS for rapid and customizable styling, while Prism adds robust syntax highlighting for showcasing code snippets seamlessly. With its streamlined setup and developer-friendly tools, 11r offers a perfect foundation for crafting visually appealing and high-performing blogs.",
+        "features": [
+            "Eleventy for static site generation. See .eleventy.js.",
+            "Nunjucks for templating.",
+            "TailwindCSS for utility-first styling. See tailwind.config.js and src/styles/tailwind.css.",
+            "markdown-it-anchor for generating anchors for headings.",
+            "eleventy-plugin-nesting-toc for generating tables of contents from anchors. See this page for a demo.",
+            "Prism syntax highlighting for code with copy button scripting included via clipboard.js. See src/styles/base.css for the theme; and src/scripts/copy.js, which is used by main.js.",
+            "Rollup for bundling and compiling. See rollup.config.js.",
+            "JavaScript-based privacy policy notice dismissal handling. See src/scripts/privacy-policy.js, which is used by main.js.",
+            "Tags.",
+            "Pagination.",
+            "Deploy script for GitHub Pages via deploy.sh, using the gh-pages branch. Be sure to edit said script to work with your repository. Remember to also configure the repository appropriately.",
+            "Exemplary Flexbox usage.",
+            "SEO mostly done for you. Ensure you replace the data referenced in src/globals/site.json, including the images in public/."
+        ],
+        "createdOn": "25-Aug-2020"
     }
 ]
