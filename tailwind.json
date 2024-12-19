@@ -1931,5 +1931,31 @@
             "SEO mostly done for you. Ensure you replace the data referenced in src/globals/site.json, including the images in public/."
         ],
         "createdOn": "25-Aug-2020"
+    },
+    {
+        "id": 82,
+        "price": 0,
+        "popularity": 1064,
+        "appType": "landingpage",
+        "details": "https://github.com/surjithctly/neat-starter/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "neat-starter",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/neat-starter.jpg",
+        "subtitle": "Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS",
+        "livePreview": "https://neat-starter.netlify.app/",
+        "templateName": "Neat Starter",
+        "description": "This Starter Template combines the power of Netlify CMS, Eleventy, Alpine.js, and Tailwind CSS to provide a robust foundation for modern web development. Designed for flexibility and performance, the template enables seamless content management with Netlify CMS, efficient static site generation with Eleventy, and dynamic interactivity using Alpine.js. Tailwind CSS ensures rapid, responsive design implementation with utility-first styling. Whether you're building a blog, portfolio, or small business website, this starter template streamlines development workflows, allowing you to focus on creating exceptional user experiences with minimal setup and maximum scalability.",
+        "features": [
+            "Netlify CMS",
+            "Eleventy",
+            "Alpine.js",
+            "Tailwind CSS",
+            "High resolution",
+            "Responsive",
+            "Netlify CMS integration",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "21-Sep-2020"
     }
 ]
