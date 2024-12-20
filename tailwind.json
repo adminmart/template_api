@@ -1957,5 +1957,31 @@
             "Open source"
         ],
         "createdOn": "21-Sep-2020"
+    },
+    {
+        "id": 83,
+        "price": 0,
+        "popularity": 1065,
+        "appType": "website",
+        "details": "https://github.com/alfonsobries/vue-tailwind/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "vue-tailwind",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-tailwind.jpg",
+        "subtitle": "Vue UI components with configurable classes ready for TailwindCSS",
+        "livePreview": "https://www.vue-tailwind.com/",
+        "templateName": "Vue Tailwind",
+        "description": "Vue Tailwind is a set of Vue components created to be customized to adapt to your application's unique design. The Vue Tailwind components are meant to be customized with custom CSS classes that you can define when you install the library. Plus, most component settings are configurable, so using this library is like having your personal set of components for your particular needs.",
+        "features": [
+            "Define your components look and feel by defining custom default CSS classes.",
+            "Add unlimited variants for every specific use case.",
+            "Override the default value of the props according to your needs.",
+            "Create different versions of one component with different default settings.",
+            "Tailwind CSS",
+            "High resolution",
+            "Responsive",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "22-Mar-2019"
     }
 ]
