@@ -1983,5 +1983,28 @@
             "Open source"
         ],
         "createdOn": "22-Mar-2019"
+    },
+    {
+        "id": 84,
+        "price": 0,
+        "popularity": 1066,
+        "appType": "website",
+        "details": "https://github.com/wangchucheng/hugo-eureka/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "hugo-eureka",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/hugo-eureka.jpg",
+        "subtitle": "Eureka is a feature-rich and highly customizable Hugo theme.",
+        "livePreview": "https://www.wangchucheng.com/en/docs/hugo-eureka/",
+        "templateName": "Eureka",
+        "description": "Eureka is a versatile and feature-rich Hugo theme designed to meet the needs of modern website creators. With its extensive customization options, it empowers users to craft unique and visually stunning websites tailored to their specific requirements. Offering a sleek and responsive design, Eureka ensures optimal performance across all devices, while its rich set of features simplifies content management and enhances user experience. Whether you're building a personal blog, a portfolio, or a professional website, Eureka provides the flexibility and functionality to bring your vision to life with ease.",
+        "features": [
+            "Tailwind CSS",
+            "High resolution",
+            "Responsive",
+            "Netlify CMS integration",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "07-May-2020"
     }
 ]
