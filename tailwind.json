@@ -2006,5 +2006,29 @@
             "Open source"
         ],
         "createdOn": "07-May-2020"
+    },
+    {
+        "id": 85,
+        "price": 0,
+        "popularity": 1067,
+        "appType": "website",
+        "details": "https://github.com/praveenjuge/myna/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "myna",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/myna.jpg",
+        "subtitle": "Perfect UI Components and Templates. Made with TailwindCSS. Open Source. Fully Responsive and Accessible.",
+        "livePreview": "https://mynaui.com/",
+        "templateName": "Myna UI",
+        "description": "Myna UI is a Tailwind CSS library of well-crafted UI Components and Templates. The components are fully responsive and accessible. Best of all, the components are free and open-source. Make sure to follow the creator of the components on Twitter for any updates - @praveenjuge",
+        "features": [
+            "TailwindCSS UI Components and Templates made without any Plugin.",
+            "Tailwind CSS",
+            "Figma assets included",
+            "Fully Responsive and Accessible.",
+            "Accessible",
+            "Ready to copy-paste",
+            "Open source"
+        ],
+        "createdOn": "16-Dec-2021"
     }
 ]
