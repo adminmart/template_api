@@ -2030,5 +2030,31 @@
             "Open source"
         ],
         "createdOn": "16-Dec-2021"
+    },
+    {
+        "id": 86,
+        "price": 0,
+        "popularity": 1068,
+        "appType": "admin-template",
+        "details": "https://github.com/n6ai/flowrift/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "flowrift",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/flowrift.jpg",
+        "subtitle": "Beautifully designed Tailwind CSS UI blocks.",
+        "livePreview": "https://flowrift.com/w/",
+        "templateName": "Flowrift",
+        "description": "Flowrift is a library of beautifully designed UI blocks built with Tailwind CSS and HTML. The components are built using Tailwind's default utility classes so no extra configuration is needed. With Flowrift, you can quickly create full-page layouts, or copy small code snippets to add to your own designs. The components are fully customizable and all have nice and modern designs.",
+        "features": [
+            "Tailwind CSS",
+            "Blogs",
+            "Features",
+            "Form",
+            "High resolution",
+            "Responsive",
+            "Netlify CMS integration",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "11-Sep-2021"
     }
 ]
