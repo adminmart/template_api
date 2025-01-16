@@ -4052,5 +4052,32 @@
     ],
     "createdOn": "05-Aug-2024",
     "frameworkName": ""
+  },
+  {
+    "id": 167,
+    "price": 49,
+    "popularity": 1130,
+    "appType": "website",
+    "details": "https://github.com/zexanext",
+    "category": "NextJs",
+    "imageAlt": "zexanext",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/zexanext.jpg",
+    "subtitle": "The Simple, Speedy & Efficient, Next.js Boilerplate",
+    "livePreview": "https://next.zexa.app/",
+    "templateName": "ZexaNext",
+    "description": "ZexaNext is an all-in-one Next.js Boilerplate designed to save your time and effort with all you need to build and launch your SaaS application.",
+    "features": [
+      "Next.js 14 boilerplate",
+      "TypeScript",
+      "Tailwind CSS & shadcn/ui",
+      "Stripe payments",
+      "Email integration",
+      "Animated UI Components",
+      "Email and password authentication",
+      "Markdown-based blog and docs",
+      "Social Logins (Google, Github, etc.)",
+      "Access to all future updates"
+    ],
+    "createdOn": ""
   }
 ]
