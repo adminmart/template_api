@@ -2056,5 +2056,33 @@
             "Open source"
         ],
         "createdOn": "11-Sep-2021"
+    },
+    {
+        "id": 87,
+        "price": 0,
+        "popularity": 1069,
+        "appType": "landingpage",
+        "details": "https://github.com/markmead/hyperui/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "hyperui",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/hyperui.jpg",
+        "subtitle": "Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀",
+        "livePreview": "https://www.hyperui.dev/",
+        "templateName": "HyperUI",
+        "description": "HyperUI is a collection of free Tailwind CSS components that can be used in your next project. With a range of components, you can build your next marketing website, admin dashboard, eCommerce store and much more.",
+        "features": [
+            "Browse the website for a component you like.",
+            "Preview the component at different breakpoints and check its compatibility with",
+            "LTR",
+            "Dark mode",
+            "Interactivity with Alpine JS",
+            "Click on the 'Copy' button to copy the source code.",
+            "Paste the copied code into your project.",
+            "Responsive",
+            "Netlify CMS integration",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "12-Nov-2021"
     }
 ]
