@@ -1136,7 +1136,7 @@
         "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextly-template.jpg",
         "subtitle": "Nextly Landing Page Template built with Next.js & TailwindCSS",
         "livePreview": "https://nextly.web3templates.com/",
-        "templateName": "Flowbite Admin Dashboard",
+        "templateName": "Nextly",
         "description": "Nextly is a free landing page & marketing website template for startups and indie projects. It's built with Next.js & TailwindCSS. And it's completely open-source.",
         "features": [
             "Clean & Modern Design",
@@ -2084,5 +2084,33 @@
             "Open source"
         ],
         "createdOn": "12-Nov-2021"
+    },
+    {
+        "id": 88,
+        "price": 0,
+        "popularity": 1070,
+        "appType": "landingpage",
+        "details": "https://github.com/saadeghi/daisyui/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "daisyui",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/daisyui.jpg",
+        "subtitle": "The most popular, free and open-source Tailwind CSS component library",
+        "livePreview": "https://daisyui.com/",
+        "templateName": "Daisy UI",
+        "description": "Daisy UI adds beautiful component classes to Tailwind which are fully customizable and themeable. Daisy UI builds a design system that is scalable and designer-friendly. It adds component classes like btn, card, and more to Tailwind CSS.",
+        "features": [
+            "Tailwind CSS plugin",
+            "Component classes",
+            "Semantic color names",
+            "Customizable",
+            "Themeable",
+            "RTL supported",
+            "Pure CSS",
+            "Responsive",
+            "No dependencies",
+            "Well documented",
+            "Open source"
+        ],
+        "createdOn": "28-Nov-2020"
     }
 ]
