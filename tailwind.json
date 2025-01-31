@@ -2112,5 +2112,31 @@
             "Open source"
         ],
         "createdOn": "28-Nov-2020"
+    },
+    {
+        "id": 89,
+        "price": 0,
+        "popularity": 1071,
+        "appType": "landingpage",
+        "details": "https://github.com/RSurya99/nefa/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "nefa",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/nefa.jpg",
+        "subtitle": "Free landing page template built using nuxt and tailwindcss",
+        "livePreview": "https://nefa-rsurya99.vercel.app/",
+        "templateName": "Nefa",
+        "description": "Nefa is a free crypto web app landing page template built on top of NuxtJS and Tailwind CSS. The template boasts a sleek and modern design that can be used for your next crypto / web3 project.",
+        "features": [
+            "Tailwind CSS plugin",
+            "Component classes",
+            "Free landing page",
+            "Aos",
+            "Nuxt",
+            "Responsive",
+            "Easy setup",
+            "Modern design",
+            "Open source"
+        ],
+        "createdOn": "19-Jan-2022"
     }
 ]
