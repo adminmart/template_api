@@ -2165,5 +2165,32 @@
             "Open source"
         ],
         "createdOn": "19-Aug-2020"
+    },
+    {
+        "id": 91,
+        "price": 0,
+        "popularity": 1073,
+        "appType": "landingpage",
+        "details": "https://github.com/Charlie85270/tail-kit/archive/refs/heads/main.zip",
+        "category": "Tailwind",
+        "imageAlt": "tail-kit",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/tail-kit.jpg",
+        "subtitle": "Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.",
+        "livePreview": "https://www.tailwind-kit.com/",
+        "templateName": "Tail-Kit",
+        "description": "Tail-kit is a Free and Open Source Tailwind UI kit. It does not change or add any CSS and only uses the utility classes already packaged with TailwindCSS 2.0. It features multiple HTML elements that can be used in all web projects.",
+        "features": [
+            "Tailwind CSS plugin",
+            "Eslint",
+            "Free landing page",
+            "Postcss",
+            "Typescript",
+            "vite",
+            "Responsive",
+            "Easy setup",
+            "Modern design",
+            "Open source"
+        ],
+        "createdOn": "10-Dec-2020"
     }
 ]
