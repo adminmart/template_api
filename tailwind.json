@@ -2185,12 +2185,40 @@
             "Free landing page",
             "Postcss",
             "Typescript",
-            "vite",
+            "next",
+            "react",
             "Responsive",
             "Easy setup",
             "Modern design",
             "Open source"
         ],
         "createdOn": "10-Dec-2020"
+    },
+    {
+        "id": 92,
+        "price": 0,
+        "popularity": 1074,
+        "appType": "landingpage",
+        "details": "https://github.com/Microwawe/mamba-ui/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "mamba-ui",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/mamba-ui.jpg",
+        "subtitle": "Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.",
+        "livePreview": "https://mambaui.com/",
+        "templateName": "Mamba UI",
+        "description": "Mamba UI is an open-source collection of over 100 Tailwind CSS components and templates that can help you create almost any type of website with just a couple of clicks. It is a toolkit for developers and designers that makes creating interfaces a breeze. The UI kit has a variety of well-designed components to help you get started. Everything is modular and customizable to fit your brand. From blogs to portfolios to online stores, you can quickly create a variety of layouts that look great on any screen.",
+        "features": [
+            "100+ building blocks",
+            "Choose your primary color from any of the 17 different Tailwind colors",
+            "Fully responsive",
+            "Available in HTML, React and Vue",
+            "Dynamic light and dark themes",
+            "All the icons and illustrations are open-sourced as well",
+            "Easy to customize with Tailwind CSS",
+            "Easy setup",
+            "Modern design",
+            "Open source"
+        ],
+        "createdOn": "07-Nov-2020"
     }
 ]
