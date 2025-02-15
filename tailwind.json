@@ -2220,5 +2220,54 @@
             "Open source"
         ],
         "createdOn": "07-Nov-2020"
+    },
+    {
+        "id": 93,
+        "price": 0,
+        "popularity": 1075,
+        "appType": "Website",
+        "details": "https://github.com/praveenjuge/kutty/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "kutty",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/kutty.jpg",
+        "subtitle": "Kutty is a tailwind plugin for building web applications.",
+        "livePreview": "https://kutty.netlify.app/",
+        "templateName": "Kutty",
+        "description": "Kutty is a tailwind plugin for building web applications. It has a set of accessible and reusable components that are commonly used in web applications. The components are built using HTML and AlpineJS for reactivity.",
+        "features": [
+            "High resolution",
+            "Well documented",
+            "Responsive",
+            "Accessible",
+            "Easy setup",
+            "Modern design",
+            "Open source"
+        ],
+        "createdOn": "18-May-2020"
+    },
+    {
+        "id": 94,
+        "price": 0,
+        "popularity": 1076,
+        "appType": "landingpage",
+        "details": "https://github.com/daflh/vredeburg/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "vredeburg",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/vredeburg.jpg",
+        "subtitle": "A simple starter project to create a blog using Eleventy and Tailwind CSS",
+        "livePreview": "https://vredeburg.netlify.app/",
+        "templateName": "Vredeburg",
+        "description": "This project serves as a straightforward starting point for building a blog using Eleventy (11ty) and Tailwind CSS. Eleventy is a flexible static site generator that enables fast and efficient content creation, while Tailwind CSS provides a utility-first approach to styling, ensuring a modern and responsive design. The project is structured for ease of use, making it ideal for developers looking to quickly set up a blog with minimal configuration.",
+        "features": [
+            "Tailwind Css",
+            "High resolution",
+            "Well documented",
+            "Responsive",
+            "Accessible",
+            "Easy setup",
+            "Modern design",
+            "Open source"
+        ],
+        "createdOn": "12-Jul-2020"
     }
 ]
