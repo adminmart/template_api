@@ -2269,5 +2269,32 @@
             "Open source"
         ],
         "createdOn": "12-Jul-2020"
+    },
+    {
+        "id": 95,
+        "price": 0,
+        "popularity": 1077,
+        "appType": "landingpage",
+        "details": "https://github.com/tailwindtoolbox/Screenshot-Landing-Page/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "Screenshot-Landing-Page",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/Screenshot-Landing-Page.jpg",
+        "subtitle": "Tailwind CSS Starter Template - Screenshot Landing Page",
+        "livePreview": "https://tailwindtoolbox.github.io/Screenshot-Landing-Page/",
+        "templateName": "Screenshot Landing Page",
+        "description": "Screenshot Landing Page is an open-source, generic landing page template with space for a screenshot inside a browser window for Tailwind CSS created by Tailwind Toolbox. The template is just an HTML file using a full CDN hosted Tailwind CSS file.",
+        "features": [
+            "Fully customizable",
+            "CDN hosted with Tailwind CSS file",
+            "Open sourced and fully maintained on github",
+            "High resolution",
+            "Well documented",
+            "Responsive",
+            "Accessible",
+            "Easy setup",
+            "Modern design",
+            "Open source"
+        ],
+        "createdOn": "24-Oct-2019"
     }
 ]
