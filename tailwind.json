@@ -2296,5 +2296,32 @@
             "Open source"
         ],
         "createdOn": "24-Oct-2019"
+    },
+    {
+        "id": 96,
+        "price": 0,
+        "popularity": 1078,
+        "appType": "landingpage",
+        "details": "https://github.com/ttntm/hugo-landing-page/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "hugo-landing-page",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/hugo-landing-page.jpg",
+        "subtitle": "A simple landing page built with Hugo and Tailwind CSS",
+        "livePreview": "https://awesome.ttntm.me/",
+        "templateName": "Hugo Landing Page",
+        "description": "This project is a minimalist and responsive landing page built using Hugo, a fast and flexible static site generator, and Tailwind CSS, a utility-first CSS framework for modern web design. The combination of Hugo’s efficient content management and Tailwind’s streamlined styling ensures a clean, lightweight, and easily customizable landing page.",
+        "features": [
+            "Hugo (developed and tested with version 0.58.0)",
+            "Tailwind CSS",
+            "gulp",
+            "High resolution",
+            "Well documented",
+            "Responsive",
+            "Accessible",
+            "Easy setup",
+            "Modern design",
+            "Open source"
+        ],
+        "createdOn": "15-Jul-2020"
     }
 ]
