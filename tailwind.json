@@ -2323,5 +2323,32 @@
             "Open source"
         ],
         "createdOn": "15-Jul-2020"
+    },
+    {
+        "id": 97,
+        "price": 0,
+        "popularity": 1079,
+        "appType": "landingpage",
+        "details": "https://github.com/themefisher/meghna-hugo/archive/refs/heads/master.zip",
+        "category": "Tailwind",
+        "imageAlt": "meghna-hugo",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/meghna-hugo.jpg",
+        "subtitle": "Meghna Hugo is a responsive, minimalist, lightweight, and fast loading one-page",
+        "livePreview": "https://demo.gethugothemes.com/meghna/site/",
+        "templateName": "Meghna Hugo",
+        "description": "Meghna Hugo is a highly responsive, minimalist, and lightweight one-page business theme designed for optimal performance. Built with modern web technologies, including HTML5, CSS3, Hugo, JavaScript, and jQuery, it ensures fast loading speeds and a seamless user experience. Its clean and professional design makes it an ideal choice for businesses looking to create a sleek, high-performing online presence.",
+        "features": [
+            "Multilingual support. (with language selector)",
+            "Taxonomies",
+            "SEO Friendly",
+            "Onepage",
+            "Blog Support",
+            "Smooth Scroll",
+            "Contact form Support",
+            "Google Map Support",
+            "WebP with fallback image support",
+            "Uses Hugo's asset generator with pipelining, fingerprinting, bundling, and minification by default."
+        ],
+        "createdOn": "12-Sep-2018"
     }
 ]
