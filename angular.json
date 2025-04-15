@@ -4,7 +4,27 @@
     "price": 0,
     "popularity": 101,
     "appType": "admin-template",
-    "details": "https://adminmart.com/product/modernize-free-angular-material-template?ref=38",
+    "details": "https://adminmart.com/product/modernize-free-angular-material-template",
+    "category": "Angular",
+    "imageAlt": "CERT-Angular-Wrappixel",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/CERT-Angular-Wrappixel.png",
+    "subtitle": "Up to 50% OFF",
+    "livePreview": "https://adminmart.com/product/modernize-free-angular-material-template",
+    "templateName": "Get your Angular Certification",
+    "description": "",
+    "features": [
+      
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": true
+  },
+  {
+    "id": 2,
+    "price": 0,
+    "popularity": 102,
+    "appType": "admin-template",
+    "details": "https://certificates.dev/angular?friend=WRAPPIXEL&utm_source=angulartemplates.com",
     "category": "Angular",
     "imageAlt": "modernize-free-angular-material-admin-dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/04/modernize-free-angular-material-admin-dashboard.png",
@@ -31,9 +51,9 @@
     "doFollow": true
   },
   {
-    "id": 2,
+    "id": 3,
     "price": 49,
-    "popularity": 102,
+    "popularity": 103,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-angular-material-dashboard?ref=38",
     "category": "Angular",
@@ -63,7 +83,7 @@
     "doFollow": true
   },
   {
-    "id": 3,
+    "id": 4,
     "price": 0,
     "popularity": 301,
     "appType": "admin-template",
@@ -91,7 +111,7 @@
     "doFollow": true
   },
   {
-    "id": 4,
+    "id": 5,
     "price": 49,
     "popularity": 302,
     "appType": "admin-template",
@@ -124,7 +144,7 @@
     "doFollow": true
   },
   {
-    "id": 5,
+    "id": 6,
     "price": 0,
     "popularity": 303,
     "appType": "admin-template",
@@ -152,7 +172,7 @@
     "doFollow": true
   },
   {
-    "id": 6,
+    "id": 7,
     "price": 49,
     "popularity": 304,
     "appType": "admin-template",
@@ -186,7 +206,7 @@
     "doFollow": true
   },
   {
-    "id": 7,
+    "id": 8,
     "price": 0,
     "popularity": 305,
     "appType": "admin-template",
@@ -217,7 +237,7 @@
     "doFollow": true
   },
   {
-    "id": 8,
+    "id": 9,
     "price": 49,
     "popularity": 306,
     "appType": "admin-template",
@@ -258,7 +278,7 @@
     "doFollow": true
   },
   {
-    "id": 9,
+    "id": 10,
     "price": 0,
     "popularity": 307,
     "appType": "admin-template",
@@ -289,7 +309,7 @@
     "doFollow": true
   },
   {
-    "id": 10,
+    "id": 11,
     "price": 49,
     "popularity": 308,
     "appType": "admin-template",
@@ -329,7 +349,7 @@
     "doFollow": true
   },
   {
-    "id": 11,
+    "id": 12,
     "price": 49,
     "popularity": 1001,
     "appType": "admin-template",
@@ -365,7 +385,7 @@
     "doFollow": true
   },
   {
-    "id": 12,
+    "id": 13,
     "price": 0,
     "popularity": 1002,
     "appType": "admin-template",
@@ -393,7 +413,7 @@
     "doFollow": true
   },
   {
-    "id": 13,
+    "id": 14,
     "price": 0,
     "popularity": 1003,
     "appType": "admin-template",
@@ -413,7 +433,7 @@
     "doFollow": true
   },
   {
-    "id": 14,
+    "id": 15,
     "price": 0,
     "popularity": 1004,
     "appType": "admin-template",
@@ -433,7 +453,7 @@
     "doFollow": true
   },
   {
-    "id": 15,
+    "id": 16,
     "price": 0,
     "popularity": 1005,
     "appType": "admin-template",
@@ -453,7 +473,7 @@
     "doFollow": true
   },
   {
-    "id": 16,
+    "id": 17,
     "price": 0,
     "popularity": 1006,
     "appType": "admin-template",
@@ -473,7 +493,7 @@
     "doFollow": true
   },
   {
-    "id": 17,
+    "id": 18,
     "price": 0,
     "popularity": 1007,
     "appType": "admin-template",
@@ -496,7 +516,7 @@
     "doFollow": true
   },
   {
-    "id": 18,
+    "id": 19,
     "price": 0,
     "popularity": 1008,
     "appType": "admin-template",
@@ -516,7 +536,7 @@
     "doFollow": true
   },
   {
-    "id": 19,
+    "id": 20,
     "price": 0,
     "popularity": 1009,
     "appType": "admin-template",
@@ -536,7 +556,7 @@
     "doFollow": true
   },
   {
-    "id": 20,
+    "id": 21,
     "price": 0,
     "popularity": 1010,
     "appType": "admin-template",
@@ -556,7 +576,7 @@
     "doFollow": true
   },
   {
-    "id": 21,
+    "id": 22,
     "price": 0,
     "popularity": 1011,
     "appType": "admin-template",
@@ -584,7 +604,7 @@
     "doFollow": true
   },
   {
-    "id": 22,
+    "id": 23,
     "price": 0,
     "popularity": 1012,
     "appType": "admin-template",
@@ -610,7 +630,7 @@
     "doFollow": true
   },
   {
-    "id": 23,
+    "id": 24,
     "price": 0,
     "popularity": 1013,
     "appType": "admin-template",
@@ -630,7 +650,7 @@
     "doFollow": true
   },
   {
-    "id": 24,
+    "id": 25,
     "price": 0,
     "popularity": 1014,
     "appType": "admin-template",
@@ -650,7 +670,7 @@
     "doFollow": true
   },
   {
-    "id": 25,
+    "id": 26,
     "price": 0,
     "popularity": 1015,
     "appType": "admin-template",
@@ -670,7 +690,7 @@
     "doFollow": true
   },
   {
-    "id": 26,
+    "id": 27,
     "price": 0,
     "popularity": 1016,
     "appType": "admin-template",
@@ -695,7 +715,7 @@
     "doFollow": true
   },
   {
-    "id": 27,
+    "id": 28,
     "price": 0,
     "popularity": 1017,
     "appType": "website",
@@ -715,7 +735,7 @@
     "doFollow": true
   },
   {
-    "id": 28,
+    "id": 29,
     "price": 0,
     "popularity": 1018,
     "appType": "admin-template",
@@ -742,7 +762,7 @@
     "doFollow": true
   },
   {
-    "id": 29,
+    "id": 30,
     "price": 0,
     "popularity": 1019,
     "appType": "admin-template",
@@ -762,7 +782,7 @@
     "doFollow": true
   },
   {
-    "id": 30,
+    "id": 31,
     "price": 0,
     "popularity": 1020,
     "appType": "landingpage",
@@ -782,7 +802,7 @@
     "doFollow": true
   },
   {
-    "id": 31,
+    "id": 32,
     "price": 0,
     "popularity": 1021,
     "appType": "admin-template",
@@ -802,7 +822,7 @@
     "doFollow": true
   },
   {
-    "id": 32,
+    "id": 33,
     "price": 0,
     "popularity": 1022,
     "appType": "admin-template",
@@ -822,7 +842,7 @@
     "doFollow": true
   },
   {
-    "id": 33,
+    "id": 34,
     "price": 0,
     "popularity": 1023,
     "appType": "admin-template",
@@ -842,7 +862,7 @@
     "doFollow": true
   },
   {
-    "id": 34,
+    "id": 35,
     "price": 0,
     "popularity": 1024,
     "appType": "landingpage",
@@ -862,7 +882,7 @@
     "doFollow": true
   },
   {
-    "id": 35,
+    "id": 36,
     "price": 0,
     "popularity": 1025,
     "appType": "landingpage",
@@ -882,7 +902,7 @@
     "doFollow": true
   },
   {
-    "id": 36,
+    "id": 37,
     "price": 0,
     "popularity": 1026,
     "appType": "admin-template",
@@ -902,7 +922,7 @@
     "doFollow": true
   },
   {
-    "id": 37,
+    "id": 38,
     "price": 0,
     "popularity": 1027,
     "appType": "admin-template",
@@ -928,7 +948,7 @@
     "doFollow": true
   },
   {
-    "id": 38,
+    "id": 39,
     "price": 0,
     "popularity": 1028,
     "appType": "landingpage",
@@ -948,7 +968,7 @@
     "doFollow": true
   },
   {
-    "id": 39,
+    "id": 40,
     "price": 0,
     "popularity": 1029,
     "appType": "admin-template",
@@ -968,7 +988,7 @@
     "doFollow": true
   },
   {
-    "id": 40,
+    "id": 41,
     "price": 0,
     "popularity": 1030,
     "appType": "admin-template",
@@ -991,7 +1011,7 @@
     "doFollow": true
   },
   {
-    "id": 41,
+    "id": 42,
     "price": 0,
     "popularity": 1031,
     "appType": "admin-template",
@@ -1023,7 +1043,7 @@
     "doFollow": true
   },
   {
-    "id": 42,
+    "id": 43,
     "price": 0,
     "popularity": 1032,
     "appType": "admin-template",
@@ -1054,7 +1074,7 @@
     "doFollow": true
   },
   {
-    "id": 43,
+    "id": 44,
     "price": 0,
     "popularity": 1033,
     "appType": "admin-template",
@@ -1080,7 +1100,7 @@
     "doFollow": true
   },
   {
-    "id": 44,
+    "id": 45,
     "price": 0,
     "popularity": 1034,
     "appType": "landingpage",
@@ -1111,7 +1131,7 @@
     "doFollow": true
   },
   {
-    "id": 45,
+    "id": 46,
     "price": 0,
     "popularity": 1035,
     "appType": "admin-template",
@@ -1140,7 +1160,7 @@
     "doFollow": true
   },
   {
-    "id": 46,
+    "id": 47,
     "price": 0,
     "popularity": 1036,
     "appType": "admin-template",
@@ -1163,7 +1183,7 @@
     "doFollow": true
   },
   {
-    "id": 47,
+    "id": 48,
     "price": 0,
     "popularity": 1037,
     "appType": "landingpage",
@@ -1183,7 +1203,7 @@
     "doFollow": true
   },
   {
-    "id": 48,
+    "id": 49,
     "price": 0,
     "popularity": 1038,
     "appType": "landingpage",
@@ -1203,7 +1223,7 @@
     "doFollow": true
   },
   {
-    "id": 49,
+    "id": 50,
     "price": 0,
     "popularity": 1039,
     "appType": "admin-template",
@@ -1223,7 +1243,7 @@
     "doFollow": true
   },
   {
-    "id": 50,
+    "id": 51,
     "price": 0,
     "popularity": 1040,
     "appType": "admin-template",
@@ -1243,7 +1263,7 @@
     "doFollow": true
   },
   {
-    "id": 51,
+    "id": 52,
     "price": 0,
     "popularity": 1041,
     "appType": "admin-template",
@@ -1263,7 +1283,7 @@
     "doFollow": true
   },
   {
-    "id": 52,
+    "id": 53,
     "price": 0,
     "popularity": 1042,
     "appType": "admin-template",
@@ -1283,7 +1303,7 @@
     "doFollow": true
   },
   {
-    "id": 53,
+    "id": 54,
     "price": 0,
     "popularity": 1043,
     "appType": "admin-template",
@@ -1306,7 +1326,7 @@
     "doFollow": true
   },
   {
-    "id": 54,
+    "id": 55,
     "price": 0,
     "popularity": 1044,
     "appType": "admin-template",
@@ -1329,7 +1349,7 @@
     "doFollow": true
   },
   {
-    "id": 55,
+    "id": 56,
     "price": 0,
     "popularity": 1045,
     "appType": "admin-template",
@@ -1352,7 +1372,7 @@
     "doFollow": true
   },
   {
-    "id": 56,
+    "id": 57,
     "price": 0,
     "popularity": 1046,
     "appType": "admin-template",
@@ -1375,7 +1395,7 @@
     "doFollow": true
   },
   {
-    "id": 57,
+    "id": 58,
     "price": 0,
     "popularity": 1047,
     "appType": "landingpage",
@@ -1395,7 +1415,7 @@
     "doFollow": true
   },
   {
-    "id": 58,
+    "id": 59,
     "price": 0,
     "popularity": 1048,
     "appType": "landingpage",
@@ -1415,7 +1435,7 @@
     "doFollow": true
   },
   {
-    "id": 59,
+    "id": 60,
     "price": 0,
     "popularity": 1049,
     "appType": "admin-template",
@@ -1438,7 +1458,7 @@
     "doFollow": true
   },
   {
-    "id": 60,
+    "id": 61,
     "price": 0,
     "popularity": 1050,
     "appType": "admin-template",
@@ -1461,7 +1481,7 @@
     "doFollow": true
   },
   {
-    "id": 61,
+    "id": 62,
     "price": 0,
     "popularity": 1051,
     "appType": "admin-template",
@@ -1484,7 +1504,7 @@
     "doFollow": true
   },
   {
-    "id": 62,
+    "id": 63,
     "price": 0,
     "popularity": 1052,
     "appType": "admin-template",
@@ -1507,7 +1527,7 @@
     "doFollow": true
   },
   {
-    "id": 63,
+    "id": 64,
     "price": 0,
     "popularity": 1053,
     "appType": "landingpage",
@@ -1527,7 +1547,7 @@
     "doFollow": true
   },
   {
-    "id": 64,
+    "id": 65,
     "price": 0,
     "popularity": 1054,
     "appType": "landingpage",
@@ -1547,7 +1567,7 @@
     "doFollow": true
   },
   {
-    "id": 65,
+    "id": 66,
     "price": 0,
     "popularity": 1055,
     "appType": "web-template",
@@ -1567,7 +1587,7 @@
     "doFollow": true
   },
   {
-    "id": 66,
+    "id": 67,
     "price": 0,
     "popularity": 1056,
     "appType": "web-template",
@@ -1587,7 +1607,7 @@
     "doFollow": true
   },
   {
-    "id": 67,
+    "id": 68,
     "price": 0,
     "popularity": 1057,
     "appType": "landingpage",
@@ -1613,7 +1633,7 @@
     "doFollow": true
   },
   {
-    "id": 68,
+    "id": 69,
     "price": 0,
     "popularity": 1058,
     "appType": "landingpage",
@@ -1633,7 +1653,7 @@
     "doFollow": true
   },
   {
-    "id": 69,
+    "id": 70,
     "price": 0,
     "popularity": 1059,
     "appType": "web-template",
@@ -1653,7 +1673,7 @@
     "doFollow": true
   },
   {
-    "id": 70,
+    "id": 71,
     "price": 0,
     "popularity": 201,
     "appType": "admin-template",
@@ -1684,7 +1704,7 @@
     "doFollow": true
   },
   {
-    "id": 71,
+    "id": 72,
     "price": 49,
     "popularity": 202,
     "appType": "admin-template",
