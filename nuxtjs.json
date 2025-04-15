@@ -24,7 +24,10 @@
       "The Hassle-free Setup Process",
       "Create your web app faster with Modernize Free Nuxtjs Dashboard"
     ],
-    "createdOn": "09-Feb-2023"
+    "createdOn": "09-Feb-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 2,
@@ -56,7 +59,10 @@
       "Slick Carousel Included",
       "Figma Design Files"
     ],
-    "createdOn": "17-Feb-2023"
+    "createdOn": "17-Feb-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 3,
@@ -84,7 +90,10 @@
       "Organized Code Structure",
       "The Hassle-free Setup Process"
     ],
-    "createdOn": "22-May-2023"
+    "createdOn": "22-May-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 4,
@@ -115,7 +124,10 @@
       "Vue3 Carousel Included",
       "Figma Design Files"
     ],
-    "createdOn": "22-May-2023"
+    "createdOn": "22-May-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 5,
@@ -143,7 +155,10 @@
       "1 to 2 Chart options",
       "Vuetify version 3"
     ],
-    "createdOn": "03-Oct-2023"
+    "createdOn": "03-Oct-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 6,
@@ -176,7 +191,10 @@
       "Application Designs",
       "6 color skins"
     ],
-    "createdOn": "27-Sept-2023"
+    "createdOn": "27-Sept-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 7,
@@ -200,7 +218,10 @@
       "Sass Base CSS",
       "1 or 2 Chart Options"
     ],
-    "createdOn": "18-Jul-2022"
+    "createdOn": "18-Jul-2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 8,
@@ -229,7 +250,10 @@
       "Application Designs",
       "6 color skins"
     ],
-    "createdOn": "12-Jul-2022"
+    "createdOn": "12-Jul-2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 9,
@@ -263,7 +287,10 @@
       "Application Designs",
       "6 color skins"
     ],
-    "createdOn": "18-Oct-2024"
+    "createdOn": "18-Oct-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 10,
@@ -292,7 +319,10 @@
       "The Hassle-free Setup Process",
       "Create your web app faster with Modernize Free Vuejs Dashboard"
     ],
-    "createdOn": "09-Feb-2023"
+    "createdOn": "09-Feb-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 11,
@@ -327,7 +357,10 @@
       "Slick Carousel Included",
       "Figma Design Files"
     ],
-    "createdOn": "12-Feb-2023"
+    "createdOn": "12-Feb-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 12,
@@ -355,7 +388,10 @@
       "1 to 2 Chart options",
       "Vuetify version 3"
     ],
-    "createdOn": "03-Oct-2023"
+    "createdOn": "03-Oct-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 13,
@@ -388,7 +424,10 @@
       "Application Designs",
       "6 color skins"
     ],
-    "createdOn": "22-Sept-2023"
+    "createdOn": "22-Sept-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 14,
@@ -413,7 +452,10 @@
       "Sass Base CSS",
       "1 or 2 Chart Options"
     ],
-    "createdOn": "15-May-2020"
+    "createdOn": "15-May-2020",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 15,
@@ -442,7 +484,10 @@
       "Application Designs",
       "6 color skins"
     ],
-    "createdOn": "12-May-2020"
+    "createdOn": "12-May-2020",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 16,
@@ -466,7 +511,10 @@
       "Sass Base CSS",
       "1 or 2 Chart Options"
     ],
-    "createdOn": "15-Jul-2022"
+    "createdOn": "15-Jul-2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 17,
@@ -495,7 +543,10 @@
       "Application Designs",
       "6 color skins"
     ],
-    "createdOn": "01-Apr-2022"
+    "createdOn": "01-Apr-2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 18,
@@ -523,7 +574,10 @@
       "Easy To Customize",
       "Fully Responsive Pages"
     ],
-    "createdOn": "17-Oct-2024"
+    "createdOn": "17-Oct-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 19,
@@ -556,7 +610,10 @@
       "Application Designs",
       "6 color skins"
     ],
-    "createdOn": "26-Sept-2024"
+    "createdOn": "26-Sept-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 20,
@@ -586,7 +643,10 @@
       "Build Tools",
       "Apexchart"
     ],
-    "createdOn": "13-Feb-2013"
+    "createdOn": "13-Feb-2013",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 21,
@@ -615,7 +675,10 @@
       "Well commented and clean code",
       "Optimized for SEO and Accessibility"
     ],
-    "createdOn": "20 Oct 2022"
+    "createdOn": "20 Oct 2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 22,
@@ -647,7 +710,10 @@
       "Built-in Unit Test",
       "Configurable Theme"
     ],
-    "createdOn": "14 Jan 2022"
+    "createdOn": "14 Jan 2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 23,
@@ -671,7 +737,10 @@
       "Aos Animation",
       "Prettier"
     ],
-    "createdOn": "19 Jan 2022"
+    "createdOn": "19 Jan 2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 24,
@@ -698,7 +767,10 @@
       "Multi Icons",
       "ESLint"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 25,
@@ -725,7 +797,10 @@
       "Multi Icons",
       "ESLint"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 26,
@@ -752,7 +827,10 @@
       "Multi Icons",
       "ESLint"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 27,
@@ -779,7 +857,10 @@
       "Multi Icons",
       "ESLint"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 28,
@@ -806,7 +887,10 @@
       "Multi Icons",
       "ESLint"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 29,
@@ -829,7 +913,10 @@
       "Simple login / logout",
       "Multi Apps"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 30,
@@ -850,7 +937,10 @@
       "Vue-ionicons",
       "Animate.css"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 31,
@@ -871,7 +961,10 @@
       "supporting static deployment",
       "Responsive layout"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 32,
@@ -893,7 +986,10 @@
       "Responsive layout",
       "NuxtJS based project"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 33,
@@ -920,7 +1016,10 @@
       "Data Fetching with Vue Query",
       "Form Validation with vee-validate"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 34,
@@ -945,7 +1044,10 @@
       "Boilerplate",
       "multilanguage"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 35,
@@ -967,7 +1069,10 @@
       "Husky & Commitlint",
       "PWA ready"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 36,
@@ -989,7 +1094,10 @@
       "Responsive layout",
       "Vue"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 37,
@@ -1012,7 +1120,10 @@
       "Easy Folder Structure",
       "Code Splitting"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 38,
@@ -1036,7 +1147,10 @@
       "Easy Folder Structure",
       "Code Splitting"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 39,
@@ -1061,7 +1175,10 @@
       "No jQuery",
       "Forever free and Open Source"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 40,
@@ -1086,7 +1203,10 @@
       "No jQuery",
       "Forever free and Open Source"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 41,
@@ -1113,7 +1233,10 @@
       "Responsive",
       "Forever free and Open Source"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 42,
@@ -1136,7 +1259,10 @@
       "Streamline dynamic updates of dashboard data, for example based on user interaction with dashboard",
       "Even dynamically generate Dashboard itself based on the data - thanks to declarative approach"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 43,
@@ -1163,7 +1289,10 @@
       "Reusable components",
       "Free under MIT License"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 44,
@@ -1190,7 +1319,10 @@
       "Multi Pages",
       "Forever free and Open Source"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 45,
@@ -1216,7 +1348,10 @@
       "📐 Prettier & ESLint",
       "🔢 Pre-configured VSCode settings"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 46,
@@ -1238,7 +1373,10 @@
       "Code Splitting",
       "Prefetch/Preload JS + DNS + Data"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 47,
@@ -1263,7 +1401,10 @@
       "Responsive",
       "Forever free and Open Source"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 48,
@@ -1286,7 +1427,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 49,
@@ -1312,7 +1456,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 50,
@@ -1338,7 +1485,10 @@
       "Internationalization via @nuxtjs/i18n",
       "Modular with Nuxt Layer"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 51,
@@ -1363,7 +1513,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 52,
@@ -1389,7 +1542,10 @@
       "Cypress + Vitest for testing",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 53,
@@ -1416,7 +1572,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 54,
@@ -1441,7 +1600,10 @@
       "Responsive",
       "Forever free and Open Source"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 55,
@@ -1468,7 +1630,10 @@
       "Components",
       "Advanced Example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 56,
@@ -1497,7 +1662,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 57,
@@ -1527,7 +1695,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 58,
@@ -1553,7 +1724,10 @@
       "Dynamic page title",
       "Dark mode"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 59,
@@ -1579,7 +1753,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 60,
@@ -1602,7 +1779,10 @@
       "Error page",
       "Styled Vuetify components like buttons, modals, etc"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 61,
@@ -1627,7 +1807,10 @@
       "dynamic inline edit",
       "Cool new login screen"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 62,
@@ -1654,7 +1837,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 63,
@@ -1684,7 +1870,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 64,
@@ -1714,7 +1903,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 65,
@@ -1744,7 +1936,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 66,
@@ -1772,7 +1967,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 67,
@@ -1800,7 +1998,10 @@
       "Maps",
       "Hover sidebar"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 68,
@@ -1821,7 +2022,10 @@
       "Simple CRM Dashboard",
       "Export feature"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 69,
@@ -1848,7 +2052,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 70,
@@ -1874,7 +2081,10 @@
       "Ready to Deploy",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 71,
@@ -1903,7 +2113,10 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 72,
@@ -1931,7 +2144,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 73,
@@ -1957,7 +2173,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 74,
@@ -1982,7 +2201,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 75,
@@ -2012,7 +2234,10 @@
       "Opt-In Cookie Banner",
       "Modal Windows with route change"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 76,
@@ -2044,7 +2269,10 @@
       "Responsive CSS markdown.",
       "Tests"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 77,
@@ -2070,7 +2298,10 @@
       "Async button for async tasks",
       "Git info"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 78,
@@ -2097,7 +2328,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 79,
@@ -2125,7 +2359,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 80,
@@ -2147,7 +2384,10 @@
       "Styled with Tailwindcss 2.0 🎨",
       "Dark Mode (Auto & Manual) 🌚"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 81,
@@ -2172,7 +2412,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 82,
@@ -2199,7 +2442,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 83,
@@ -2225,7 +2471,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 84,
@@ -2254,7 +2503,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "04-Apr-2019"
+    "createdOn": "04-Apr-2019",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 85,
@@ -2282,7 +2534,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "22-Nov-2022"
+    "createdOn": "22-Nov-2022",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 86,
@@ -2314,7 +2569,10 @@
       "Back to top button",
       "Download file button"
     ],
-    "createdOn": "04-Nov-2021"
+    "createdOn": "04-Nov-2021",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 87,
@@ -2340,7 +2598,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "15-Dec-2024"
+    "createdOn": "15-Dec-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 88,
@@ -2367,7 +2628,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "22-Dec-2024"
+    "createdOn": "22-Dec-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 89,
@@ -2393,7 +2657,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "08-Dec-2024"
+    "createdOn": "08-Dec-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 90,
@@ -2415,7 +2682,10 @@
       "Code Splitting",
       "Prefetch/Preload JS + DNS + Data"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 91,
@@ -2444,7 +2714,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 92,
@@ -2473,7 +2746,10 @@
       "Provide some stats about your readings",
       "provides an API"
     ],
-    "createdOn": "31-Dec-2024"
+    "createdOn": "31-Dec-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 93,
@@ -2499,7 +2775,10 @@
       "Hardened (over 3 years old and used in many apps)",
       "Support for major frameworks (WIP)"
     ],
-    "createdOn": "16-Dec-2024"
+    "createdOn": "16-Dec-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 94,
@@ -2528,7 +2807,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 95,
@@ -2554,7 +2836,10 @@
       "Global state management through the Pinia store",
       "Quick support through the GitHub community and official documentation"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 96,
@@ -2582,7 +2867,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "08-Oct-2024"
+    "createdOn": "08-Oct-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 97,
@@ -2609,7 +2897,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "15-Dec-2024"
+    "createdOn": "15-Dec-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 98,
@@ -2637,7 +2928,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 99,
@@ -2667,7 +2961,10 @@
       "🌍 I18n ready: Ready for internationalization with locales 🌎",
       "☁️ Netlify ready: Zero-config deployment on Netlify ☁️"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 100,
@@ -2692,7 +2989,10 @@
       "Use it online or on your localhost",
       "Integrate it into any project"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 101,
@@ -2716,7 +3016,10 @@
       "🗃️ Offers Loader component for bundling assets and Feature Rich Composition Utilities.",
       "💫 Create different transition effects in conjunction with Transition."
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 102,
@@ -2740,7 +3043,10 @@
       "Offers Loader component for bundling assets and Feature Rich Composition Utilities.",
       "Create different transition effects in conjunction with Transition."
     ],
-    "createdOn": "01-Jan-2024"
+    "createdOn": "01-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 103,
@@ -2763,7 +3069,10 @@
       "All files are static. No backend servers needed.",
       "Tweak the settings to make your PDF look better."
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 104,
@@ -2792,7 +3101,10 @@
       "Migration: Migrate easily from Nextcloud Photos and Google Takeout.",
       "Performance: Do all this very fast."
     ],
-    "createdOn": "10-Jan-2024"
+    "createdOn": "10-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 105,
@@ -2813,7 +3125,10 @@
       "Scan Git log for author and datetime",
       "Automatically detect props for each component"
     ],
-    "createdOn": "20-Nov-2024"
+    "createdOn": "20-Nov-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 106,
@@ -2839,7 +3154,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 107,
@@ -2863,7 +3181,10 @@
       "Files are forever yours, you can find them at ~/Documents/linked",
       "Multi language support"
     ],
-    "createdOn": "29-Jun-2023"
+    "createdOn": "29-Jun-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 108,
@@ -2894,7 +3215,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "12-Jan-2024"
+    "createdOn": "12-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 109,
@@ -2916,7 +3240,10 @@
       "Edit your OpenAPI/Swagger specification with a live preview",
       "Doesn’t look like it’s 2011"
     ],
-    "createdOn": "28-Nov-2023"
+    "createdOn": "28-Nov-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 110,
@@ -2948,7 +3275,10 @@
       "Support real-time commands monitoring.",
       "Support import/export data."
     ],
-    "createdOn": "11-Jan-2024"
+    "createdOn": "11-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 111,
@@ -2975,7 +3305,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "19-Oct-2023"
+    "createdOn": "19-Oct-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 112,
@@ -3003,7 +3336,10 @@
       "Efficient processing: more than 10K spans / second on a single core.",
       "Excellent on-disk compression: 1KB span can be compressed down to ~40 bytes."
     ],
-    "createdOn": "08-Jan-2024"
+    "createdOn": "08-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 113,
@@ -3034,7 +3370,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "16-Jan-2024"
+    "createdOn": "16-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 114,
@@ -3061,7 +3400,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "04-Nov-2023"
+    "createdOn": "04-Nov-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 115,
@@ -3090,7 +3432,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "07-Sep-2023"
+    "createdOn": "07-Sep-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 116,
@@ -3119,7 +3464,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "12-Jan-2024"
+    "createdOn": "12-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 117,
@@ -3149,7 +3497,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 118,
@@ -3184,7 +3535,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "16-Jan-2024"
+    "createdOn": "16-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 119,
@@ -3213,7 +3567,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "09-Jan-2024"
+    "createdOn": "09-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 120,
@@ -3242,7 +3599,10 @@
       "API and Webhooks for integrations",
       "Easy to deploy in minutes"
     ],
-    "createdOn": "22-Jan-2024"
+    "createdOn": "22-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 121,
@@ -3269,7 +3629,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 122,
@@ -3301,7 +3664,10 @@
       "Seamless Upgrades: Hassle-free updates.",
       "Multilingual UI: Supports 11 languages, including English, Spanish, German, French, Chinese, and more."
     ],
-    "createdOn": "16-Jan-2024"
+    "createdOn": "16-Jan-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 123,
@@ -3328,7 +3694,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 124,
@@ -3350,7 +3719,10 @@
       "Dynamic - Functionalities are automatically enabled/disabled if your header turns from fixed/sticky to something else or it is hidden at different viewports",
       "Flexible - Works with any scrolling container."
     ],
-    "createdOn": "05-Feb-2024"
+    "createdOn": "05-Feb-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 125,
@@ -3376,7 +3748,10 @@
       "Layout Setting",
       "30+ Menu Styles"
     ],
-    "createdOn": "26-Sep-2023"
+    "createdOn": "26-Sep-2023",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 126,
@@ -3402,7 +3777,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 127,
@@ -3428,7 +3806,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 128,
@@ -3456,7 +3837,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "07-Feb-2024"
+    "createdOn": "07-Feb-2024",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 129,
@@ -3487,7 +3871,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 130,
@@ -3510,7 +3897,10 @@
       "ESLint",
       "Prettier"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 131,
@@ -3537,7 +3927,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 132,
@@ -3564,7 +3957,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "10-Dec-2020"
+    "createdOn": "10-Dec-2020",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 133,
@@ -3590,7 +3986,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 134,
@@ -3615,7 +4014,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "14-May-2020"
+    "createdOn": "14-May-2020",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 135,
@@ -3638,7 +4040,10 @@
       "Error page",
       "Styled Bootstrap components like buttons, modals, etc"
     ],
-    "createdOn": "20-Oct-2021"
+    "createdOn": "20-Oct-2021",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 136,
@@ -3668,7 +4073,10 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "20-Oct-2021"
+    "createdOn": "20-Oct-2021",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 137,
@@ -3686,6 +4094,8 @@
     "features": [
       
     ],
-    "createdOn": ""
+    "doFollow": false,
+    "ads":true,
+    "ads_link": "https://certificates.dev/vuejs?friend=WRAPPIXEL&utm_source=nuxtjstemplates.com"
   }
 ]

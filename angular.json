@@ -17,14 +17,16 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":true,
+    "ads_link": "https://certificates.dev/angular?friend=WRAPPIXEL&utm_source=angulartemplates.com"
   },
   {
     "id": 2,
     "price": 0,
     "popularity": 102,
     "appType": "admin-template",
-    "details": "https://certificates.dev/angular?friend=WRAPPIXEL&utm_source=angulartemplates.com",
+    "details": "https://adminmart.com/product/modernize-free-angular-material-template/",
     "category": "Angular",
     "imageAlt": "modernize-free-angular-material-admin-dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/04/modernize-free-angular-material-admin-dashboard.png",
@@ -48,7 +50,9 @@
     ],
     "createdOn": "18-Apr-2023",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 3,
@@ -80,7 +84,9 @@
     ],
     "createdOn": "18-Apr-2023",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 4,
@@ -108,7 +114,9 @@
     ],
     "createdOn": "25-Feb-2022",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 5,
@@ -141,7 +149,9 @@
     ],
     "createdOn": "14-Mar-2022",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 6,
@@ -169,7 +179,9 @@
     ],
     "createdOn": "04-Jan-2018",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 7,
@@ -203,7 +215,9 @@
     ],
     "createdOn": "03-Jan-2018",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 8,
@@ -234,7 +248,9 @@
     ],
     "createdOn": "17-Oct-2023",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 9,
@@ -275,7 +291,9 @@
     ],
     "createdOn": "16-Oct-2023",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 10,
@@ -306,7 +324,9 @@
     ],
     "createdOn": "18-Sept-2024",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 11,
@@ -346,7 +366,9 @@
     ],
     "createdOn": "18-Sept-2024",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 12,
@@ -382,7 +404,9 @@
     ],
     "createdOn": "13-Feb-2013",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 13,
@@ -410,7 +434,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Normalize Css",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 14,
@@ -430,7 +456,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Admin",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 15,
@@ -450,7 +478,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Normalize Css",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 16,
@@ -470,7 +500,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 17,
@@ -490,7 +522,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 18,
@@ -513,7 +547,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 19,
@@ -533,7 +569,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 20,
@@ -553,7 +591,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 21,
@@ -573,7 +613,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 22,
@@ -601,7 +643,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 23,
@@ -627,7 +671,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 24,
@@ -647,7 +693,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 25,
@@ -667,7 +715,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 26,
@@ -687,7 +737,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 27,
@@ -712,7 +764,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 28,
@@ -732,7 +786,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 29,
@@ -759,7 +815,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 30,
@@ -779,7 +837,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 31,
@@ -799,7 +859,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 32,
@@ -819,7 +881,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 33,
@@ -839,7 +903,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 34,
@@ -859,7 +925,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 35,
@@ -879,7 +947,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 36,
@@ -899,7 +969,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 37,
@@ -919,7 +991,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 38,
@@ -945,7 +1019,9 @@
     ],
     "createdOn": "",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 39,
@@ -965,7 +1041,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 40,
@@ -985,7 +1063,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 41,
@@ -1008,7 +1088,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 42,
@@ -1040,7 +1122,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 43,
@@ -1071,7 +1155,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 44,
@@ -1097,7 +1183,9 @@
     ],
     "createdOn": "06-May-2020",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 45,
@@ -1128,7 +1216,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 46,
@@ -1157,7 +1247,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 47,
@@ -1180,7 +1272,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 48,
@@ -1200,7 +1294,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 49,
@@ -1220,7 +1316,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 50,
@@ -1240,7 +1338,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 51,
@@ -1260,7 +1360,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 52,
@@ -1280,7 +1382,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 53,
@@ -1300,7 +1404,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 54,
@@ -1323,7 +1429,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 55,
@@ -1346,7 +1454,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 56,
@@ -1369,7 +1479,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 57,
@@ -1392,7 +1504,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 58,
@@ -1412,7 +1526,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 59,
@@ -1432,7 +1548,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 60,
@@ -1455,7 +1573,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 61,
@@ -1478,7 +1598,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 62,
@@ -1501,7 +1623,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 63,
@@ -1524,7 +1648,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 64,
@@ -1544,7 +1670,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 65,
@@ -1564,7 +1692,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 66,
@@ -1584,7 +1714,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 67,
@@ -1604,7 +1736,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 68,
@@ -1630,7 +1764,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 69,
@@ -1650,7 +1786,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 70,
@@ -1670,7 +1808,9 @@
     ],
     "createdOn": "",
     "frameworkName": "",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 71,
@@ -1701,7 +1841,9 @@
     ],
     "createdOn": "15-Aug-2024",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   },
   {
     "id": 72,
@@ -1733,6 +1875,8 @@
     ],
     "createdOn": "12-Aug-2024",
     "frameworkName": "Material Angular",
-    "doFollow": true
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   }
 ]
