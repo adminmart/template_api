@@ -2,7 +2,7 @@
   {
     "id": 1,
     "price": 0,
-    "popularity": 101,
+    "popularity": 104,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-nextjs-admin-template?ref=36",
     "category": "NextJs",
@@ -31,7 +31,7 @@
   {
     "id": 2,
     "price": 49,
-    "popularity": 102,
+    "popularity": 105,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-next-js-admin-dashboard?ref=36",
     "category": "NextJs",
@@ -4029,34 +4029,9 @@
     "frameworkName": ""
   },
   {
-    "id": 167,
-    "price": 19,
-    "popularity": 309,
-    "appType": "website",
-    "details": "https://getnextjstemplates.com/products/awake-agency-nextjs-template",
-    "category": "NextJs",
-    "imageAlt": "awake-nextjs-website-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/awake-agency/awake-nextjs-website-template.jpg",
-    "subtitle": "Modern NextJS Agency Website Template featuring responsive design and UI's",
-    "livePreview": "https://awake-agency-next-js.vercel.app/",
-    "templateName": "Awake Agency Nextjs Template for SaaS, Businesses & Web Design Agencies",
-    "description": "Looking to build your professional-looking website? Awake is the perfect template to help you learn while creating something impressive for creative agencies and design studios. Perfect for your portfolio, a client project, or just practicing your skills with a real-world website template!",
-    "features": [
-      "Designed and Build For Agencies, Startups, SaaS, PaaS",
-      "Made with React 19+, NextJs 15+ and Shadcn",
-      "Styled Using Tailwind CSS",
-      "High-quality Premium Design",
-      "Easy-To-Understand Folder Structure",
-      "Organized Code Structure",
-      "The Hassle-free Setup Process"
-    ],
-    "createdOn": "08-Mar-2025",
-    "frameworkName": ""
-  },
-  {
     "id": 168,
     "price": 19,
-    "popularity": 310,
+    "popularity": 309,
     "appType": "admin-template",
     "details": "https://getnextjstemplates.com/products/dashnext-nextjs-dashboard-template",
     "category": "NextJs",
@@ -4081,7 +4056,7 @@
   {
     "id": 169,
     "price": 19,
-    "popularity": 311,
+    "popularity": 310,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/saascandy-nextjs-website-template",
     "category": "NextJs",
@@ -4132,5 +4107,81 @@
       "Access to all future updates"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 171,
+    "price": 19,
+    "popularity": 101,
+    "appType": "website",
+    "details": "https://getnextjstemplates.com/products/awake-agency-nextjs-template",
+    "category": "NextJs",
+    "imageAlt": "awake-nextjs-website-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/awake-agency/awake-nextjs-website-template.jpg",
+    "subtitle": "Modern NextJS Agency Website Template featuring responsive design and UI's",
+    "livePreview": "https://awake-agency-next-js.vercel.app/",
+    "templateName": "Awake Agency Nextjs Template for SaaS, Businesses & Web Design Agencies",
+    "description": "Looking to build your professional-looking website? Awake is the perfect template to help you learn while creating something impressive for creative agencies and design studios. Perfect for your portfolio, a client project, or just practicing your skills with a real-world website template!",
+    "features": [
+      "Designed and Build For Agencies, Startups, SaaS, PaaS",
+      "Made with React 19+, NextJs 15+ and Shadcn",
+      "Styled Using Tailwind CSS",
+      "High-quality Premium Design",
+      "Easy-To-Understand Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "08-Mar-2025",
+    "frameworkName": ""
+  },
+  {
+    "id": 172,
+    "price": 19,
+    "popularity": 102,
+    "appType": "website",
+    "details": "https://getnextjstemplates.com/products/studiova-nextjs-template",
+    "category": "NextJs",
+    "imageAlt": "studiova-nextjs-tailwind-website-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/studiova/studiova-nextjs-tailwind-website-template.jpg",
+    "subtitle": "Studiova NextJS Template: Build Modern Web Apps Faster with Tailwind CSS, TypeScript, and React",
+    "livePreview": "https://studiova.vercel.app/",
+    "templateName": "Studiova Nextjs Template",
+    "description": "Studiova is a high-performance, visually stunning portfolio template crafted for modern-day creatives, designers, developers, and agencies. Built using the latest stack Next.js, React, Tailwind CSS, and TypeScript—Studiova ensures blazing-fast performance, optimized SEO, and a seamless developer experience. Whether you're building a personal site, agency showcase, or freelance portfolio, Studiova's minimal yet expressive design will make your work stand out. Fully responsive, cleanly coded, and ready to deploy, it's the perfect foundation for your next portfolio project.",
+    "features": [
+      "Built with Next.js 15 & React 19",
+      "Styled using Tailwind CSS 4 for full customization",
+      "Written in TypeScript for scalability and type safety",
+      "Blazing fast performance and optimized SEO",
+      "Reusable, clean, and modular components",
+      "Fully responsive design across all devices",
+      "TLight/Dark mode support",
+      "Developer-friendly folder structure"
+    ],
+    "createdOn": "05-Apr-2025",
+    "frameworkName": ""
+  },
+  {
+    "id": 173,
+    "price": 19,
+    "popularity": 103,
+    "appType": "website",
+    "details": "https://getnextjstemplates.com/products/homely-nextjs-website-template",
+    "category": "NextJs",
+    "imageAlt": "homely-nextjs-website-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/website-template/homely/homely-nextjs-website-template.jpg",
+    "subtitle": "Homely: A Seamless, Modern Real Estate Experience for Buyers, Sellers, and Agents",
+    "livePreview": "https://homely-nextjs-tailwind.vercel.app/",
+    "templateName": "Homely Nextjs Real Estate Website Template",
+    "description": "Homely is a modern real estate web application designed to provide a seamless property browsing experience. Built using Next.js, Tailwind CSS, and Shadcn, it delivers a visually stunning and highly optimized UI with dynamic, responsive features. Homely offers intuitive navigation, fast-loading pages, and a sleek, professional design, whether you're a buyer, seller, or agent",
+    "features": [
+      "Built with Next.js – Fast performance & server-side rendering",
+      "Tailwind CSS Integration – Clean, responsive UI design",
+      "Shadcn Components – Elegant pre-designed UI elements",
+      "Property Listings – Browse and filter real estate listings effortlessly",
+      "SEO & Performance Optimized – Ensures high-speed navigation",
+      "Mobile-Friendly Design – Fully responsive on all devices",
+      "Interactive UI – Modern animations & smooth transitions"
+    ],
+    "createdOn": "29-Mar-2025",
+    "frameworkName": ""
   }
 ]
