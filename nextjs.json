@@ -4083,7 +4083,7 @@
   },
   {
     "id": 170,
-    "price": 49,
+    "price": 0,
     "popularity": 1130,
     "appType": "website",
     "details": "https://github.com/zexanext",
@@ -4183,5 +4183,32 @@
     ],
     "createdOn": "29-Mar-2025",
     "frameworkName": ""
+  },
+  {
+    "id": 174,
+    "price": 0,
+    "popularity": 1131,
+    "appType": "website",
+    "details": "https://github.com/wsaada19/nextjs-contentful-blog/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "nextjs-contentful-blog",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-contentful-blog.jpg",
+    "subtitle": "A blog built using Next.js, Tailwind CSS, and Contentful CMS.",
+    "livePreview": "https://www.willsaada.com/",
+    "templateName": "Nextjs Contentful Blog",
+    "description": "My blog and portfolio website built using Next.js, Contentful and Tailwind CSS. I'm working on moving all of the personalized content to Contentful so this can be reused by anyone by substituting your own Contentful environment and data. See it live. See the blog post for more information.",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Eslint",
+      "Post Css",
+      "Sass Base CSS",
+      "Tailwind CSS",
+      "TypeScript",
+      "Vite",
+      "Dark & Light Themes",
+      "Multiple Pages"
+    ],
+    "createdOn": "07-Nov-2021"
   }
 ]
