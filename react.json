@@ -4231,5 +4231,27 @@
       "Multiple Pages"
     ],
     "createdOn": "07-Nov-2021"
+  },
+  {
+    "id": 175,
+    "price": 0,
+    "popularity": 1132,
+    "appType": "admin-template",
+    "details": "https://github.com/srikanta30/chatty/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "chatty",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chatty.jpg",
+    "subtitle": "Chat App Created Using Next.js, Chakra UI & Firebase.",
+    "livePreview": "https://chat-app-ce087.web.app/",
+    "templateName": "Chatty",
+    "description": "Developed a real-time chat application utilizing Next.js for seamless server-side rendering and performance, Chakra UI for an accessible and responsive user interface, and Firebase for robust backend services including authentication, real-time database, and hosting. The application supports secure user sign-in, live messaging, and a clean, mobile-friendly design, ensuring an intuitive user experience across devices.",
+    "features": [
+      "Google User Authentication: Users are able to log in and log out using their Google accounts via Firebase Authentication.",
+      "Chat Rooms: Users are able to create, join, and leave chat rooms.",
+      "Real-Time Messaging: Messages sent by users should appear in the chat room in real time.",
+      "Message History: The chat application stores the history of messages for each chat room, which are visible to users when they join the room.",
+      "Private Messaging: Users are able to send private messages to other users."
+    ],
+    "createdOn": "22-May-2023"
   }
 ]
