@@ -4232,5 +4232,34 @@
       "Private Messaging: Users are able to send private messages to other users."
     ],
     "createdOn": "22-May-2023"
+  },
+  {
+    "id": 176,
+    "price": 0,
+    "popularity": 1133,
+    "appType": "landingpage",
+    "details": "https://github.com/rajput-hemant/lipi/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "lipi",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lipi.jpg",
+    "subtitle": "[WIP] 🚀 A SAAS web app, a Notion.so replica, featuring real-time collaboration and customizable workspaces built using ▲ Next.js, shadcn/ui, TailwindCSS",
+    "livePreview": "https://lipi.rajputhemant.tech/",
+    "templateName": "Lipi",
+    "description": "Currently developing a SaaS web application inspired by Notion.so, designed to deliver seamless real-time collaboration and fully customizable workspaces. Built with ▲ Next.js for performance and scalability, utilizing shadcn/ui for modern UI components and TailwindCSS for rapid, responsive design. This project aims to empower teams with an intuitive and flexible productivity tool tailored for dynamic workflows.",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Eslint",
+      "Post Css",
+      "Sass Base CSS",
+      "Tailwind CSS",
+      "TypeScript",
+      "Vite",
+      "Database",
+      "Components",
+      "Authentication",
+      "Subscriptions"
+    ],
+    "createdOn": "07-Dec-2023"
   }
 ]
