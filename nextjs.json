@@ -4261,5 +4261,31 @@
       "Subscriptions"
     ],
     "createdOn": "07-Dec-2023"
+  },
+  {
+    "id": 177,
+    "price": 0,
+    "popularity": 1134,
+    "appType": "website",
+    "details": "https://github.com/netlify-templates/next-platform-starter/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "next-platform-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-platform-starter.jpg",
+    "subtitle": "Modern starter based on Next.js 14 (App Router), Tailwind, daisyUI, and Netlify Core Primitives",
+    "livePreview": "https://nextjs-platform-starter.netlify.app/",
+    "templateName": "Next Platform Starter",
+    "description": "This modern starter template is built on Next.js 14 utilizing the App Router architecture, offering enhanced routing flexibility and performance. It integrates Tailwind CSS and daisyUI for a highly customizable and responsive design system, streamlining the development of visually consistent and accessible user interfaces. Additionally, it incorporates Netlify Core Primitives to simplify deployment workflows, serverless functions, and edge capabilities.",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Eslint",
+      "Post Css",
+      "Tailwind CSS",
+      "Multiple Pages",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "20-Mar-2025"
   }
 ]
