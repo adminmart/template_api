@@ -4308,5 +4308,26 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "20-Mar-2025"
+  },
+  {
+    "id": 178,
+    "price": 0,
+    "popularity": 1135,
+    "appType": "landingpage",
+    "details": "https://github.com/mehrabmp/cut-it/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "cut-it",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cut-it.jpg",
+    "subtitle": "Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui",
+    "livePreview": "https://cutit.vercel.app/",
+    "templateName": "Cut It",
+    "description": "This link shortener is a modern web application built using the Next.js App Router architecture, leveraging Server Actions for seamless server-side operations. It employs Drizzle ORM for type-safe database interactions and uses Turso as the edge database for low-latency performance. The user interface is designed with shadcn/ui, providing a clean, accessible, and responsive experience.",
+    "features": [
+      "URL Shortening: Easily shorten long URLs with a click.",
+      "Customizable URLs: Customize the shortened URLs to your preference.",
+      "User-Friendly Interface: Intuitive and easy-to-use interface for quick link management.",
+      "Analytics: Track link analytics and statistics. (soon)"
+    ],
+    "createdOn": "03-May-2023"
   }
 ]
