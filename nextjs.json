@@ -4362,5 +4362,32 @@
       "Analytics: Track link analytics and statistics. (soon)"
     ],
     "createdOn": "03-May-2023"
+  },
+  {
+    "id": 181,
+    "price": 0,
+    "popularity": 1136,
+    "appType": "website",
+    "details": "https://github.com/Marktawa/blog-strapi/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "blog-strapi",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/blog-strapi.jpg",
+    "subtitle": "Blog website using Strapi for the backend and Next.js for the frontend",
+    "livePreview": "https://strapi.io/blog/build-a-blog-with-next-react-js-strapi",
+    "templateName": "Blog Strapi",
+    "description": "We developed a professional blog website leveraging Strapi as the backend CMS and Next.js for the frontend framework. Strapi provides a flexible and user-friendly content management system, enabling easy creation and management of blog content with powerful role-based access control. On the frontend, Next.js ensures high performance and SEO optimization through server-side rendering and static site generation.",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Eslint",
+      "Post Css",
+      "TypeScript",
+      "Tailwind CSS",
+      "Multiple Pages",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "15-Jun-2023"
   }
 ]
