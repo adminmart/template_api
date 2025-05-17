@@ -4410,5 +4410,32 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "15-Jun-2023"
+  },
+  {
+    "id": 182,
+    "price": 0,
+    "popularity": 1137,
+    "appType": "landingpage",
+    "details": "https://github.com/marketempower/axiom-example/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "axiom-example",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/axiom-example.jpg",
+    "subtitle": "BlogExample website project for the Axiom Hugo Theme",
+    "livePreview": "https://axiom-example.netlify.app/",
+    "templateName": "Axiom Example",
+    "description": "Axiom is designed to make the readers of your content and the search engines happy. Designed with a modular structure, and fully customizable in every way, Axiom adapts to your project, instead of forcing an opinionated structure.",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Live Example",
+      "Post Css",
+      "Quick Start",
+      "Tailwind CSS",
+      "Documentation",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "16-Apr-2020"
   }
 ]
