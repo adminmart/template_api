@@ -4416,5 +4416,28 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "16-Apr-2020"
+  },
+  {
+    "id": 183,
+    "price": 0,
+    "popularity": 1138,
+    "appType": "landingpage",
+    "details": "https://github.com/MadeInHaus/next-starter/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "next-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-starter.jpg",
+    "subtitle": "A skeleton Next.js app to quickly get started.",
+    "livePreview": "https://next-starter-omega.vercel.app/",
+    "templateName": "Next Starter",
+    "description": "This skeleton Next.js application provides a streamlined foundation for developers to quickly kickstart new projects with best practices in place. Pre-configured with essential tools and folder structure, it eliminates boilerplate setup and allows you to focus on building features right away. Ideal for rapid prototyping or scaling into a full production-grade application, this starter kit ensures a smooth and efficient development workflow from the outset.",
+    "features": [
+      "Next.js",
+      "React",
+      "Eslint",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "24-Nov-2021"
   }
 ]
