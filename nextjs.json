@@ -4439,5 +4439,31 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "24-Nov-2021"
+  },
+  {
+    "id": 184,
+    "price": 0,
+    "popularity": 1139,
+    "appType": "website",
+    "details": "https://github.com/luuppiry/luuppi-next/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "luuppi-next",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/luuppi-next.jpg",
+    "subtitle": "Powered by Next.js and Strapi, the new luuppi.fi platform is engineered with cutting-edge",
+    "livePreview": "https://luuppi.fi/en",
+    "templateName": "Luuppi Next",
+    "description": "Luuppi ry is the subject association for students studying mathematics, statistical data analysis, and computer science at Tampere University. Since 1969, Luuppi has been actively promoting the interests of its members and organizing a variety of free-time activities. It proudly holds the distinction of being the largest subject association at the University of Tampere!",
+    "features": [
+      "Next.js",
+      "Multiple Pages",
+      "Log in and Sign up pages",
+      "Strapi CMS",
+      "Redis",
+      "Tailwind CSS",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "20-Jan-2024"
   }
 ]
