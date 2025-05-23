@@ -4486,5 +4486,35 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "20-Jan-2024"
+  },
+  {
+    "id": 185,
+    "price": 0,
+    "popularity": 1140,
+    "appType": "admin-template",
+    "details": "https://github.com/LiveWithCodeAnkit/EMS-Keka/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "EMS-Keka",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/EMS-Keka.jpg",
+    "subtitle": "Welcome to the Employee Management Portal, a comprehensive web application built using Next.js, Chakra UI, and Redux Toolkit.",
+    "livePreview": "https://ems-keka.vercel.app/",
+    "templateName": "EMS Keka",
+    "description": "Welcome to the Employee Management Portal—a robust and user-friendly web application developed using Next.js, Chakra UI, and Redux Toolkit. This platform is designed to simplify and optimize the handling of employee-related tasks across an organization. From managing employee records to streamlining workflows and enhancing administrative efficiency, the portal provides a centralized solution tailored to meet the dynamic needs of modern HR operations.",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "Log in and Sign up pages",
+      "TypeScript",
+      "chart.js",
+      "Profile Management",
+      "Leave Management",
+      "Timesheet Tracking",
+      "Attendance System",
+      "Asset Management",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "20-Nov-2023"
   }
 ]
