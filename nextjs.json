@@ -4495,5 +4495,36 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "20-Nov-2023"
+  },
+  {
+    "id": 186,
+    "price": 0,
+    "popularity": 1141,
+    "appType": "admin-template",
+    "details": "https://github.com/leerob/next-email-client/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "next-email-client",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-email-client.jpg",
+    "subtitle": "An email client built with the Next.js App Router and Postgres.",
+    "livePreview": "https://next-email-client.vercel.app/f/inbox",
+    "templateName": "Nextjs Postgres Email Client",
+    "description": "This project is a fully functional email client developed using the Next.js App Router for modern, streamlined routing and server-side rendering capabilities. It leverages PostgreSQL as the primary database, ensuring robust and scalable data management for handling user accounts, emails, and related metadata.",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "TailwindCSS",
+      "TypeScript",
+      "Post Css",
+      "Search for emails",
+      "Profile sidebar with user information",
+      "View all threads",
+      "View all emails in a thread",
+      "Compose view",
+      "Seed and setup script",
+      "Highlight searched text",
+      "Hook up compose view",
+      "Delete emails (move to trash)"
+    ],
+    "createdOn": "05-Nov-2023"
   }
 ]
