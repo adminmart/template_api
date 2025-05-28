@@ -4549,5 +4549,31 @@
       "🌗 Dark Theme Support: Modern design with animation and smooth transitions."
     ],
     "createdOn": "09-Sep-2023"
+  },
+  {
+    "id": 188,
+    "price": 0,
+    "popularity": 1143,
+    "appType": "landingpage",
+    "details": "https://github.com/francislagares/nextjs-ecommerce/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "nextjs-ecommerce",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-ecommerce.jpg",
+    "subtitle": "A modern and performant Full Stack Next.js 14 e-commerce website complete with secure Stripe payment integration",
+    "livePreview": "https://nextjs-ecommerce-francislagares.vercel.app/",
+    "templateName": "Nextjs Ecommerce",
+    "description": "This project is a modern and high-performance full-stack e-commerce website built with Next.js 14, leveraging its advanced capabilities such as server components and app routing for optimal speed and scalability. It features secure and seamless payment processing through Stripe integration, ensuring a safe checkout experience for users",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "TypeScript",
+      "Tailwind CSS",
+      "Eslint",
+      "Vite",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "04-Dec-2023"
   }
 ]
