@@ -4596,5 +4596,31 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": "04-Dec-2023"
+  },
+  {
+    "id": 189,
+    "price": 0,
+    "popularity": 1144,
+    "appType": "landingpage",
+    "details": "https://github.com/ethanniser/next-typesafe-url/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "next-typesafe-url",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-typesafe-url.jpg",
+    "subtitle": "Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.",
+    "livePreview": "https://next-typesafe-url.dev/",
+    "templateName": "Next Typesafe Url",
+    "description": "Our solution provides fully type-safe, JSON-serializable, and Zod-validated URL search parameters, dynamic route parameters, and routing for Next.js applications. By leveraging TypeScript for end-to-end type safety and Zod for robust runtime validation, developers can ensure consistent, predictable behavior across client and server navigation",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "TypeScript",
+      "Tailwind CSS",
+      "Eslint",
+      "Light & Dark mode",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "12-Mar-2023"
   }
 ]
