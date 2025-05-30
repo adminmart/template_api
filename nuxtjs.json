@@ -4097,5 +4097,34 @@
     "doFollow": false,
     "ads":true,
     "ads_link": "https://certificates.dev/vuejs?friend=WRAPPIXEL&utm_source=nuxtjstemplates.com"
+  },
+  {
+    "id": 138,
+    "price": 0,
+    "popularity": 1118,
+    "appType": "website",
+    "details": "https://github.com/Rauliqbal/super-portfolio/archive/refs/heads/main.zip",
+    "category": "Nuxt",
+    "imageAlt": "super-portfolio",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/super-portfolio.jpg",
+    "subtitle": "Build your timeless portfolio with Super Portfolio with Nuxt 3 and Tailwind CSS",
+    "livePreview": "https://super-portfolioo.pages.dev/",
+    "templateName": "Super Portfolio",
+    "description": "Super Portfolio is a modern and timeless portfolio template built with Nuxt 3 and Tailwind CSS, crafted to help developers and creatives present their work with clarity and style. Designed with performance, accessibility, and scalability in mind, it offers a seamless user experience and a clean, responsive layout that looks great on any device.",
+    "features": [
+      "Nuxt 3",
+      "Tailwind CSS v3",
+      "Typescript",
+      "Iconsax",
+      "Nuxt Google Font",
+      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
+      "Responsive layout",
+      "Forever free and Open Source",
+      "Clean Code"
+    ],
+    "createdOn": "20-Oct-2021",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   }
 ]
