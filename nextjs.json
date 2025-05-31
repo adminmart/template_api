@@ -4715,5 +4715,30 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 194,
+    "price": 0,
+    "popularity": 1149,
+    "appType": "landingpage",
+    "details": "https://github.com/geldata/nextjs-gel-auth-template/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "nextjs-gel-auth-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-gel-auth-template.jpg",
+    "subtitle": "A minimal starter designed to help you get up and running with Gel and Next.js quickly",
+    "livePreview": "https://nextjs-gel-auth-template.vercel.app/",
+    "templateName": "Nextjs Edgedb Auth Template",
+    "description": "This starter is designed to help you get up and running with Gel and Next.js quickly. It includes a basic setup for authentication, Gel schema, and a UI to get you started. Below you can find the steps to set up the project and start building your app as well as some ideas for extending it further.",
+    "features": [
+      "Next.js for React framework",
+      "Gel for database",
+      "Gel Auth for authentication",
+      "Tailwind CSS for utility-first CSS framework",
+      "ESLint for linting",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "10-Apr-2024"
   }
 ]
