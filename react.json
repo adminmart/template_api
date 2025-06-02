@@ -4736,5 +4736,28 @@
       "The Hassle-free Setup Process"
     ],
     "createdOn": ""
+  },
+  {
+    "id": 195,
+    "price": 0,
+    "popularity": 1150,
+    "appType": "landingpage",
+    "details": "https://github.com/denoland/fresh/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "fresh",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/fresh.jpg",
+    "subtitle": "The next-gen web framework.",
+    "livePreview": "https://fresh.deno.dev/",
+    "templateName": "Fresh",
+    "description": "The next-generation web framework redefines the standards of modern web development by combining cutting-edge performance, seamless scalability, and developer-centric tooling. Designed to accelerate the development process, it offers a powerful architecture that supports server-side rendering, static site generation, and dynamic content delivery with minimal configuration",
+    "features": [
+      "Just-in-time rendering on the edge.",
+      "Island based client hydration for maximum interactivity.",
+      "Zero runtime overhead: no JS is shipped to the client by default.",
+      "No configuration necessary.",
+      "TypeScript support out of the box.",
+      "File-system routing à la Next.js."
+    ],
+    "createdOn": "07-May-2021"
   }
 ]
