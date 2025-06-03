@@ -4763,5 +4763,27 @@
       "File-system routing à la Next.js."
     ],
     "createdOn": "07-May-2021"
+  },
+  {
+    "id": 196,
+    "price": 0,
+    "popularity": 1151,
+    "appType": "landingpage",
+    "details": "https://github.com/coollabsio/next-image-transformation/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "next-image-transformation",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-image-transformation.jpg",
+    "subtitle": "Drop-in replacement for Vercel's Nextjs image optimization service. Cloud version",
+    "livePreview": "https://images.coollabs.io/",
+    "templateName": "Next Image Transformation",
+    "description": "Our cloud-based service offers a seamless drop-in replacement for Vercel’s Next.js image optimization, delivering high-performance image processing with full compatibility and minimal configuration. Designed for developers seeking greater flexibility, scalability, and cost-efficiency, this solution integrates effortlessly into existing Next.js applications.",
+    "features": [
+      "Login to your Coolify instance or the cloud.",
+      "Create a new service and select the Next.js Image Transformation template.",
+      "Optional: Set the ALLOWED_REMOTE_DOMAINS environment variable to the domain of your images (e.g. example.com,coolify.io). By default, it is set to * which allows any domain.",
+      "Set the your <domain> on the Next Image Transformation service.",
+      "Deploy your service."
+    ],
+    "createdOn": "02-Feb-2024"
   }
 ]
