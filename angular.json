@@ -31,7 +31,7 @@
     "imageAlt": "modernize-free-angular-material-admin-dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/04/modernize-free-angular-material-admin-dashboard.png",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.adminmart.com/free/angular/modernize-angular-free/landingpage/index.html?ref=38",
+    "livePreview": "https://modernize-angular-free.netlify.app/dashboard?ref=38",
     "templateName": "Modernize Free Angular 19 Material Template",
     "description": "Look no further than this Modernize Free Angular Admin Dashboard Template, a template that is attractive and tastefully designed with a number of extra features. Its modern style gives your next project a polished and appealing appearance. It comes with everything you need to build a fantastic online application. You can easily and rapidly construct web applications with this free angular admin template. It's easy to use, extremely flexible, and friendly to developers. Every developer's worst nightmare is having to start from scratch when their dream is to find a beautiful, feature-rich angular template like this for free. For more features, you can check out the Premium Version of it.",
     "features": [
@@ -98,7 +98,7 @@
     "imageAlt": "flexy-free-angular",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/flexy-free-angular.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/flexy-angular-free/landingpage/index.html?ref=342",
+    "livePreview": "https://flexy-angular-free.netlify.app/dashboard?ref=342",
     "templateName": "Flexy Material Angular 19 Free",
     "description": "A free Flexible Angular Dashboard Template based on the Material Angular Framework is called Flexy Angular Lite. Its modular design makes it simple to customize, and it includes a wide range of reusable gorgeous UI elements. Because it is responsive by design, this Flexy Angular Admin Dashboard Template is compatible with all smartphone, desktop, and laptop screen sizes. It creates consistent web designs and improved user experiences by combining the fundamental Angular components with pre-established design patterns and re-styling plugins.",
     "features": [
@@ -163,7 +163,7 @@
     "imageAlt": "materialpro-angular-lite-y",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-angular-lite-y.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/material-angular-free/landingpage/index.html?ref=342",
+    "livePreview": "https://materialpro-angular-free.netlify.app/dashboard?ref=342",
     "templateName": "MaterialPro Angular 19 Lite",
     "description": "This free Material Dashboard Template based on the Angular Framework is called MaterialPro Angular Lite. Its modular design makes it simple to customize, and it includes a wide range of reusable gorgeous UI elements. Because it is responsive by design, the MaterialPro Angular Admin Dashboard Template is compatible with all smartphone, desktop, and laptop screen sizes. To create consistent web designs and improved user interfaces, Free Material Pro Angular combines the key Angular components with pre-set design patterns and re-styling plugins.",
     "features": [
@@ -229,7 +229,7 @@
     "imageAlt": "Spike-Admin-Angular-WrapPixel-Preview-1",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2023/10/Spike-Admin-Angular-WrapPixel-Preview-1.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://bootstrapdemos.wrappixel.com/spike-angular-free/landingpage/index.html?ref=342",
+    "livePreview": "https://spike-angular-free.netlify.app/dashboard?ref=342",
     "templateName": "Spike Free Angular Admin Template",
     "description": "Spike Free Angular Admin Template is a powerful, professional-grade template designed to streamline the development of responsive and high-performance admin dashboards. Built on the latest Angular framework, it combines a clean, modern interface with robust functionality, making it ideal for a range of applications from SaaS platforms to e-commerce admin panels. Spike Free is packed with essential features, including customizable UI components, pre-built widgets, and advanced charting options, enabling developers to create dynamic, data-driven applications with ease. Its modular design and intuitive layout prioritize scalability and flexibility, ensuring that the template can adapt to growing project needs. With Spike Free, developers can accelerate their workflow, maintain high coding standards, and deliver a polished, user-friendly experience.",
     "features": [
@@ -305,7 +305,7 @@
     "imageAlt": "MaterialM_Free_version_Angular",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM_Free_version_Angular.jpg",
     "subtitle": "Free & Open-Source Angular Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/angular/materialm-angular-free/landingpage/index.html?ref=342",
+    "livePreview": "https://materialm-angular-free.netlify.app/dashboard?ref=342",
     "templateName": "MaterialM Free Angular 19 Material Template",
     "description": "MaterialM Free Angular 19 Material Template is a sleek, professional template that brings the power of Angular 19 and Google's Material Design to modern web applications. This free template offers a carefully crafted layout with intuitive, responsive design elements, making it ideal for creating functional and visually appealing admin dashboards, data-driven applications, and internal tools. Built with Angular 19, MaterialM includes a range of pre-built components, cards, tables, and forms that are easy to customize and integrate, enabling developers to implement Material Design standards effortlessly. Its modular architecture, combined with the latest Angular performance enhancements, ensures a smooth, efficient development process. With MaterialM, developers have access to a high-quality template that accelerates project timelines while delivering a polished, user-friendly experience.",
     "features": [
@@ -1822,7 +1822,7 @@
     "imageAlt": "Matdash_angular_free",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2024/08/Matdash_angular_free.jpg",
     "subtitle": "MatDash: Free Angular 19 & Material Design Admin Template",
-    "livePreview": "https://demos.adminmart.com/free/angular/matdash-angular-free/landingpage/index.html?ref=38",
+    "livePreview": "https://matdash-angular-free.netlify.app/dashboard?ref=38",
     "templateName": "MatDash Free Angular 19 Material Template",
     "description": "Look no further than MatDash Free Angular admin, a free angular admin template with several additional features that is eye-catching and elegantly designed. With its sleek design, MatDash angular admin gives your next project a professional and engaging look. It has everything you need to create an amazing web app.",
     "features": [

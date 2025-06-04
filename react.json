@@ -93,7 +93,7 @@
     "imageAlt": "MaterialPro React Admin Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-lite-y.jpg",
     "subtitle": "MaterialPro react free admin template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/materialpro-react-free/landingpage/index.html?ref=341",
+    "livePreview": "https://materialpro-react-free.netlify.app/?ref=341",
     "templateName": "MaterialPro React Admin Lite",
     "description": "This stunning Free React Admin Dashboard Template is MaterialPro React Admin Lite, which has been meticulously handcrafted. It was constructed using a modern, modular design idea. Downloading and using MaterialPro React Admin Lite for both personal and commercial projects is totally free. You may purchase MaterialPro React Premium Version for medium to large-scale projects, which contains a selection of dashboards, demos, application designs, several page templates, and form, and table designs, and will help you construct your projects more quickly and easily.",
     "features": [
@@ -152,7 +152,7 @@
     "imageAlt": "Flexy React Material Admin Lite",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2021/07/flexy-react-admin-free.jpg",
     "subtitle": "Flexy React Material Admin Lite: Elegant and Responsive Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/react/flexy-react-free/landingpage/index.html?ref=341",
+    "livePreview": "https://flexy-react-free.netlify.app/dashboard?ref=341",
     "templateName": "Flexy React Material Admin Lite",
     "description": "This Free Flexy React Dashboard Lite is sleek, adaptable, and meticulously handcrafted simple Admin Template. Downloading and using Flexy React Dashboard Lite for both personal and business projects is totally free. You can get the premium edition of Flexy React Dashboard if your project requires additional features and settings. There are many wonderful features in it. You can visit its Premium edition to learn more about its incredible features.",
     "features": [
@@ -212,7 +212,7 @@
     "imageAlt": "free-next-js-admin-template",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
     "subtitle": "Modernize Free Next.js Admin Template: Cutting-Edge Design for Seamless Web Management",
-    "livePreview": "https://demos.adminmart.com/free/nextjs/modernize-nextjs-free/landingpage/index.html?ref=36",
+    "livePreview": "https://modernize-nextjs-free.vercel.app/?ref=36",
     "templateName": "Modernize Free Next.js Admin Template",
     "description": "Look no further than the Free Next.js Template called Modernise Next.js Admin Dashboard Template. A striking and tastefully designed Next.js Admin Template with a number of attractive features. Modernise Next.js Template has a modern appearance. Your subsequent project will seem polished and interesting thanks to this template. It comes with everything you need to build a fantastic online application.",
     "features": [
@@ -464,7 +464,7 @@
     "imageAlt": "spike-nextjs-free",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2023/11/spike-nextjs-free.jpg",
     "subtitle": "Free & Open-Source Next.js Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/spike-nextjs-free/landingpage/index.html?ref=340",
+    "livePreview": "https://spike-nextjs-free.netlify.app/?ref=340",
     "templateName": "Spike Next Js Free Admin Template",
     "description": "Spike admin is Free Next.js React admin Template. It allows you to create stunning backend application and more. It comes with ready to use UI Blocks & Elements to help level up the design and aesthetics of your project. Spike Next Js is built on Material Ui, which is a responsive React Framework. The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want. Even if you're a novice developer, clean code and easy to customize will get you up to speed in no time.",
     "features": [
@@ -519,7 +519,7 @@
     "imageAlt": "materialpro-nextjs-free-2",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2023/08/materialpro-nextjs-free-2.jpg",
     "subtitle": "MaterialPro: Free Next.js Admin Template for Modern Web Applications",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/materialpro-nextjs-free/landingpage/index.html?ref=340",
+    "livePreview": "https://materialpro-nextjs-free.vercel.app/?ref=340",
     "templateName": "MaterialPro Free Next.js Admin Template",
     "description": "Introducing MaterialPro Free Next Js Template, a cutting-edge web development solution built upon the widely acclaimed Material-UI framework. This free version boasts an elegant grid design, providing users with the flexibility to effortlessly customize the web app's appearance to their liking. Meticulously handcrafted with a minimalist approach, this admin template adopts a modular and modern design paradigm.",
     "features": [
@@ -570,10 +570,10 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-next-js-free-admin-template?ref=340",
     "category": "NextJs",
-    "imageAlt": " Flexy NextJs Free Admin Template",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/01/flexy-nextjs-free.jpg",
+    "imageAlt": "Flexy_Nextjs_Free_version",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2025/05/Flexy_Nextjs_Free_version-.webp",
     "subtitle": "Flexy: Free Next.js Admin Template with App Directory Integration",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/flexy-nextjs-admin-free-dist/landingpage?ref=340",
+    "livePreview": "https://flexy-admin-nextjs-free.vercel.app/ref=340",
     "templateName": "Flexy Next.js Free Admin Template",
     "description": "React Material-UI, the Most Popular Framework is used to build this Free Flexy Next.js Admin Dashboard Template. The web app's appearance and feel can be customized in the free version thanks to its attractive grid architecture. It is a meticulously handcrafted basic admin template that features a contemporary, modular style. People adore this react dashboard since it is well renowned for delivering a seamless user experience while assisting in the execution of complicated needs. It rapidly provides UI components, imaginative pages, and an environment that is user-friendly.",
     "features": [
@@ -3978,7 +3978,7 @@
     "imageAlt": "MaterialM_Free_version",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2024/08/MaterialM_Free_version.jpg",
     "subtitle": "MaterialM: Free Tailwind CSS & Next.js Admin Dashboard Template",
-    "livePreview": "https://demos.wrappixel.com/free-admin-templates/nextjs/materialm-nextjs-free/landingpage/index.html/?ref=340",
+    "livePreview": "https://materialm-tailwind-nextjs-free.vercel.app/?ref=340",
     "templateName": "MaterialM Free Tailwind Next.js Admin Template",
     "description": "The free version of MaterialM Next.js is more than just a trial; it's your first step into a larger world of web development. It offers the basics you need to get started, but the Pro version is where your skills and projects truly flourish. With its advanced features, support, and customization options, the Pro version is an investment in your future as a web developer, empowering you to create more complex, efficient, and visually stunning web applications.",
     "features": [
