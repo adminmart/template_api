@@ -4785,5 +4785,68 @@
       "Deploy your service."
     ],
     "createdOn": "02-Feb-2024"
+  },
+  {
+    "id": 197,
+    "price": 0,
+    "popularity": 108,
+    "appType": "admin-template",
+    "details": "https://adminmart.com/product/matdash-free-next-js-admin-template/?ref=36",
+    "category": "NextJs",
+    "imageAlt": "Matdash_nextjs_free",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2024/09/Matdash_nextjs_free.webp",
+    "subtitle": "MatDash Free Next.js Admin Template: Cutting-Edge Design for Seamless Web Management",
+    "livePreview": "https://matdash-nextjs-free.vercel.app/?ref=36",
+    "templateName": "MatDash Free Tailwind Next.js Admin Template",
+    "description": "Look no further than MatDash Next.js admin, a free next.js admin template with several additional features that is eye-catching and elegantly designed. With its sleek design, MatDash next.js admin gives your next project a professional and engaging look. It has everything you need to create an amazing web app.",
+    "features": [
+      "React 18+",
+      "NextJs 15+",
+      "Tailwind Flowbite",
+      "1 Basic Dashboard",
+      "Simple Login-Register Page Added",
+      "Code Splitting",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "05-Sep-2024",
+    "frameworkName": ""
+  },
+  {
+    "id": 198,
+    "price": 59,
+    "popularity": 109,
+    "appType": "admin-template",
+    "details": "https://adminmart.com/product/matdash-next-js-admin-dashboard-template/?ref=36",
+    "category": "NextJs",
+    "imageAlt": "matdash-nextjs-pro-preview",
+    "imageSrc": "https://adminmart.com/wp-content/uploads/2024/08/matdash-nextjs-pro-preview.webp",
+    "subtitle": "Premium Next.js Admin Dashboard Template",
+    "livePreview": "https://adminmart.com/product/matdash-next-js-admin-dashboard-template/#product-demo-section?ref=36",
+    "templateName": "MatDash Tailwind Next.js Admin Template",
+    "description": "Welcome to Matdash Next.js Admin Dashboard, a template that redefines the essence of modern dashboard design. Matdash Next.js Admin Dashboard isn't just a tool; it's a comprehensive solution that brings a new wave of sophistication and functionality to your digital workspace.",
+    "features": [
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process",
+      "Material UI",
+      "React 18+",
+      "NextJs 15+",
+      "2+ Stunning Dashboards",
+      "9+ Ready-to-Use Applications",
+      "Code Splitting",
+      "Google Fonts",
+      "RTL Ready",
+      "i18n Support",
+      "Redux Toolkit",
+      "Axios Mock API",
+      "NextJs Landing Page",
+      "Slick Carousel Included",
+      "Figma Design Files"
+    ],
+    "createdOn": "30-Aug-2024",
+    "frameworkName": ""
   }
 ]
