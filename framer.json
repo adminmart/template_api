@@ -2,157 +2,612 @@
   {
     "id": 1,
     "price": 0,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/crypgo-web/?ref=36",
-    "category": [
-      "business",
-      "sass",
-      "Landing Page"
+    "popularity": 0,
+    "appType": "landingpage",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      }
     ],
     "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/crypgo-framer.jpg",
-    "subtitle": "Your Gateway to the Future of Finance: Secure, Fast, and User-Friendly Cryptocurrency Solutions",
+    "imageSrc": "https://adminmart.github.io/template_api/images/framer/crypgo-framer.jpg",
+    "subtitle": "Sleek and modern Crypto Landing page template",
+    "downloads": "",
+    "views": "0",
     "livePreview": "https://crypgo-lp.framer.website/",
-    "templateName": "CrypGo Web",
-    "description": "The CrypGo landing page is a versatile solution designed for customization. you can use it as a foundation to build your own crypto-related websites, integrating features like real-time cryptocurrency statistics and a user-friendly buy/sell interface.",
+    "templateName": "Crypgo",
+    "slug": "crypgo-framer-template",
+    "author": "Wrappixel",
+    "author_url": "https://www.framer.com/@wrap-pixel/",
+    "buyUrl": "https://get-framer-template.lemonsqueezy.com/buy/30149ce9-2161-4cfe-80da-e4863a6f493f?embed=1",
+    "description": "Crypgo is a free and beautifully designed Framer landing page template made specifically for crypto and Web3 startups. Whether you're launching a new token, blockchain app, or NFT platform, Crypgo gives you a clean, professional, and conversion-ready landing page that’s fully responsive and optimized for modern users. With its seamless Framer integration, you can customize it effortlessly, perfect for founders, marketers, or designers who want to go live fast without compromising on design.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Link Styles",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Ticker",
-      "Web Fonts",
-      "Text Styles",
-      "Sticky Scrolling"
+      "Modern crypto-focused design",
+      "Built using Framer",
+      "Fully responsive layout",
+      "Clean and pixel-perfect UI",
+      "Easy to customize without coding"
     ],
-    "createdOn": "28-Jan-2025",
-    "frameworkName": ""
+    "createdOn": "2025-04-18T08:53:47.340Z",
+    "lemonSqzId": "492713",
+    "meta_title": "Crypgo Free Framer Crypto Landing Page Template",
+    "meta_description": "Download Crypgo, a free Framer crypto landing page template designed for modern blockchain startups. Clean design, fully responsive, and easy to customize"
   },
   {
     "id": 2,
-    "price": 0,
-    "popularity": 101,
+    "price": 29,
+    "popularity": 0,
     "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/charmant/?ref=36",
-    "category": [
-      "Ecommerce",
-      "Business",
-      "Modern"
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
     ],
     "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/cohesion-framer.jpg",
-    "subtitle": "Showcase Your Work with Stunning Animations and Seamless Navigation",
-    "livePreview": "https://charmant.framer.website/",
-    "templateName": "Cohesion",
-    "description": "Designed for agencies, portfolios, and personal brands, it seamlessly blends minimalist aesthetics with dynamic animations. Showcase your work in style with a sleek interface that flawlessly adapts to any device.",
+    "imageSrc": "https://adminmart.github.io/template_api/images/framer/studiova.jpg",
+    "subtitle": "Modern and Stylish Framer template for creative agencies",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://studiova.framer.website/",
+    "templateName": "Studiova",
+    "slug": "studiova-framer-template",
+    "author": "Wrappixel",
+    "author_url": "https://www.framer.com/@wrap-pixel/",
+    "buyUrl": "https://get-framer-template.lemonsqueezy.com/buy/f0b76411-3acf-4c86-9edc-a7dd85076dbe",
+    "description": "Studiova is a beautifully designed Framer template made for creative professionals who want to showcase their work with flair. Perfect for agencies, studios, and freelancers, Studiova blends minimal design with striking visuals and smooth animations to deliver an impactful browsing experience.  Its flexible layout and easy-to-customize components allow you to build a standout web presence without any code. Whether you're launching a new agency portfolio or refreshing your brand's online identity, Studiova offers the perfect balance of form and function.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Link Styles",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Ticker",
-      "Web Fonts",
-      "Text Styles",
-      "Sticky Scrolling"
+      "Clean and modern aesthetic tailored for creatives",
+      "Built with Framer – no-code editing and publishing",
+      "Fully responsive and mobile-friendly design",
+      "Smooth scroll and subtle animations for enhanced UX",
+      "Pre-built sections: Hero, Services, Portfolio, About, and Contact",
+      "SEO-optimized and fast-loading performance",
+      "Easily customizable color palette and typography",
+      "Ideal for agencies, freelancers, and studios"
     ],
-    "createdOn": "28-Jan-2025",
-    "frameworkName": ""
+    "createdOn": "2025-04-17T11:36:05.962Z",
+    "lemonSqzId": "497949",
+    "meta_title": "Studiova - Professional Framer Template for Creative Agencies",
+    "meta_description": "Get your creative agency online fast with Studiova. This Framer template offers intuitive customization and a stunning design to impress clients."
   },
   {
     "id": 3,
-    "price": 0,
-    "popularity": 101,
+    "price": 29,
+    "popularity": 0,
     "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/najmai/",
-    "category": [
-      "Ecommerce",
-      "Business",
-      "Modern"
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
     ],
     "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/najmai-framer.jpg",
-    "subtitle": "Empowering SaaS Businesses with Intelligent AI Solutions for Growth",
-    "livePreview": "https://najm.framer.website/",
-    "templateName": "NajmAI",
-    "description": "A beautifully crafted Framer website template perfect for AI SaaS businesses looking to showcase their innovative products and services.",
+    "imageSrc": "https://adminmart.github.io/template_api/images/framer/endevor.jpg",
+    "featureImg": "https://adminmart.github.io/template_api/images/framer/crypgo-framer.jpg",
+    "subtitle": "Purpose-Driven Framer template designed to empower charities",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://endeavor-charity.framer.website/",
+    "templateName": "Endeavor",
+    "slug": "endeavor-framer-template",
+    "author": "Wrappixel",
+    "author_url": "https://www.framer.com/@wrap-pixel/",
+    "buyUrl": "https://get-framer-template.lemonsqueezy.com/buy/da345994-52da-4fcb-94c7-9382a0a7c9c3",
+    "description": "Endeavor is a thoughtfully designed Framer template tailored for charities, non-profit organizations, and social impact initiatives. With a clean layout, compelling content structure, and a strong focus on storytelling and conversions, this template helps you present your mission clearly and drive support through donations and volunteer engagement. Whether you're running a community program, a global NGO, or a fundraising event, Endeavor offers the flexibility and modern aesthetics you need to build trust and grow your impact online.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Link Styles",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Ticker",
-      "Web Fonts",
-      "Text Styles",
-      "Sticky Scrolling"
+      "Fully responsive and optimized for all devices",
+      "Clean, accessible, and modern design",
+      "Easy-to-edit Framer components and layout",
+      "Donation-focused sections and call-to-actions",
+      "Event promotion and volunteer sign-up modules",
+      "Blog-ready pages for stories and updates",
+      "SEO-friendly and fast-loading pages"
     ],
-    "createdOn": "28-Jan-2025",
-    "frameworkName": ""
+    "createdOn": "2025-04-23T13:19:42.013Z",
+    "lemonSqzId": "497922",
+    "meta_title": "Endeavor Charity & Non-Profit Framer Template",
+    "meta_description": "Endeavor is a modern, conversion-focused Framer template built for charities, NGOs, and non-profit organizations. Engage your audience and drive donations with ease."
   },
   {
     "id": 4,
-    "price": 0,
-    "popularity": 101,
+    "price": 29,
+    "popularity": 0,
     "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/revo/",
-    "category": [
-      "Ecommerce",
-      "Business",
-      "Modern"
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      }
     ],
     "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/revo-framer.jpg",
-    "subtitle": "Unlock the Power of Innovation with a Free, Scalable SaaS Solution",
-    "livePreview": "https://revo-template.framer.website/",
-    "templateName": "Revo",
-    "description": "Revo is a modern and versatile website template crafted for dynamic businesses and creative professionals, offering a sleek design with customizable features to elevate your online presence.",
+    "imageSrc": "https://adminmart.github.io/template_api/images/framer/awake.jpg",
+    "subtitle": "Modern and Minimal Framer template built for creative agencies",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://awakeagency.framer.website/",
+    "templateName": "Awake",
+    "slug": "awake-framer-template",
+    "author": "Wrappixel",
+    "author_url": "https://www.framer.com/@wrap-pixel/",
+    "buyUrl": "https://get-framer-template.lemonsqueezy.com/buy/4b09f4da-86cf-40a4-a2c4-d46439e7b57d",
+    "description": "Awake is a thoughtfully designed Framer template tailored for creative agencies, freelancers, and studios aiming to make a bold visual impact. With its sleek layout, seamless animations, and intuitive structure, Awake ensures your portfolio stands out while remaining easy to navigate. Built with responsiveness in mind, it looks stunning on every device and is fully customizable without writing a single line of code. Whether you're launching a new brand or refreshing your current presence, Awake offers the perfect balance of design and functionality.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Link Styles",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Ticker",
-      "Web Fonts",
-      "Text Styles",
-      "Sticky Scrolling"
+      "Modern crypto-focused design",
+      "Built using Framer",
+      "Fully responsive layout",
+      "Clean and pixel-perfect UI",
+      "Easy to customize without coding"
     ],
-    "createdOn": "28-Jan-2025",
-    "frameworkName": ""
+    "createdOn": "2025-04-23T13:23:54.861Z",
+    "lemonSqzId": "497912",
+    "frameworkName": "",
+    "meta_title": "Awake Agency Framer Template for Modern Brands",
+    "meta_description": "Awake is a sleek Framer template for creative agencies and freelancers, offering responsive design, smooth animations, and a modern layout"
   },
   {
     "id": 5,
-    "price": 0,
-    "popularity": 101,
+    "price": 29,
+    "popularity": 0,
     "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/plexora/",
-    "category": [
-      "Sass",
-      "Landing Page",
-      "Startup"
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
     ],
     "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/plexora-framer.jpg",
-    "subtitle": "Plexora — SAAS team and time management",
-    "livePreview": "https://plexora.framer.website/",
-    "templateName": "Plexora",
-    "description": "Plexora is a sleek and efficient Framer template designed for seamless team and time management. With intuitive layouts, task tracking, and collaboration features, it helps teams stay organized and boost productivity effortlessly.",
+    "imageSrc": "https://adminmart.github.io/template_api/images/framer/homely.jpg",
+    "subtitle": "Modern Framer template to showcase real estate listings",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://propertypro.framer.website/",
+    "templateName": "Homely",
+    "slug": "homely-framer-template",
+    "author": "Wrappixel",
+    "author_url": "https://www.framer.com/@wrap-pixel/",
+    "buyUrl": "https://get-framer-template.lemonsqueezy.com/buy/c9047d3c-cf15-450f-83e2-115da384da92",
+    "description": "Homely is a thoughtfully designed Framer template tailored for real estate professionals, agencies, and property listing platforms. With its modern, minimal aesthetic and performance-first structure, it helps you present property listings in a clean, engaging way. Whether you're building a site for a single agent or a full agency, Homely gives you the flexibility and ease of customization you need, without touching a single line of code.",
+    "features": [
+      "Fully responsive and mobile-friendly design",
+      "Fast-loading and performance-optimized",
+      "Pre-built pages for property listings, agents, and contact",
+      "Clean, minimal layout for better content focus",
+      "Easy to customize in Framer, no coding required",
+      "SEO-friendly structure and components",
+      "Integrated contact and inquiry form"
+    ],
+    "createdOn": "2025-04-23T13:29:29.579Z",
+    "lemonSqzId": "497924",
+    "meta_title": "Homely Modern Real Estate Framer Template for Property Listings",
+    "meta_description": "Explore Homely, a sleek Framer template built for real estate agents and property websites. Easy to customize, fast-loading, and beautifully designed"
+  },
+  {
+    "id": 6,
+    "price": 0,
+    "popularity": 0,
+    "appType": "website",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ],
+    "imageAlt": "crevo-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Crevo.webp",
+    "subtitle": "Creative and sleek Framer template for bold agencies",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://crevo-wbs.framer.website/",
+    "templateName": "Crevo",
+    "slug": "crevo-agency-landing-page",
+    "author": "Webestica",
+    "author_url": "https://www.framer.com/@webestica/",
+    "buyUrl": "https://framer.link/bXaj8Yz?duplicateType=siteTemplate",
+    "description": "Crevo is a dark mode agency template crafted for creative agency, portfolio, brand studio, and digital agency. It\u2019s perfect for showcasing design studio work, agency website, agency portfolios, and branding showcases with an elegant visual punch.",
+    "features": [
+      "Reusable colors for easy, site-wide style updates.",
+      "Reusable components with synced updates and animations.",
+      "Expressive animations with easy, attention-grabbing tweaks.",
+      "Link to any section using Scroll Target.",
+      "Centralized link styles for consistent site appearance.",
+      "Improved accessibility with built-in Framer tools.",
+      "CMS-driven content management for dynamic pages."
+    ],
+    "createdOn": "2025-06-03T09:46:35.711722",
+    "lemonSqzId": "",
+    "meta_title": "Crevo Framer Agency Template",
+    "meta_description": "Download Crevo, a modern Framer agency template. Fully responsive and easily customizable."
+  },
+  {
+    "id": 7,
+    "price": 0,
+    "popularity": 0,
+    "appType": "website",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ],
+    "imageAlt": "flowbite-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Flowbite.webp",
+    "subtitle": "Dark, responsive template for creative portfolios",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://flowbite.framer.website/",
+    "templateName": "Flowbite",
+    "slug": "flowbite-portfolio-template",
+    "author": "Themeflow",
+    "author_url": "https://www.framer.com/@themeflow/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=iRVydkYrxPtDTgBKSICE&via=ptktu9v&dub_id=bFfSXvuUhpFuTxNr",
+    "description": "Flowbite is a sleek Framer portfolio template for creatives, freelancers, and agencies. With smooth animations, dark mode, and full responsiveness, it\u2019s perfect for showcasing your work professionally.",
+    "features": [
+      "Reusable colors for easy, site-wide style updates.",
+      "Reusable components with synced updates and animations.",
+      "Expressive animations with easy, attention-grabbing tweaks.",
+      "Link to any section using Scroll Target.",
+      "Fast, accessible, SEO-friendly with smart defaults.",
+      "Interactive slideshow with customizable image display.",
+      "Use web fonts or import from Google Fonts.",
+      "Text styles with centralized, reusable visual control.",
+      "Improved accessibility with built-in Framer tools.",
+      "CMS-driven content management for dynamic pages."
+    ],
+    "createdOn": "2025-06-03T09:46:35.711735",
+    "lemonSqzId": "",
+    "meta_title": "Flowbite Framer Portfolio Template",
+    "meta_description": "Download Flowbite, a modern Framer portfolio template for creatives and agencies. Responsive and easy to customize."
+  },
+  {
+    "id": 8,
+    "price": 0,
+    "popularity": 0,
+    "appType": "website",
+    "categories": [
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "tech",
+        "label": "Tech"
+      }
+    ],
+    "imageAlt": "stratedge-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/StratEdge.webp",
+    "subtitle": "Sleek, responsive template for consultants and firms",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://startedge-template.framer.website/",
+    "templateName": "StratEdge",
+    "slug": "stratedge-business-consulting-template",
+    "author": "Coco Design",
+    "author_url": "https://www.framer.com/@coco-design/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=LKTshPOvt9zYGuUZmQTj&via=sigdbi2&dub_id=gp7d7Uhsm8xWinyu",
+    "description": "StratEdge is a modern and professional business consulting template designed to help consulting firms, agencies, and corporate businesses establish a strong online presence.",
+    "features": [
+      "Expressive animations with easy visual effect tweaks.",
+      "Reusable color styles for unified site theming.",
+      "Interactive, customizable image carousel component.",
+      "Fully responsive design with editable breakpoints.",
+      "Reusable layout templates for navigation and pages.",
+      "Supports web fonts and Google Fonts imports.",
+      "Drag-and-drop plugins to enhance site functionality."
+    ],
+    "createdOn": "2025-06-03T09:49:41.098179",
+    "lemonSqzId": "",
+    "meta_title": "StratEdge Business Consulting Framer Template",
+    "meta_description": "StratEdge is a responsive Framer template for business consultants and agencies, designed for impact and usability."
+  },
+  {
+    "id": 9,
+    "price": 0,
+    "popularity": 0,
+    "appType": "website",
+    "categories": [
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "SaaS"
+      },
+      {
+        "value": "startup",
+        "label": "Startup"
+      }
+    ],
+    "imageAlt": "atoma-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Atoma.webp",
+    "subtitle": "Dark-mode SaaS template for modern digital teams",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://atoma.framer.website/",
+    "templateName": "Atoma",
+    "slug": "atoma-saas-template",
+    "author": "Nayzak Design",
+    "author_url": "https://www.framer.com/@clonify/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=iSIl8o0G4HdDpH4fWsPa&via=gdmxuss&dub_id=cksyz9A2MhM2gF7m",
+    "description": "Atoma is a cutting-edge Framer template built for modern SaaS startups that want to make a bold first impression.",
+    "features": [
+      "Reusable components with synced updates and animations.",
+      "Centralized link styles for consistent site appearance.",
+      "Infinite scrolling sections with Ticker component.",
+      "Code-free forms to capture visitor information easily.",
+      "Reusable layout templates for site-wide elements.",
+      "Expressive animations with easy visual effect tweaks.",
+      "Supports Google Fonts and other web font imports."
+    ],
+    "createdOn": "2025-06-03T09:49:41.098195",
+    "lemonSqzId": "",
+    "meta_title": "Atoma Framer SaaS Startup Template",
+    "meta_description": "Launch your SaaS with Atoma \u2013 a dark, modern Framer template with powerful layouts and smooth animations."
+  },
+  {
+    "id": 10,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landingpage",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "artificial-intelligence",
+        "label": "Artificial Intelligence"
+      }
+    ],
+    "imageAlt": "radison-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Radison.webp",
+    "subtitle": "Modern platform to promote your AI services",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://radison.framer.website/",
+    "templateName": "Radison",
+    "slug": "radison-ai-agency-template",
+    "author": "Framebase",
+    "author_url": "https://www.framer.com/@framebase/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=Odc9OZugVtNQNcLL3Ieu&via=94mh0nc&dub_id=lbfCPFiw97ARferm",
+    "description": "Radison is a premium framer template designed to showcase your AI automation agency's expertise and innovation. With its sleek and modern design, this template provides a visually stunning platform to highlight your AI solutions and attract potential clients.",
+    "features": [
+      "Expressive animations with easy, attention-grabbing tweaks.",
+      "Reusable color styles for easy global updates.",
+      "Reusable components with synced edits and animations.",
+      "Centralized link styles with hover and color control.",
+      "Fully responsive design with customizable breakpoints.",
+      "SEO-optimized and fast with accessible structure.",
+      "Built-in accessibility tools for inclusive experiences."
+    ],
+    "createdOn": "2025-06-03T09:50:40.793737",
+    "lemonSqzId": "",
+    "meta_title": "Radison AI Agency Template",
+    "meta_description": "Radison is a premium Framer template for AI service businesses. Clean, responsive, and designed to impress clients."
+  },
+  {
+    "id": 11,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landingpage",
+    "categories": [
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      }
+    ],
+    "imageAlt": "veltrix-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Veltrix.webp",
+    "subtitle": "A smart template to win trust and grow your client base",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://veltrix.framer.ai/",
+    "templateName": "Veltrix",
+    "slug": "veltrix-creative-studio-template",
+    "author": "lunis design",
+    "author_url": "https://www.framer.com/@lunis-design/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=EQcLujCG9P87t45TL4dQ&via=jqmdjb9&dub_id=m0blqrboCSfx1ZvA",
+    "description": "Veltrix is a sleek agency template designed for marketing and creative studios to showcase expertise, highlight services, build credibility with testimonials, and streamline client inquiries\u2014all designed to attract high-value clients effortlessly.",
+    "features": [
+      "Easily manage and update your site colors.",
+      "Build once, reuse everywhere\u2014with smooth animations.",
+      "Fully responsive design with customizable breakpoints.",
+      "Scroll Target linking and sticky scroll effects.",
+      "Optimized for SEO, speed, and accessibility.",
+      "Supports Google and Fontshare fonts.",
+      "Clean, conversion-optimized layout system."
+    ],
+    "createdOn": "2025-06-03T09:50:40.793755",
+    "lemonSqzId": "",
+    "meta_title": "Veltrix Creative Studio Template",
+    "meta_description": "Veltrix is a bold, sleek Framer template for creative agencies. Showcase services and boost client conversions."
+  },
+  {
+    "id": 12,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landingpage",
+    "categories": [
+      {
+        "value": "saas",
+        "label": "SaaS"
+      },
+      {
+        "value": "artificial-intelligence",
+        "label": "Artificial Intelligence"
+      }
+    ],
+    "imageAlt": "landio-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Landio.webp",
+    "subtitle": "Customizable SaaS landing page for user engagement",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://landio.framer.website/",
+    "templateName": "Landio",
+    "slug": "landio-saas-template",
+    "author": "Framebase",
+    "author_url": "https://www.framer.com/@framebase/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=i7Csy5hvLbUtUwNj10hQ&via=d4dc7gs&dub_id=fA7Ds2wR7Dczri6m",
+    "description": "Landio SaaS's landing page is easy to customize, ensuring your SaaS landing page engages users and delivers a perfect experience.",
+    "features": [
+      "Expressive animations with visual tweaks.",
+      "Reusable color styles for site-wide theming.",
+      "Sync updates across pages with components.",
+      "Manage link styles with hover control.",
+      "Fully responsive layout with editable breakpoints.",
+      "CMS-powered content for blogs and pages.",
+      "Embed live video as design elements.",
+      "Code-free forms for user data collection."
+    ],
+    "createdOn": "2025-06-03T09:51:33.128062",
+    "lemonSqzId": "",
+    "meta_title": "Landio SaaS Landing Page Template",
+    "meta_description": "Landio is a customizable SaaS landing page Framer template designed to drive user engagement and conversion."
+  },
+  {
+    "id": 15,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landingpage",
+    "categories": [
+      {
+        "value": "e-commerce",
+        "label": "E-commerce"
+      },
+      {
+        "value": "minimal",
+        "label": "Minimal"
+      }
+    ],
+    "imageAlt": "vaer-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/vaer.webp",
+    "subtitle": "Minimal design for stylish, high-performing brands",
+    "downloads": "",
+    "views": "0",
+    "livePreview": "https://vaertemplate.framer.website/",
+    "templateName": "Vaer",
+    "slug": "vaer-ecommerce-template",
+    "author": "Marto",
+    "author_url": "https://www.framer.com/@marto/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=2XhI6Kk9ERjOSOu8ow36&via=6cqimxy&dub_id=tezVZSSgaTpaUcgR",
+    "description": "A minimal design for brands that value aesthetics, performance, and a seamless shopping experience.",
+    "features": [
+      "Reusable link styles for consistent appearance.",
+      "Slideshow for browsing multiple images.",
+      "Supports Google Fonts and other imports.",
+      "Drag-and-drop plugins for functionality.",
+      "SEO-optimized, fast, and accessible.",
+      "Built-in accessibility tools included."
+    ],
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Vaer Minimal E-Commerce Framer Template",
+    "meta_description": "Vaer is a sleek, minimal Framer template for e-commerce brands focused on design and user experience."
+  },
+  {
+    "id": 16,
+    "price": 0,
+    "popularity": 0,
+    "appType": "Website",
+    "categories": [
+      {
+        "value": "Food",
+        "label": "food"
+      },
+      {
+        "value": "Website Template",
+        "label": "website-template"
+      }
+    ],
+    "imageAlt": "pepper-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Pepper.webp",
+    "subtitle": "Crafted for pizza lovers, restaurants, and food delivery businesses.",
+    "downloads": "",
+    "views": "31.3K+",
+    "livePreview": "https://pepper.framer.website/",
+    "templateName": "Pepper",
+    "slug": "pepper-restaurant-food-delivery-template",
+    "author": "Cristian Mielu",
+    "author_url": "https://www.framer.com/@cristian/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=2XhI6Kk9ERjOSOu8ow36&via=6cqimxy&dub_id=tezVZSSgaTpaUcgR",
+    "description": "A vibrant and modern platform for food delivery businesses.",
+    "features": [
+      "A11y Optimized",
+      "Color Styles",
+      "Components",
+      "Content Management System (CMS)",
+      "Forms",
+      "Link Styles",
+      "Overlays",
+      "Responsive Design",
+      "SEO & Performance",
+      "Scroll Sections",
+      "Slideshow",
+      "Text Styles",
+      "Layout Templates"
+    ],
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Pepper Restaurant Food Delivery Framer Template",
+    "meta_description": "Pepper is a sleek, modern Framer template for food delivery businesses focused on design and user experience."
+  },
+  {
+    "id": 17,
+    "price": 0,
+    "popularity": 0,
+    "appType": "Website Template",
+    "categories": [
+      {
+        "value": "Website Template",
+        "label": "website-template"
+      },
+      {
+        "value": "StartUp",
+        "label": "startup"
+      }
+    ],
+    "imageAlt": "hypestream-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/HypeStream.webp",
+    "subtitle": "Fully customizable template for video streaming platforms.",
+    "downloads": "",
+    "views": "1.9K+",
+    "livePreview": "https://hyperstream.framer.website/",
+    "templateName": "HypeStream",
+    "slug": "hypestream-best-streaming-template",
+    "author": "Faruk Yurtseven",
+    "author_url": "https://www.framer.com/@faruk-yurtseven/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=2XhI6Kk9ERjOSOu8ow36&via=6cqimxy&dub_id=tezVZSSgaTpaUcgR",
+    "description": "A powerful video streaming template designed to showcase your content.",
     "features": [
       "Animations/Effects",
       "Color Styles",
@@ -161,313 +616,379 @@
       "Link Styles",
       "Overlays",
       "Responsive Design",
-      "Scroll Sections",
       "SEO & Performance",
       "Slideshow",
-      "Web Fonts",
-      "Text Styles",
-      "Localization",
-      "A11y Optimized",
-      "Content Management System (CMS)",
-      "Custom Cursors",
-      "Plugins",
-      "Forms",
-      "Layout Templates"
-    ],
-    "createdOn": "",
-    "frameworkName": ""
-  },
-  {
-    "id": 6,
-    "price": 0,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/vine/",
-    "category": [
-      "App",
-      "Artificial Intelligence",
-      "Tech"
-    ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/vine-framer.jpg",
-    "subtitle": "Vine — Free AI Mobile App Landing Page",
-    "livePreview": "https://vine.framer.website/",
-    "templateName": "Vine",
-    "description": "Looking for a sleek, high-performance Framer template for your finance or budgeting app? Vine is a free, modern, and fully responsive template designed to help you showcase your personal finance, budgeting, or money management to",
-    "features": [
-      "Animations/Effects",
-      "Content Management System (CMS)",
-      "Link Styles",
-      "Responsive Design",
-      "SEO & Performance",
-      "Text Styles",
-      "Web Fonts",
-      "Color Styles",
-      "Components"
-    ],
-    "createdOn": "",
-    "frameworkName": ""
-  },
-  {
-    "id": 7,
-    "price": 0,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/fdn/",
-    "category": [
-      "Business",
-      "Landing Page",
-      "Modern"
-    ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/fdn-framer.jpg",
-    "subtitle": "FDN — Digital Marketing Agency Site",
-    "livePreview": "https://fdn.framer.website/",
-    "templateName": "FDN",
-    "description": "Elevate your brand with a sleek, modern landing page template designed for service-based businesses. Perfectly optimized for conversions, this template features customizable sections for showcasing your expertise, building trust, and driving action.",
-    "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Overlays",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
       "Ticker",
       "Web Fonts",
       "Text Styles",
-      "Sticky Scrolling",
       "A11y Optimized",
-      "Layout Templates"
-    ],
-    "createdOn": "",
-    "frameworkName": ""
-  },
-  {
-    "id": 8,
-    "price": 0,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/tdzarafolio/",
-    "category": [
-      "Portfolio",
-      "Personal",
-      "Resume"
-    ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/tdzarafolio-framer.jpg",
-    "subtitle": "TD_Zarafolio — Personal Portfolio for Creatives",
-    "livePreview": "https://td-zarafolio.framer.website/",
-    "templateName": "TD_Zarafolio",
-    "description": "A portfolio template for designers and other creatives. Perfect for anyone who wants to stand out with an animation-based and modern design.",
-    "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Day/Night Theme",
-      "Link Styles",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Text Styles",
-      "Sticky Scrolling",
       "Content Management System (CMS)",
-      "Custom Cursors"
+      "Video",
+      "Site Search",
+      "Plugins"
     ],
-    "createdOn": "",
-    "frameworkName": ""
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "HypeStream Video Streaming Framer Template",
+    "meta_description": "HypeStream is a sleek, modern Framer template for video streaming platforms focused on design and user experience."
   },
   {
-    "id": 9,
+    "id": 18,
     "price": 0,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/kronensee/",
-    "category": [
-      "Restaurant",
-      "Food",
-      "Business"
+    "popularity": 0,
+    "appType": "Landing Page",
+    "categories": [
+      {
+        "value": "Landing Page",
+        "label": "landing-page"
+      },
+      {
+        "value": "Saas",
+        "label": "saas"
+      }
     ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/kronensee-framer.jpg",
-    "subtitle": "Kronensee — Elegant Restaurant Template",
-    "livePreview": "https://kronensee.framer.website/",
-    "templateName": "Kronensee",
-    "description": "Kronensee is a refined restaurant website template inspired by German elegance, blending traditional charm with modern design. It features a seamless layout, intuitive navigation, and customizable sections, perfect for showcasing regional cuisine and ambiance.",
+    "imageAlt": "seis-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Seis.webp",
+    "subtitle": "Sleek, modern template for SaaS and AI solutions.",
+    "downloads": "",
+    "views": "2.7K+",
+    "livePreview": "https://seis.framer.website/",
+    "templateName": "Seis",
+    "slug": "seis-saas-landing-page-template",
+    "author": "Plaiter",
+    "author_url": "https://www.framer.com/@plaiter/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=2XhI6Kk9ERjOSOu8ow36&via=6cqimxy&dub_id=tezVZSSgaTpaUcgR",
+    "description": "A modern template for showcasing AI solutions and SaaS tools.",
     "features": [
       "Animations/Effects",
       "Color Styles",
       "Components",
-      "Overlays",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Text Styles",
-      "Parallax Scrolling",
-      "A11y Optimized",
-      "Plugins",
       "Forms",
-      "Web Fonts",
-      "Link Styles",
-      "Content Management System (CMS)"
+      "Responsive Design",
+      "SEO & Performance",
+      "Scroll Sections",
+      "Sticky Scrolling",
+      "Text Styles",
+      "Ticker",
+      "Video",
+      "Web Fonts"
     ],
-    "createdOn": "",
-    "frameworkName": ""
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Seis SaaS Landing Page Framer Template",
+    "meta_description": "Seis is a sleek, modern Framer template for SaaS and AI solutions focused on design and user experience."
   },
   {
-    "id": 10,
-    "price": 29,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/studiova/",
-    "category": [
-      "Agency",
-      "Website",
-      "Business"
+    "id": 19,
+    "price": 0,
+    "popularity": 0,
+    "appType": "Landing Page",
+    "categories": [
+      {
+        "value": "Landing Page",
+        "label": "landing-page"
+      },
+      {
+        "value": "Saas",
+        "label": "saas"
+      }
     ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/studiova.jpg",
-    "subtitle": "Studiova",
-    "livePreview": "https://studiova.framer.website/",
-    "templateName": "Studiova",
-    "description": "Studiova is a sleek, modern website template for creative agencies and freelancers. It features customizable sections, vibrant layouts, and smooth navigation, making it easy to showcase your portfolio, services, and team. Perfect for creating a standout online presence",
+    "imageAlt": "cryptix-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Cryptix.webp",
+    "subtitle": "Modern Web3 template for crypto startups and dApps.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://cryptix.framer.website/",
+    "templateName": "Cryptix",
+    "slug": "cryptix-crypto-web3-template",
+    "author": "Arthur Duchesne",
+    "author_url": "https://www.framer.com/@arthurdch/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=s1zvjYQObgecDUxMEJhO",
+    "description": "Perfect for launching blockchain services and crypto landing pages.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Overlays",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Text Styles",
-      "Parallax Scrolling",
-      "A11y Optimized",
-      "Plugins",
-      "Forms",
-      "Web Fonts",
-      "Link Styles",
-      "Content Management System (CMS)"
+      "Crypto wallet integrations",
+      "Responsive layout",
+      "Modern animations",
+      "SEO optimized",
+      "Web3 ready",
+      "Dark mode toggle"
     ],
-    "createdOn": "",
-    "frameworkName": ""
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Cryptix Web3 Crypto Framer Template",
+    "meta_description": "Cryptix is a Framer template for Web3 startups, crypto services, and dApps."
   },
   {
-    "id": 11,
-    "price": 29,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/homely/",
-    "category": [
-      "Real-Estate",
-      "Website",
-      "Business"
+    "id": 20,
+    "price": 0,
+    "popularity": 0,
+    "appType": "saas",
+    "categories": [
+      {
+        "value": "AI",
+        "label": "AI"
+      },
+      {
+        "value": "tech",
+        "label": "Tech"
+      }
     ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/homely.jpg",
-    "subtitle": "Homely",
-    "livePreview": "https://propertypro.framer.website/",
-    "templateName": "Homely",
-    "description": "Homely is a modern real estate template built with Framer, designed for seamless property listings, blogs, and CMS integration. It includes a contact page, subscribe form, and dynamic content management for effortless customization",
+    "imageAlt": "neura-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Neura.webp",
+    "subtitle": "Designed for AI-focused SaaS startups.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://neura.framer.ai/",
+    "templateName": "Neura",
+    "slug": "neura-ai-saas-template",
+    "author": "Shaig Allahyarli",
+    "author_url": "https://www.framer.com/@shaigexp/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=hWtrKrjUbLtH7rKLX3VK",
+    "description": "Neura helps AI SaaS companies showcase their features and data-driven services.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Overlays",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Text Styles",
-      "Parallax Scrolling",
-      "A11y Optimized",
-      "Plugins",
-      "Forms",
-      "Web Fonts",
-      "Link Styles",
-      "Content Management System (CMS)"
+      "Interactive charts",
+      "AI case study sections",
+      "CMS support",
+      "Clean UX/UI design",
+      "Call-to-action modules"
     ],
-    "createdOn": "",
-    "frameworkName": ""
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Neura AI SaaS Framer Template",
+    "meta_description": "Neura is a Framer template made for AI-powered SaaS platforms and startups."
   },
   {
-    "id": 12,
-    "price": 29,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/awake/",
-    "category": [
-      "Agency",
-      "Website",
-      "Business"
+    "id": 21,
+    "price": 0,
+    "popularity": 0,
+    "appType": "Landing Page",
+    "categories": [
+      {
+        "value": "Landing Page",
+        "label": "landing-page"
+      },
+      {
+        "value": "Real Estate",
+        "label": "real-estate"
+      }
     ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/awake.jpg",
-    "subtitle": "Awake — Agency Framer Template",
-    "livePreview": "https://awakeagency.framer.website/",
-    "templateName": "Awake",
-    "description": "Awake Agency is a modern and sleek template designed for creative design and development agencies. It features a clean, professional layout that highlights agency services, portfolios, and client testimonials. With a focus on user experience, it ensures seamles",
+    "imageAlt": "slice-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Slice.webp",
+    "subtitle": "Minimal eCommerce layout for sleek product brands.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://slice-template.framer.website/",
+    "templateName": "Slice",
+    "slug": "slice-ecommerce-template",
+    "author": "Andrea Montini",
+    "author_url": "https://www.framer.com/@andrea/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=rAjKhnCEznUsUIAbuq8e",
+    "description": "Designed for online shops that value clarity and elegance.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Overlays",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Text Styles",
-      "Parallax Scrolling",
-      "A11y Optimized",
-      "Plugins",
-      "Forms",
-      "Web Fonts",
-      "Link Styles",
-      "Content Management System (CMS)"
+      "Simple layout",
+      "Product gallery",
+      "Integrated cart",
+      "Typography-focused design",
+      "Lightweight animations"
     ],
-    "createdOn": "",
-    "frameworkName": ""
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Slice Minimal E-Commerce Framer Template",
+    "meta_description": "Slice is a minimal Framer template built for small e-commerce brands looking for clarity and elegance."
   },
   {
-    "id": 13,
-    "price": 29,
-    "popularity": 101,
-    "appType": "website",
-    "details": "https://www.framer.com/marketplace/templates/awake/",
-    "category": [
-      "Agency",
-      "Website",
-      "Business"
+    "id": 22,
+    "price": 0,
+    "popularity": 0,
+    "appType": "saas",
+    "categories": [
+      {
+        "value": "startup",
+        "label": "Startup"
+      },
+      {
+        "value": "SaaS",
+        "label": "SaaS"
+      }
     ],
-    "imageAlt": "free-framer-template",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png",
-    "featureImg": "https://adminmart.github.io/template_api/images/framer/endevor.jpg",
-    "subtitle": "Endeavor — Best Charity Template",
-    "livePreview": "https://endeavor-charity.framer.website/",
-    "templateName": "Endeavor",
-    "description": "Endeavor is a dedicated charity foundation committed to making a meaningful impact in the lives of those in need.",
+    "imageAlt": "stak-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Stak.webp",
+    "subtitle": "Bold landing page for SaaS and tech startups.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://stak.framer.website/",
+    "templateName": "Stak",
+    "slug": "stak-saas-landing-template",
+    "author": "Grooic LLC",
+    "author_url": "https://www.framer.com/@grooic/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=EnqrwTbAHXSU0vuGrMGe",
+    "description": "Launch your product fast with this high-conversion SaaS template.",
     "features": [
-      "Animations/Effects",
-      "Color Styles",
-      "Components",
-      "Overlays",
-      "Responsive Design",
-      "Scroll Sections",
-      "SEO & Performance",
-      "Text Styles",
-      "Parallax Scrolling",
-      "A11y Optimized",
-      "Plugins",
-      "Forms",
-      "Web Fonts",
-      "Link Styles",
-      "Content Management System (CMS)"
+      "CTA sections",
+      "CMS support",
+      "Hero video support",
+      "Fully responsive",
+      "One-click customization"
     ],
-    "createdOn": "",
-    "frameworkName": ""
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Stak SaaS Landing Page Framer Template",
+    "meta_description": "Stak is a Framer template perfect for SaaS startups and tech companies that want high conversion and quick launch."
+  },
+  {
+    "id": 23,
+    "price": 0,
+    "popularity": 0,
+    "appType": "saas",
+    "categories": [
+      {
+        "value": "productivity",
+        "label": "Productivity"
+      },
+      {
+        "value": "saas",
+        "label": "SaaS"
+      }
+    ],
+    "imageAlt": "nuvio-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Nuvio.webp",
+    "subtitle": "Clean and focused SaaS landing for productivity tools.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://nuvio.framer.website/",
+    "templateName": "Nuvio",
+    "slug": "nuvio-productivity-saas-template",
+    "author": "Irakli Beridze",
+    "author_url": "https://www.framer.com/@irakli-beridze/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=pT7hYdrdkZAb2Zd7LPyJ",
+    "description": "Designed to help productivity-focused SaaS tools attract users with clarity and purpose.",
+    "features": [
+      "Responsive design",
+      "Form-ready integration",
+      "CMS for blog/news",
+      "Clean animations",
+      "Dark/light mode options"
+    ],
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Nuvio SaaS Productivity Template",
+    "meta_description": "Nuvio is a Framer template designed for productivity SaaS startups to quickly launch and grow their user base."
+  },
+  {
+    "id": 24,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landingpage",
+    "categories": [
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "minimal",
+        "label": "Minimal"
+      }
+    ],
+    "imageAlt": "monarc-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Monarc.webp",
+    "subtitle": "A minimal business website template with bold design.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://monarc.framer.website/",
+    "templateName": "Monarc",
+    "slug": "monarc-minimal-business-template",
+    "author": "Shaigexp",
+    "author_url": "https://www.framer.com/@shaigexp/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=RkqH8nooPr3Ih6XZ6FL4",
+    "description": "Designed for agencies and business consultants that need a polished, clean website.",
+    "features": [
+      "Responsive sections",
+      "Service grid layout",
+      "Client logo carousels",
+      "Bold typographic style",
+      "Optimized for performance"
+    ],
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Monarc Minimal Business Framer Template",
+    "meta_description": "Monarc is a bold yet minimal Framer template designed for modern business and consulting sites."
+  },
+  {
+    "id": 25,
+    "price": 0,
+    "popularity": 0,
+    "appType": "finance",
+    "categories": [
+      {
+        "value": "payments",
+        "label": "Payments"
+      },
+      {
+        "value": "fintech",
+        "label": "Fintech"
+      }
+    ],
+    "imageAlt": "paymon-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/paymon.webp",
+    "subtitle": "Powerful fintech template for payment platforms and apps.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://paymon-mobile-app.framer.website/",
+    "templateName": "Paymon",
+    "slug": "paymon-fintech-payments-template",
+    "author": "Themeflow",
+    "author_url": "https://www.framer.com/@themeflow/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=zcs3V1rCyJvLZLbiVJw9",
+    "description": "Launch your fintech app or payment startup with this sharp and fast template.",
+    "features": [
+      "Integrated pricing tables",
+      "CTA sections",
+      "Mobile-optimized",
+      "Clear value props layout",
+      "API features section"
+    ],
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Paymon Fintech Framer Template",
+    "meta_description": "Paymon is a Framer template made for fintechs and payment startups looking to launch with clarity and speed."
+  },
+  {
+    "id": 26,
+    "price": 0,
+    "popularity": 0,
+    "appType": "portfolio",
+    "categories": [
+      {
+        "value": "design",
+        "label": "Design"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ],
+    "imageAlt": "nubien-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/nubien.webp",
+    "subtitle": "Creative portfolio for designers and digital studios.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://nubien.framer.website/",
+    "templateName": "Nubien",
+    "slug": "nubien-creative-portfolio-template",
+    "author": "Westhill Studio",
+    "author_url": "https://www.framer.com/@westhill-studio/",
+    "buyUrl": "https://framer.com/projects/new?duplicateType=siteTemplate&duplicate=xfRDL6md1VP6iEXawfyo",
+    "description": "Display your best work with Nubien, a vibrant and immersive template built for creatives.",
+    "features": [
+      "Grid portfolio layout",
+      "Case study CMS integration",
+      "Animated transitions",
+      "Personal brand modules",
+      "Dark mode toggle"
+    ],
+    "createdOn": "2025-06-03T09:51:33.128075",
+    "lemonSqzId": "",
+    "meta_title": "Nubien Creative Portfolio Framer Template",
+    "meta_description": "Nubien is a creative Framer template designed for portfolio websites and digital creators."
   }
 ]
