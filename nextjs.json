@@ -4890,5 +4890,27 @@
       "🗂️ Absolute imports with @ prefix"
     ],
     "createdOn": "19-May-2024"
+  },
+  {
+    "id": 200,
+    "price": 0,
+    "popularity": 1153,
+    "appType": "landingpage",
+    "details": "https://github.com/kingchun1991/nextjs-chakra-starter-blog/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "nextjs-chakra-starter-blog",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-chakra-starter-blog.jwebp",
+    "subtitle": "This is a Next.js, Chakra UI blogging starter template powered by agustinusnathaniel/nextarter-chakra",
+    "livePreview": "https://nextjs-chakra-starter-blog.vercel.app/",
+    "templateName": "Next.js Chakra Starter Blog",
+    "description": "This project is a professional blogging starter template built with Next.js and styled using Chakra UI, offering a robust and accessible foundation for modern content-driven websites. It is powered by agustinusnathaniel/nextarter-chakra, a well-structured and developer-friendly boilerplate that promotes scalability, performance, and best practices",
+    "features": [
+      "Next.js 13",
+      "React 18",
+      "Chakra-UI v2",
+      "TypeScript",
+      "MDX"
+    ],
+    "createdOn": "02-Jul-2023"
   }
 ]
