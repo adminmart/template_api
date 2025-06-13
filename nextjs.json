@@ -4912,5 +4912,35 @@
       "MDX"
     ],
     "createdOn": "02-Jul-2023"
+  },
+  {
+    "id": 201,
+    "price": 0,
+    "popularity": 1154,
+    "appType": "website",
+    "details": "https://github.com/swellstores/horizon/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "horizon",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/horizon.jwebp",
+    "subtitle": "Headless NextJS storefront starter powered by Swell",
+    "livePreview": "https://swell-horizon-demo.vercel.app/",
+    "templateName": "Horizon",
+    "description": "Headless Next.js Storefront Starter powered by Swell is a modern, fully customizable eCommerce foundation designed for developers seeking flexibility and performance. Built on Next.js and integrated seamlessly with Swell’s powerful headless commerce platform, this starter kit enables rapid development of dynamic, scalable storefronts with complete control over the frontend experience",
+    "features": [
+      "Complete purchase flow",
+      "Subscriptions",
+      "Content personalization through customizable Quizzes",
+      "Multi-currency",
+      "i18n",
+      "Product sales",
+      "Automatic discounts",
+      "One-click add-to-cart for products",
+      "Dynamic pages with a large and extendable collection of content blocks",
+      "Product search",
+      "Filter products by any attribute",
+      "Flexible product customization through variant options",
+      "A customer portal with orders and subscription handling"
+    ],
+    "createdOn": "29-Nov-2022"
   }
 ]
