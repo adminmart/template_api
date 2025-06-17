@@ -5320,8 +5320,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -5364,8 +5364,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -5394,8 +5394,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -5424,8 +5424,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -5514,8 +5514,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -5544,8 +5544,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -5574,8 +5574,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -5703,10 +5703,6 @@
     "category": "NextJs",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "website-template",
         "label": "Website Template"
       },
@@ -5781,16 +5777,40 @@
     "category": "NextJs",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
       },
       {
         "value": "website-template",
         "label": "Website Template"
       },
       {
-        "value": "business",
-        "label": "Business"
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "dark-mode",
+        "label": "Dark Mode"
       }
     ],
     "imageAlt": "saturn-next-js-website",
@@ -5859,10 +5879,6 @@
     "category": "NextJs",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "real-estate",
         "label": "Real Estate"
       },
@@ -5897,10 +5913,6 @@
     "details": "https://getnextjstemplates.com/products/avenue-pro-nextjs-travel-website-template",
     "category": "NextJs",
     "categories": [
-      {
-        "value": "free",
-        "label": "Free"
-      },
       {
         "value": "website-template",
         "label": "Website Template"
@@ -5937,10 +5949,6 @@
     "category": "NextJs",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "website-template",
         "label": "Website Template"
       },
@@ -5976,10 +5984,6 @@
     "category": "NextJs",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "website-template",
         "label": "Website Template"
       },
@@ -6014,10 +6018,6 @@
     "details": "https://getnextjstemplates.com/products/sustainable-pro-nextjs-website-template-for-saas-products",
     "category": "NextJs",
     "categories": [
-      {
-        "value": "free",
-        "label": "Free"
-      },
       {
         "value": "saas",
         "label": "Saas"
@@ -6071,10 +6071,6 @@
     "createdOn": "26-Jun-2024",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "website-template",
         "label": "Website Template"
       },
@@ -6110,10 +6106,6 @@
     ],
     "createdOn": "04-Dec-2024",
     "categories": [
-      {
-        "value": "free",
-        "label": "Free"
-      },
       {
         "value": "website-template",
         "label": "Website Template"
@@ -6191,16 +6183,8 @@
     "frameworkName": "",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
-        "value": "admin-template",
-        "label": "Admin Template"
-      },
-      {
-        "value": "business",
-        "label": "Business"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ]
   },
@@ -6241,8 +6225,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -6276,12 +6260,8 @@
     "frameworkName": "",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -6317,10 +6297,6 @@
     "createdOn": "27-Dec-2024",
     "frameworkName": "",
     "categories": [
-      {
-        "value": "free",
-        "label": "Free"
-      },
       {
         "value": "saas",
         "label": "Saas"
@@ -6400,10 +6376,6 @@
     "frameworkName": "",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "website-template",
         "label": "Website Template"
       },
@@ -6441,10 +6413,6 @@
     "frameworkName": "",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "website-template",
         "label": "Website Template"
       },
@@ -6479,10 +6447,6 @@
     "createdOn": "08-Mar-2025",
     "frameworkName": "",
     "categories": [
-      {
-        "value": "free",
-        "label": "Free"
-      },
       {
         "value": "agency",
         "label": "Agency"
@@ -6520,10 +6484,6 @@
     "frameworkName": "",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "portfolio",
         "label": "Portfolio"
       },
@@ -6558,10 +6518,6 @@
     "createdOn": "29-Mar-2025",
     "frameworkName": "",
     "categories": [
-      {
-        "value": "free",
-        "label": "Free"
-      },
       {
         "value": "real-estate",
         "label": "Real Estate"
@@ -6961,8 +6917,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -7006,8 +6962,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -7443,12 +7399,8 @@
     "frameworkName": "",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -7501,8 +7453,8 @@
         "label": "Free"
       },
       {
-        "value": "admin-template",
-        "label": "Admin Template"
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
