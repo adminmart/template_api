@@ -1126,7 +1126,7 @@
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-storefront-ext.jpg",
     "subtitle": "An open-source storefront in React.js with Next.js.",
     "livePreview": "https://demo.saleor.io/default-channel/en-US/",
-    "templateName": "React Storefront",
+    "templateName": "Saleor React",
     "description": "An open-source storefront in React.js with Next.js.",
     "features": [
       "Next.js 14: File-based routing, React 18, Fast Refresh, Image Optimization and more.",
