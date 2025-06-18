@@ -142,6 +142,10 @@
         "label": "Landing Page"
       },
       {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
         "value": "business",
         "label": "Business"
       }
@@ -177,6 +181,10 @@
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
         "value": "landing-page",
@@ -258,6 +266,10 @@
     "category": "NextJs",
     "categories": [
       {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
         "value": "free",
         "label": "Free"
       },
@@ -305,6 +317,10 @@
         "label": "Landing Page"
       },
       {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
         "value": "agency",
         "label": "Agency"
       },
@@ -344,6 +360,10 @@
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
         "value": "landing-page",
@@ -389,6 +409,10 @@
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
         "value": "landing-page",
@@ -1168,6 +1192,10 @@
         "label": "Free"
       },
       {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
         "value": "landing-page",
         "label": "Landing Page"
       },
@@ -1256,6 +1284,10 @@
         "label": "Free"
       },
       {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
         "value": "saas",
         "label": "Saas"
       },
@@ -1296,6 +1328,10 @@
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
         "value": "portfolio",
@@ -1386,6 +1422,10 @@
       {
         "value": "personal",
         "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
       }
     ],
     "imageAlt": "Notion",
@@ -1470,6 +1510,10 @@
       {
         "value": "personal",
         "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
       }
     ],
     "imageAlt": "bookworm",
@@ -1551,6 +1595,10 @@
       {
         "value": "personal",
         "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
       }
     ],
     "imageAlt": "Astro-Plate",
@@ -2844,6 +2892,10 @@
       {
         "value": "business",
         "label": "Business"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
         "value": "corporate",
@@ -4986,7 +5038,7 @@
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-storefront.jpg",
     "subtitle": "React Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported",
     "livePreview": "https://www.reactstorefront.io/",
-    "templateName": "React Storefront",
+    "templateName": "React Storefront One",
     "description": "React Storefront is a cutting-edge Progressive Web App (PWA) designed specifically for eCommerce, offering unparalleled features and flexibility. With its unique architecture, React Storefront ensures 100% offline capabilities, making it ideal for users in areas with unreliable internet connections. Platform agnostic and headless, it seamlessly integrates with various backend systems, with full support for Magento 2.",
     "features": [],
     "createdOn": "08-Nov-2019"
@@ -5611,6 +5663,10 @@
     "details": "https://getnextjstemplates.com/products/crypgo-nextjs-tailwind-free-landing-page-template",
     "category": "NextJs",
     "categories": [
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
       {
         "value": "free",
         "label": "Free"
@@ -6450,6 +6506,10 @@
       {
         "value": "agency",
         "label": "Agency"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
         "value": "business",
