@@ -1125,7 +1125,7 @@
     "imageAlt": "saleor-react-storefront",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-storefront-ext.jpg",
     "subtitle": "An open-source storefront in React.js with Next.js.",
-    "livePreview": "https://demo.saleor.io/default-channel/en-US/",
+    "livePreview": "https://demo.saleor.io/default-channel/",
     "templateName": "Saleor React",
     "description": "An open-source storefront in React.js with Next.js.",
     "features": [
@@ -5038,7 +5038,7 @@
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/react-storefront.jpg",
     "subtitle": "React Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported",
     "livePreview": "https://www.reactstorefront.io/",
-    "templateName": "React Storefront One",
+    "templateName": "React Storefront",
     "description": "React Storefront is a cutting-edge Progressive Web App (PWA) designed specifically for eCommerce, offering unparalleled features and flexibility. With its unique architecture, React Storefront ensures 100% offline capabilities, making it ideal for users in areas with unreliable internet connections. Platform agnostic and headless, it seamlessly integrates with various backend systems, with full support for Magento 2.",
     "features": [],
     "createdOn": "08-Nov-2019"
