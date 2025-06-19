@@ -466,6 +466,42 @@
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "ecommers",
+        "label": "Ecommers"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "real-estate",
+        "label": "Real Estate"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
       }
     ],
     "imageAlt": "freelp",
