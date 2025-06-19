@@ -18,6 +18,10 @@
       {
         "value": "corporate",
         "label": "Corporate"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "free-next-js-admin-template",
@@ -61,6 +65,10 @@
       {
         "value": "saas",
         "label": "Saas"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "next-js-admin-dashboard",
@@ -466,6 +474,10 @@
       {
         "value": "corporate",
         "label": "Corporate"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "spike-nextjs-free",
@@ -502,6 +514,10 @@
       {
         "value": "saas",
         "label": "Saas"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "spike-nextjs-admin-dashboard-prev-img",
@@ -549,6 +565,10 @@
       {
         "value": "corporate",
         "label": "Corporate"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "materialpro-nextjs-free-2",
@@ -631,6 +651,10 @@
       {
         "value": "corporate",
         "label": "Corporate"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": " Flexy_Nextjs_Free_version",
@@ -672,6 +696,10 @@
       {
         "value": "saas",
         "label": "Saas"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "nextjs-flexy",
@@ -719,6 +747,10 @@
       {
         "value": "corporate",
         "label": "Corporate"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "modernize-free-react-admin-dashboard-am",
@@ -761,6 +793,10 @@
       {
         "value": "saas",
         "label": "Saas"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "Modernize React MUI Dashboard Theme",
@@ -807,6 +843,10 @@
       {
         "value": "corporate",
         "label": "Corporate"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "MaterialPro React Admin Lite",
@@ -848,6 +888,10 @@
       {
         "value": "saas",
         "label": "Saas"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "MaterialPro React Redux Admin",
@@ -894,6 +938,10 @@
       {
         "value": "corporate",
         "label": "Corporate"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "Flexy React Material Admin Lite",
@@ -935,6 +983,10 @@
       {
         "value": "saas",
         "label": "Saas"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ],
     "imageAlt": "Flexy React Material Dashboard",
@@ -7315,6 +7367,10 @@
       {
         "value": "personal",
         "label": "Personal"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
       }
     ]
   },

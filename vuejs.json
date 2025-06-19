@@ -6,6 +6,16 @@
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "modernize-free-vuetify-admin-dashboard-am-min1",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-vuetify-admin-dashboard-am-min1.png",
     "subtitle": "Free Vuetify + Vue js Admin and dashboard Template",
@@ -35,6 +45,16 @@
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommers",
+        "label": "Ecommers"
+      }
+    ],
     "imageAlt": "modernize-vuetify-admin-dashboard-min",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard-min.png",
     "subtitle": "Premium Vuetify 3 & Vue 3 Admin Dashboard Template",
@@ -70,6 +90,16 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "spike-free-vuetify-vuejs-admin-template-wp",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-vuetify-vuejs-admin-template-wp.jpg",
     "subtitle": "Spike VueJs Admin Dashboard is the perfect blend of VueJs",
@@ -98,6 +128,12 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "spike-vuejs-admin-dashboard-prev-img",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-vuejs-admin-dashboard-prev-img.jpg",
     "subtitle": "Vue3 + Vuetify 3 Based Admin",
@@ -131,6 +167,16 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-vuetify-admin-lite/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "materialpro-vuejs-lite-admin-wp-20",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-lite-admin-wp-20.jpg",
     "subtitle": "Free Vuetify Dashboard Template",
@@ -156,6 +202,12 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-vuetify-admin/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "materialpro-vuejs-dashboard-template-20",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-dashboard-template-20.jpg",
     "subtitle": "Vue 3 + Vuetify 3 + Vite + Typescript",
@@ -185,6 +237,16 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-vuejs-admin-free/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "flexy-vuejs-free",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2022/07/flexy-vuejs-free.jpg",
     "subtitle": "Free Vue3 + Vuetify 3 Dashboard",
@@ -209,6 +271,12 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-vuetify-dashboard/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "fley-vue",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/03/fley-vue.jpg",
     "subtitle": "Vue3 + Vite + Vuetify 3 + Typescript",
@@ -238,6 +306,16 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-free-vuetify-vuejs-admin-template/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "materialM-vue-free",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/10/materialM-vue-free.jpg",
     "subtitle": "Free Vue3 + Vuetify 3 Dashboard",
@@ -266,6 +344,12 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-vuejs-vuetify-admin-template/",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "MaterialM-Vuejs-Pro",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-Vuejs-Pro.jpg",
     "subtitle": "Vue3 + Vite + Vuetify 3 + Typescript",
@@ -299,6 +383,16 @@
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "modernize-free-nuxt-admin-dashboard-am-min",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am-min.png",
     "subtitle": "Enhance Your Web Projects with a Contemporary NuxtJs Admin Dashboard Template – Free Download",
@@ -326,6 +420,12 @@
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "modernize-nuxt-js-admin-dashboard",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png",
     "subtitle": "Premium NuxtJs Admin Dashboard Template",
@@ -358,6 +458,16 @@
     "appType": "website",
     "details": "https://adminmart.com/product/landingpro-free-nuxt-website-template/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "freelp",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/05/freelp.png",
     "subtitle": "Launch Your Online Presence with LandingPro – A Free Nuxt Website Template",
@@ -386,6 +496,12 @@
     "appType": "website",
     "details": "https://adminmart.com/product/landingpro-nuxt-website-template/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      }
+    ],
     "imageAlt": "landingpro-vuetify-nuxtjs-website-template-min",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/05/landingpro-vuetify-nuxtjs-website-template-min.png",
     "subtitle": "Premium NuxtJs Admin web Template",
@@ -417,6 +533,16 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-free-nuxt-admin-dashboard/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "spike-free-nuxt-js-admin-template-wp",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-nuxt-js-admin-template-wp.jpg",
     "subtitle": "Streamline Your Workflow with Spike – A Free Nuxt Admin Dashboard Template",
@@ -445,6 +571,12 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "spike-nuxtjs-admin-dashboard-prev-img",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-nuxtjs-admin-dashboard-prev-img.jpg",
     "subtitle": "Premium Nuxt 3 Admin Dashboard",
@@ -478,6 +610,16 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-free-nuxtjs-admin-template/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "materialpro-nuxtjs-free",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/07/materialpro-nuxtjs-free.jpg",
     "subtitle": "Optimize Your Admin Interface with MaterialPro – A Free NuxtJs Admin Template",
@@ -502,6 +644,12 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-nuxtjs/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "materialpro-nuxtjs",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/07/materialpro-nuxtjs.jpg",
     "subtitle": "Premium NuxtJs Admin Dashboard Template",
@@ -531,6 +679,12 @@
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-vuetify-nuxt-js-admin-template/",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "MaterialM-Nuxtjs-pro",
     "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/10/MaterialM-Nuxtjs-pro.jpg",
     "subtitle": "Premium NuxtJs Admin Dashboard Template",
@@ -565,6 +719,12 @@
     "appType": "admin-template",
     "details": "https://1.envato.market/XYbYQg",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ],
     "imageAlt": "metronic-img",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/metronic-img.jpg",
     "subtitle": "Premium Admin Dashboard Template",
@@ -595,6 +755,16 @@
     "appType": "website",
     "details": "https://github.com/briltec/Mode_Vue/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "mode_vue",
     "imageSrc": "https://i.ibb.co/p3KtC5L/68747470733a2f2f6d6f64657675652e73746174696364657369676e65722e636f6d2f6461726b2e706e67-3.png",
     "subtitle": "Built with Vue.js and Nuxt.js, it comes with the features you need to quickly start developing your application.",
@@ -624,6 +794,16 @@
     "appType": "website",
     "details": "https://github.com/viandwi24/nuxt3-awesome-starter/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "preview_v2",
     "imageSrc": "https://raw.githubusercontent.com/viandwi24/nuxt3-awesome-starter/main/assets/images/preview_v2.png",
     "subtitle": "A Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3",
@@ -656,6 +836,16 @@
     "appType": "website",
     "details": "https://github.com/RSurya99/nefa/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "Nefa",
     "imageSrc": "https://raw.githubusercontent.com/RSurya99/nefa/main/assets/img/thumbnail.jpg",
     "subtitle": "Free landing page template built using nuxt and tailwindcss",
@@ -680,6 +870,16 @@
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "star-admin-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/star-admin-vue.jpg",
     "subtitle": "Star Admin Vue Admin is a free admin template based on Bootstrap 4 and Vue.js.",
@@ -707,6 +907,16 @@
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/corona-vue-free-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "corona-vue-free",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/corona-vue-free.jpg",
     "subtitle": "Corona Vue: Premium Quality, Free Admin Template for Modern Web Applications",
@@ -734,6 +944,16 @@
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/connect-plus-vue-free-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "connect-plus-free-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/connect-plus-free-vue.jpg",
     "subtitle": "Enjoy the free version of Connect Plus Vue Admin template",
@@ -761,6 +981,16 @@
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/purple-free-vue-admin-template/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "purple-free-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/purple-free-vue.jpg",
     "subtitle": "This is the free version of one of our most popular admin dashboard templates",
@@ -788,6 +1018,16 @@
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/stellar-admin-vue-free/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "stellar-vue-free",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/stellar-vue-free.jpg",
     "subtitle": "Stellar Admin is an admin template that is both feature-packed and easy to use",
@@ -815,6 +1055,16 @@
     "appType": "admin-template",
     "details": "https://github.com/eddami/nuxt-material-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "nuxt-material-admin",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-material-admin.jpg",
     "subtitle": "Vue-CLI Boilerplate based on Nuxt and vue-material-admin template.",
@@ -838,6 +1088,20 @@
     "appType": "admin-template",
     "details": "https://github.com/AsaoluElijah/portfolio/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
+    ],
     "imageAlt": "asaolu-netlify-nuxt",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/asaolu-netlify-nuxt.jpg",
     "subtitle": "🕵️‍♂️ My personal website (portfolio) built with Nuxt.js.",
@@ -859,6 +1123,20 @@
     "appType": "admin-template",
     "details": "https://github.com/0xAliRaza/codefolio/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
+    ],
     "imageAlt": "codefolio-nuxt",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/codefolio-nuxt.jpg",
     "subtitle": "A deployment-ready web app to showcase your coding portfolio.",
@@ -880,6 +1158,16 @@
     "appType": "landingpage",
     "details": "https://github.com/agtraveso/landing-nuxt-template/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "landing-nuxt-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/landing-nuxt-template.jpg",
     "subtitle": "Rapidly build landing pages for your business with NuxtJS.",
@@ -902,6 +1190,16 @@
     "appType": "landingpage",
     "details": "https://github.com/gitsindonesia/nuxt-starter/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "gits-nuxt-starter",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/gits-nuxt-starter.jpg",
     "subtitle": "Building Modern Web Applications with Nuxt 3 and Morpheme UI",
@@ -929,6 +1227,20 @@
     "appType": "landingpage",
     "details": "https://github.com/svirmi/nuxt-i18n-blog-v3/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
+    ],
     "imageAlt": "minimal-blog",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/minimal-blog.jpg",
     "subtitle": "multi-language nuxt.js i18n blog using content module",
@@ -954,6 +1266,16 @@
     "appType": "landingpage",
     "details": "https://github.com/agnelnieves/nuxty/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "nuxty-starter",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxty-starter.jpg",
     "subtitle": "Launch-Ready Nuxt.js Starter: Your Guide to Production-Grade Applications",
@@ -976,6 +1298,16 @@
     "appType": "landingpage",
     "details": "https://github.com/timoanttila/nuxt-lazypeopleworkouts/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "nuxt-lazypeopleworkouts",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-lazypeopleworkouts.jpg",
     "subtitle": "A collection of easy workout videos for lazy people. Frontend is powered with Nuxt.",
@@ -998,6 +1330,16 @@
     "appType": "landingpage",
     "details": "https://github.com/GrabarzUndPartner/gp-vue-boilerplate/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "grabarzundpartner",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/grabarzundpartner.jpg",
     "subtitle": "The Grabarz & Partner Boilerplate is a professional front-end template",
@@ -1021,6 +1363,16 @@
     "appType": "landingpage",
     "details": "https://github.com/ZTF666/nuxt-quickstart-template/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "nuxt-quickstart-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-quickstart-template.jpg",
     "subtitle": "A personal tailored empty boilerplate for quick nuxtjs apps i usually make.",
@@ -1045,6 +1397,16 @@
     "appType": "admin-template",
     "details": "https://github.com/epicmaxco/vuestic-admin/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vuestic-admin",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuestic-admin.jpg",
     "subtitle": "Free and Beautiful Vue 3 Admin Template",
@@ -1070,6 +1432,16 @@
     "appType": "admin-template",
     "details": "https://github.com/Armour/vue-typescript-admin-template/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vue-typescript-admin-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-typescript-admin-template.jpg",
     "subtitle": "🖖 A vue-cli 3.0 + typescript minimal admin template",
@@ -1095,6 +1467,16 @@
     "appType": "admin-template",
     "details": "https://github.com/fatihunlu/vue-admin-template/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vue-admin-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-admin-template.jpg",
     "subtitle": "Sample Admin Template based on Vuejs & Vuetify.",
@@ -1122,6 +1504,16 @@
     "appType": "admin-template",
     "details": "https://github.com/slanatech/dashblocks-template/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "dashblocks-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashblocks-template.jpg",
     "subtitle": "Dashblocks Vue Material Admin Template",
@@ -1145,6 +1537,16 @@
     "appType": "admin-template",
     "details": "https://github.com/justboil/admin-one-vue-tailwind/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "admin-one-vue-tailwind",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/admin-one-vue-tailwind.jpg",
     "subtitle": "Free Vue.js 3.x Admin Dashboard Template: Tailwind 3.x, Dark Mode, Vite Builds and Laravel Integration",
@@ -1172,6 +1574,16 @@
     "appType": "admin-template",
     "details": "https://github.com/who-jonson/sakai-nuxt/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "sakai-nuxt",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/sakai-nuxt.jpg",
     "subtitle": "Starter Admin Template based on Nuxt 3 and PrimeVue 3",
@@ -1199,6 +1611,16 @@
     "appType": "landingpage",
     "details": "https://github.com/johannschopplich/cacao-kit-frontend/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "cacao-kit-frontend",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/cacao-kit-frontend.jpg",
     "subtitle": "🍫 Best practice Nuxt and KQL starter for your headless Kirby CMS",
@@ -1225,6 +1647,16 @@
     "appType": "landingpage",
     "details": "https://github.com/nuxt/hackernews/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "hackernews",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/hackernews.jpg",
     "subtitle": "HackerNews clone built with Nuxt.",
@@ -1247,6 +1679,16 @@
     "appType": "landingpage",
     "details": "https://github.com/FlameyFox/FlameyTV/archive/refs/heads/nuxt3.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "FlameyTV",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/FlameyTV.jpg",
     "subtitle": "TV and Movie Database platform portfolio project",
@@ -1272,6 +1714,16 @@
     "appType": "admin-template",
     "details": "https://github.com/nuxt/movies/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "movies-nuxt",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/movies-nuxt.jpg",
     "subtitle": "🍿 A TMDB client built with Nuxt 3",
@@ -1295,6 +1747,16 @@
     "appType": "admin-template",
     "details": "https://github.com/fzn0x/mazer-nuxt/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "mazer-nuxt",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/mazer-nuxt.jpg",
     "subtitle": "Mazer Free Bootstrap 5 Admin Dashboard Template and Landing Page with Nuxt 3 + TypeScript.",
@@ -1321,6 +1783,16 @@
     "appType": "admin-template",
     "details": "https://github.com/gravitano/nuxt3-tailwind-kit/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "nuxt3-tailwind-kit",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt3-tailwind-kit.jpg",
     "subtitle": "Effortless Development with Nuxt.js and Tailwind CSS: Your Ultimate Starter Kit",
@@ -1347,6 +1819,16 @@
     "appType": "landingpage",
     "details": "https://github.com/johannschopplich/dachsbau-frontend/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "dachsbau-frontend",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/dachsbau-frontend.jpg",
     "subtitle": "🦡 Nuxt 3 & KQL frontend for dachsbau-tautenhain.de",
@@ -1372,6 +1854,16 @@
     "appType": "landingpage",
     "details": "https://github.com/Demetory/dim-nuxt-content-blog/archive/refs/heads/main.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "dim-nuxt-content-blog",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/dim-nuxt-content-blog.jpg",
     "subtitle": "Nuxt 3 + Nuxt-Content 2 Blog Template",
@@ -1398,6 +1890,16 @@
     "appType": "landingpage",
     "details": "https://github.com/marinaaisa/nuxt-markdown-blog-starter/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "nuxt-markdown-blog-starter",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-markdown-blog-starter.jpg",
     "subtitle": "Seamlessly Craft Your Blog with Nuxt.js and Markdown: The Ultimate Starter Kit",
@@ -1425,6 +1927,16 @@
     "appType": "admin-template",
     "details": "https://github.com/misterGF/CoPilot/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "copilot",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/copilot.jpg",
     "subtitle": "Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js",
@@ -1450,6 +1962,16 @@
     "appType": "admin-template",
     "details": "https://github.com/PanJiaChen/vue-element-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vue-element-admin",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-element-admin.jpg",
     "subtitle": "vue-element-admin is a production-ready front-end solution for admin interfaces",
@@ -1477,6 +1999,16 @@
     "appType": "admin-template",
     "details": "https://github.com/tookit/vue-material-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vue-material-admin",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-material-admin.jpg",
     "subtitle": "Vue Material Admin Template is a Vue Based Material Design Admin Template",
@@ -1506,6 +2038,16 @@
     "appType": "admin-template",
     "details": "https://github.com/mangelro/quasar-admin/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "quasar-admin",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/quasar-admin.jpg",
     "subtitle": "Free Quasar Admin Template based on Vue.js and used Quasar Framework.",
@@ -1536,6 +2078,16 @@
     "appType": "admin-template",
     "details": "https://github.com/aliftech/swing/archive/refs/heads/master.zip",
     "category": "Nuxt",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "swing",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/swing.jpg",
     "subtitle": "The Swing UI template is a sleek and modern user interface design",
@@ -1562,6 +2114,16 @@
     "appType": "admin-template",
     "details": "https://github.com/romulorodrigues/vue-dashboard-2/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vue-dashboard-2",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-dashboard-2.jpg",
     "subtitle": "Responsive dashboard design using Vue.js",
@@ -1588,6 +2150,16 @@
     "appType": "admin-template",
     "details": "https://github.com/cronosphantom/master-console/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "master-console",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/master-console.jpg",
     "subtitle": "Vue Material Admin is a great template to quick-start development",
@@ -1611,6 +2183,16 @@
     "appType": "admin-template",
     "details": "https://github.com/Tapiul-miya/testapi4/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "testapi4",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/testapi4.jpg",
     "subtitle": "M-Dashboard is a simple productivity Dashboard to monitor tasks/work",
@@ -1636,6 +2218,16 @@
     "appType": "admin-template",
     "details": "https://github.com/sahrullahh/windzo/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "windzo",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/windzo.jpg",
     "subtitle": "Windzo is a free open source dashboard admin template",
@@ -1663,6 +2255,16 @@
     "appType": "admin-template",
     "details": "https://github.com/tal7aouy/vue-board/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vue-board",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-board.jpg",
     "subtitle": "💥 VueBoard - Admin dashboard built Vue 3, Tailwind CSS and TypeScript.",
@@ -1693,6 +2295,16 @@
     "appType": "admin-template",
     "details": "https://github.com/cruip/vuejs-admin-dashboard-template/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "vuejs-admin-dashboard-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuejs-admin-dashboard-template.jpg",
     "subtitle": "Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in Vue",
@@ -1723,6 +2335,16 @@
     "appType": "admin-template",
     "details": "https://github.com/AwasthiDevanshu/cdesk_vuetify/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "cdesk_vuetify",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/cdesk_vuetify.jpg",
     "subtitle": "Vuetify Material Dashboard Free is a beautiful resource built over Vuetify, Vuex and Vuejs",
@@ -1753,6 +2375,16 @@
     "appType": "admin-template",
     "details": "https://github.com/kamona-ui/kui-dashboard-vue/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "kui-dashboard-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/kui-dashboard-vue.jpg",
     "subtitle": "Admin dashboard template built with tailwindcss & vuejs 3.",
@@ -1781,6 +2413,16 @@
     "appType": "admin-template",
     "details": "https://github.com/Khusan1997/Sign-App/archive/refs/heads/master.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "sign-app",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/sign-app.jpg",
     "subtitle": "Sing App Vue Dashboard - free and open source admin dashboard template",
@@ -1809,6 +2451,16 @@
     "appType": "admin-template",
     "details": "https://github.com/elevengroupkh/irtransaction/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "irtransaction",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/irtransaction.jpg",
     "subtitle": "A free and beautiful Quasar template for CRM needs",
@@ -1830,6 +2482,16 @@
     "appType": "admin-template",
     "details": "https://github.com/liangyuetian/elementuivue2to3/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "elementuivue2to3",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/elementuivue2to3.jpg",
     "subtitle": "admin-base-template is a free and open source admin template kit",
@@ -1857,6 +2519,16 @@
     "appType": "admin-template",
     "details": "https://github.com/uilibrary/AatroX-vue/archive/refs/heads/main.zip",
     "category": "Vue",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ],
     "imageAlt": "aatrox-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/aatrox-vue.jpg",
     "subtitle": "💚 A Free Vuejs 3 Minimal Admin Dashboard Develop with Vuejs 3, Vite, and TailwindCss 💥",
@@ -1903,7 +2575,17 @@
       "Forever free and Open Source",
       "Localization example"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 72,
@@ -1931,7 +2613,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 73,
@@ -1957,7 +2649,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 74,
@@ -1982,7 +2684,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 75,
@@ -2012,7 +2724,17 @@
       "Opt-In Cookie Banner",
       "Modal Windows with route change"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 76,
@@ -2044,7 +2766,17 @@
       "Responsive CSS markdown.",
       "Tests"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 77,
@@ -2070,7 +2802,17 @@
       "Async button for async tasks",
       "Git info"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 78,
@@ -2097,7 +2839,21 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 79,
@@ -2125,7 +2881,25 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ]
   },
   {
     "id": 80,
@@ -2147,7 +2921,21 @@
       "Styled with Tailwindcss 2.0 🎨",
       "Dark Mode (Auto & Manual) 🌚"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ]
   },
   {
     "id": 81,
@@ -2172,7 +2960,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 82,
@@ -2199,7 +2997,25 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 83,
@@ -2225,7 +3041,21 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 84,
@@ -2254,7 +3084,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "04-Apr-2019"
+    "createdOn": "04-Apr-2019",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 85,
@@ -2282,7 +3122,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "22-Nov-2022"
+    "createdOn": "22-Nov-2022",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 86,
@@ -2314,7 +3164,25 @@
       "Back to top button",
       "Download file button"
     ],
-    "createdOn": "04-Nov-2021"
+    "createdOn": "04-Nov-2021",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 87,
@@ -2340,7 +3208,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "15-Dec-2024"
+    "createdOn": "15-Dec-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 88,
@@ -2367,7 +3245,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "22-Dec-2024"
+    "createdOn": "22-Dec-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 89,
@@ -2393,7 +3281,21 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "08-Dec-2024"
+    "createdOn": "08-Dec-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 90,
@@ -2415,7 +3317,17 @@
       "Code Splitting",
       "Prefetch/Preload JS + DNS + Data"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 91,
@@ -2444,7 +3356,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 92,
@@ -2473,7 +3395,21 @@
       "Provide some stats about your readings",
       "provides an API"
     ],
-    "createdOn": "31-Dec-2024"
+    "createdOn": "31-Dec-2024",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 93,
@@ -2499,7 +3435,17 @@
       "Hardened (over 3 years old and used in many apps)",
       "Support for major frameworks (WIP)"
     ],
-    "createdOn": "16-Dec-2024"
+    "createdOn": "16-Dec-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 94,
@@ -2528,7 +3474,21 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 95,
@@ -2554,7 +3514,17 @@
       "Global state management through the Pinia store",
       "Quick support through the GitHub community and official documentation"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 96,
@@ -2582,7 +3552,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "08-Oct-2024"
+    "createdOn": "08-Oct-2024",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 97,
@@ -2609,7 +3589,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "15-Dec-2024"
+    "createdOn": "15-Dec-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 98,
@@ -2637,7 +3627,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 99,
@@ -2667,7 +3667,17 @@
       "🌍 I18n ready: Ready for internationalization with locales 🌎",
       "☁️ Netlify ready: Zero-config deployment on Netlify ☁️"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 100,
@@ -2692,7 +3702,17 @@
       "Use it online or on your localhost",
       "Integrate it into any project"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 101,
@@ -2716,7 +3736,17 @@
       "🗃️ Offers Loader component for bundling assets and Feature Rich Composition Utilities.",
       "💫 Create different transition effects in conjunction with Transition."
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 102,
@@ -2740,7 +3770,17 @@
       "Offers Loader component for bundling assets and Feature Rich Composition Utilities.",
       "Create different transition effects in conjunction with Transition."
     ],
-    "createdOn": "01-Jan-2024"
+    "createdOn": "01-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 103,
@@ -2763,7 +3803,17 @@
       "All files are static. No backend servers needed.",
       "Tweak the settings to make your PDF look better."
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 104,
@@ -2792,7 +3842,21 @@
       "Migration: Migrate easily from Nextcloud Photos and Google Takeout.",
       "Performance: Do all this very fast."
     ],
-    "createdOn": "10-Jan-2024"
+    "createdOn": "10-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 105,
@@ -2813,7 +3877,17 @@
       "Scan Git log for author and datetime",
       "Automatically detect props for each component"
     ],
-    "createdOn": "20-Nov-2024"
+    "createdOn": "20-Nov-2024",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 106,
@@ -2839,7 +3913,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 107,
@@ -2863,7 +3947,21 @@
       "Files are forever yours, you can find them at ~/Documents/linked",
       "Multi language support"
     ],
-    "createdOn": "29-Jun-2023"
+    "createdOn": "29-Jun-2023",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 108,
@@ -2894,7 +3992,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "12-Jan-2024"
+    "createdOn": "12-Jan-2024",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 109,
@@ -2916,7 +4024,17 @@
       "Edit your OpenAPI/Swagger specification with a live preview",
       "Doesn’t look like it’s 2011"
     ],
-    "createdOn": "28-Nov-2023"
+    "createdOn": "28-Nov-2023",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 110,
@@ -2948,7 +4066,17 @@
       "Support real-time commands monitoring.",
       "Support import/export data."
     ],
-    "createdOn": "11-Jan-2024"
+    "createdOn": "11-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 111,
@@ -2975,7 +4103,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "19-Oct-2023"
+    "createdOn": "19-Oct-2023",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 112,
@@ -3003,7 +4141,17 @@
       "Efficient processing: more than 10K spans / second on a single core.",
       "Excellent on-disk compression: 1KB span can be compressed down to ~40 bytes."
     ],
-    "createdOn": "08-Jan-2024"
+    "createdOn": "08-Jan-2024",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 113,
@@ -3034,7 +4182,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "16-Jan-2024"
+    "createdOn": "16-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 114,
@@ -3061,7 +4219,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "04-Nov-2023"
+    "createdOn": "04-Nov-2023",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 115,
@@ -3090,7 +4258,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "07-Sep-2023"
+    "createdOn": "07-Sep-2023",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 116,
@@ -3119,7 +4297,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "12-Jan-2024"
+    "createdOn": "12-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 117,
@@ -3149,7 +4337,21 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 118,
@@ -3184,7 +4386,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "16-Jan-2024"
+    "createdOn": "16-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 119,
@@ -3213,7 +4425,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "09-Jan-2024"
+    "createdOn": "09-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 120,
@@ -3242,7 +4464,17 @@
       "API and Webhooks for integrations",
       "Easy to deploy in minutes"
     ],
-    "createdOn": "22-Jan-2024"
+    "createdOn": "22-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 121,
@@ -3269,7 +4501,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 122,
@@ -3301,7 +4543,17 @@
       "Seamless Upgrades: Hassle-free updates.",
       "Multilingual UI: Supports 11 languages, including English, Spanish, German, French, Chinese, and more."
     ],
-    "createdOn": "16-Jan-2024"
+    "createdOn": "16-Jan-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 123,
@@ -3328,7 +4580,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 124,
@@ -3350,7 +4612,17 @@
       "Dynamic - Functionalities are automatically enabled/disabled if your header turns from fixed/sticky to something else or it is hidden at different viewports",
       "Flexible - Works with any scrolling container."
     ],
-    "createdOn": "05-Feb-2024"
+    "createdOn": "05-Feb-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 125,
@@ -3376,7 +4648,17 @@
       "Layout Setting",
       "30+ Menu Styles"
     ],
-    "createdOn": "26-Sep-2023"
+    "createdOn": "26-Sep-2023",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 126,
@@ -3402,7 +4684,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 127,
@@ -3428,7 +4720,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 128,
@@ -3456,7 +4758,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "07-Feb-2024"
+    "createdOn": "07-Feb-2024",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 129,
@@ -3487,7 +4799,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 130,
@@ -3510,7 +4832,17 @@
       "ESLint",
       "Prettier"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 131,
@@ -3537,7 +4869,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 132,
@@ -3564,7 +4906,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "10-Dec-2020"
+    "createdOn": "10-Dec-2020",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 133,
@@ -3590,7 +4942,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 134,
@@ -3615,7 +4977,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "14-May-2020"
+    "createdOn": "14-May-2020",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 135,
@@ -3638,7 +5010,17 @@
       "Error page",
       "Styled Bootstrap components like buttons, modals, etc"
     ],
-    "createdOn": "20-Oct-2021"
+    "createdOn": "20-Oct-2021",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 136,
@@ -3668,7 +5050,17 @@
       "Forever free and Open Source",
       "Clean Code"
     ],
-    "createdOn": "20-Oct-2021"
+    "createdOn": "20-Oct-2021",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 137,
@@ -3696,8 +5088,18 @@
     ],
     "createdOn": "20-Oct-2021",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 138,
@@ -3731,8 +5133,18 @@
     ],
     "createdOn": "16-Dec-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 139,
@@ -3771,7 +5183,13 @@
     ],
     "createdOn": "18-Oct-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      }
+    ]
   }
 ]
