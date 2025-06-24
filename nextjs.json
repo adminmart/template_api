@@ -5331,10 +5331,6 @@
     "category": "NextJs",
     "categories": [
       {
-        "value": "free",
-        "label": "Free"
-      },
-      {
         "value": "website-template",
         "label": "Website Template"
       },
