@@ -7081,5 +7081,63 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 204,
+    "price": 0,
+    "popularity": 1155,
+    "appType": "landingpage",
+    "details": "https://github.com/subhamBharadwaz/scribbly/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "scribbly",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/scribbly.webp",
+    "subtitle": "Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal",
+    "livePreview": "https://scribbly.subhambharadwaz.com/",
+    "templateName": "Scribbly",
+    "description": "Scribbly is a web application that provides a platform for users to create and manage their digital journal. With Scribbly, users can easily jot down their thoughts, experiences, and ideas, and organize them in a personal and customizable journal.",
+    "features": [
+      "Next.js /app dir",
+      "Routing, Layouts, Nested Layouts and Layout Groups",
+      "Data Fetching, Caching and Mutation using TanStack Query",
+      "Route handlers",
+      "Metadata files",
+      "Server and Client Components",
+      "API Routes and Middleware",
+      "Authentication using Clerk",
+      "Block-Style editor with Editor.js",
+      "ORM using Prisma",
+      "Database on PlanetScale",
+      "Creating and sending emails with React Email and Resend",
+      "UI Components built using Radix UI and shadcn/ui",
+      "Subscriptions using Stripe",
+      "Styled using Tailwind CSS",
+      "Analytics with PostHog",
+      "Error Handling in Sentry",
+      "Validations using Zod",
+      "Written in TypeScript"
+    ],
+    "createdOn": "20-Jun-2023",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
