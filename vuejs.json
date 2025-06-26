@@ -1517,6 +1517,10 @@
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
       }
     ],
     "imageAlt": "vue-typescript-admin-template",
@@ -3270,12 +3274,32 @@
     "createdOn": "15-Dec-2024",
     "categories": [
       {
-        "value": "landing-page",
-        "label": "Landing Page"
+        "value": "website-template",
+        "label": "Website Template"
       },
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
       }
     ]
   },
@@ -3381,12 +3405,32 @@
     "createdOn": "",
     "categories": [
       {
-        "value": "landing-page",
-        "label": "Landing Page"
+        "value": "website-template",
+        "label": "Website Template"
       },
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
       }
     ]
   },
@@ -3509,6 +3553,18 @@
       {
         "value": "business",
         "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
       }
     ]
   },
@@ -4895,6 +4951,10 @@
       {
         "value": "free",
         "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
       }
     ]
   },

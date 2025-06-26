@@ -26,8 +26,22 @@
     ],
     "createdOn": "09-Feb-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 2,
@@ -61,8 +75,34 @@
     ],
     "createdOn": "17-Feb-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 3,
@@ -92,8 +132,22 @@
     ],
     "createdOn": "22-May-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 4,
@@ -126,8 +180,34 @@
     ],
     "createdOn": "22-May-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 5,
@@ -157,8 +237,22 @@
     ],
     "createdOn": "03-Oct-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 6,
@@ -193,7 +287,7 @@
     ],
     "createdOn": "27-Sept-2023",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -220,8 +314,34 @@
     ],
     "createdOn": "18-Jul-2022",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 8,
@@ -252,8 +372,34 @@
     ],
     "createdOn": "12-Jul-2022",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 9,
@@ -289,8 +435,34 @@
     ],
     "createdOn": "18-Oct-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 10,
@@ -321,8 +493,22 @@
     ],
     "createdOn": "09-Feb-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 11,
@@ -359,8 +545,34 @@
     ],
     "createdOn": "12-Feb-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 12,
@@ -390,8 +602,22 @@
     ],
     "createdOn": "03-Oct-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 13,
@@ -426,8 +652,34 @@
     ],
     "createdOn": "22-Sept-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 14,
@@ -454,8 +706,22 @@
     ],
     "createdOn": "15-May-2020",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 15,
@@ -486,8 +752,34 @@
     ],
     "createdOn": "12-May-2020",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 16,
@@ -513,8 +805,22 @@
     ],
     "createdOn": "15-Jul-2022",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 17,
@@ -545,8 +851,34 @@
     ],
     "createdOn": "01-Apr-2022",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 18,
@@ -576,8 +908,22 @@
     ],
     "createdOn": "17-Oct-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 19,
@@ -612,8 +958,34 @@
     ],
     "createdOn": "26-Sept-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 20,
@@ -645,40 +1017,22 @@
     ],
     "createdOn": "13-Feb-2013",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 21,
-    "price": 0,
-    "popularity": 1002,
-    "appType": "website",
-    "details": "https://github.com/briltec/Mode_Vue/archive/refs/heads/main.zip",
-    "category": "Nuxt",
-    "imageAlt": "mode_vue",
-    "imageSrc": "https://i.ibb.co/p3KtC5L/68747470733a2f2f6d6f64657675652e73746174696364657369676e65722e636f6d2f6461726b2e706e67-3.png",
-    "subtitle": "Built with Vue.js and Nuxt.js, it comes with the features you need to quickly start developing your application.",
-    "livePreview": "https://modevue.staticdesigner.com/",
-    "templateName": "Mode_Vue — is a carefully crafted multi-purpose, responsive, and gorgeous theme.",
-    "description": "Mode_Vue — is a carefully crafted multi-purpose, responsive, and gorgeous theme. Built with Vue.js and Nuxt.js, it comes with the features you need to quickly start developing your application.",
-    "features": [
-      "Beautiful design with 8 complete pre-built page examples",
-      "Integrated lazy-loading and mobile first optimized",
-      "Built on Vue & Vuetify using Vue CLI",
-      "Supports customized SASS / SCSS variables",
-      "RTL Included",
-      "Responsive support down to 320px width",
-      "Support through Github Issues",
-      "Integrated with Material Design Icons (mdi)",
-      "Also supports Material Icons and Font Awesome",
-      "Easily Customized theme options",
-      "Well commented and clean code",
-      "Optimized for SEO and Accessibility"
-    ],
-    "createdOn": "20 Oct 2022",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "label": "Corporate",
+        "value": "corporate"
+      }
+    ]
   },
   {
     "id": 22,
@@ -712,8 +1066,18 @@
     ],
     "createdOn": "14 Jan 2022",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 23,
@@ -739,8 +1103,26 @@
     ],
     "createdOn": "19 Jan 2022",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 24,
@@ -752,7 +1134,7 @@
     "imageAlt": "star-admin-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/star-admin-vue.jpg",
     "subtitle": "Star Admin Vue Admin is a free admin template based on Bootstrap 4 and Vue.js.",
-    "livePreview": "https://www.bootstrapdash.com/demo/star-admin-vue/preview/#/dashboard",
+    "livePreview": "https://demo.bootstrapdash.com/demo/star-admin-vue/preview/#/dashboard",
     "templateName": "StarAdmin Free Vue Admin Template",
     "description": "Discover the seamless blend of cutting-edge technology with Star Admin Vue Admin - a dynamic and complimentary admin template. Merging the power of Bootstrap 4 and Vue.js, this template offers an unparalleled user experience at no cost.",
     "features": [
@@ -769,8 +1151,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 25,
@@ -782,7 +1178,7 @@
     "imageAlt": "corona-vue-free",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/corona-vue-free.jpg",
     "subtitle": "Corona Vue: Premium Quality, Free Admin Template for Modern Web Applications",
-    "livePreview": "https://bootstrapdash.com/demo/corona-vue-free/preview/demo_1/",
+    "livePreview": "https://demo.bootstrapdash.com/demo/corona-vue-free/preview/demo_1/",
     "templateName": "Corona vue free admin template",
     "description": "Experience the power of cutting-edge design with Corona Vue, a remarkable free admin template that takes web development to the next level. With a sleek and modern interface, Corona Vue provides an unparalleled user experience for managing and monitoring your applications. Unlock a world of possibilities with this feature-rich template that is both easy to use and fully customizable.",
     "features": [
@@ -799,8 +1195,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 26,
@@ -812,7 +1222,7 @@
     "imageAlt": "connect-plus-free-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/connect-plus-free-vue.jpg",
     "subtitle": "Enjoy the free version of Connect Plus Vue Admin template",
-    "livePreview": "https://bootstrapdash.com/demo/connect-plus-free-vue/preview/demo_1/",
+    "livePreview": "https://demo.bootstrapdash.com/demo/connect-plus-free-vue/preview/demo_1/",
     "templateName": "Connect plus vue free admin template",
     "description": "Welcome to Connect Plus Vue, the ultimate free admin template that redefines web development. Seamlessly combining modern aesthetics with powerful functionalities, Connect Plus Vue offers an exceptional user experience for managing your projects. Empower your team with an admin dashboard that's feature-packed, easy to navigate, and fully customizable, making it the go-to solution for optimizing your web applications.",
     "features": [
@@ -829,8 +1239,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 27,
@@ -842,7 +1266,7 @@
     "imageAlt": "purple-free-vue",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/purple-free-vue.jpg",
     "subtitle": "This is the free version of one of our most popular admin dashboard templates",
-    "livePreview": "https://www.bootstrapdash.com/demo/purple-free-vue/preview/demo_1/",
+    "livePreview": "https://demo.bootstrapdash.com/demo/purple-free-vue/preview/demo_1/",
     "templateName": "Purple free vue admin template",
     "description": "Elevate your admin experience with Purple Free Vue, the cutting-edge and dynamic admin template that comes completely free of charge. Designed to streamline your workflow and enhance user management, this template boasts a stunning array of features and an intuitive interface, making it the ultimate choice for your next project. Say goodbye to tedious admin tasks and embrace a seamless and efficient way to manage your data and applications.",
     "features": [
@@ -859,8 +1283,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 28,
@@ -872,7 +1310,7 @@
     "imageAlt": "stellar-vue-free",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/stellar-vue-free.jpg",
     "subtitle": "Stellar Admin is an admin template that is both feature-packed and easy to use",
-    "livePreview": "https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/",
+    "livePreview": "https://demo.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/",
     "templateName": "Stellar admin vue free",
     "description": "Unlock the potential of your web application with Stellar Vue, an avant-garde free admin template designed to elevate your user experience. With a sleek and modern interface, Stellar Vue offers an array of powerful features that streamline administrative tasks and enhance productivity. Crafted with the latest web technologies, this template is not just visually stunning but also delivers seamless performance across various devices.",
     "features": [
@@ -889,8 +1327,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 29,
@@ -915,8 +1367,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 30,
@@ -939,8 +1405,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 31,
@@ -963,8 +1447,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 32,
@@ -988,8 +1490,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 33,
@@ -1001,7 +1517,7 @@
     "imageAlt": "gits-nuxt-starter",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/gits-nuxt-starter.jpg",
     "subtitle": "Building Modern Web Applications with Nuxt 3 and Morpheme UI",
-    "livePreview": "https://gits-nuxt-starter.vercel.app/",
+    "livePreview": "https://morpheme-nuxt-starter.vercel.app/",
     "templateName": "Nuxt starter",
     "description": "Embark on your web development journey with the dynamic duo of Nuxt 3 and Morpheme UI (GITS UI) Starter. This combination offers a seamless integration of cutting-edge Nuxt capabilities and the aesthetic finesse of Morpheme UI, setting the stage for unparalleled web experiences.",
     "features": [
@@ -1018,8 +1534,18 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 34,
@@ -1046,8 +1572,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 35,
@@ -1071,33 +1615,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 36,
-    "price": 0,
-    "popularity": 1017,
-    "appType": "landingpage",
-    "details": "https://github.com/timoanttila/nuxt-lazypeopleworkouts/archive/refs/heads/master.zip",
-    "category": "Nuxt",
-    "imageAlt": "nuxt-lazypeopleworkouts",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nuxt-lazypeopleworkouts.jpg",
-    "subtitle": "A collection of easy workout videos for lazy people. Frontend is powered with Nuxt.",
-    "livePreview": "https://lazypeopleworkouts.com/",
-    "templateName": "Nuxt lazypeopleworkouts",
-    "description": "Nuxt Fitness Fusion: Lazypeopleworkouts Redefined Experience the ultimate fusion of fitness and Nuxt.js with Lazypeopleworkouts. Step into a realm where exercise meets technology, bringing you an innovative approach to staying active. Discover a new way to prioritize your well-being with engaging workouts right at your fingertips.",
-    "features": [
-      "NuxtJs",
-      "ESLint",
-      "Clean Code",
-      "Responsive layout",
-      "Vue"
-    ],
-    "createdOn": "",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 37,
@@ -1122,8 +1655,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 38,
@@ -1149,8 +1700,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 39,
@@ -1177,8 +1742,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 40,
@@ -1205,8 +1784,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 41,
@@ -1235,8 +1828,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 42,
@@ -1261,8 +1868,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 43,
@@ -1291,8 +1916,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 44,
@@ -1321,8 +1960,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      }
+    ]
   },
   {
     "id": 45,
@@ -1350,8 +2007,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 46,
@@ -1375,8 +2046,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 47,
@@ -1403,8 +2088,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      }
+    ]
   },
   {
     "id": 48,
@@ -1429,8 +2128,18 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 49,
@@ -1458,8 +2167,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 50,
@@ -1487,8 +2210,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 51,
@@ -1515,8 +2256,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 52,
@@ -1544,8 +2303,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 53,
@@ -1574,36 +2351,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 54,
-    "price": 0,
-    "popularity": 1035,
-    "appType": "admin-template",
-    "details": "https://github.com/misterGF/CoPilot/archive/refs/heads/master.zip",
-    "category": "Nuxt",
-    "imageAlt": "copilot",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/copilot.jpg",
-    "subtitle": "Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js",
-    "livePreview": "https://copilot.mistergf.io/",
-    "templateName": "CoPilot",
-    "description": "Vue.js Enhanced AdminLTE Template with Responsive Bootstrap 3 Design Revamp your admin interface with our cutting-edge AdminLTE template powered by Vue.js and built on a foundation of responsive Bootstrap 3 components. Elevate your user experience with dynamic and interactive features, all while maintaining the familiar AdminLTE aesthetics.",
-    "features": [
-      "Nuxt",
-      "i18n Support",
-      "Vue",
-      "Multi Pages",
-      "Datatables",
-      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
-      "Responsive",
-      "Forever free and Open Source"
-    ],
-    "createdOn": "",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
+    ]
   },
   {
     "id": 55,
@@ -1632,8 +2399,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 56,
@@ -1664,8 +2445,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      }
+    ]
   },
   {
     "id": 57,
@@ -1697,8 +2496,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      }
+    ]
   },
   {
     "id": 58,
@@ -1726,8 +2543,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 59,
@@ -1755,8 +2586,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 60,
@@ -1781,8 +2626,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 61,
@@ -1809,8 +2668,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 62,
@@ -1839,8 +2712,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 63,
@@ -1872,8 +2759,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 64,
@@ -1905,8 +2806,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 65,
@@ -1938,8 +2857,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 66,
@@ -1969,8 +2902,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 67,
@@ -2000,8 +2947,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      }
+    ]
   },
   {
     "id": 68,
@@ -2024,38 +2985,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 69,
-    "price": 0,
-    "popularity": 1050,
-    "appType": "admin-template",
-    "details": "https://github.com/liangyuetian/elementuivue2to3/archive/refs/heads/main.zip",
-    "category": "Vue",
-    "imageAlt": "elementuivue2to3",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/elementuivue2to3.jpg",
-    "subtitle": "admin-base-template is a free and open source admin template kit",
-    "livePreview": "https://admin.senseui.im/#/dashboard",
-    "templateName": "Elementuivue2to3",
-    "description": "Empowering developers, the admin-base-template is a valuable open source resource, delivering a complete kit to expedite the construction of admin templates without any financial constraints.",
-    "features": [
-      "Dashboard sample",
-      "Login / Logout",
-      "Vue",
-      "Pages",
-      "Form Variations",
-      "UI Components",
-      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
-      "Responsive",
-      "Forever free and Open Source",
-      "Localization example"
-    ],
-    "createdOn": "",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 70,
@@ -2083,8 +3028,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 71,
@@ -2115,39 +3074,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 72,
-    "price": 0,
-    "popularity": 1053,
-    "appType": "admin-template",
-    "details": "https://github.com/otezz/tailmin/archive/refs/heads/main.zip",
-    "category": "Vue",
-    "imageAlt": "tailmin",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailmin.jpg",
-    "subtitle": "Tailmin - Admin dashboard built with Vue.js and Tailwind CSS",
-    "livePreview": "https://tailmin.vercel.app/",
-    "templateName": "Tailmin",
-    "description": "Experience a new era of administrative interfaces with Tailmin, an admin dashboard meticulously crafted with the power of Vue.js and the elegance of Tailwind CSS.",
-    "features": [
-      "Dashboard sample",
-      "Vue",
-      "Apexcharts",
-      "Pages",
-      "ESLint",
-      "Card Design",
-      "Login / Logout",
-      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
-      "Responsive layout",
-      "Forever free and Open Source",
-      "Clean Code"
-    ],
-    "createdOn": "",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 73,
@@ -2175,8 +3117,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 74,
@@ -2203,8 +3159,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 75,
@@ -2236,8 +3206,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      }
+    ]
   },
   {
     "id": 76,
@@ -2271,8 +3255,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 77,
@@ -2300,8 +3298,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 78,
@@ -2330,8 +3342,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 79,
@@ -2361,33 +3387,30 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 80,
-    "price": 0,
-    "popularity": 1061,
-    "appType": "landingpage",
-    "details": "https://github.com/kenryu42/lite-nuxt-portfolio-template/archive/refs/heads/master.zip",
-    "category": "Nuxt",
-    "imageAlt": "lite-nuxt-portfolio-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lite-nuxt-portfolio-template.jpg",
-    "subtitle": "A lite version of portfolio template for Developers.",
-    "livePreview": "https://lite-nuxt-portfolio-template.web.app/",
-    "templateName": "Lite nuxt portfolio template",
-    "description": "Uncluttered Excellence Introducing the Efficiency-First Developer Portfolio – a stripped-down version that maximizes impact. Designed for developers who value directness and effectiveness, this template prides itself on its uncluttered approach. Embrace the minimalist aesthetic while highlighting your coding prowess and projects that truly matter.",
-    "features": [
-      "Mobile-first UI Design 📱",
-      "Fully Responsive 🖥",
-      "Full Static Generation 🚀",
-      "Styled with Tailwindcss 2.0 🎨",
-      "Dark Mode (Auto & Manual) 🌚"
-    ],
-    "createdOn": "",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ]
   },
   {
     "id": 81,
@@ -2414,8 +3437,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 82,
@@ -2444,8 +3485,30 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 83,
@@ -2473,8 +3536,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 84,
@@ -2505,8 +3582,22 @@
     ],
     "createdOn": "04-Apr-2019",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 85,
@@ -2536,8 +3627,22 @@
     ],
     "createdOn": "22-Nov-2022",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
+    ]
   },
   {
     "id": 86,
@@ -2571,8 +3676,26 @@
     ],
     "createdOn": "04-Nov-2021",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 87,
@@ -2600,38 +3723,38 @@
     ],
     "createdOn": "15-Dec-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 88,
-    "price": 0,
-    "popularity": 1069,
-    "appType": "landingpage",
-    "details": "https://github.com/getsentry/sentry-javascript/archive/refs/heads/master.zip",
-    "category": "Vue",
-    "imageAlt": "sentry-for-vue",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sentry-for-vue.jpg",
-    "subtitle": "Official Sentry SDKs for JavaScript",
-    "livePreview": "https://sentry.io/welcome/",
-    "templateName": "Sentry for Vue",
-    "description": "Sentry provides self-hosted and cloud-based application monitoring that delivers actionable insights to resolve Vue performance bottlenecks and errors. Improve your monitoring workflow with a full view of releases so you can mark Vue errors as resolved and prioritize live issues.",
-    "features": [
-      "Vue",
-      "ESLint",
-      "Vite",
-      "Simple login / logout",
-      "Multi Pages",
-      "Vue Landing Page",
-      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
-      "Responsive layout",
-      "Forever free and Open Source",
-      "Clean Code"
-    ],
-    "createdOn": "22-Dec-2024",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   },
   {
     "id": 89,
@@ -2659,8 +3782,18 @@
     ],
     "createdOn": "08-Dec-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 90,
@@ -2684,8 +3817,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 91,
@@ -2716,8 +3863,38 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   },
   {
     "id": 92,
@@ -2748,37 +3925,22 @@
     ],
     "createdOn": "31-Dec-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 93,
-    "price": 0,
-    "popularity": 1074,
-    "appType": "landingpage",
-    "details": "https://github.com/simonwep/selection/archive/refs/heads/master.zip",
-    "category": "Vue",
-    "imageAlt": "Viselect Vue",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/viselect-vue.jpg",
-    "subtitle": "✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements",
-    "livePreview": "https://simonwep.github.io/selection/",
-    "templateName": "Viselect Vue",
-    "description": "Viselect is a cutting-edge library designed to enhance user experience by seamlessly integrating a visual element selection feature, reminiscent of the familiar desktop environment. This high-performance and lightweight tool offers a hassle-free way to implement element selection with zero dependencies, ensuring a streamlined and efficient solution. With its compact size, Viselect remains unobtrusive while providing robust functionality. ",
-    "features": [
-      "Modern bundle",
-      "Ultra tiny (~4kb)",
-      "Simple usage",
-      "Highly optimized",
-      "Zero dependencies",
-      "Mobile / touch support",
-      "Vertical and horizontal scroll support",
-      "Hardened (over 3 years old and used in many apps)",
-      "Support for major frameworks (WIP)"
-    ],
-    "createdOn": "16-Dec-2024",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ]
   },
   {
     "id": 94,
@@ -2809,8 +3971,34 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      }
+    ]
   },
   {
     "id": 95,
@@ -2838,8 +4026,18 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 96,
@@ -2869,8 +4067,14 @@
     ],
     "createdOn": "08-Oct-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 97,
@@ -2899,8 +4103,22 @@
     ],
     "createdOn": "15-Dec-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 98,
@@ -2930,8 +4148,14 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 99,
@@ -2963,8 +4187,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 100,
@@ -2991,8 +4229,14 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 101,
@@ -3018,8 +4262,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 102,
@@ -3045,8 +4303,18 @@
     ],
     "createdOn": "01-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 103,
@@ -3071,8 +4339,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 104,
@@ -3103,8 +4385,26 @@
     ],
     "createdOn": "10-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      }
+    ]
   },
   {
     "id": 105,
@@ -3127,8 +4427,22 @@
     ],
     "createdOn": "20-Nov-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 106,
@@ -3156,8 +4470,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      }
+    ]
   },
   {
     "id": 107,
@@ -3183,8 +4511,22 @@
     ],
     "createdOn": "29-Jun-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 108,
@@ -3217,8 +4559,34 @@
     ],
     "createdOn": "12-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      }
+    ]
   },
   {
     "id": 109,
@@ -3242,8 +4610,14 @@
     ],
     "createdOn": "28-Nov-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 110,
@@ -3277,8 +4651,18 @@
     ],
     "createdOn": "11-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 111,
@@ -3290,7 +4674,7 @@
     "imageAlt": "Vue Slide Unlock",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/vue-slide-unlock.jpg",
     "subtitle": "🎚️Vue.js slide to unlock component. Protect users from accidental clicks.",
-    "livePreview": "https://joseph2.github.io/vue-slide-unlock/",
+    "livePreview": "https://madewithvuejs.com/vue-slide-unlock",
     "templateName": "Vue Slide Unlock",
     "description": "vue-slide-unlock is a Vue 3 slide-to-unlock component that helps you protect users from accidental clicks or protect your web app from bot attacks. It's built using the Vue 3 Composition API with Typescript and Vite, coated with tests using Cypress.",
     "features": [
@@ -3307,8 +4691,18 @@
     ],
     "createdOn": "19-Oct-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 112,
@@ -3338,8 +4732,14 @@
     ],
     "createdOn": "08-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 113,
@@ -3372,8 +4772,18 @@
     ],
     "createdOn": "16-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 114,
@@ -3402,8 +4812,18 @@
     ],
     "createdOn": "04-Nov-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 115,
@@ -3434,8 +4854,22 @@
     ],
     "createdOn": "07-Sep-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   },
   {
     "id": 116,
@@ -3466,8 +4900,18 @@
     ],
     "createdOn": "12-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 117,
@@ -3499,8 +4943,18 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 118,
@@ -3537,8 +4991,18 @@
     ],
     "createdOn": "16-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 119,
@@ -3569,8 +5033,18 @@
     ],
     "createdOn": "09-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 120,
@@ -3601,8 +5075,26 @@
     ],
     "createdOn": "22-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      }
+    ]
   },
   {
     "id": 121,
@@ -3631,8 +5123,14 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 122,
@@ -3666,8 +5164,22 @@
     ],
     "createdOn": "16-Jan-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 123,
@@ -3696,8 +5208,18 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   },
   {
     "id": 124,
@@ -3721,8 +5243,22 @@
     ],
     "createdOn": "05-Feb-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 125,
@@ -3750,8 +5286,22 @@
     ],
     "createdOn": "26-Sep-2023",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 126,
@@ -3779,8 +5329,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 127,
@@ -3808,8 +5372,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 128,
@@ -3839,8 +5417,22 @@
     ],
     "createdOn": "07-Feb-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 129,
@@ -3873,8 +5465,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 130,
@@ -3899,8 +5505,22 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 131,
@@ -3929,38 +5549,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
-  },
-  {
-    "id": 132,
-    "price": 0,
-    "popularity": 1113,
-    "appType": "landingpage",
-    "details": "https://github.com/Smuice-com/petra/archive/refs/heads/main.zip",
-    "category": "Nuxt",
-    "imageAlt": "petra",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/petra.jpg",
-    "subtitle": "A free Nuxt.js tailwindcss landing page template designed to showcase SaaS businesses, online services",
-    "livePreview": "https://smuice.com/",
-    "templateName": "Petra",
-    "description": "Introducing a cutting-edge Nuxt.js Tailwind CSS landing page template meticulously crafted to elevate the online presence of SaaS businesses, digital services, and a myriad of other ventures. Seamlessly blending the robustness of Nuxt.js with the sleekness of Tailwind CSS, this template offers a compelling canvas to showcase your offerings with finesse and efficiency. With its intuitive design and customizable components, it empowers businesses to effortlessly communicate their value propositions, captivate audiences, and drive conversions. Whether launching a new product, promoting a service, or establishing an online presence, this template serves as an indispensable tool for modern enterprises seeking to make a lasting impression in the digital landscape.",
-    "features": [
-      "Nuxt",
-      "Tailwind CSS",
-      "Nuxt Blog using",
-      "Login / Logout",
-      "Documentation",
-      "Landing Page",
-      "Cross-Browser (Chrome, Safari, Firefox, Edge, Opera)",
-      "Responsive layout",
-      "Forever free and Open Source",
-      "Clean Code"
-    ],
-    "createdOn": "10-Dec-2020",
-    "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "ecommers",
+        "label": "Ecommers"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 133,
@@ -3988,8 +5596,26 @@
     ],
     "createdOn": "",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ]
   },
   {
     "id": 134,
@@ -4016,8 +5642,22 @@
     ],
     "createdOn": "14-May-2020",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      }
+    ]
   },
   {
     "id": 135,
@@ -4042,8 +5682,26 @@
     ],
     "createdOn": "20-Oct-2021",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommers",
+        "label": "Ecommers"
+      }
+    ]
   },
   {
     "id": 136,
@@ -4075,8 +5733,22 @@
     ],
     "createdOn": "20-Oct-2021",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 137,
@@ -4091,12 +5763,72 @@
     "livePreview": "https://certificates.dev/vuejs?friend=WRAPPIXEL&utm_source=nuxtjstemplates.com",
     "templateName": "Get your Nuxt Certification",
     "description": "",
-    "features": [
-      
-    ],
+    "features": [],
     "doFollow": false,
-    "ads":true,
-    "ads_link": "https://certificates.dev/vuejs?friend=WRAPPIXEL&utm_source=nuxtjstemplates.com"
+    "ads": true,
+    "ads_link": "https://certificates.dev/vuejs?friend=WRAPPIXEL&utm_source=nuxtjstemplates.com",
+    "categories": [
+      {
+        "label": "Landing Page",
+        "value": "landing-page"
+      },
+      {
+        "label": "Website Template",
+        "value": "website-template"
+      },
+      {
+        "label": "blog",
+        "value": "Blog"
+      },
+      {
+        "label": "Ecommerce",
+        "value": "ecommerce"
+      },
+      {
+        "label": "Portfolio",
+        "value": "portfolio"
+      },
+      {
+        "label": "Personal",
+        "value": "personal"
+      },
+      {
+        "label": "Saas",
+        "value": "saas"
+      },
+      {
+        "label": "One Pager Templates",
+        "value": "one-pager-templates"
+      },
+      {
+        "label": "StartUp",
+        "value": "startup"
+      },
+      {
+        "label": "Business",
+        "value": "business"
+      },
+      {
+        "label": "Corporate",
+        "value": "corporate"
+      },
+      {
+        "label": "Agency",
+        "value": "agency"
+      },
+      {
+        "label": "Real Estate",
+        "value": "real-estate"
+      },
+      {
+        "label": "Free",
+        "value": "free"
+      },
+      {
+        "label": "Admin Dashboard",
+        "value": "admin-dashboard"
+      }
+    ]
   },
   {
     "id": 138,
@@ -4124,8 +5856,30 @@
     ],
     "createdOn": "20-Oct-2021",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      }
+    ]
   },
   {
     "id": 139,
@@ -4159,8 +5913,22 @@
     ],
     "createdOn": "16-Dec-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 140,
@@ -4199,7 +5967,21 @@
     ],
     "createdOn": "18-Oct-2024",
     "doFollow": false,
-    "ads":false,
-    "ads_link": ""
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommers",
+        "label": "Ecommers"
+      }
+    ]
   }
 ]
