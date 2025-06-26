@@ -184,28 +184,48 @@
     "ads_link": "",
     "categories": [
       {
-        "value": "ecommerce",
-        "label": "Ecommerce"
+        "value": "landing-page",
+        "label": "Landing Page"
       },
       {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "business",
-        "label": "Business"
+        "value": "ecommers",
+        "label": "Ecommers"
       },
       {
         "value": "website-template",
         "label": "Website Template"
       },
       {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "real-estate",
+        "label": "Real Estate"
+      },
+      {
         "value": "corporate",
         "label": "Corporate"
       },
       {
-        "value": "personal",
-        "label": "Personal"
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
       }
     ]
   },
