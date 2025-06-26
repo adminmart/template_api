@@ -7163,5 +7163,85 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 206,
+    "price": 0,
+    "popularity": 101,
+    "appType": "admin-template",
+    "details": "https://certificates.dev/react?friend=WRAPPIXEL&redirect=https%3A%2F%2Ffrontendnation.com%2Fevents%2Freact-day-2025",
+    "category": "React",
+    "imageAlt": "CERT-React-Wrappixel",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/CERT-React-Wrappixel.png",
+    "subtitle": "Up to 50% OFF",
+    "livePreview": "https://certificates.dev/react?friend=WRAPPIXEL&redirect=https%3A%2F%2Ffrontendnation.com%2Fevents%2Freact-day-2025",
+    "templateName": "Get your React Certification",
+    "description": "",
+    "features": [],
+    "doFollow": false,
+    "ads": true,
+    "ads_link": "https://certificates.dev/react?friend=WRAPPIXEL&redirect=https%3A%2F%2Ffrontendnation.com%2Fevents%2Freact-day-2025",
+    "categories": [
+      {
+        "label": "Landing Page",
+        "value": "landing-page"
+      },
+      {
+        "label": "Website Template",
+        "value": "website-template"
+      },
+      {
+        "label": "blog",
+        "value": "Blog"
+      },
+      {
+        "label": "Ecommerce",
+        "value": "ecommerce"
+      },
+      {
+        "label": "Portfolio",
+        "value": "portfolio"
+      },
+      {
+        "label": "Personal",
+        "value": "personal"
+      },
+      {
+        "label": "Saas",
+        "value": "saas"
+      },
+      {
+        "label": "One Pager Templates",
+        "value": "one-pager-templates"
+      },
+      {
+        "label": "StartUp",
+        "value": "startup"
+      },
+      {
+        "label": "Business",
+        "value": "business"
+      },
+      {
+        "label": "Corporate",
+        "value": "corporate"
+      },
+      {
+        "label": "Agency",
+        "value": "agency"
+      },
+      {
+        "label": "Real Estate",
+        "value": "real-estate"
+      },
+      {
+        "label": "Free",
+        "value": "free"
+      },
+      {
+        "label": "Admin Dashboard",
+        "value": "admin-dashboard"
+      }
+    ]
   }
 ]
