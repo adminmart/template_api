@@ -7000,6 +7000,30 @@
   },
   {
     "id": 202,
+    "price": 0,
+    "popularity": 1155,
+    "appType": "admin-template",
+    "details": "https://github.com/starwiz-7/codestream/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "codestream",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/codestream.jwebp",
+    "subtitle": "A web app for users to collaborate while solving a coding problem",
+    "livePreview": "https://codestream.vercel.app/",
+    "templateName": "Codestream",
+    "description": "Codestream is a collaborative web-based code editor. It allows one to collaborate with their teammates while writing code. Codestream uses codemirror as its code editor. It also provides syntax highlighting for many languages.",
+    "features": [
+      "Collaborative - Users can collaborate in real-time on their code",
+      "Multiple Languages - Codestream supports multiple language highlighting",
+      "Compiler - Codestream has an embedded compiler which can compile your code",
+      "Chat - Users can chat while they collaborate",
+      "Zen mode - Codestream supports zen mode for a better editing experience",
+      "Responsive - Start collaborating through your mobile",
+      "Question Pane - Add question directly in your room from supported websites(Leetcode, Codeforces, Atcoder, CSES)"
+    ],
+    "createdOn": "10-Oct-2021"
+  },
+  {
+    "id": 203,
     "price": 29,
     "popularity": 102,
     "appType": "website",
@@ -7035,7 +7059,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 204,
     "price": 0,
     "popularity": 103,
     "appType": "landingpage",
@@ -7083,9 +7107,9 @@
     ]
   },
   {
-    "id": 204,
+    "id": 205,
     "price": 0,
-    "popularity": 1155,
+    "popularity": 1156,
     "appType": "landingpage",
     "details": "https://github.com/subhamBharadwaz/scribbly/archive/refs/heads/main.zip",
     "category": "NextJs",
