@@ -3971,5 +3971,1136 @@
                 "value": "startup"
             }
         ]
+    },
+    {
+        "id": 103,
+        "price": 0,
+        "popularity": 205,
+        "appType": "admin-template",
+        "details": "https://www.wrappixel.com/templates/materialm-free-tailwind-react-admin-template/",
+        "category": "Tailwind",
+        "imageAlt": "MaterialM Free Tailwind React Admin Template",
+        "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2025/05/MaterialM_Free_version_react.webp",
+        "subtitle": "MaterialM Tailwind React - A Fresh Perspective on Admin Template Design",
+        "livePreview": "https://materialm-react-tailwind-free.netlify.app/",
+        "templateName": "MaterialM Free Tailwind React Admin Template",
+        "description": "Explore the MaterialM React Free Admin Template, an ideal entry point for beginners in the world of advanced web applications. This free version offers more than just basic functionality; it provides a preview of the potential your projects can achieve.",
+        "features": [
+            "React 19+",
+            "1 Basic Dashboard",
+            "Tailwind Flowbite",
+            "Icons Page",
+            "Simple Login-Register Page Added",
+            "Code Splitting",
+            "Google Fonts",
+            "Easy Folder Structure",
+            "Organized Code Structure",
+            "The Hassle-free Setup Process"
+        ],
+        "createdOn": "15-Feb-2025",
+        "categories": [
+            {
+                "value": "free",
+                "label": "Free"
+            },
+            {
+                "label": "Admin Dashboard",
+                "value": "admin-dashboard"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "price": 59,
+        "popularity": 206,
+        "appType": "admin-template",
+        "details": "https://www.wrappixel.com/templates/materialm-tailwind-react-admin-template/",
+        "category": "Tailwind",
+        "imageAlt": "MaterialM-Tailwind-React-Admin-Template",
+        "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2025/05/materialM-react-tailwind-pro.webp",
+        "subtitle": "Premium Tailwind Admin Dashboard Template",
+        "livePreview": "https://www.wrappixel.com/templates/materialm-tailwind-react-admin-template/#demos",
+        "templateName": "MaterialM Tailwind React Admin Template",
+        "description": "MaterialM is a sleek, user-friendly, and fully customizable admin template, built on the powerful React framework and enhanced with the stylish design of Tailwind CSS and Flowbite React.",
+        "features": [
+            "Easy Folder Structure",
+            "Organized Code Structure",
+            "The Hassle-free Setup Process",
+            "3+ Stunning Dashboard",
+            "12+ Most Useful Application",
+            "Tailwind Css with Preline Ui",
+            "6+ Unique demos",
+            "90+ Page Templates",
+            "45+ UI Components",
+            "5+ Frontend pages",
+            "Google Fonts",
+            "Figma Design Files",
+            "Regular Updates",
+            "Lots of chart options",
+            "Lots of forms variations",
+            "Build amazing web applications quicker with Modernize Tailwind Dashboard Template",
+            "CRM systems",
+            "Analytical apps",
+            "Educational apps",
+            "Health & Fitness apps",
+            "E-commerce backend",
+            "Banking & Finance apps Support"
+        ],
+        "createdOn": "13-Feb-2025",
+        "categories": [
+            {
+                "label": "Admin Dashboard",
+                "value": "admin-dashboard"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            },
+            {
+                "label": "Ecommerce",
+                "value": "ecommerce"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "price": 0,
+        "popularity": 207,
+        "appType": "landingpage",
+        "details": "https://getnextjstemplates.com/products/crypgo-nextjs-tailwind-free-landing-page-template",
+        "category": "Tailwind",
+        "imageAlt": "Crypgo-Tailwind-Nextjs-LandingPage-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/crypgo-nextjs-tailwind-free-landing-page-template.webp",
+        "subtitle": "CrypGo — Best Crypto Buy/Sell Landing page",
+        "livePreview": "https://crypgo-nextjs-tailwind.vercel.app/",
+        "templateName": "Crypgo - Next.js based Crypto Landing Page Template",
+        "description": "Transform your crypto business with Crypgo NextJS landing page template designed specifically for NFT startups, bitcoin trading platforms, blockchain consultancy, and digital coin services. It offers seamless performance, modern design, and easy customization, perfect for launching your crypto platform. The ultimate Nextjs template for NFT startups, trading, and blockchain services.",
+        "features": [
+            "Designed and Engineered For Crypto Trading LandingPage",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "High-quality Premium Design",
+            "Easy-To-Understand Folder Structure",
+            "Organized Code Structure",
+            "The Hassle-free Setup Process"
+        ],
+        "createdOn": "25-Nov-2024",
+        "categories": [
+            {
+                "label": "Free",
+                "value": "free"
+            },
+            {
+                "label": "Landing Page",
+                "value": "landing-page"
+            },
+            {
+                "label": "One Pager Templates",
+                "value": "one-pager-templates"
+            },
+            {
+                "label": "Ecommerce",
+                "value": "ecommerce"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "price": 0,
+        "popularity": 208,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/saascandy-nextjs-website-template",
+        "category": "Tailwind",
+        "imageAlt": "SaaSCandy-Free-Nextjs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/saascandy/saascandy-nextjs-website-template.webp",
+        "subtitle": "Unlock Your Business Potential with Our SaaS Solutions",
+        "livePreview": "https://saascandy-nextjs-tailwind.vercel.app/",
+        "templateName": "SaaSCandy Free Nextjs Website Template",
+        "description": "SaaSCandy is a premium NextJS Website template specifically designed for creating modern, high-performance websites for SaaS products, software platforms, and tech startups. This Nextjs SaaS template provides everything you need to launch your IT products online quickly and professionally with Get Nextjs template today.",
+        "features": [
+            "Build for SaaS, PaaS, Tech Startups & IT Products",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "High-quality Premium Design",
+            "Easy-To-Understand Folder Structure",
+            "Organized Code Structure",
+            "The Hassle-free Setup Process",
+            "Authentication Using NextAuth",
+            "Blogs Made With MDX",
+            "With Dark Mode Support"
+        ],
+        "createdOn": "27-Dec-2024",
+        "categories": [
+            {
+                "label": "Free",
+                "value": "free"
+            },
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Saas",
+                "value": "saas"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "price": 0,
+        "popularity": 209,
+        "appType": "landingpage",
+        "details": "https://getnextjstemplates.com/products/resume-web-template-for-cv-bio-data",
+        "category": "Tailwind",
+        "imageAlt": "Resume-Web-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/resume-free-nextjs-template.webp",
+        "subtitle": "Live Edit & Print Your Resume Instantly as a PDF",
+        "livePreview": "https://resume-getnextjs.vercel.app/",
+        "templateName": "Resume Web Template for CV's, Bio Data",
+        "description": "Craft a stunning online presence with our lightweight and fully customizable Next.js Resume Template , designed for professionals, developers, designers, and creatives. Whether you're a job seeker, freelancer, or entrepreneur, this modern and responsive resume template helps you present your CV, bio data, portfolio, and achievements in a clean, visually appealing layout.",
+        "features": [
+            "Optimized for Performance",
+            "Built with Next.js 15 & React 19",
+            "Styled Using Tailwind CSS",
+            "Editable on live priview",
+            "Instantly download the PDF of your resume",
+            "Fully responsive design for all screen sizes"
+        ],
+        "createdOn": "15-June-2025",
+        "categories": [
+            {
+                "label": "Free",
+                "value": "free"
+            },
+            {
+                "label": "Personal",
+                "value": "personal"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            },
+            {
+                "label": "Landing Page",
+                "value": "landing-page"
+            },
+            {
+                "label": "One Pager Templates",
+                "value": "one-pager-templates"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "price": 0,
+        "popularity": 210,
+        "appType": "landingpage",
+        "details": "https://getnextjstemplates.com/products/pixelize-portfolio-nextjs-template",
+        "category": "Tailwind",
+        "imageAlt": "Pixelize-Portfolio-Nextjs-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/pixelize-nextjs-template.webp",
+        "subtitle": "Pixelize helps you create a personal portfolio and online project showcase",
+        "livePreview": "https://pixelize-nextjs.vercel.app/",
+        "templateName": "Pixelize Portfolio Nextjs Template",
+        "description": "Pixelize is a free Landing Page to show your projects online. Built with Next.js and Tailwind CSS, it’s clean, easy to edit, and looks great on all devices. Perfect for anyone who wants a quick, stylish portfolio.",
+        "features": [
+            "Optimized for Performance",
+            "Dark & Light Mode Support",
+            "Dynamic Content Previews",
+            "Customizable Content Models",
+            "Organized folder structure for easy development",
+            "Fully responsive design for all screen sizes"
+        ],
+        "createdOn": "24-June-2025",
+        "categories": [
+            {
+                "label": "Free",
+                "value": "free"
+            },
+            {
+                "label": "Personal",
+                "value": "personal"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            },
+            {
+                "label": "Landing Page",
+                "value": "landing-page"
+            },
+            {
+                "label": "One Pager Templates",
+                "value": "one-pager-templates"
+            },
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "price": 0,
+        "popularity": 211,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/docsta-nextjs-documentation-template",
+        "category": "Tailwind",
+        "imageAlt": "Docsta-Nextjs-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/docsta-nextjs-template.webp",
+        "subtitle": "A free, top-quality Next.js template for fast documentation.",
+        "livePreview": "https://docsta-nextjs.vercel.app/",
+        "templateName": "Docsta Nextjs Documentation Template",
+        "description": "Docsta is a fast, clean, and modern documentation template built with Next.js and Tailwind CSS. It's easy to use, developer-friendly, and perfect for startups, open-source projects, APIs, and more. Save time with a ready-to-use, polished docs page.",
+        "features": [
+            "Seamless Content Management with Sanity Studio",
+            "Dark & Light Mode Support",
+            "Customizable Content Models",
+            "Organized folder structure for easy development",
+            "Fully responsive design for all screen sizes",
+            "Optimized for Performance"
+        ],
+        "createdOn": "24-June-2025",
+        "categories": [
+            {
+                "label": "Free",
+                "value": "free"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "price": 0,
+        "popularity": 212,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/venus-pro-nextjs-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Venus-Free-Next.js-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/venus/venus-nextjs-website-template.webp",
+        "subtitle": "Explore New Possibilities in Portfolio Design with Venus Pro NextJS Template.",
+        "livePreview": "https://venus-nextjs-pro.vercel.app/",
+        "templateName": "Venus Free Next.js Website Template",
+        "description": "This Venus NextJs is A sleek, responsive Website Nextjs template with versatile page layouts for a professional online presence.",
+        "features": [
+            "Designed and Engineered For Portfolio & Personal Websites",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "Blogs Made With MDX",
+            "High-quality Premium Design",
+            "Authentication Using Next AUTH",
+            "With Perfect Dark Mode Support",
+            "Essential Inner Page and Integrations"
+        ],
+        "createdOn": "02-Aug-2024",
+        "categories": [
+            {
+                "label": "Free",
+                "value": "free"
+            },
+            {
+                "label": "Personal",
+                "value": "personal"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "price": 29,
+        "popularity": 213,
+        "appType": "landingpage",
+        "details": "https://getnextjstemplates.com/products/awake-agency-nextjs-template",
+        "category": "Tailwind",
+        "imageAlt": "Awake-Next.js-Agency-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/Awake/awake-nextjs-website-template.webp",
+        "subtitle": "Modern NextJS Agency Website Template featuring responsive design and UI's",
+        "livePreview": "https://awake-agency-next-js.vercel.app/",
+        "templateName": "Awake - Agency Next.js SaaS Boilerplate and Landing Page for Business",
+        "description": "Looking to build your professional-looking website? Awake is the perfect template to help you learn while creating something impressive for creative agencies and design studios. Perfect for your portfolio, a client project, or just practicing your skills with a real-world website template!",
+        "features": [
+            "Designed and Build For Agencies, Startups, SaaS, PaaS",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "High-quality Premium Design",
+            "Authentication Using Next AUTH",
+            "Easy-To-Understand Folder Structure",
+            "The Hassle-free Setup Process",
+            "Organized Code Structure"
+        ],
+        "createdOn": "08-Mar-2025",
+        "categories": [
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            },
+            {
+                "label": "Saas",
+                "value": "saas"
+            },
+            {
+                "label": "Landing Page",
+                "value": "landing-page"
+            },
+            {
+                "label": "One Pager Templates",
+                "value": "one-pager-templates"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "price": 29,
+        "popularity": 214,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/blog-forge-nextjs-template",
+        "category": "Tailwind",
+        "imageAlt": "BlogForge-Nextjs-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/blogforge/blogforge-nextjs-sanity-website.webp",
+        "subtitle": "SEO-Friendly Blog Template for Next.js | Article & Magazine Sites",
+        "livePreview": "https://blog-forge-sanity.vercel.app/",
+        "templateName": "BlogForge Nextjs Template for Blogging & Article Websites",
+        "description": "Start your blog in minutes with this lightweight, fast-loading Next.js blog starter. Clean UI, fast loading, and easy to personalize for any Professional deal for personal blogs, tech articles, travel journals, and more",
+        "features": [
+            "Seamless Content Management with Sanity Studio",
+            "Optimized for Performance",
+            "Dark & Light Mode Support",
+            "Dynamic Content Previews",
+            "Customizable Content Models",
+            "Fully responsive design for all screen sizes",
+            "Authentication implemented with next-auth",
+            "Organized folder structure for easy development"
+        ],
+        "createdOn": "16-June-2025",
+        "categories": [
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "price": 0,
+        "popularity": 215,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/property-pro-nextjs-real-estate-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Property-Free-Nextjs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/property/property-nextjs-website-template.webp",
+        "subtitle": "Transform Your Real Estate Portfolio With Property Next.js Template",
+        "livePreview": "https://property-nextjs-pro.vercel.app/",
+        "templateName": "Property Free Next.js Website Template",
+        "description": "Modern real estate website built with Nextjs template and Tailwind CSS, perfect for showcasing properties with style and speed.",
+        "features": [
+            "Designed and Engineered For Real-Estate Website",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Blogs Made With MDX",
+            "Authentication Using Next AUTH",
+            "High-quality Premium Design",
+            "Advance Tech Stacks and Seamless Integrations",
+            "With Perfect Dark Mode Support",
+            "Essential Inner Page and Integrations"
+        ],
+        "createdOn": "19-Jul-2024",
+        "categories": [
+            {
+                "label": "Free",
+                "value": "free"
+            },
+            {
+                "label": "Real Estate",
+                "value": "real-estare"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            },
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "price": 29,
+        "popularity": 216,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/gleamer-nextjs-template",
+        "category": "Tailwind",
+        "imageAlt": "Gleamer-Nextjs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/gleamer/gleamer-website-template.webp",
+        "subtitle": "Gleamer is a trusted and well-documented Next.js template made specifically for cleaning business websites",
+        "livePreview": "https://gleamer-main.vercel.app/",
+        "templateName": "Gleamer - Cleaning Next.js Website Template",
+        "description": "Whether you're launching a residential or commercial cleaning website, Gleamer provides a ready-to-use foundation with flexible layouts, optimized code, and seamless integration options to get your site live faster",
+        "features": [
+            "Built with Next.js 15 and React 19 for modern web development",
+            "Styled using Tailwind CSS 4 with full design flexibility",
+            "Written in TypeScript for type safety and scalability",
+            "Fast performance and SEO-friendly out of the box",
+            "Clean, modular, and reusable components",
+            "Fully responsive design for all screen sizes",
+            "Light and dark mode toggle included",
+            "Organized folder structure for easy development",
+            "Built-in authentication system for secure user login and registration"
+        ],
+        "createdOn": "14-May-2025",
+        "categories": [
+            {
+                "label": "StartUp",
+                "value": "startup"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            },
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "price": 29,
+        "popularity": 217,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/learnaxis-nextjs-template",
+        "category": "Tailwind",
+        "imageAlt": "Learnaxis-Nextjs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/learnaxis/learnaxis-nextjs-tailwind-website-template.webp",
+        "subtitle": "Build Smarter Learning Platforms With the LearnAxis NextJS Template",
+        "livePreview": "https://learnaxis.vercel.app/",
+        "templateName": "Learnaxis - Education Next.js Website Template",
+        "description": "LearnAxis is a modern and responsive education template built with Next.js and Tailwind CSS. Ideal for online courses, schools, or EdTech projects, it offers a clean design and fast performance for a seamless user experience.",
+        "features": [
+            "Built with Next.js 15 and React 19 for modern web development",
+            "Styled using Tailwind CSS 4 with full design flexibility",
+            "Written in TypeScript for type safety and scalability",
+            "Fast performance and SEO-friendly out of the box",
+            "Clean, modular, and reusable components",
+            "Fully responsive design for all screen sizes",
+            "Light and dark mode toggle included",
+            "Organized folder structure for easy development",
+            "Built-in authentication system for secure user login and registration"
+        ],
+        "createdOn": "22-Apr-2025",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Ecommerce",
+                "value": "ecommerce"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "price": 29,
+        "popularity": 218,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/studiova-nextjs-template",
+        "category": "Tailwind",
+        "imageAlt": "Studiova-Nextjs-App",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/studiova/studiova-nextjs-tailwind-website-template.webp",
+        "subtitle": "Studiova NextJS Template: Build Modern Web Apps Faster with Tailwind CSS, TypeScript, and React",
+        "livePreview": "https://studiova.vercel.app/",
+        "templateName": "Studiova- Next.js App & Software Template and Starter Kit",
+        "description": "Studiova is a high-performance,visually stunning portfolio template crafted for modern-day creatives, designers, developers, and agencies. Built using the latest stack Next.js, React, Tailwind CSS, and TypeScript—Studiova ensures blazing-fast performance, optimized SEO, and a seamless developer experience. Whether you're building a personal site, agency showcase, or freelance portfolio, Studiova's minimal yet expressive design will make your work stand out. Fully responsive, cleanly coded, and ready to deploy, it's the perfect foundation for your next portfolio project.",
+        "features": [
+            "Built with Next.js 15 & React 19",
+            "Styled using Tailwind CSS 4 for full customization",
+            "Written in TypeScript for scalability and type safety",
+            "Blazing fast performance and optimized SEO",
+            "Reusable, clean, and modular components",
+            "Fully responsive design for all screen sizes",
+            "Light and dark mode toggle included",
+            "Organized folder structure for easy development",
+            "Built-in authentication system for secure user login and registration"
+        ],
+        "createdOn": "05-Apr-2025",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "price": 29,
+        "popularity": 219,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/homely-nextjs-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Homely-Nextjs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/homely/homely-nextjs-website-template.webp",
+        "subtitle": "A Seamless, Modern Real Estate Experience for Buyers, Sellers, and Agents",
+        "livePreview": "https://homely-nextjs-tailwind.vercel.app/",
+        "templateName": "Homely - Real Estate Next.js Website Template",
+        "description": "Homely is a modern real estate web application designed to provide a seamless property browsing experience. Built using Next.js, Tailwind CSS, and Shadcn, it delivers a visually stunning and highly optimized UI with dynamic, responsive features. Homely offers intuitive navigation, fast-loading pages, and a sleek, professional design, whether you're a buyer, seller, or agent",
+        "features": [
+            "Built with Next.js – Fast performance & server-side rendering",
+            "Tailwind CSS Integration – Clean, responsive UI design",
+            "Shadcn Components – Elegant pre-designed UI elements",
+            "Property Listings – Browse and filter real estate listings effortlessly",
+            "SEO & Performance Optimized – Ensures high-speed navigation",
+            "Mobile-Friendly Design – Fully responsive on all devices",
+            "Interactive UI – Modern animations & smooth transition"
+        ],
+        "createdOn": "29-Mar-2025",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Real Estate",
+                "value": "real-estare"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "price": 29,
+        "popularity": 220,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/endeavor-pro-nextjs-charity-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Endeavor-Nextjs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/endeavor/endeavor-nextjs-website-template.webp",
+        "subtitle": "Inspiring Generosity Through Innovation With Endeavor Next.js Pro",
+        "livePreview": "https://endeavor-nextjs-pro.vercel.app/",
+        "templateName": "Endeavor Pro Nextjs Charity Website Template",
+        "description": "The Endeavor Pro Charity Website Template is a modern and responsive solution designed for nonprofits, charitable organizations, and fundraising initiatives. Built with Next.js 15 and Tailwind CSS, this template offers a sleek and user-friendly experience, ensuring your mission is communicated effectively.",
+        "features": [
+            "Designed and Engineered For Charity Work Website",
+            "Made with React 18+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Authentication Using NextAuth",
+            "Essential InnerPage and Integrations",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "Blogs Made With MDX",
+            "High-quality Premium Design",
+            "With Perfect Dark Mode Support"
+        ],
+        "createdOn": "20-May-2025",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "price": 0,
+        "popularity": 221,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/symposium-pro-nextjs-project-management-system-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Symposium-NextJs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/symposium/symposium-nextjs-website-template.webp",
+        "subtitle": "Symposium NextJs Website Template for Event & Conference",
+        "livePreview": "https://symposium-next-js.vercel.app/",
+        "templateName": "Symposium Free NextJs Website Template",
+        "description": "Symposium is a sleek and modern project management system built with Tailwind CSS and Next.js template designed to streamline team collaboration and project tracking.",
+        "features": [
+            "Designed and Engineered For Project Management System Website",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "High-quality Premium Design",
+            "With Perfect Dark Mode Support",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "Blogs Made With MDX",
+            "Authentication Using Next AUTH",
+            "Easy-To-Understand Code and Folder-Structure"
+        ],
+        "createdOn": "02-Aug-2024",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Free",
+                "value": "free"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "price": 29,
+        "popularity": 222,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/avenue-pro-nextjs-travel-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Avenue-NextJs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/Avenue/avenue-nextjs-website-template.webp",
+        "subtitle": "Elevate Your Travel Business With Avenue NextJS Template",
+        "livePreview": "https://avenue-nextjs-pro.vercel.app/",
+        "templateName": "Avenue Pro NextJs Travel Website Template",
+        "description": "Discover your next adventure with Avenue: a sleek, Next.js templateand Tailwind-powered travel website template designed for seamless exploration and booking",
+        "features": [
+            "Designed and Engineered For Travelling Website",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Easy-To-Understand Code and Folder-Structure",
+            "With Perfect Dark Mode Support",
+            "High-quality Premium Design",
+            "Blogs Made With MDX",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "Essential Inner Page and Integrations"
+        ],
+        "createdOn": "27-Jul-2024",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "price": 29,
+        "popularity": 223,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/healthpoint-pro-nextjs-medical-and-healthcare-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Healthpoint-NextJs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/healthpoint/healthpoint-nextjs-website-template.webp",
+        "subtitle": "Streamline Your Healthcare Communication With HealthPoint NextJS Template",
+        "livePreview": "https://health-point-nextjs-pro.vercel.app/",
+        "templateName": "Healthpoint Pro NextJs Medical and Healthcare Website Template",
+        "description": "Use HealthPoint for A modern, responsive medical website built with Tailwind CSS and Nextjs template , designed for seamless patient engagement and healthcare management.",
+        "features": [
+            "Designed and Engineered For Medical Website",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Blogs Made With MDX",
+            "Easy-To-Understand Code and Folder-Structure",
+            "High-quality Premium Design",
+            "Authentication Using Next AUTH",
+            "With Perfect Dark Mode Support",
+            "Essential Inner Page and Integrations",
+            "Advanced Tech Stacks and Seamless Integrations"
+        ],
+        "createdOn": "10-Jul-2024",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "price": 29,
+        "popularity": 224,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/grammar-pro-nextjs-e-learning-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Grammar-NextJs-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/grammar/grammar-nextjs-website-template.webp",
+        "subtitle": "Enhance the Learning Journey With Grammar NextJS Template",
+        "livePreview": "https://grammer-nextjs-pro.vercel.app/",
+        "templateName": "Grammar Pro NextJs E-Learning Website Template",
+        "description": "Grammar is a stylish e-learning website crafted with Tailwind CSS and Next.js template perfect for engaging and responsive educational experiences.",
+        "features": [
+            "Designed and Engineered For E-Learning & EdTech Platforms Website",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "High-quality Premium Design",
+            "With Perfect Dark Mode Support",
+            "Easy-To-Understand Code and Folder-Structure",
+            "Blogs Made With MDX",
+            "Authentication Using Next AUTH",
+            "Essential Inner Page and Integrations"
+        ],
+        "createdOn": "10-Jul-2024",
+        "categories": [
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "price": 29,
+        "popularity": 225,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/dashnext-nextjs-dashboard-template",
+        "category": "Tailwind",
+        "imageAlt": "DashNext-Nextjs-Tailwind-Admin-Dashboard",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/dashnext/dashnext-nextjs-admin-template.webp",
+        "subtitle": "DashNext is the ultimate Nextjs dashboard template designed for modern developers.",
+        "livePreview": "https://dash-next-nextjs-tailwind.vercel.app/",
+        "templateName": "DashNext Next.js Tailwind Admin Dashboard",
+        "description": "DashNext is the ultimate Nextjs dashboard template designed for modern developers. This Nextjs Template provides a rich set of UI elements, form components, and dynamic tables. It also includes seamless authentication with Next-Auth, making it easy to create your dashboards.This Nextjs Template allows you to build powerful and stunning dashboards quickly.",
+        "features": [
+            "Designed and Build For Next-Gen Dev’s",
+            "Made with React 19+, NextJs 15 and Flowbite",
+            "Styled Using Tailwind CSS",
+            "High-quality Premium Design",
+            "Easy-To-Understand Code and Folder-Structure",
+            "With Perfect Dark Mode Support",
+            "Essential Inner Page and Integrations"
+        ],
+        "createdOn": "10-Jul-2024",
+        "categories": [
+            {
+                "label": "Admin Dashboard",
+                "value": "admin-dashboard"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "price": 29,
+        "popularity": 225,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/dashnext-nextjs-dashboard-template",
+        "category": "Tailwind",
+        "imageAlt": "DashNext-Nextjs-Tailwind-Admin-Dashboard",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/dashnext/dashnext-nextjs-admin-template.webp",
+        "subtitle": "DashNext is the ultimate Nextjs dashboard template designed for modern developers.",
+        "livePreview": "https://dash-next-nextjs-tailwind.vercel.app/",
+        "templateName": "DashNext Next.js Tailwind Admin Dashboard",
+        "description": "DashNext is the ultimate Nextjs dashboard template designed for modern developers. This Nextjs Template provides a rich set of UI elements, form components, and dynamic tables. It also includes seamless authentication with Next-Auth, making it easy to create your dashboards.This Nextjs Template allows you to build powerful and stunning dashboards quickly.",
+        "features": [
+            "Designed and Build For Next-Gen Dev’s",
+            "Made with React 19+, NextJs 15 and Flowbite",
+            "Styled Using Tailwind CSS",
+            "High-quality Premium Design",
+            "Easy-To-Understand Code and Folder-Structure",
+            "With Perfect Dark Mode Support",
+            "Essential Inner Page and Integrations"
+        ],
+        "createdOn": "10-Jul-2024",
+        "categories": [
+            {
+                "label": "Admin Dashboard",
+                "value": "admin-dashboard"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "price": 29,
+        "popularity": 226,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/snl-pro-nextjs-tailwind-website-template",
+        "category": "Tailwind",
+        "imageAlt": "SNL-NextJs-Tailwind-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/snl/SNL-nextjs-tailwind-website-template.webp",
+        "subtitle": "Create fast, dynamic websites with this Next.js and Tailwind CSS template.",
+        "livePreview": "https://snl-nextjs-tailwind.vercel.app/",
+        "templateName": "SNL Pro NextJs Tailwind Website Template",
+        "description": "Revolutionize your digital presence with SNL PRO Next.js templateBuilt with Tailwind CSS & TypeScript stack that turns complex web development into a seamless journey. Build blazing-fast, type-safe sites that convert visitors into customers .",
+        "features": [
+            "Designed and Engineered for Design Agency",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "Organized Code Structure",
+            "Easy-To-Understand Code and Folder-Structure",
+            "With Perfect Dark Mode Support",
+            "Authentication Using NextAuth",
+            "Blogs Made With MDX",
+            "Login and Registration Modules Implemented"
+        ],
+        "createdOn": "25-Nov-2024",
+        "categories": [
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            },
+            {
+                "label": "Saas",
+                "value": "saas"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "price": 29,
+        "popularity": 227,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/nicktio-nextjs-tailwind-website-template",
+        "category": "Tailwind",
+        "imageAlt": "Nicktio-Nextjs-Tailwind-Website-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/nicktio/nicktio-nextjs-tailwind-website-template.webp",
+        "subtitle": "Build Faster Payment Solutions with Nicktio Next.js.",
+        "livePreview": "https://nicktio-nextjs-pro.vercel.app/",
+        "templateName": "Nicktio Next.js Tailwind Website Template",
+        "description": "Introducing Nicktio, the ultimate NextJS Tailwind website template specifically coded for payment platforms, fintech startups, and financial service providers. This powerful, professional-grade website Nextjs template combines sleek design, robust functionality, and advanced development technologies to help you launch a world-class web presence.",
+        "features": [
+            "Designed and Engineered For Payment Platform Website",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Authentication Using NextAuth",
+            "Essential Inner Page and Integrations",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "Easy-To-Understand Code and Folder-Structure",
+            "Blogs Made With MDX",
+            "With Perfect Dark Mode Support"
+        ],
+        "createdOn": "29-Nov-2024",
+        "categories": [
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Saas",
+                "value": "saas"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            }
+        ]
     }
 ]
