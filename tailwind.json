@@ -3849,10 +3849,6 @@
         "createdOn": "30-Aug-2024",
         "categories": [
             {
-                "value": "free",
-                "label": "Free"
-            },
-            {
                 "label": "Admin Dashboard",
                 "value": "admin-dashboard"
             },
@@ -3954,10 +3950,6 @@
         ],
         "createdOn": "07-Dec-2024",
         "categories": [
-            {
-                "value": "free",
-                "label": "Free"
-            },
             {
                 "label": "Admin Dashboard",
                 "value": "admin-dashboard"
