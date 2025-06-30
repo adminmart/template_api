@@ -4763,7 +4763,7 @@
         "templateName": "Symposium Free NextJs Website Template",
         "description": "Symposium is a sleek and modern project management system built with Tailwind CSS and Next.js template designed to streamline team collaboration and project tracking.",
         "features": [
-            "Designed and Engineered For Project Management System Website",
+            "Designed and Engineered For event & conference Website",
             "Made with React 19+, NextJs 15+ and TypeScript",
             "Styled Using Tailwind CSS",
             "High-quality Premium Design",
@@ -5100,6 +5100,70 @@
             {
                 "label": "Website Template",
                 "value": "website-template"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "price": 0,
+        "popularity": 228,
+        "appType": "Website",
+        "details": "https://getnextjstemplates.com/products/sustainable-pro-nextjs-website-template-for-saas-products",
+        "category": "Tailwind",
+        "imageAlt": "Sustainable-Nextjs-Portfolio-Template",
+        "imageSrc": "https://getnextjstemplates.com/images/template-images/sustainable/sustainable-nextjs-website-template.webp",
+        "subtitle": "Innovate Your Agency's Online Presence With Sustainable NextJS Template.",
+        "livePreview": "https://sustainable-nextjs.vercel.app/",
+        "templateName": "Sustainable - Free Next.js Portfolio Template",
+        "description": "Sustainable is A clean and flexible Tailwind CSS and Next.js template for creating impactful, eco-friendly websites.",
+        "features": [
+            "Designed and Engineered For Digital Agency Website",
+            "Made with React 19+, NextJs 15+ and TypeScript",
+            "Styled Using Tailwind CSS",
+            "Authentication Using NextAuth",
+            "Easy-To-Understand Code and Folder-Structure",
+            "Advanced Tech Stacks and Seamless Integrations",
+            "Essential Inner Page and Integrations",
+            "With Perfect Dark Mode Support",
+            "Blogs Made With MDX"
+        ],
+        "createdOn": "02-Aug-2024",
+        "categories": [
+            {
+                "label": "Portfolio",
+                "value": "portfolio"
+            },
+            {
+                "label": "Website Template",
+                "value": "website-template"
+            },
+            {
+                "label": "Saas",
+                "value": "saas"
+            },
+            {
+                "label": "Agency",
+                "value": "agency"
+            },
+            {
+                "label": "Blog",
+                "value": "blog"
+            },
+            {
+                "label": "Business",
+                "value": "business"
+            },
+            {
+                "label": "Corporate",
+                "value": "corporate"
+            },
+            {
+                "label": "StartUp",
+                "value": "startup"
+            },
+            {
+                "label": "Free",
+                "value": "free"
             }
         ]
     }
