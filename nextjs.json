@@ -7006,7 +7006,7 @@
     "details": "https://github.com/starwiz-7/codestream/archive/refs/heads/main.zip",
     "category": "NextJs",
     "imageAlt": "codestream",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/codestream.jwebp",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/codestream.webp",
     "subtitle": "A web app for users to collaborate while solving a coding problem",
     "livePreview": "https://codestream.vercel.app/",
     "templateName": "Codestream",
