@@ -7305,7 +7305,7 @@
     "imageSrc": "https://adminmart.com/wp-content/uploads/2024/12/Matdash_reactjs_tailwind_free.webp",
     "subtitle": "Power Up your app with MatDash Pro Unlock more features now!",
     "livePreview": "https://matdash-react-tailwind-free.netlify.app/",
-    "templateName": "MatDash Tailwind React Admin Template",
+    "templateName": "Matdash Free Tailwind React Dashboard",
     "description": "The Matdash React Tailwind Free Admin Dashboard is the cornerstone for developers aiming to revolutionize their web administration capabilities. Tailored for startups and developers alike, this version provides a foundational suite of features to facilitate efficient project management and data visualization.",
     "features": [
       "React 18+",
@@ -7338,7 +7338,7 @@
   {
     "id": 209,
     "price": 49,
-    "popularity": 105,
+    "popularity": 113,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-tailwind-react-admin-template/",
     "category": "NextJs",
