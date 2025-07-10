@@ -102,7 +102,7 @@
   {
     "id": 3,
     "price": 0,
-    "popularity": 201,
+    "popularity": 126,
     "appType": "admin-template",
     "details": "https://www.npmjs.com/package/react-mui-sidebar",
     "category": "React",
@@ -132,7 +132,7 @@
   {
     "id": 4,
     "price": 0,
-    "popularity": 202,
+    "popularity": 127,
     "appType": "landingpage",
     "details": "https://getnextjstemplates.com/products/desgy-nextjs-free-landing-page-template",
     "category": "NextJs",
@@ -193,7 +193,7 @@
   {
     "id": 5,
     "price": 0,
-    "popularity": 203,
+    "popularity": 128,
     "appType": "landingpage",
     "details": "https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template",
     "category": "NextJs",
@@ -240,7 +240,7 @@
   {
     "id": 6,
     "price": 0,
-    "popularity": 204,
+    "popularity": 129,
     "appType": "landingpage",
     "details": "https://nextjs-templates.com/products/crypto-free-nextjs-landing-page-template-with-tailwind-css-headless-ui",
     "category": "NextJs",
@@ -288,7 +288,7 @@
   {
     "id": 7,
     "price": 0,
-    "popularity": 205,
+    "popularity": 130,
     "appType": "landingpage",
     "details": "https://getnextjstemplates.com/products/chefs-kitchen-free-nextjs-landing-page-template",
     "category": "NextJs",
@@ -327,7 +327,7 @@
   {
     "id": 8,
     "price": 0,
-    "popularity": 206,
+    "popularity": 131,
     "appType": "landingpage",
     "details": "https://getnextjstemplates.com/products/dsign-new-nextjs-based-landing-page-template",
     "category": "NextJs",
@@ -380,7 +380,7 @@
   {
     "id": 9,
     "price": 0,
-    "popularity": 207,
+    "popularity": 132,
     "appType": "landingpage",
     "details": "https://getnextjstemplates.com/products/paidin-free-nextjs-landing-page-template-with-app-directory-routing",
     "category": "NextJs",
@@ -429,7 +429,7 @@
   {
     "id": 10,
     "price": 0,
-    "popularity": 208,
+    "popularity": 133,
     "appType": "landingpage",
     "details": "https://getnextjstemplates.com/products/e-learning-nextjs-with-app-directory-free-landing-page-template",
     "category": "NextJs",
@@ -663,7 +663,7 @@
   {
     "id": 15,
     "price": 0,
-    "popularity": 305,
+    "popularity": 145,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-next-js-free-admin-template?ref=340",
     "category": "NextJs",
@@ -708,7 +708,7 @@
   {
     "id": 16,
     "price": 49,
-    "popularity": 306,
+    "popularity": 146,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-nextjs-dashboard-material-ui/#demos?ref=340",
     "category": "NextJs",
@@ -767,7 +767,7 @@
   {
     "id": 17,
     "price": 0,
-    "popularity": 401,
+    "popularity": 149,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-free-react-mui-dashboard?ref=37",
     "category": "React",
@@ -813,7 +813,7 @@
   {
     "id": 18,
     "price": 49,
-    "popularity": 402,
+    "popularity": 150,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-react-mui-dashboard-theme?ref=37",
     "category": "React",
@@ -5215,7 +5215,7 @@
   {
     "id": 153,
     "price": 19,
-    "popularity": 210,
+    "popularity": 134,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/snl-pro-nextjs-tailwind-website-template",
     "category": "NextJs",
@@ -5266,7 +5266,7 @@
   {
     "id": 154,
     "price": 19,
-    "popularity": 211,
+    "popularity": 135,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/saturn-pro-nextjs-website-template-for-team-management-tools",
     "category": "NextJs",
@@ -5325,7 +5325,7 @@
   {
     "id": 155,
     "price": 19,
-    "popularity": 212,
+    "popularity": 136,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/healthpoint-pro-nextjs-medical-and-healthcare-website-template",
     "category": "NextJs",
@@ -5360,7 +5360,7 @@
   {
     "id": 156,
     "price": 19,
-    "popularity": 213,
+    "popularity": 137,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/property-pro-nextjs-real-estate-website-template",
     "category": "NextJs",
@@ -5403,7 +5403,7 @@
   {
     "id": 157,
     "price": 19,
-    "popularity": 214,
+    "popularity": 138,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/avenue-pro-nextjs-travel-website-template",
     "category": "NextJs",
@@ -5442,7 +5442,7 @@
   {
     "id": 158,
     "price": 19,
-    "popularity": 215,
+    "popularity": 139,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/grammar-pro-nextjs-e-learning-website-template",
     "category": "NextJs",
@@ -5477,7 +5477,7 @@
   {
     "id": 159,
     "price": 19,
-    "popularity": 216,
+    "popularity": 140,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/symposium-pro-nextjs-project-management-system-website-template",
     "category": "NextJs",
@@ -5512,7 +5512,7 @@
   {
     "id": 160,
     "price": 19,
-    "popularity": 217,
+    "popularity": 141,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/sustainable-pro-nextjs-website-template-for-saas-products",
     "category": "NextJs",
@@ -5559,7 +5559,7 @@
   {
     "id": 161,
     "price": 19,
-    "popularity": 218,
+    "popularity": 142,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/venus-pro-nextjs-website-template",
     "category": "NextJs",
@@ -5602,7 +5602,7 @@
   {
     "id": 162,
     "price": 19,
-    "popularity": 219,
+    "popularity": 143,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/nicktio-nextjs-tailwind-website-template",
     "category": "NextJs",
@@ -5642,7 +5642,7 @@
   {
     "id": 163,
     "price": 0,
-    "popularity": 220,
+    "popularity": 144,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/crypto-free-nextjs-landing-page-template-with-tailwind-css-headless-ui",
     "category": "NextJs",
@@ -5772,7 +5772,7 @@
   {
     "id": 168,
     "price": 19,
-    "popularity": 309,
+    "popularity": 147,
     "appType": "admin-template",
     "details": "https://getnextjstemplates.com/products/dashnext-nextjs-dashboard-template",
     "category": "NextJs",
@@ -5807,7 +5807,7 @@
   {
     "id": 169,
     "price": 19,
-    "popularity": 310,
+    "popularity": 148,
     "appType": "website",
     "details": "https://getnextjstemplates.com/products/saascandy-nextjs-website-template",
     "category": "NextJs",
