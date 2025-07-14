@@ -7538,5 +7538,54 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 213,
+    "price": 0,
+    "popularity": 1157,
+    "appType": "website",
+    "details": "https://github.com/steamwebapi/steam-inventory-next.js/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "steam-inventory-next.js",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/steam-inventory-next.js.webp",
+    "subtitle": "Steam Inventory Lister and Inventory Worth Calculator with Next.js (React) + Tailwind + DaisyUI and ChakraUI",
+    "livePreview": "https://www.skinpock.com/",
+    "templateName": "Steam Inventory Next.js",
+    "description": "The Steam Inventory Lister and Inventory Worth Calculator is a powerful web application built with Next.js (React), styled using both Tailwind CSS and DaisyUI, with selective use of Chakra UI components for enhanced accessibility and modular design. This tool enables users to seamlessly fetch, display, and manage their Steam inventory in a clean and responsive interface. It efficiently calculates the total market worth of the items by integrating with real-time Steam market data",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "TailwindCSS",
+      "Post Css",
+      "Post Css",
+      "Eslint",
+      "Add History of last crawled Inventories with MonogoDB or something else",
+      "Better SEO for all",
+      "Better Mobile Support",
+      "Inspect Items in Inventory"
+    ],
+    "createdOn": "20-Jun-2023",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
