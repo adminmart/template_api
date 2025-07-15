@@ -7667,5 +7667,64 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 215,
+    "price": 0,
+    "popularity": 1158,
+    "appType": "website",
+    "details": "https://github.com/themefisher/andromeda-light-nextjs/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "andromeda-light-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/andromeda-light-nextjs.webp",
+    "subtitle": "The Andromeda Next.js Light theme is a responsive SaaS solution with a blog, built with NextJs and Tailwind CSS.",
+    "livePreview": "https://andromeda-light-nextjs.vercel.app/",
+    "templateName": "Andromeda Light Nextjs",
+    "description": "The Andromeda Next.js Light theme is a responsive SaaS solution with a blog, built with NextJs and Tailwind CSS. Key Features: Page Speed Score 100 on Desktop, Google Analytics support, Contact form support, SEO-Friendly, Tailwind CSS, Color and fonts variable in config file, Disqus Comment support, Related Posts suggestion, Semantic HTML structure, Custom Logo support, All SCSS Files included, Image Optimized with Next/image, 100% Responsive Design, MDX support with built-in custom components.",
+    "features": [
+      "📄 7+ Pre-Designed Pages",
+      "🚀 Google Page Speed score 100! (Desktop)",
+      "🎨 Tailwind CSS",
+      "🌍 SEO-Friendly",
+      "📱 100% Responsive Design",
+      "✉️ Supports Contact Form",
+      "📊 Google Analytics support",
+      "💬 Disqus Comment Support",
+      "🖼️ Custom Logo Support",
+      "👥 Multi-Author",
+      "🌐 Semantic HTML Document Structure",
+      "🎨 Includes All SCSS Files",
+      "🌅 Image Optimized With Next/image",
+      "🎨 Color and fonts variable in the config file",
+      "📚 Related Posts Suggestion",
+      "✏️ MDX Support with many built-in custom components"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
