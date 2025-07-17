@@ -7618,5 +7618,149 @@
         "value": "admin-dashboard"
       }
     ]
+  },
+  {
+    "id": 214,
+    "price": 0,
+    "popularity": 1157,
+    "appType": "website",
+    "details": "https://github.com/steamwebapi/steam-inventory-next.js/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "steam-inventory-next.js",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/steam-inventory-next.js.webp",
+    "subtitle": "Steam Inventory Lister and Inventory Worth Calculator with Next.js (React) + Tailwind + DaisyUI and ChakraUI",
+    "livePreview": "https://www.skinpock.com/",
+    "templateName": "Steam Inventory Next.js",
+    "description": "The Steam Inventory Lister and Inventory Worth Calculator is a powerful web application built with Next.js (React), styled using both Tailwind CSS and DaisyUI, with selective use of Chakra UI components for enhanced accessibility and modular design. This tool enables users to seamlessly fetch, display, and manage their Steam inventory in a clean and responsive interface. It efficiently calculates the total market worth of the items by integrating with real-time Steam market data",
+    "features": [
+      "Next.js",
+      "React 18+",
+      "TailwindCSS",
+      "Post Css",
+      "Post Css",
+      "Eslint",
+      "Add History of last crawled Inventories with MonogoDB or something else",
+      "Better SEO for all",
+      "Better Mobile Support",
+      "Inspect Items in Inventory"
+    ],
+    "createdOn": "20-Jun-2023",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "price": 0,
+    "popularity": 1158,
+    "appType": "website",
+    "details": "https://github.com/themefisher/andromeda-light-nextjs/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "andromeda-light-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/andromeda-light-nextjs.webp",
+    "subtitle": "The Andromeda Next.js Light theme is a responsive SaaS solution with a blog, built with NextJs and Tailwind CSS.",
+    "livePreview": "https://andromeda-light-nextjs.vercel.app/",
+    "templateName": "Andromeda Light Nextjs",
+    "description": "The Andromeda Next.js Light theme is a responsive SaaS solution with a blog, built with NextJs and Tailwind CSS. Key Features: Page Speed Score 100 on Desktop, Google Analytics support, Contact form support, SEO-Friendly, Tailwind CSS, Color and fonts variable in config file, Disqus Comment support, Related Posts suggestion, Semantic HTML structure, Custom Logo support, All SCSS Files included, Image Optimized with Next/image, 100% Responsive Design, MDX support with built-in custom components.",
+    "features": [
+      "📄 7+ Pre-Designed Pages",
+      "🚀 Google Page Speed score 100! (Desktop)",
+      "🎨 Tailwind CSS",
+      "🌍 SEO-Friendly",
+      "📱 100% Responsive Design",
+      "✉️ Supports Contact Form",
+      "📊 Google Analytics support",
+      "💬 Disqus Comment Support",
+      "🖼️ Custom Logo Support",
+      "👥 Multi-Author",
+      "🌐 Semantic HTML Document Structure",
+      "🎨 Includes All SCSS Files",
+      "🌅 Image Optimized With Next/image",
+      "🎨 Color and fonts variable in the config file",
+      "📚 Related Posts Suggestion",
+      "✏️ MDX Support with many built-in custom components"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "price": 0,
+    "popularity": 1159,
+    "appType": "website",
+    "details": "https://github.com/srikanta30/chatty/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "chatty",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chatty.webp",
+    "subtitle": "Chat App Created Using Next.js, Chakra UI & Firebase.",
+    "livePreview": "https://chat-app-ce087.web.app/",
+    "templateName": "Chat App",
+    "description": "This Chat App is built using Next.js, Chakra UI, and Firebase, offering a fast, responsive, and secure real-time messaging experience. Leveraging Next.js for server-side rendering and seamless routing ensures high performance and scalability, while Chakra UI delivers a modern and accessible user interface with customizable design components",
+    "features": [
+      "Google User Authentication: Users are able to log in and log out using their Google accounts via Firebase Authentication.",
+      "Chat Rooms: Users are able to create, join, and leave chat rooms.",
+      "Real-Time Messaging: Messages sent by users should appear in the chat room in real time.",
+      "Message History: The chat application stores the history of messages for each chat room, which are visible to users when they join the room.",
+      "Private Messaging: Users are able to send private messages to other users."
+    ],
+    "createdOn": "22-May-2023",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
