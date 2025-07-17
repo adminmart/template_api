@@ -7762,5 +7762,51 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 217,
+    "price": 0,
+    "popularity": 121,
+    "appType": "admin-template",
+    "details": "https://getnextjstemplates.com/products/resume-nextjs-template",
+    "category": "NextJs",
+    "imageAlt": "Resume",
+    "imageSrc": "https://getnextjstemplates.com/images/template-images/resume-nextjs.webp",
+    "subtitle": "Professional Resume Website Template for Tech Creatives",
+    "livePreview": "https://resume-getnextjs-template.vercel.app/",
+    "templateName": "Resume NextJs Template",
+    "description": "Build your personal brand with this modern Resume template built using Next.js and Tailwind CSS. Perfect for developers, designers, and freelancers who want to showcase their skills, projects, and experience professionally",
+    "features": [
+      "Clean, modern resume layout design",
+      "Built with Next.js and Tailwind CSS",
+      "Fully responsive on all screen sizes",
+      "Easy to customize and deploy",
+      "Fast loading and SEO optimized",
+      "Includes project and skills sections",
+      "Ideal for developers and designers"
+    ],
+    "createdOn": "16-July-2025",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
