@@ -698,6 +698,10 @@
       {
         "value": "agency",
         "label": "Agency"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
       }
     ]
   },
@@ -711,7 +715,7 @@
     "imageAlt": "coint-free-crpyt-currency-bootstrap-landing-page",
     "imageSrc": "https://adminmart.com/wp-content/uploads/2023/03/coint-free-crpyt-currency-bootstrap-landing-page.png",
     "subtitle": "Free & Open-Source Bootstrap landingpage Template",
-    "livePreview": "https://demos.adminmart.com/free/bootstrap/creato-bootstrap-lite/main/html/index.html",
+    "livePreview": "https://demos.adminmart.com/free/bootstrap/coint-bootstrap-lite/main/html/index.html",
     "templateName": "Coint Free Bootstrap Template",
     "description": "Look no further than Creato  Bootstrap web template, a free bootstrap template with several additional features that is eye-catching and elegantly designed. With its sleek design, Creato Bootstrap Template gives your web project a professional and engaging look. It has everything you need to create an amazing web template.",
     "features": [
@@ -736,6 +740,10 @@
       {
         "value": "landing-Page",
         "label": "Landing Page"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
       }
     ]
   },
@@ -1464,6 +1472,10 @@
       {
         "value": "landing-page",
         "label": "Landing Page"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
       }
     ]
   },
@@ -1763,6 +1775,10 @@
       {
         "value": "landing-page",
         "label": "Landing Page"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
       }
     ]
   },
@@ -1865,6 +1881,10 @@
       {
         "value": "landing-page",
         "label": "Landing Page"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
       }
     ]
   },
