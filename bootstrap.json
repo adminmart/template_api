@@ -29,14 +29,14 @@
     "categories": [
       {
         "value": "Admin-Dashboard",
-        "label": "Admin-Dashboard"
+        "label": "admin Dashboard"
       },
       {
-        "value": "Free",
+        "value": "free",
         "label": "Free"
       },
       {
-        "value": "Business",
+        "value": "business",
         "label": "Business"
       }
     ]
@@ -112,15 +112,15 @@
     "createdOn": "16-Feb-2023",
     "categories": [
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
-        "value": "Saas",
+        "value": "saas",
         "label": "Saas"
       },
       {
@@ -213,11 +213,11 @@
     "createdOn": "22-Mar-2024",
     "categories": [
       {
-        "value": "Saas",
+        "value": "saas",
         "label": "Saas"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
@@ -314,15 +314,15 @@
     "createdOn": "27-Apr-2024",
     "categories": [
       {
-        "value": "Saas",
+        "value": "saas",
         "label": "Saas"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
@@ -409,15 +409,15 @@
     "createdOn": "20-Sept-2023",
     "categories": [
       {
-        "value": "Saas",
+        "value": "saas",
         "label": "Saas"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
@@ -462,15 +462,15 @@
     "createdOn": "11-Jul-2017",
     "categories": [
       {
-        "value": "Saas",
+        "value": "saas",
         "label": "Saas"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
@@ -514,15 +514,15 @@
     "createdOn": "11-May-2021",
     "categories": [
       {
-        "value": "Saas",
+        "value": "saas",
         "label": "Saas"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
@@ -647,12 +647,16 @@
         "label": "Free"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-Page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
       }
     ]
   },
@@ -688,8 +692,12 @@
         "label": "One-Pager-Templates"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-Page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
       }
     ]
   },
@@ -722,12 +730,12 @@
         "label": "Free"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-Page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -772,23 +780,23 @@
     "createdOn": "13-Feb-2013",
     "categories": [
       {
-        "value": "Saas",
+        "value": "saas",
         "label": "Saas"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
-        "value": "Website-Template",
-        "label": "Website-Template"
+        "value": "website-template",
+        "label": "Website Template"
       },
       {
-        "value": "Corporate",
+        "value": "corporate",
         "label": "Corporate"
       },
       {
@@ -819,7 +827,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -856,7 +864,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -886,7 +894,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -916,7 +924,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -946,7 +954,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -976,7 +984,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1006,7 +1014,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1036,7 +1044,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1066,7 +1074,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1096,7 +1104,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1126,7 +1134,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1172,7 +1180,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1202,7 +1210,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1232,7 +1240,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1262,7 +1270,7 @@
       },
       {
         "value": "admin-dashboard",
-        "label": "Admin-Dashboard"
+        "label": "Admin Dashboard"
       },
       {
         "value": "business",
@@ -1302,7 +1310,7 @@
         "label": "Free"
       },
       {
-        "value": "Landing-Page",
+        "value": "landing-page",
         "label": "Landing-Page"
       },
       {
@@ -1310,8 +1318,8 @@
         "label": "Business"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       }
     ]
   },
@@ -1336,8 +1344,8 @@
         "label": "Free"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       },
       {
         "value": "business",
@@ -1370,20 +1378,20 @@
         "label": "Free"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       },
       {
         "value": "business",
         "label": "Business"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
-        "value": "Website-Template",
-        "label": "Website-Template"
+        "value": "website-template",
+        "label": "Website Template"
       }
     ]
   },
@@ -1408,16 +1416,16 @@
         "label": "Free"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       },
       {
         "value": "business",
         "label": "Business"
       },
       {
-        "value": "Website-Template",
-        "label": "Website-Template"
+        "value": "website-template",
+        "label": "Website Template"
       }
     ]
   },
@@ -1442,20 +1450,20 @@
         "label": "Free"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       },
       {
         "value": "business",
         "label": "Business"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1480,15 +1488,15 @@
         "label": "Free"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       },
       {
         "value": "business",
         "label": "Business"
       },
       {
-        "value": "Admin-Dashboard",
+        "value": "admin-dashboard",
         "label": "Admin Dashboard"
       }
     ]
@@ -1514,20 +1522,20 @@
         "label": "Free"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       },
       {
         "value": "business",
         "label": "Business"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Website-Template",
-        "label": "Website-Template"
+        "value": "website-template",
+        "label": "Website Template"
       }
     ]
   },
@@ -1556,8 +1564,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1582,7 +1590,7 @@
         "label": "Free"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
@@ -1590,8 +1598,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1620,8 +1628,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1666,8 +1674,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1703,8 +1711,8 @@
         "label": "Business"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       }
     ]
   },
@@ -1749,12 +1757,12 @@
         "label": "Business"
       },
       {
-        "value": "Ecommerce",
+        "value": "ecommerce",
         "label": "Ecommerce"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1783,8 +1791,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1813,16 +1821,16 @@
         "label": "Business"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
-        "value": "Portfolio",
+        "value": "portfolio",
         "label": "Portfolio"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1851,12 +1859,12 @@
         "label": "Business"
       },
       {
-        "value": "Real-Estate",
-        "label": "Real-Estate"
+        "value": "real-estate",
+        "label": "Real Estate"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1885,8 +1893,8 @@
         "label": "Business"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       }
     ]
   },
@@ -1915,8 +1923,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1945,12 +1953,12 @@
         "label": "Business"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -1979,8 +1987,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -2016,8 +2024,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -2106,12 +2114,12 @@
         "label": "Business"
       },
       {
-        "value": "Blog",
+        "value": "blog",
         "label": "Blog"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -2140,8 +2148,8 @@
         "label": "Business"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       }
     ]
   },
@@ -2170,8 +2178,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -2208,8 +2216,8 @@
         "label": "Business"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -2340,12 +2348,12 @@
         "label": "Business"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       },
       {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   },
@@ -2374,12 +2382,12 @@
         "label": "Business"
       },
       {
-        "value": "Corporate",
+        "value": "corporate",
         "label": "Corporate"
       },
       {
-        "value": "One-Pager-Templates",
-        "label": "One-Pager-Templates"
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
       }
     ]
   },
@@ -2412,12 +2420,8 @@
         "label": "Personal"
       },
       {
-        "value": "Personal",
-        "label": "Personal"
-      },
-      {
-        "value": "Landing-Page",
-        "label": "Landing-Page"
+        "value": "landing-page",
+        "label": "Landing Page"
       }
     ]
   }
