@@ -7684,7 +7684,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 216,
     "price": 0,
     "popularity": 121,
     "appType": "admin-template",
@@ -7722,6 +7722,58 @@
       {
         "value": "landing-page",
         "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "price": 0,
+    "popularity": 1160,
+    "appType": "website",
+    "details": "https://github.com/spree/spree_starter/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "spree_starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/spree_starter.webp",
+    "subtitle": "@spree application starter template",
+    "livePreview": "https://spreecommerce.org/",
+    "templateName": "Spree_starter",
+    "description": "The @spree application starter template is a robust and scalable foundation for modern web development, designed to accelerate project setup and streamline the developer experience. It comes pre-configured with essential tools, best practices, and a modular architecture that enables rapid development without compromising maintainability",
+    "features": [
+      "Stripe for payment processing, thanks to the official Spree Stripe gem",
+      "Google Analytics 4 integration, thanks to the official Spree Google Analytics gem",
+      "Klaviyo integration, thanks to the official Spree Klaviyo gem",
+      "Devise for authentication",
+      "Sidekiq for background jobs",
+      "PostgreSQL as a database",
+      "Redis for caching",
+      "(Optional) Sentry for error/performance monitoring",
+      "(Optional) SendGrid for transactional email notifications"
+    ],
+    "createdOn": "02-Nov-2025",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
       },
       {
         "value": "free",
