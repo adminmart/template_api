@@ -5320,5 +5320,61 @@
         "label": "Ecommers"
       }
     ]
+  },
+  {
+    "id": 140,
+    "price": 0,
+    "popularity": 606,
+    "appType": "website",
+    "details": "https://www.wrappixel.com/templates/studiova-nuxtjs-business-agency-template/",
+    "category": "Nuxt",
+    "imageAlt": "Studiova-Nuxt",
+    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2025/07/Studiova-Nuxt.webp",
+    "subtitle": "Elevate Your Business or Agency with a Cutting-Edge Nuxt.js Template",
+    "livePreview": "https://studiova-nuxt.netlify.app/",
+    "templateName": "Studiova Nuxtjs Business & Agency Template",
+    "description": "Studiova is a high-performance, visually striking Nuxt.js template crafted specifically for modern businesses, creative agencies, designers, and developers. Powered by the Nuxt 3 framework and styled with Vuetify 3, Studiova offers exceptional performance, robust SEO optimization, and a smooth development workflow. Whether you're building a company website, an agency portfolio, Studiova’s clean and elegant design puts your content front and center. It’s fully responsive, modular, and production-ready—making it the perfect foundation for your next professional web project.",
+    "features": [
+      "NuxtJs 3+",
+      "Vue 3+",
+      "vuetify 3+",
+      "SEO Friendly",
+      "Light/Dark Mode",
+      "Reusable Components",
+      "Responsive",
+      "Developer Friendly",
+      "Increase interaction",
+      "Detailed Documentation"
+    ],
+    "createdOn": "03-Jul-2025",
+    "doFollow": false,
+    "ads": false,
+    "ads_link": "",
+    "categories": [
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ]
   }
 ]
