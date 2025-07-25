@@ -2,7 +2,7 @@
   {
     "id": 1,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1001,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/freedash-bootstrap-5-admin-template/",
     "category": "Bootstrap",
@@ -85,7 +85,7 @@
   {
     "id": 3,
     "price": 49,
-    "popularity": 1,
+    "popularity": 2,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/modernize-bootstrap-5-admin-template/",
     "category": "Bootstrap",
@@ -136,7 +136,7 @@
   {
     "id": 4,
     "price": 0,
-    "popularity": 1,
+    "popularity": 3,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/matdash-free-bootstrap-admin/",
     "category": "Bootstrap",
@@ -176,7 +176,7 @@
   {
     "id": 5,
     "price": 49,
-    "popularity": 1,
+    "popularity": 4,
     "appType": "admin-template",
     "details": "https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/",
     "category": "Bootstrap",
@@ -237,7 +237,7 @@
   {
     "id": 6,
     "price": 0,
-    "popularity": 1,
+    "popularity": 5,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-free-bootstrap-admin/",
     "category": "Bootstrap",
@@ -277,7 +277,7 @@
   {
     "id": 7,
     "price": 39,
-    "popularity": 1,
+    "popularity": 6,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialm-admin-dashboard-template/",
     "category": "Bootstrap",
@@ -338,7 +338,7 @@
   {
     "id": 8,
     "price": 0,
-    "popularity": 1,
+    "popularity": 7,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-free-bootstrap-admin/",
     "category": "Bootstrap",
@@ -380,7 +380,7 @@
   {
     "id": 9,
     "price": 49,
-    "popularity": 1,
+    "popularity": 8,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/spike-bootstrap-admin-dashboard/",
     "category": "Bootstrap",
@@ -433,7 +433,7 @@
   {
     "id": 10,
     "price": 49,
-    "popularity": 1,
+    "popularity": 9,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro/",
     "category": "Bootstrap",
@@ -486,7 +486,7 @@
   {
     "id": 11,
     "price": 49,
-    "popularity": 1,
+    "popularity": 10,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-bootstrap-admin-template/",
     "category": "Bootstrap",
@@ -538,7 +538,7 @@
   {
     "id": 12,
     "price": 0,
-    "popularity": 1,
+    "popularity": 11,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/materialpro-lite/",
     "category": "Bootstrap",
@@ -580,7 +580,7 @@
   {
     "id": 13,
     "price": 0,
-    "popularity": 1,
+    "popularity": 12,
     "appType": "admin-template",
     "details": "https://www.wrappixel.com/templates/flexy-admin-lite/",
     "category": "Bootstrap",
@@ -622,7 +622,7 @@
   {
     "id": 14,
     "price": 0,
-    "popularity": 1,
+    "popularity": 13,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/sasscandy-free-bootstrap-template/",
     "category": "Bootstrap",
@@ -663,7 +663,7 @@
   {
     "id": 15,
     "price": 0,
-    "popularity": 1,
+    "popularity": 14,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/creato-free-bootstrap-template/",
     "category": "Bootstrap",
@@ -708,7 +708,7 @@
   {
     "id": 16,
     "price": 0,
-    "popularity": 1,
+    "popularity": 15,
     "appType": "landingpage",
     "details": "https://adminmart.com/product/coint-free-bootstrap-template/",
     "category": "Bootstrap",
@@ -750,7 +750,7 @@
   {
     "id": 17,
     "price": 49,
-    "popularity": 1,
+    "popularity": 1002,
     "appType": "admin-template",
     "details": "https://1.envato.market/XYbYQg",
     "category": "Bootstrap",
@@ -816,7 +816,7 @@
   {
     "id": 18,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1003,
     "appType": "admin-template",
     "details": "https://github.com/themesberg/volt-bootstrap-5-dashboard/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -846,7 +846,7 @@
   {
     "id": 19,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1004,
     "appType": "admin-template",
     "details": "https://github.com/adminkit/adminkit/archive/refs/heads/dev.zip",
     "category": "Bootstrap",
@@ -883,7 +883,7 @@
   {
     "id": 20,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1005,
     "appType": "admin-template",
     "details": "https://github.com/zuramai/mazer/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -913,7 +913,7 @@
   {
     "id": 21,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1006,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/RoyalUI-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -943,7 +943,7 @@
   {
     "id": 22,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1007,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/star-admin2-free-admin-template/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -973,7 +973,7 @@
   {
     "id": 23,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1008,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/ConnectPlusAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1003,7 +1003,7 @@
   {
     "id": 24,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1009,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/Kapella-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1033,7 +1033,7 @@
   {
     "id": 25,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1010,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1063,7 +1063,7 @@
   {
     "id": 26,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1011,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/MajesticAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1093,7 +1093,7 @@
   {
     "id": 27,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1012,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/PlusAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1123,7 +1123,7 @@
   {
     "id": 28,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1013,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1153,7 +1153,7 @@
   {
     "id": 29,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1014,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/SpicaAdmin-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1164,12 +1164,26 @@
     "templateName": "SpicaAdmin Free Bootstrap Admin Template",
     "description": "Customizable to Your Needs: SpicaAdmin Free Bootstrap Admin Template Personalize your admin experience with SpicaAdmin's exceptional customization options. This free Bootstrap Admin Template empowers you to tailor your dashboard to your exact requirements, ensuring a unique and tailored administrative interface for your specific use case.",
     "features": [],
-    "createdOn": ""
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ]
   },
   {
     "id": 30,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1015,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/skydash-free-bootstrap-admin-template/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1199,7 +1213,7 @@
   {
     "id": 31,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1016,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/futureui-free-admin-bootstrap-template/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1229,7 +1243,7 @@
   {
     "id": 32,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1017,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/Breeze-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1259,7 +1273,7 @@
   {
     "id": 33,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1018,
     "appType": "admin-template",
     "details": "https://github.com/BootstrapDash/Regal-Free-Bootstrap-Admin-Template/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1289,7 +1303,7 @@
   {
     "id": 34,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1019,
     "appType": "landingpage",
     "details": "https://github.com/themefisher/meghna-hugo/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1334,7 +1348,7 @@
   {
     "id": 35,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1020,
     "appType": "landingpage",
     "details": "https://github.com/juniHub/jamstack-ecommerce-nextjs/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1368,7 +1382,7 @@
   {
     "id": 36,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1021,
     "appType": "landingpage",
     "details": "https://github.com/devnyxie/nigiri/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1406,7 +1420,7 @@
   {
     "id": 37,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1022,
     "appType": "landingpage",
     "details": "https://github.com/alibek-gao/mf-next-chakra-poc_layout/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1440,7 +1454,7 @@
   {
     "id": 38,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1023,
     "appType": "landingpage",
     "details": "https://github.com/WorldWideDevelop/habaneras_de_lino/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1482,7 +1496,7 @@
   {
     "id": 39,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1024,
     "appType": "admin-template",
     "details": "https://github.com/TyMick/nextjs-local-authentication/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1516,7 +1530,7 @@
   {
     "id": 40,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1025,
     "appType": "landingpage",
     "details": "https://github.com/shaikhalamin/morning-bakery/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1554,7 +1568,7 @@
   {
     "id": 41,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1026,
     "appType": "landingpage",
     "details": "https://github.com/mohitmishra786/mohit-portfolio/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1584,7 +1598,7 @@
   {
     "id": 42,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1027,
     "appType": "landingpage",
     "details": "https://github.com/maxigimenez/next-medium-blog-boilerplate/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1618,7 +1632,7 @@
   {
     "id": 43,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1028,
     "appType": "landingpage",
     "details": "https://github.com/danielDozie/naijadev/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1648,7 +1662,7 @@
   {
     "id": 44,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1029,
     "appType": "landingpage",
     "details": "https://github.com/stackfoss/doktor/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1664,7 +1678,7 @@
   {
     "id": 45,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1030,
     "appType": "landingpage",
     "details": "https://github.com/spendify-io/spendify-frontend/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1694,7 +1708,7 @@
   {
     "id": 46,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1031,
     "appType": "landingpage",
     "details": "https://github.com/scottgriv/Business-Website/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1731,7 +1745,7 @@
   {
     "id": 47,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1032,
     "appType": "landingpage",
     "details": "https://github.com/rypan/jekyll-db/archive/refs/heads/gh-pages.zip",
     "category": "Bootstrap",
@@ -1747,7 +1761,7 @@
   {
     "id": 48,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1033,
     "appType": "landingpage",
     "details": "https://github.com/riteshk-007/nextjs-store/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -1785,7 +1799,7 @@
   {
     "id": 49,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1034,
     "appType": "landingpage",
     "details": "https://github.com/postmanlabs/postman-docs/archive/refs/heads/develop.zip",
     "category": "Bootstrap",
@@ -1815,7 +1829,7 @@
   {
     "id": 50,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1035,
     "appType": "landingpage",
     "details": "https://github.com/mikeyfe6/Menefex/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1853,7 +1867,7 @@
   {
     "id": 51,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1036,
     "appType": "landingpage",
     "details": "https://github.com/markdino/Construction-website-1/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1891,7 +1905,7 @@
   {
     "id": 52,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1037,
     "appType": "landingpage",
     "details": "https://github.com/jeremylynch/gatsby-strapi-starter/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1921,7 +1935,7 @@
   {
     "id": 53,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1038,
     "appType": "landingpage",
     "details": "https://github.com/caarlos0-graveyard/up/archive/refs/heads/gh-pages.zip",
     "category": "Bootstrap",
@@ -1951,7 +1965,7 @@
   {
     "id": 54,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1039,
     "appType": "landingpage",
     "details": "https://github.com/assemble/grunt-assemble/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -1985,7 +1999,7 @@
   {
     "id": 55,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1040,
     "appType": "landingpage",
     "details": "https://github.com/AntonyJudeShaman/symp/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -2015,7 +2029,7 @@
   {
     "id": 56,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1041,
     "appType": "landingpage",
     "details": "https://github.com/zerostaticthemes/jekyll-serif-theme/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2052,7 +2066,7 @@
   {
     "id": 57,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1042,
     "appType": "admin-template",
     "details": "https://github.com/ColorlibHQ/AdminLTE/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2082,7 +2096,7 @@
   {
     "id": 58,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1043,
     "appType": "admin-template",
     "details": "https://github.com/ColorlibHQ/gentelella/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2112,7 +2126,7 @@
   {
     "id": 59,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1044,
     "appType": "landingpage",
     "details": "https://github.com/ColorlibHQ/shapely/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2146,7 +2160,7 @@
   {
     "id": 60,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1045,
     "appType": "web-template",
     "details": "https://github.com/zemmyang/Bootstrap-Resume-Jekyll/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -2176,7 +2190,7 @@
   {
     "id": 61,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1046,
     "appType": "landingpage",
     "details": "https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2206,7 +2220,7 @@
   {
     "id": 62,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1047,
     "appType": "landingpage",
     "details": "https://github.com/webpixels/bootstrap-starter-kit/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -2244,7 +2258,7 @@
   {
     "id": 63,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1048,
     "appType": "admin-template",
     "details": "https://github.com/webpixels/bootstrap-dashboard-kit/archive/refs/heads/main.zip",
     "category": "Bootstrap",
@@ -2282,7 +2296,7 @@
   {
     "id": 64,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1049,
     "appType": "admin-template",
     "details": "https://github.com/vsoch/sb-admin-jekyll/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2312,7 +2326,7 @@
   {
     "id": 65,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1050,
     "appType": "landingpage",
     "details": "https://github.com/volny/stylish-portfolio-jekyll/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2346,7 +2360,7 @@
   {
     "id": 66,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1051,
     "appType": "landingpage",
     "details": "https://github.com/swcool/landing-page-theme/archive/refs/heads/master.zip",
     "category": "Bootstrap",
@@ -2380,7 +2394,7 @@
   {
     "id": 67,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1052,
     "appType": "landingpage",
     "details": "https://github.com/Skaant/rimarok/archive/refs/heads/dev.zip",
     "category": "Bootstrap",
@@ -2414,7 +2428,7 @@
   {
     "id": 68,
     "price": 0,
-    "popularity": 1,
+    "popularity": 1053,
     "appType": "landingpage",
     "details": "https://github.com/sieis/cottrell-theme/archive/refs/heads/main.zip",
     "category": "Bootstrap",
