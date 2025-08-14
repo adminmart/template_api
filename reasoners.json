@@ -1,66 +1,74 @@
-
 [
   {
     "id": 1,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://adminmart.github.io/template_api/images/ext/CERT-Angular-Wrappixel.png"
+    "title": "Elon Musk on the Future of Space Exploration",
+    "publisher": "BBC News",
+    "date": "January 10, 2024",
+    "image": "https://adminmart.github.io/template_api/images/ext/CERT-Angular-Wrappixel.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   },
   {
     "id": 2,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://adminmart.com/wp-content/uploads/2023/04/modernize-free-angular-material-admin-dashboard.png"
+    "title": "AI and Humanity: A Conversation with Sam Altman",
+    "publisher": "The Verge",
+    "date": "February 5, 2024",
+    "image": "https://adminmart.com/wp-content/uploads/2023/04/modernize-free-angular-material-admin-dashboard.png",
+    "video": "https://www.youtube.com/embed/QPbbqC-wIu8?si=1QeuslqfX3voeuXh"
   },
   {
     "id": 3,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://adminmart.com/wp-content/uploads/2023/04/modernize-angular-material-admin-dashboard-template-1-1.jpg"
+    "title": "Climate Change: Urgent Global Action Needed",
+    "publisher": "National Geographic",
+    "date": "March 2, 2024",
+    "image": "https://adminmart.com/wp-content/uploads/2023/04/modernize-angular-material-admin-dashboard-template-1-1.jpg",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   },
   {
     "id": 4,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/flexy-free-angular.jpg"
+    "title": "The Rise of Electric Vehicles Worldwide",
+    "publisher": "Reuters",
+    "date": "April 12, 2024",
+    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/flexy-free-angular.jpg",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   },
   {
     "id": 5,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/2022/03/flexy-angular-pro.jpg"
+    "title": "NASA Discovers New Earth-like Planet",
+    "publisher": "CNN",
+    "date": "May 20, 2024",
+    "image": "https://www.wrappixel.com/wp-content/uploads/2022/03/flexy-angular-pro.jpg",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   },
   {
     "id": 6,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-angular-lite-y.jpg"
+    "title": "Breakthrough in Quantum Computing",
+    "publisher": "Wired",
+    "date": "June 8, 2024",
+    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-angular-lite-y.jpg",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   },
   {
     "id": 7,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg"
+    "title": "Healthcare Innovations in 2024",
+    "publisher": "Forbes",
+    "date": "July 15, 2024",
+    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   },
   {
     "id": 8,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/2023/10/Spike-Admin-Angular-WrapPixel-Preview-1.jpg"
+    "title": "The Evolution of Renewable Energy",
+    "publisher": "Bloomberg",
+    "date": "August 1, 2024",
+    "image": "https://www.wrappixel.com/wp-content/uploads/2023/10/Spike-Admin-Angular-WrapPixel-Preview-1.jpg",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   },
   {
     "id": 9,
-    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
-    "publisher": "ABC News",
-    "date": "March 14, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg"
+    "title": "Artificial Intelligence in Everyday Life",
+    "publisher": "MIT Technology Review",
+    "date": "September 9, 2024",
+    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
   }
 ]
