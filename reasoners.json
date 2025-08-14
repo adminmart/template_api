@@ -5,7 +5,17 @@
     "publisher": "BBC News",
     "date": "January 10, 2024",
     "image": "https://adminmart.github.io/template_api/images/ext/CERT-Angular-Wrappixel.png",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://avatar.iran.liara.run/public/boy",
+          "name":"Donald Trump"
+        },
+        {
+          "profile":"https://avatar.iran.liara.run/public/3",
+          "name":"Anderson Cooper"
+        }
+    ]
   },
   {
     "id": 2,
