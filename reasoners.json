@@ -3,17 +3,106 @@
     "id": 1,
     "title": "Elon Musk on the Future of Space Exploration",
     "publisher": "BBC News",
-    "date": "January 10, 2024",
+    "date": "2025-08-04 05:48:26.743",
+    "slug": "elon-musk-future-of-space-exploration",
     "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-1.png",
     "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
     "speakers": [
         {
-          "profile":"https://avatar.iran.liara.run/public/boy",
-          "name":"Donald Trump"
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
         },
         {
-          "profile":"https://avatar.iran.liara.run/public/3",
-          "name":"Anderson Cooper"
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
         }
     ]
   },
@@ -21,64 +110,856 @@
     "id": 2,
     "title": "AI and Humanity: A Conversation with Sam Altman",
     "publisher": "The Verge",
-    "date": "February 5, 2024",
-    "image": "https://adminmart.com/wp-content/uploads/2023/04/modernize-free-angular-material-admin-dashboard.png",
-    "video": "https://www.youtube.com/embed/QPbbqC-wIu8?si=1QeuslqfX3voeuXh"
+    "date": "2025-08-04 05:48:26.743",
+    "slug": "ai-humanity-conversation-sam-altman",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-2.png",
+    "video": "https://www.youtube.com/embed/QPbbqC-wIu8?si=1QeuslqfX3voeuXh",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   },
   {
     "id": 3,
     "title": "Climate Change: Urgent Global Action Needed",
     "publisher": "National Geographic",
-    "date": "March 2, 2024",
-    "image": "https://adminmart.com/wp-content/uploads/2023/04/modernize-angular-material-admin-dashboard-template-1-1.jpg",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "date": "2025-08-04 05:48:26.743",
+    "slug": "climate-change-urgent-global-action",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-3.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   },
   {
     "id": 4,
     "title": "The Rise of Electric Vehicles Worldwide",
     "publisher": "Reuters",
-    "date": "April 12, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2022/02/flexy-free-angular.jpg",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "date": "2025-08-04 09:20:02.816",
+    "slug": "rise-of-electric-vehicles-worldwide",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-4.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   },
   {
     "id": 5,
     "title": "NASA Discovers New Earth-like Planet",
     "publisher": "CNN",
-    "date": "May 20, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/2022/03/flexy-angular-pro.jpg",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "date": "2025-08-04 10:03:43.89",
+    "slug": "nasa-discovers-earth-like-planet",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-5.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   },
   {
     "id": 6,
     "title": "Breakthrough in Quantum Computing",
     "publisher": "Wired",
-    "date": "June 8, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-angular-lite-y.jpg",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "date": "2025-08-04 16:46:08.203",
+    "slug": "breakthrough-quantum-computing",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-6.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   },
   {
     "id": 7,
     "title": "Healthcare Innovations in 2024",
     "publisher": "Forbes",
-    "date": "July 15, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "date": "2025-08-04 16:46:08.203",
+    "slug": "healthcare-innovations-2024",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-7.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   },
   {
     "id": 8,
     "title": "The Evolution of Renewable Energy",
     "publisher": "Bloomberg",
-    "date": "August 1, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/2023/10/Spike-Admin-Angular-WrapPixel-Preview-1.jpg",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "date": "2025-08-04 16:46:08.203",
+    "slug": "evolution-of-renewable-energy",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-8.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   },
   {
     "id": 9,
     "title": "Artificial Intelligence in Everyday Life",
     "publisher": "MIT Technology Review",
-    "date": "September 9, 2024",
-    "image": "https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg",
-    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL"
+    "date": "2025-08-04 16:46:08.203",
+    "slug": "artificial-intelligence-everyday-life",
+    "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-9.png",
+    "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "speakers": [
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
+          "name":"Donald Trump",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        },
+        {
+          "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-anderson-cooper.png",
+          "name":"Anderson Cooper",
+           "actions":[
+            {
+              "title": "Deceptions",
+              "totalCount": "2",
+              "tasks": [
+                {
+                  "goal": "Moving the GoalPosts",
+                  "status": "High",
+                  "percentage": "85%",
+                  "duration": "02:14 - 02:28",
+                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Reluctant Concession",
+                  "status": "Medium",
+                  "percentage": "57%",
+                  "duration": "05:46 - 05:59",
+                  "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                },
+                {
+                  "goal": "Prestige Anchor",
+                  "status": "High",
+                  "percentage": "87%",
+                  "duration": "09:11 - 09:25",
+                  "quote": "I spoke to the best generals — the best — and they all said I was right.",
+                  "intended-meaning": "Establish authority by aligning with respected figures."
+                }
+              ]
+            },
+            {
+              "title": "Influence",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            },
+            {
+              "title": "Subtext",
+              "totalCount": "1",
+              "tasks": [
+              ]
+            }
+           ]
+        }
+    ]
   }
 ]
