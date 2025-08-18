@@ -65,7 +65,7 @@
               "totalCount": "2",
               "tasks": [
                 {
-                  "goal": "Moving the GoalPosts",
+                  "goal": "Moving the GoalPosts Deceptions",
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
@@ -73,7 +73,7 @@
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
-                  "goal": "Reluctant Concession",
+                  "goal": "Concession Deceptions",
                   "status": "Medium",
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
@@ -81,7 +81,7 @@
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
-                  "goal": "Prestige Anchor",
+                  "goal": "Deceptions Anchor",
                   "status": "High",
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
