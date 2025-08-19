@@ -22,8 +22,12 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                   "impact": "9",
                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
@@ -34,6 +38,10 @@
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
                    "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
@@ -44,6 +52,10 @@
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
                   "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
                    "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
@@ -72,34 +84,46 @@
               "totalCount": "2",
               "tasks": [
                 {
-                  "goal": "Moving the GoalPosts Deceptions",
+                  "goal": "Moving the GoalPosts",
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
-                  "goal": "Concession Deceptions",
+                  "goal": "Reluctant Concession",
                   "status": "Medium",
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
-                  "goal": "Deceptions Anchor",
+                  "goal": "Prestige Anchor",
                   "status": "High",
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -141,10 +165,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -152,9 +180,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -162,9 +194,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -195,10 +231,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -206,9 +246,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -216,9 +260,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -240,7 +288,7 @@
   },
   {
     "id": 3,
-    "title": "Climate Change: Urgent Global Action Needed",
+    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
     "publisher": "National Geographic",
     "date": "2025-08-04 05:48:26.743",
     "slug": "climate-change-urgent-global-action",
@@ -260,10 +308,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -271,9 +323,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -281,9 +337,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -314,10 +374,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -325,9 +389,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -335,9 +403,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -359,7 +431,7 @@
   },
   {
     "id": 4,
-    "title": "The Rise of Electric Vehicles Worldwide",
+    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
     "publisher": "Reuters",
     "date": "2025-08-04 09:20:02.816",
     "slug": "rise-of-electric-vehicles-worldwide",
@@ -379,10 +451,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -390,9 +466,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -400,9 +480,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -433,10 +517,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -444,9 +532,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -454,9 +546,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -478,7 +574,7 @@
   },
   {
     "id": 5,
-    "title": "NASA Discovers New Earth-like Planet",
+    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
     "publisher": "CNN",
     "date": "2025-08-04 10:03:43.89",
     "slug": "nasa-discovers-earth-like-planet",
@@ -498,10 +594,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -509,9 +609,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -519,9 +623,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -552,10 +660,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -563,9 +675,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -573,9 +689,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -597,7 +717,7 @@
   },
   {
     "id": 6,
-    "title": "Breakthrough in Quantum Computing",
+    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
     "publisher": "Wired",
     "date": "2025-08-04 16:46:08.203",
     "slug": "breakthrough-quantum-computing",
@@ -617,10 +737,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -628,9 +752,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -638,9 +766,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -671,10 +803,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -682,9 +818,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -692,9 +832,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -716,7 +860,7 @@
   },
   {
     "id": 7,
-    "title": "Healthcare Innovations in 2024",
+    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
     "publisher": "Forbes",
     "date": "2025-08-04 16:46:08.203",
     "slug": "healthcare-innovations-2024",
@@ -736,10 +880,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -747,9 +895,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -757,9 +909,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -790,10 +946,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -801,9 +961,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -811,9 +975,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -835,7 +1003,7 @@
   },
   {
     "id": 8,
-    "title": "The Evolution of Renewable Energy",
+    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
     "publisher": "Bloomberg",
     "date": "2025-08-04 16:46:08.203",
     "slug": "evolution-of-renewable-energy",
@@ -855,10 +1023,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -866,9 +1038,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -876,9 +1052,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -909,10 +1089,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -920,9 +1104,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -930,9 +1118,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -954,7 +1146,7 @@
   },
   {
     "id": 9,
-    "title": "Artificial Intelligence in Everyday Life",
+    "title": "Donald Trump: Full Interview on Policy, Politics, and the Media",
     "publisher": "MIT Technology Review",
     "date": "2025-08-04 16:46:08.203",
     "slug": "artificial-intelligence-everyday-life",
@@ -974,10 +1166,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -985,9 +1181,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -995,9 +1195,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -1028,10 +1232,14 @@
                   "status": "High",
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
-                  "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                   "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "quote": "I literally have no memory of ever dropping my laptop off there.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, painting him as petty, vindictive, and motivated by his wife's professional ego. The intended message is: Do not trust this powerful critic, because I have secret knowledge that proves his character is flawed and his motives are corrupt. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -1039,9 +1247,13 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                    "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement, but to proactively and aggressively discredit him, I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
                    "impact": "9",
-                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -1049,9 +1261,13 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                 
-   "impact": "9",
-   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "revealedMeaning":{
+                    "meaning":"A calculated and manipulative character assassination. By claiming to have seen private text messages, Hunter positions himself as an insider with privileged information. He then uses this position not just to counter Clooney's public statement. I am not just defending my father; I am exposing my enemy.",
+                    "note":"This is a clear example of a strategic offensive. He isn't just responding to a claim; he is introducing new, unverifiable evidence (the alleged texts) to launch a preemptive and damaging attack on a critic's character, thereby shifting the entire frame of the conversation from his father's competency to Clooney's alleged pettiness."
+                  },
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
