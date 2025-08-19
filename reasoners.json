@@ -7,6 +7,7 @@
     "slug": "elon-musk-future-of-space-exploration",
     "image": "https://adminmart.github.io/template_api/images/reasoner/blogs/reasoner-blog-1.png",
     "video": "https://www.youtube.com/embed/csxFBmEoeVQ?si=bsH3zmhzGms3TMIL",
+    "tags": [""],
     "speakers": [
         {
           "profile":"https://adminmart.github.io/template_api/images/reasoner/speakers/speaker-donald-trump.png",
@@ -22,7 +23,9 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                  "impact": "9",
+                  "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Reluctant Concession",
@@ -30,7 +33,9 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
-                  "intended-meaning": "Acknowledging minor faults while reframing as overall success."
+                  "intended-meaning": "Acknowledging minor faults while reframing as overall success.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 },
                 {
                   "goal": "Prestige Anchor",
@@ -38,7 +43,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                  "intended-meaning": "Establish authority by aligning with respected figures.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop."
                 }
               ]
             },
@@ -70,6 +77,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -78,6 +87,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -86,7 +97,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -129,6 +142,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -137,6 +152,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -145,7 +162,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -177,6 +196,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -185,6 +206,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -193,7 +216,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -236,6 +261,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -244,6 +271,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -252,7 +281,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -284,6 +315,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -292,6 +325,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -300,7 +335,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -343,6 +380,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -351,6 +390,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -359,7 +400,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -391,6 +434,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -399,6 +444,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -407,7 +454,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -450,6 +499,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -458,6 +509,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -466,7 +519,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -498,6 +553,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -506,6 +563,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -514,7 +573,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -557,6 +618,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -565,6 +628,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -573,7 +638,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -605,6 +672,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -613,6 +682,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -621,7 +692,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -664,6 +737,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -672,6 +747,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -680,7 +757,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -712,6 +791,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -720,6 +801,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -728,7 +811,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -771,6 +856,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -779,6 +866,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -787,7 +876,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -819,6 +910,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -827,6 +920,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -835,7 +930,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -878,6 +975,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -886,6 +985,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -894,7 +995,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
@@ -926,6 +1029,8 @@
                   "percentage": "85%",
                   "duration": "02:14 - 02:28",
                   "quote": "We've already done more than anyone in history — nobody's ever seen anything like it.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -934,6 +1039,8 @@
                   "percentage": "57%",
                   "duration": "05:46 - 05:59",
                   "quote": "Some people say mistakes were made, but I think we did an incredible job.",
+                   "impact": "9",
+                   "literal-meaning":"A simple claim of memory loss regarding the laptop.",
                   "intended-meaning": "Acknowledging minor faults while reframing as overall success."
                 },
                 {
@@ -942,7 +1049,9 @@
                   "percentage": "87%",
                   "duration": "09:11 - 09:25",
                   "quote": "I spoke to the best generals — the best — and they all said I was right.",
-                  "intended-meaning": "Establish authority by aligning with respected figures."
+                 
+   "impact": "9",
+   "literal-meaning":"A simple claim of memory loss regarding the laptop.",                "intended-meaning": "Establish authority by aligning with respected figures."
                 }
               ]
             },
