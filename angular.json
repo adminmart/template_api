@@ -1937,5 +1937,61 @@
     "doFollow": false,
     "ads":false,
     "ads_link": ""
+  },
+  {
+    "id": 75,
+    "price": 0,
+    "popularity": 1062,
+    "appType": "admin-template",
+    "details": "https://github.com/DashboardPack/architectui-angular-theme-free/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "architectui-angular-theme-free",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/architectui-angular-theme-free.webp",
+    "subtitle": "ArchitectUI is an Angular 11 and Bootstrap-based admin dashboard template",
+    "livePreview": "https://demo.dashboardpack.com/architectui-angular-free/dashboards/analytics",
+    "templateName": "ArchitectUI Angular - Free Admin Dashboard Template",
+    "description": "ArchitectUI Angular is a professional admin dashboard template perfect for building modern web applications, SaaS platforms, and administrative interfaces. This free version provides a solid foundation with essential components and features to get your project started quickly.",
+    "features": [
+      "Modern Angular 20.1.4 - Built with the latest Angular framework",
+      "Bootstrap 5.3.7 - Responsive design with modern Bootstrap components",
+      "Interactive Charts - Powered by Chart.js v4 with ng2-charts integration",
+      "NgRx State Management - Centralized state management for scalable applications",
+      "TypeScript 5.8.3 - Type-safe development experience",
+      "ESLint Integration - Modern code linting and quality assurance",
+      "Mobile Responsive - Optimized for all device sizes",
+      "Clean Code Architecture - Well-structured, maintainable codebase"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
+  },
+  {
+    "id": 76,
+    "price": 0,
+    "popularity": 1063,
+    "appType": "landingpage",
+    "details": "https://github.com/akveo/ng2-smart-table/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "ng2-smart-table",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ng2-smart-table.webp",
+    "subtitle": "Angular Smart Data Table component",
+    "livePreview": "https://akveo.github.io/ng2-smart-table/#/",
+    "templateName": "ng2 Smart Table",
+    "description": "ng2-smart-table component made with ❤️ by Akveo team. Follow us on Twitter to get latest news about this component first!",
+    "features": [
+      "Local data source (Server/API DataSource is on its way)",
+      "Filtering",
+      "Sorting",
+      "Pagination",
+      "Inline Add/Edit/Delete",
+      "Flexible event model"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": false,
+    "ads":false,
+    "ads_link": ""
   }
 ]
