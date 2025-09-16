@@ -7780,5 +7780,149 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 218,
+    "price": 0,
+    "popularity": 1161,
+    "appType": "website",
+    "details": "https://github.com/UnlyEd/next-right-now/archive/refs/heads/gh-pages.zip",
+    "category": "NextJs",
+    "imageAlt": "next-right-now",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-right-now.webp",
+    "subtitle": "About Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript",
+    "livePreview": "https://unlyed.github.io/next-right-now/",
+    "templateName": "Next Right Now",
+    "description": "Next Right Now (NRN) is meant to help you build production-grade projects using the Next.js framework.",
+    "features": [
+      "Next.js",
+      "TypeScript",
+      "Testimonials",
+      "FAQ",
+      "i18n Support",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "02-Feb-2020",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "price": 0,
+    "popularity": 1162,
+    "appType": "admin-template",
+    "details": "https://github.com/exectx/t3-cloudflare/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "t3-cloudflare",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/t3-cloudflare.webp",
+    "subtitle": "T3 app cloudflare - (Next.js App Router + Cloudflare Pages + Cloudflare D1) - enam D1 db location",
+    "livePreview": "https://ct3a.exectx.run/",
+    "templateName": "T3 Cloudflare",
+    "description": "This is a collection of basic create-t3-app templates designed for compatibility with Cloudflare Workers & Pages. You can use these templates with the Cloudflare C3 CLI and pnpm as the package manager",
+    "features": [
+      "Next.js",
+      "TypeScript",
+      "Eslint",
+      "Route handlers",
+      "Cloudflare Pages",
+      "Cloudflare D1",
+      "i18n Support",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "14-Dec-2023",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "price": 0,
+    "popularity": 1163,
+    "appType": "website",
+    "details": "https://github.com/swishjam/swishjam/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "swishjam",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/swishjam.webp",
+    "subtitle": "The Brain Of Your B2B SaaS. A better way to unify your customers' data and get meaningful insights out of the box",
+    "livePreview": "https://swishjam.com/",
+    "templateName": "Swishjam",
+    "description": "The Brain of Your B2B SaaS is designed to unify customer data seamlessly and deliver actionable insights right out of the box. Built on modern, battle-tested technologies like Next.js, Ruby on Rails, Tailwind, and Shadcn, it empowers businesses to streamline operations, improve decision-making, and unlock growth. Backed by Y Combinator (YC W23), it offers a reliable, scalable foundation that helps SaaS companies move faster, reduce complexity, and stay ahead in a competitive market.",
+    "features": [
+      "Next.js",
+      "TypeScript",
+      "Eslint",
+      "React 18",
+      "Multiple Pages",
+      "Tailwind CSS",
+      "Post Css",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "16-Feb-2023",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
