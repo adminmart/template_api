@@ -6166,7 +6166,7 @@
     "imageAlt": "lipi",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/lipi.jpg",
     "subtitle": "[WIP] 🚀 A SAAS web app, a Notion.so replica, featuring real-time collaboration and customizable workspaces built using ▲ Next.js, shadcn/ui, TailwindCSS",
-    "livePreview": "https://lipi.rajputhemant.tech/",
+    "livePreview": "https://lipi.rajputhemant.dev/",
     "templateName": "Lipi",
     "description": "Currently developing a SaaS web application inspired by Notion.so, designed to deliver seamless real-time collaboration and fully customizable workspaces. Built with ▲ Next.js for performance and scalability, utilizing shadcn/ui for modern UI components and TailwindCSS for rapid, responsive design. This project aims to empower teams with an intuitive and flexible productivity tool tailored for dynamic workflows.",
     "features": [
@@ -7918,6 +7918,136 @@
       {
         "value": "blog",
         "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "price": 0,
+    "popularity": 1164,
+    "appType": "website",
+    "details": "https://github.com/supabase-community/partner-gallery-example/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "partner-gallery-example",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/partner-gallery-example.webp",
+    "subtitle": "Supabase Partner Gallery Example",
+    "livePreview": "https://supabase.com/partners",
+    "templateName": "Partner Gallery Example",
+    "description": "An example Next.js website that shows Postgres Full Text Search, next-image with Supabase Storage, and sending emails based on an insert trigger with Supabase Edge Functions.",
+    "features": [
+      "Next.js",
+      "TypeScript",
+      "Eslint",
+      "React",
+      "Multiple Pages",
+      "Tailwind CSS",
+      "Post Css",
+      "Documentation",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "04-Apr-2022",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "price": 0,
+    "popularity": 1165,
+    "appType": "website",
+    "details": "https://github.com/patrickvaler/nx-next-shadcn-ui-starter/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "nx-next-shadcn-ui-starter",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nx-next-shadcn-ui-starter.webp",
+    "subtitle": "Starter repository for integrating shadcn/ui with Next.js in an Nx monorepo",
+    "livePreview": "https://blog.patrickvaler.ch/how-to-get-started-with-shadcn-ui-and-next-js-within-a-nx-monorepo-57908f48b4ef",
+    "templateName": "Nx Next Shadcn Ui Starter",
+    "description": "This is a starter repository for integrating shadcn/ui with Next.js in an Nx monorepo. Detailed instructions for configuring and setting up this repository can be found in a tutorial on Medium.com. Explore the tutorial for comprehensive insights into the repository's setup, ensuring a smooth and informed integration process.",
+    "features": [
+      "Shared library based on shadcn/ui components integrated in Next.js app",
+      "Monorepo structure using Nx for better organization and scalability"
+    ],
+    "createdOn": "15-Nov-2023",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "price": 0,
+    "popularity": 1166,
+    "appType": "website",
+    "details": "https://github.com/onderonur/onurl/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "onurl",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/onurl.webp",
+    "subtitle": "URL shortener created with Next.js, TypeScript, Tailwind CSS & Prisma.",
+    "livePreview": "https://onurl.vercel.app/",
+    "templateName": "Onurl",
+    "description": "This URL shortener is a modern and efficient solution built with Next.js, TypeScript, Tailwind CSS, and Prisma, ensuring high performance, scalability, and clean code maintainability. It provides a seamless way to shorten long URLs into concise, shareable links while maintaining reliability and security. With Prisma as the ORM, it offers robust database management, while TypeScript enhances type safety and developer productivity.",
+    "features": [
+      "Next.js",
+      "Tailwind CSS",
+      "Zod",
+      "React Icons",
+      "react-share",
+      "PostgreSQL",
+      "Prisma",
+      "unDraw",
+      "unDraw",
+      "Prettier",
+      "Vercel"
+    ],
+    "createdOn": "21-May-2020",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
       },
       {
         "value": "free",
