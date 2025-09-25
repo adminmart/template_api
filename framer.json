@@ -990,5 +990,807 @@
     "lemonSqzId": "",
     "meta_title": "Nubien Creative Portfolio Framer Template",
     "meta_description": "Nubien is a creative Framer template designed for portfolio websites and digital creators."
+  },
+  {
+    "id": 27,
+    "price": 0,
+    "popularity": 0,
+    "appType": "portfolio",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ],
+    "imageAlt": "jack-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/jack.webp",
+    "subtitle": "Minimalist portfolio template to showcase creative work with style.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://jack-template.framer.website/?via=ludoviclosco",
+    "templateName": "JACK",
+    "slug": "jack-free-portfolio-template",
+    "author": "Ludovic Losco",
+    "author_url": "https://www.framer.com/@ludovic-losco",
+    "buyUrl": "https://framer.com/projects/new?duplicate=RtZj5lcBZA4FzIaKp4PW&via=ludoviclosco&duplicateType=siteTemplate",
+    "description": "Introducing JACK, a free Framer template with a minimalist design. Showcase your projects effortlessly with CMS-driven pages and smooth animations. Perfect for creatives who want to highlight their work in a stylish, distraction-free environment.",
+    "features": [
+      "Accessibility improved using semantic tags, alt text, ARIA",
+      "Expressive animations customizable to capture visitor attention easily",
+      "Fast, structured, accessible sites optimized for search engines",
+      "Integrated analytics, GDPR-compliant, no complex dashboards needed",
+      "CMS manages blogs, job listings, and landing pages",
+      "Reusable components for buttons, nav bars, and footers",
+      "Reusable styles include colors, text, links, and selections",
+      "Embed rich media like live video or audio seamlessly",
+      "Sticky scrolling keeps headers or CTAs visible while scrolling",
+      "Fully responsive design with customizable breakpoints and layouts"
+    ],
+    "createdOn": "2025-09-25T00:00:00.000Z",
+    "lemonSqzId": "",
+    "meta_title": "JACK Free Portfolio Framer Template",
+    "meta_description": "JACK is a minimalist Framer template designed to showcase projects beautifully with smooth CMS features and animations."
+  },
+  {
+    "id": 28,
+    "price": 0,
+    "popularity": 0,
+    "appType": "website",
+    "categories": [
+      {
+        "value": "saas",
+        "label": "Saas"
+      },
+      {
+        "value": "startup",
+        "label": "Startup"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ],
+    "imageAlt": "blocks-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/blocks.webp",
+    "subtitle": "Responsive SaaS website kit with reusable components.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://saas-kit.framer.website",
+    "templateName": "Blocks",
+    "slug": "blocks-saas-website-kit",
+    "author": "Framer",
+    "author_url": "https://www.framer.com/@framer",
+    "buyUrl": "https://framer.com/projects/new?duplicate=5jiyd8WpQnxSyjuJ5DQb&duplicateType=siteTemplate",
+    "description": "Turn your ideas into a fully functional, responsive, no-code SaaS website in just minutes with the set of free components, sections, 3D assets, and page templates for Framer.",
+    "features": [
+      "Accessibility enhanced using semantic tags, alt text, ARIA.",
+      "Expressive animations customizable to capture visitor attention instantly.",
+      "Fast, structured, accessible sites optimized for search engines.",
+      "Integrated analytics, GDPR-compliant, no complex dashboards required.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Reusable styles include colors, text, links, and selections.",
+      "Fully responsive design with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Blocks SaaS Website Kit Framer Template",
+    "meta_description": "Blocks is a SaaS-focused Framer template with modular components and responsive design."
+  },
+  {
+    "id": 29,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing page"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ],
+    "imageAlt": "landio-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/Landio.webp",
+    "subtitle": "Highlight your creativity with sleek design and effortless CMS integration.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://landio.framer.website",
+    "templateName": "Landio",
+    "slug": "landio-ai-agency-&-landing-page-template",
+    "author": "Framebase",
+    "author_url": "https://www.framer.com/@framebase",
+    "buyUrl": "https://framer.link/D4dc7gs?duplicateType=siteTemplate",
+    "description": "AI Agency| Landio is a premium Framer template built for AI automation agencies, startups, and tech teams. With smart layout design and performance-focused features.",
+    "features": [
+      "Accessibility built-in: semantic tags, ARIA, reduced motion.",
+      "Expressive animations capture attention with simple tweaks.",
+      "Fast, accessible, SEO-ready websites that rank higher.",
+      "GDPR-compliant analytics without cookies or complex dashboards.",
+      "Built-in CMS for blogs, jobs, and pages.",
+      "Reusable components: buttons, nav bars, cards, footers.",
+      "Customizable, code-free forms for leads and feedback.",
+      "Reusable styles: colors, text, links, selections included.",
+      "Embed rich media like live video or audio.",
+      "Fully responsive, tweak breakpoints visually on canvas"
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Landio AI Agency & Landing Page Template",
+    "meta_description": "Landio is a sleek Framer template built for AI agencies and tech startups to showcase automation services."
+  },
+  {
+    "id": 30,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ],
+    "imageAlt": "bronx-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/bronx.webp",
+    "subtitle": "Stylish personal portfolio and agency showcase with modern touch.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://bronx.framer.website",
+    "templateName": "Bronx",
+    "slug": "bronx-minimal-portfolio-&-agency",
+    "author": "Westhill Studio",
+    "author_url": "https://www.framer.com/@westhill-studio",
+    "buyUrl": "https://framer.link/3p57pkp?duplicateType=siteTemplate",
+    "description": "Bronx is a Minimal Personal Portfolio and Agency Framer Template designed for showcasing your portfolio and agency's. Ideal for designers, personal portfolios, creative agencies, digital agencies, and photography portfolio.",
+    "features": [
+      "Framer improves accessibility with semantic tags and options.",
+      "Includes expressive animations to capture audience attention.",
+      "Fast, structured, and accessible sites rank higher.",
+      "Integrated analytics, GDPR-compliant, no cookie banners.",
+      "Reusable components like buttons, nav bars, cards.",
+      "Rich media support with video and audio.",
+      "Sticky scrolling keeps headers or CTAs visible.",
+      "Reusable styles for colors, text, and links.",
+      "Fully responsive design with tweakable breakpoints."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Bronx Minimal Portfolio & Agency Template",
+    "meta_description": "Bronx is a sleek Framer template for creative portfolios and agencies, with responsive design and animation-ready features."
+  },
+  {
+    "id": 31,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "startup",
+        "label": "Startup"
+      },
+      {
+        "value": "saas",
+        "label": "SaaS"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "minimal",
+        "label": "Minimal"
+      }
+    ],
+    "imageAlt": "genius-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/genius.webp",
+    "subtitle": "Adaptable landing page built to showcase SaaS products with clarity.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://genius.framer.wiki",
+    "templateName": "Genius",
+    "slug": "genius-Minimal-saas-startup-landing-page",
+    "author": "Praha",
+    "author_url": "https://www.framer.com/@praha",
+    "buyUrl": "https://framer.link/IscNjv8?duplicateType=siteTemplate",
+    "description": "Genius is a minimal SaaS landing page template, designed to be modern, simple, and easily adaptable to any brand.",
+    "features": [
+      "Framer tools improve accessibility with semantic tags.",
+      "Expressive animations capture attention with simple tweaks.",
+      "Fast, structured, accessible sites rank higher naturally.",
+      "Integrated analytics, GDPR-compliant, no cookie banners.",
+      "Reusable components for buttons, cards, and footers.",
+      "Built-in forms collect feedback or generate leads.",
+      "Overlays and modals enhance navigation, dialogs, media.",
+      "Reusable styles include text, color, and links.",
+      "Embed rich media like video or audio.",
+      "Fully responsive design with visual breakpoint control."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Genius Minimal SaaS Startup Landing Page",
+    "meta_description": "Genius is a modern Framer template designed for SaaS startups, with minimal layout and adaptive features for any brand."
+  },
+  {
+    "id": 32,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "startup",
+        "label": "Startup"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      }
+    ],
+    "imageAlt": "horizon-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/horizon.webp",
+    "subtitle": "AI-powered SaaS template built to analyze trends and user behavior.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://horizon-template.framer.website/#cta",
+    "templateName": "Horizon",
+    "slug": "horizon-saas-template",
+    "author": "Andrea Montini",
+    "author_url": "https://www.framer.com/@andrea",
+    "buyUrl": "",
+    "description": "Horizon is the Framer Template designed for AI-powered SaaS startups to explore real-time market trends, decode user queries with precision, and make strategic decisions.",
+    "features": [
+      "Framer tools improve accessibility with semantic tags.",
+      "Expressive animations grab attention with easy tweaks.",
+      "Fast, structured, accessible sites rank higher automatically.",
+      "Integrated analytics, GDPR-compliant, no cookie banners.",
+      "Reusable components: buttons, nav bars, cards, footers.",
+      "Reusable styles include text, color, and links.",
+      "Fully responsive design with visual breakpoint controls."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Horizon SaaS Landing Page Template",
+    "meta_description": "Horizon is a modern Framer template designed for AI SaaS startups to explore user behavior and trends with ease."
+  },
+  {
+    "id": 33,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "startup",
+        "label": "Startup"
+      }
+    ],
+    "imageAlt": "lander-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/lander.webp",
+    "subtitle": "Modern landing page design built for agencies to boost conversions.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://lander.framer.wiki",
+    "templateName": "Lander",
+    "slug": "lander-dark-agency,-business-landing-page",
+    "author": "Praha",
+    "author_url": "https://www.framer.com/@praha",
+    "buyUrl": "https://framer.link/j45HuHT?duplicateType=siteTemplate",
+    "description": "Lander is a sleek, dark blue-themed landing page template designed for agencies. It combines modern aesthetics with high functionality to showcase your brand's services and drive conversions effectively.",
+    "features": [
+      "Built-in accessibility: semantic tags, ARIA, reduced motion.",
+      "Expressive animations attract attention with simple tweaks.",
+      "SEO-ready performance with fast, structured, accessible design.",
+      "Integrated GDPR-compliant analytics, no cookies required.",
+      "Reusable components: buttons, nav bars, cards, footers.",
+      "Sticky scrolling keeps headers and CTAs always visible.",
+      "Fully responsive, tweak breakpoints visually on canvas."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Lander Agency & Business Landing Page",
+    "meta_description": "Lander is a conversion-focused Framer template for agencies and startups with a sleek dark UI and responsive layout."
+  },
+  {
+    "id": 34,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ],
+    "imageAlt": "viper-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/viper.webp",
+    "subtitle": "Creative landing page template built for agencies, brands, and portfolios.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://viper-template.framer.website",
+    "templateName": "Viper",
+    "slug": "viper-portfolio-&-agency-landing-page",
+    "author": "Westhill Studio",
+    "author_url": "https://www.framer.com/@westhill-studio",
+    "buyUrl": "https://framer.link/9jO4wzx?duplicateType=siteTemplate",
+    "description": "Viper — is a Creative Portfolio and Agency Landing Page Template designed for showcasing your agency's or portfolio's landing page.",
+    "features": [
+      "Improved accessibility with semantic tags and reduced motion.",
+      "Expressive animations easily customizable to grab attention.",
+      "Fast, accessible, SEO-ready sites that rank higher.",
+      "Integrated analytics, GDPR-compliant, no cookie banners.",
+      "CMS for blogs, jobs, and landing pages.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Custom cursor effects with variants and transitions.",
+      "Built-in forms for feedback, leads, and customization.",
+      "Overlays and modals for navigation, dialogs, or videos.",
+      "Reusable styles including text, color, and links.",
+      "Embed live video or audio directly in canvas.",
+      "Slideshow and ticker components with smooth transitions.",
+      "Sticky scrolling keeps CTAs visible while scrolling.",
+      "Fully responsive with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Viper Creative Portfolio & Agency Landing Page",
+    "meta_description": "Viper is a creative Framer landing page template for agencies and portfolios with rich interactions and media features."
+  },
+  {
+    "id": 35,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "saas",
+        "label": "SaaS"
+      },
+      {
+        "value": "startup",
+        "label": "Startup"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ],
+    "imageAlt": "waitlisty-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/waitlisty.webp",
+    "subtitle": "Perfect template for startups needing sleek, simple waitlists.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://waitlisty.framer.website",
+    "templateName": "Waitlisty",
+    "slug": "waitlisty-free-saas-waitlist-landing-page",
+    "author": "Praha",
+    "author_url": "https://www.framer.com/@praha",
+    "buyUrl": "https://framer.link/CTmSXXD?duplicateType=siteTemplate",
+    "description": "Waitlisty - The ideal template for crafting a sleek and efficient waitlist landing page, meeting all your waitlist needs effortlessly.",
+    "features": [
+      "Accessibility improved with semantic tags and reduced motion.",
+      "Expressive animations customizable to instantly engage visitors.",
+      "Fast, structured, accessible sites optimized for SEO.",
+      "Integrated analytics, GDPR-compliant, no cookie banners required.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Overlays and modals enhance navigation, dialogs, and videos.",
+      "Reusable styles include text, color, and link options.",
+      "Fully responsive with customizable breakpoints and flexible layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Waitlisty Free SaaS Waitlist Template",
+    "meta_description": "Waitlisty is a Framer landing page template for startups needing clean, simple, and high-conversion waitlists."
+  },
+  {
+    "id": 36,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ],
+    "imageAlt": "stak-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/stak.webp",
+    "subtitle": "High-converting landing page built specifically for staking platforms.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://stak.framer.website/?via=grooic",
+    "templateName": "Stak",
+    "slug": "stak-crypto-staking-landing-page",
+    "author": "Grooic LLC",
+    "author_url": "https://www.framer.com/@grooic",
+    "buyUrl": "https://framer.link/oXBkUwL?duplicateType=siteTemplate",
+    "description": "Need a polished landing page to advertise your staking platform? Stak is exactly what you need to achieve higher conversions.",
+    "features": [
+      "Accessibility improved with semantic tags and reduced motion.",
+      "Expressive animations customizable to instantly engage your audience.",
+      "Fast, structured, accessible sites optimized for higher SEO.",
+      "Integrated analytics, GDPR-compliant, no cookie banners needed.",
+      "CMS manages blogs, jobs, and landing pages effortlessly.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Layout templates apply shared headers, footers, overlays automatically.",
+      "Reusable styles include text, color, and link elements.",
+      "Sticky scrolling keeps CTAs or headers visible while scrolling.",
+      "Fully responsive design with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Stak Crypto Staking Landing Page",
+    "meta_description": "Stak is a modern, conversion-focused Framer template for crypto and staking platform websites."
+  },
+  {
+    "id": 37,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      }
+    ],
+    "imageAlt": "evotrack-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/evotrack.webp",
+    "subtitle": "Modern Framer template tailored for AI and wearable products.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://evotrack.framer.website",
+    "templateName": "EvoTrack",
+    "slug": "evotrack-ai-&-smart-tech-landing-page",
+    "author": "Arthur Duchesne",
+    "author_url": "https://www.framer.com/@arthurdch",
+    "buyUrl": "https://framer.link/CBKEDsK?duplicateType=siteTemplate",
+    "description": "EvoTrack is a modern Framer template built for AI-powered products, smart wearables, and innovative tech devices.",
+    "features": [
+      "Accessibility improved with semantic tags, alt text, reduced motion.",
+      "Expressive animations customizable to instantly capture visitor attention.",
+      "Fast, structured, accessible sites optimized for higher rankings.",
+      "Integrated analytics, GDPR-compliant, no complex dashboards needed.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Built-in forms for feedback and customizable lead collection.",
+      "Layout templates apply headers, footers, overlays automatically.",
+      "Reusable styles include text, color, link, and selection.",
+      "Embed live audio or video directly into canvas.",
+      "Slideshow and ticker components with smooth, interactive transitions.",
+      "Fully responsive design with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "EvoTrack Smart Tech & AI Landing Page",
+    "meta_description": "EvoTrack is a modern Framer template for AI products and wearables, optimized for conversions and responsiveness."
+  },
+  {
+    "id": 38,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      }
+    ],
+    "imageAlt": "metabeg-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/metabeg.webp",
+    "subtitle": "Modern Framer template tailored for blockchain and NFT ventures.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://metabeg.framer.website",
+    "templateName": "Metabeg",
+    "slug": "metabeg-nft-landing-&-nft,-web3-website",
+    "author": "Zab Themes",
+    "author_url": "https://www.framer.com/@zab-themes",
+    "buyUrl": "https://framer.link/lqtIDQd?duplicateType=siteTemplate",
+    "description": "Dive into the exciting world of rare NFTs with Metabeg, an exclusive Framer template built for showcasing NFT projects, cryptocurrency, digital collectibles, blockchain and Web3 ventures.",
+    "features": [
+      "Accessibility improved using semantic tags, alt text, ARIA.",
+      "Expressive animations customizable to capture audience attention instantly.",
+      "Fast, structured, accessible sites optimized for higher rankings.",
+      "Integrated analytics, GDPR-compliant, no cookie banners required.",
+      "CMS manages blogs, jobs, and landing pages easily.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Built-in forms collect feedback or leads without coding.",
+      "Layout templates apply headers, footers, and overlays automatically.",
+      "Overlays and modals enhance navigation, videos, and dialogs.",
+      "Reusable styles include colors, text, links, and selections.",
+      "Embed live audio or video directly into canvas.",
+      "Slideshow and ticker components display content with smooth transitions.",
+      "Sticky scrolling keeps headers or CTAs visible while scrolling.",
+      "Fully responsive with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Metabeg NFT & Web3 Landing Page",
+    "meta_description": "Metabeg is a cutting-edge Framer template designed for NFT and blockchain projects, featuring Web3 compatibility and slick UI."
+  },
+  {
+    "id": 39,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "startup",
+        "label": "Startup"
+      }
+    ],
+    "imageAlt": "pix-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/pix.webp",
+    "subtitle": "Showcase creative work seamlessly with modern, user-friendly design.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://pix.framer.website",
+    "templateName": "Pix",
+    "slug": "pix-dark-agency-portfolio-landing-page",
+    "author": "Praha",
+    "author_url": "https://www.framer.com/@praha",
+    "buyUrl": "https://framer.link/cTeyetI?duplicateType=siteTemplate",
+    "description": "Pix is the ultimate Framer portfolio template for designers and developers. Unveil your work seamlessly with its sleek design and immersive showcase.",
+    "features": [
+      "Accessibility improved using semantic tags, alt text, reduced motion.",
+      "Fast, structured, accessible sites optimized for better rankings.",
+      "Integrated analytics, GDPR-compliant, no cookie banners needed.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Reusable styles include colors, text, links, and selections.",
+      "Fully responsive design with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Pix Dark Agency Portfolio Template",
+    "meta_description": "Pix is a bold and modern Framer portfolio template perfect for creatives, agencies, and developers."
+  },
+  {
+    "id": 40,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ],
+    "imageAlt": "purevisuals-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/purevisuals.webp",
+    "subtitle": "Highlight your work professionally with clean, customizable portfolio design.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://purevisuals.framer.website",
+    "templateName": "PureVisuals",
+    "slug": "purevisuals-creative-portfolio-template",
+    "author": "Thanh Tran",
+    "author_url": "https://www.framer.com/@thanh-pure",
+    "buyUrl": "https://framer.link/qWx5ZqJ?duplicateType=siteTemplate",
+    "description": "Elevate your brand with PureVisuals — a modern, sleek, customizable Framer portfolio template that helps you stand out, attract clients, and leave a lasting impression.",
+    "features": [
+      "Accessibility improved with semantic tags, alt text, ARIA.",
+      "Expressive animations customizable to capture audience attention easily.",
+      "Fast, structured, accessible sites optimized for better SEO.",
+      "Integrated analytics, GDPR-compliant, no complex dashboards required.",
+      "CMS manages blogs, job listings, and landing pages.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Custom cursor effects with variants, transitions, and interactions.",
+      "Layout templates apply headers, footers, and overlays automatically.",
+      "Reusable styles include colors, text, links, and selections.",
+      "Sticky scrolling keeps headers or CTAs visible while scrolling.",
+      "Fully responsive with customizable breakpoints and flexible design."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "PureVisuals Creative Portfolio Template",
+    "meta_description": "PureVisuals is a professional Framer portfolio template ideal for designers and agencies to showcase their work with impact."
+  },
+  {
+    "id": 41,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "saas",
+        "label": "SaaS"
+      },
+      {
+        "value": "startup",
+        "label": "Startup"
+      },
+      {
+        "value": "landing page",
+        "label": "Landing Page"
+      }
+    ],
+    "imageAlt": "scaleplus-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/scaleplus.webp",
+    "subtitle": "Elevate your startup’s presence with functional, visually appealing template.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://scaleplus-saas.framer.website/?via=propartner",
+    "templateName": "ScalePlus",
+    "slug": "scaleplus-creative-saas-landing-page",
+    "author": "Fahlur Rozzi",
+    "author_url": "https://www.framer.com/@samfahro",
+    "buyUrl": "https://framer.link/3UF2W4K?duplicateType=siteTemplate",
+    "description": "ScalePlus is a Framer template that enhances user experience, offering a seamless journey for visitors. Sleek & elegant design elevates your brand and highlights the value of your SaaS or startup, combining functionality with visual appeal.",
+    "features": [
+      "Accessibility improved with semantic tags, alt text, ARIA.",
+      "Expressive animations easily customizable to engage website visitors.",
+      "Fast, structured, accessible sites optimized for search engines.",
+      "Integrated analytics, GDPR-compliant, no complex dashboards needed.",
+      "CMS manages blogs, job listings, and landing pages.",
+      "Reusable components for buttons, nav bars, and footers.",
+      "Built-in forms collect feedback or leads code-free.",
+      "Reusable styles include colors, text, links, and selections.",
+      "Fully responsive design with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "ScalePlus SaaS Landing Page",
+    "meta_description": "ScalePlus is a Framer template for SaaS and startup websites that combines elegance with high conversion design."
+  },
+  {
+    "id": 42,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "startup",
+        "label": "Startup"
+      }
+    ],
+    "imageAlt": "bizent-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/bizent.webp",
+    "subtitle": "Build standout online presence with sleek, functional consultation template.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://bizent.framer.website",
+    "templateName": "Bizent",
+    "slug": "bizent-business-consultation-template",
+    "author": "OneFramer",
+    "author_url": "https://www.framer.com/@oneframer",
+    "buyUrl": "https://framer.link/DwTfFp4?duplicateType=siteTemplate",
+    "description": "Bizent: A premium consultation Framer template for startups, firms, and agencies. Features include responsive design, pre-built pages, SEO, and interactive elements to showcase expertise and build a standout online presence.",
+    "features": [
+      "Accessibility enhanced using semantic tags, alt text, ARIA.",
+      "Expressive animations customizable to capture audience attention easily.",
+      "Fast, structured, accessible sites optimized for search engines.",
+      "Integrated analytics, GDPR-compliant, no complex dashboards required.",
+      "CMS manages blogs, job listings, and landing pages.",
+      "Reusable components for buttons, navigation bars, and footers.",
+      "Built-in forms collect feedback or leads code-free.",
+      "Reusable styles include colors, text, links, and selections.",
+      "Sticky scrolling keeps headers or CTAs visible while scrolling.",
+      "Fully responsive design with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Bizent Business Consultation Template",
+    "meta_description": "Bizent is a sleek Framer template tailored for consulting firms and startups to launch high-conversion landing pages quickly."
+  },
+  {
+    "id": 43,
+    "price": 0,
+    "popularity": 0,
+    "appType": "landing page",
+    "categories": [
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ],
+    "imageAlt": "designfast-framer-template",
+    "imageSrc": "https://react-theme.github.io/FramerImages/images/designfast.webp",
+    "subtitle": "Launch high-converting agency websites quickly using this Framer template.",
+    "downloads": "",
+    "views": "",
+    "livePreview": "https://designfast-demo.framer.website",
+    "templateName": "Designfast",
+    "slug": "designfast-free-digital-agency-template",
+    "author": "Expressed Media",
+    "author_url": "https://www.framer.com/@expressed",
+    "buyUrl": "https://framer.link/LPrypvt?duplicateType=siteTemplate",
+    "description": "Create your digital agency website fast and easy with this free Framer template. Includes a pricing table for your subscription plans, detailed case studies, and a high-converting design—optimized for clarity and conversions.",
+    "features": [
+      "Accessibility improved with semantic tags, alt text, ARIA.",
+      "Expressive animations customizable to capture audience attention easily.",
+      "Fast, structured, accessible sites optimized for search engines.",
+      "Integrated analytics, GDPR-compliant, no complex dashboards needed.",
+      "CMS manages blogs, job listings, and landing pages.",
+      "Reusable components for buttons, navigation bars, and footers.",
+      "Built-in forms collect feedback or leads without coding.",
+      "Layout templates apply headers, footers, and overlays automatically.",
+      "Reusable styles include colors, text, links, and selections.",
+      "Embed rich media like live video or audio seamlessly.",
+      "Fully responsive design with customizable breakpoints and layouts."
+    ],
+    "createdOn": "2025-09-25T00:00:00",
+    "lemonSqzId": "",
+    "meta_title": "Designfast Free Agency Template",
+    "meta_description": "Designfast is a fast and sleek Framer template designed for digital agencies with conversion in mind."
   }
 ]
