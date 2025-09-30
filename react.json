@@ -8134,5 +8134,115 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 225,
+    "price": 0,
+    "popularity": 1168,
+    "appType": "website",
+    "details": "https://github.com/michalzalobny/threejs-page-transition/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "threejs-page-transition",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/threejs-page-transition.webp",
+    "subtitle": "Web application, that uses THREE.JS and NextJS for the transitions between pages 👾.",
+    "livePreview": "https://next-training-six.vercel.app/",
+    "templateName": "Threejs Page Transition",
+    "description": "This project is a modern web application built with Next.js and THREE.js, designed to explore the potential of combining single-page application (SPA) performance with immersive, award-winning style transitions. The application leverages THREE.js to create smooth, visually engaging 3D transitions between pages, while Next.js ensures scalability, performance, and SEO optimization.",
+    "features": [
+      "Next.js",
+      "React",
+      "Zod",
+      "prefix",
+      "react-dom",
+      "prettier",
+      "Prisma",
+      "typescript",
+      "Eslint",
+      "Animation",
+      "Sass"
+    ],
+    "createdOn": "24-Sep-2021",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "price": 0,
+    "popularity": 1169,
+    "appType": "website",
+    "details": "https://github.com/LauraBeatris/pokedex-nextjs/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "pokedex-nextjs",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/pokedex-nextjs.webp",
+    "subtitle": "Get to know the different render methods that the Next.js framework provides by exploring Pokemons",
+    "livePreview": "https://pokedex-nextjs-neon.vercel.app/",
+    "templateName": "Pokedex Nextjs",
+    "description": "Discover the various rendering methods offered by Next.js through a fun and interactive project centered around Pokémon data. This application demonstrates how to implement Static Site Generation (SSG), Server-Side Rendering (SSR), and Client-Side Rendering (CSR) in real-world scenarios, providing a clear understanding of when and why to use each approach",
+    "features": [
+      "Next.js",
+      "React",
+      "Explore pokemons",
+      "Search pokemons by name",
+      "See the abilities and damage level of pokemons in the details page"
+    ],
+    "createdOn": "16-Jun-2020",
+    "categories": [
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "price": 0,
+    "popularity": 1170,
+    "appType": "website",
+    "details": "https://github.com/jeffroche/nextjs-django-auth-example/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "nextjs-django-auth-example",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-django-auth-example.webp",
+    "subtitle": "Example of integrating Next.js with a Django API",
+    "livePreview": "https://nextjs-django-auth-example.vercel.app/",
+    "templateName": "Nextjs Django Auth Example",
+    "description": "This project showcases an example of integrating Next.js with a Django API, highlighting how modern frontend frameworks can seamlessly connect with robust backend systems. The application uses Next.js for building a fast, responsive, and SEO-friendly interface, while Django provides a secure and scalable RESTful API for managing data and business logic.",
+    "features": [
+      "Django",
+      "Django REST Framework",
+      "JWT Authentication",
+      "Next.js",
+      "Tailwind"
+    ],
+    "createdOn": "18-Aug-2020",
+    "categories": [
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
