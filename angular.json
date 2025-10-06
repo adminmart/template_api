@@ -12,13 +12,11 @@
     "livePreview": "https://certificates.dev/angular?friend=WRAPPIXEL&utm_source=angulartemplates.com",
     "templateName": "Get your Angular Certification",
     "description": "",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":true,
+    "ads": true,
     "ads_link": "https://certificates.dev/angular?friend=WRAPPIXEL&utm_source=angulartemplates.com"
   },
   {
@@ -51,7 +49,7 @@
     "createdOn": "18-Apr-2023",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -85,7 +83,7 @@
     "createdOn": "18-Apr-2023",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -115,7 +113,7 @@
     "createdOn": "25-Feb-2022",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -150,7 +148,7 @@
     "createdOn": "14-Mar-2022",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -180,7 +178,7 @@
     "createdOn": "04-Jan-2018",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -216,7 +214,7 @@
     "createdOn": "03-Jan-2018",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -249,7 +247,7 @@
     "createdOn": "17-Oct-2023",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -292,7 +290,7 @@
     "createdOn": "16-Oct-2023",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -325,7 +323,7 @@
     "createdOn": "18-Sept-2024",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -367,7 +365,7 @@
     "createdOn": "18-Sept-2024",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -405,7 +403,7 @@
     "createdOn": "13-Feb-2013",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -435,7 +433,7 @@
     "createdOn": "",
     "frameworkName": "Normalize Css",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -451,13 +449,11 @@
     "livePreview": "https://marmelab.com/ng-admin-demo/#/dashboard",
     "templateName": "ng-admin-demo",
     "description": "Source of the ng-admin angular.js demo, using a dummy REST service powered by FakeRest",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Ng Admin",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -473,13 +469,11 @@
     "livePreview": "http://treesflower.com/dist/pages/index",
     "templateName": "ng-pi-admin",
     "description": "Angular admin",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Normalize Css",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -495,13 +489,11 @@
     "livePreview": "https://cdk-admin.web.app/auth/dashboard",
     "templateName": "cdk-admin",
     "description": "Angular 6 admin panel using angular material & angular flex.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -517,13 +509,11 @@
     "livePreview": "https://www.bootstrapdash.com/demo/purple-angular-free/preview/dashboard",
     "templateName": "PurpleAdmin Free Angular Admin Template",
     "description": "Purple Admin Angular Admin is a free admin template based on Bootstrap 4 and Angular",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -548,7 +538,7 @@
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -564,13 +554,11 @@
     "livePreview": "https://www.bootstrapdash.com/demo/star-admin-angular/preview/demo_1/dashboard",
     "templateName": "StarAdmin Free Angular Admin Template",
     "description": "Introducing StarAdmin: Embrace an Exceptional Angular Admin Template Experience the epitome of modern web development with StarAdmin, a cutting-edge Angular Admin Template that sets new standards for user interfaces. Empower your applications with a sleek and intuitive design, meticulously crafted to enhance user experiences. Say goodbye to monotonous interfaces and unlock the true potential of your projects with StarAdmin's feature-rich and easily customizable framework.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -586,13 +574,11 @@
     "livePreview": "https://www.bootstrapdash.com/demo/stellar-angular-free/preview/demo_1/dashboard",
     "templateName": "stellar angular free admin template",
     "description": "Take your web projects to new heights with the Stellar Free Angular Admin Template. Meticulously designed and developed, this template offers a wealth of features and components to accelerate your admin dashboard creation. With Angular at its core, Stellar guarantees robust functionality and seamless navigation. Experience the freedom of building a stunning user interface with its clean and modern design, while also benefiting from its mobile-responsive nature. Whether you're a seasoned developer or just starting, Stellar streamlines your workflow and allows you to focus on what truly matters - delivering an exceptional user experience.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -608,13 +594,11 @@
     "livePreview": "https://demo.bootstrapdash.com/demo/azia-angular-free/preview/demo_1/dashboard",
     "templateName": "Azia Angular",
     "description": "Revolutionize the way you build web applications with our premium Angular Admin template. Crafted with a focus on aesthetics and functionality, our template offers a visually appealing interface that will captivate your users from the get-go. Embrace a world of possibilities with a comprehensive set of UI components, allowing you to customize and tailor your app to perfection without any coding headaches.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -644,7 +628,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -672,7 +656,7 @@
     "createdOn": "",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -688,13 +672,11 @@
     "livePreview": "https://solutionportal.net/themes/degree/#/dashboard",
     "templateName": "Degree Material Admin Template",
     "description": "Elevate Admin Experiences with Angular Material: Your Ultimate Design Template: Welcome to a new era of admin template innovation, where Angular Material takes center stage. Our cutting-edge template is a symphony of Angular's capabilities and the sophistication of Material Design. Effortlessly manage tasks, data manipulation, and user interactions while delighting in the harmonious blend of design and functionality. Embrace the future of admin templates with our Angular Material creation.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -710,13 +692,11 @@
     "livePreview": "https://rawgit.com/start-angular/ani-angular-2/master/dist/prod/dashboard/home",
     "templateName": "Ani Angular-2",
     "description": "Ani-Angular-2 Admin Template: Where Function Meets Form: Unlock a new era of admin template efficiency with Ani-Angular-2. Built upon the robust foundation of Angular 2, this template seamlessly combines advanced functionality with a visually appealing design. From data management to user engagement, Ani-Angular-2 empowers you to excel in admin tasks while enjoying a streamlined interface that speaks of innovation.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -732,13 +712,11 @@
     "livePreview": "https://rawgit.com/start-angular/versatile-dashboard-theme/master/dist/index.html#/dashboard/overview",
     "templateName": "Versatile dashboard theme",
     "description": "Free Edition Animated Metro Style Flat AngularJS Theme: The Power of Visual Dynamics: Experience the power of visual dynamics with our Free Edition Animated Metro Style Flat AngularJS Theme. Through the fusion of metro-inspired aesthetics and AngularJS, this theme propels your web application into a new dimension of style and usability. Seamlessly navigate tasks, manage data, and interact with users within an interface that's as dynamic as it is engaging.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -765,7 +743,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -781,13 +759,11 @@
     "livePreview": "https://devexpress.github.io/devextreme-angular-template/#/home",
     "templateName": "Devextreme angular template",
     "description": "Adaptive App Layout Templates Showcasing DevExtreme Angular Components Experience the future of responsive application layouts with our innovative templates, seamlessly integrated with the power of DevExtreme Angular Components. These templates are meticulously designed to ensure your application's adaptability across devices, guaranteeing a user experience that remains flawless on every screen size.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -816,7 +792,7 @@
     "createdOn": "",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -832,13 +808,11 @@
     "livePreview": "https://id1945.github.io/enlink-admin/dashboard/default",
     "templateName": "Enlink admin",
     "description": "Enlink Admin: Navigating the Future of Admin Templates Introducing Enlink Admin, your compass to the future of admin templates. Seamlessly blending modern design with unparalleled functionality, this template redefines how you interact with administrative interfaces.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -854,13 +828,11 @@
     "livePreview": "https://andresjosehr.com/en",
     "templateName": "Andresjosehr portfolio",
     "description": "This theme has been meticulously crafted as a personal endeavor. Drawing inspiration, and in fact, adopting the entire design from the remarkable portfolio of Britanny Chiang, I've aimed to create a harmonious homage to her incredible work.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "Ng Bootstrap",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -876,13 +848,11 @@
     "livePreview": "https://id1945.github.io/gull-admin/#/applayout-sidebar-large/dashboard/v1",
     "templateName": "Gull Admin",
     "description": "Unleash Efficiency and Style with the Angular 12+ Bootstrap Admin Dashboard Template Discover a new level of operational efficiency and visual elegance with the Angular 12+ Bootstrap Admin Dashboard Template. This template is designed to empower administrators with intuitive tools and real-time insights for streamlined management. Crafted on the foundation of Angular 12+ and Bootstrap, it guarantees a responsive and polished interface that adapts seamlessly to various screen sizes. Revolutionize the way you manage tasks, data, and analytics by harnessing the power of this dynamic admin dashboard template.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -898,13 +868,11 @@
     "livePreview": "https://angular-tailwind-front.vercel.app/",
     "templateName": "Angular Tailwind Starter",
     "description": "Empower Your Project with Angular 15 + Tailwind CSS FrontEnd and NodeJS BFF Initiate your project with an incredible boost using our Kick Start package. Unleash the potential of your FrontEnd with the dynamic Angular 15 and the sleek styling of Tailwind CSS. Complementing this, our NodeJS BFF (Backend for FrontEnd) seamlessly wraps around the renowned public Cat API, ensuring robust data integration. Propel your project forward with this powerful combination of technologies that promises to deliver efficiency, style, and connectivity like never before.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -920,13 +888,11 @@
     "livePreview": "https://www.primefaces.org/sakai-ng/#/",
     "templateName": "Angular prime ng template",
     "description": "PrimeNG Unleashed: Explore the Free Angular Admin Template Unleash the potential of your admin dashboard with PrimeNG's free Angular Admin Template. Seamlessly integrate interactive components, charts, and widgets into your admin interface. Crafted with precision and powered by Angular's flexibility, this template ensures a user-centric experience. Embrace PrimeNG's dedication to quality and innovation as you redefine admin management.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -942,13 +908,11 @@
     "livePreview": "https://angularios.web.app/",
     "templateName": "Angular mvc",
     "description": "Angular MVC Made Easy: Get Started with Our Template Simplify your Angular MVC endeavors by leveraging our user-friendly starter template. Embrace the structured approach of Model-View-Controller architecture as you build applications that are scalable and maintainable. With built-in components and a seamless workflow, this template empowers you to focus on functionality and design without compromising on code organization. Dive into Angular MVC effortlessly and watch your projects thrive.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -964,13 +928,11 @@
     "livePreview": "https://mesinkasir.vercel.app/",
     "templateName": "Angular simple site",
     "description": "Discover Elegance in Simplicity with Our Angular Simple Site Experience the beauty of simplicity through our Angular Simple Site. Stripped down to the essentials, this site showcases the essence of your content in a clean and straightforward manner. Built on the Angular framework, it combines functionality with ease of use, offering a seamless user experience. Embrace the power of minimalism and let your content shine on our elegantly designed Simple Site.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -986,13 +948,11 @@
     "livePreview": "https://jun-tech.github.io/ng-ant-design-pro-platform/#/system/home",
     "templateName": "Ng ant design pro platform",
     "description": "The platform presents a collection of template choices, all leveraging the power of Angular, ng-zorro, and ant-design-pro as their core components.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1020,7 +980,7 @@
     "createdOn": "",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1036,13 +996,11 @@
     "livePreview": "https://www.stimulsoft.com/en/products/dashboards-js",
     "templateName": "Samples Dashboards.JS for Angular",
     "description": "Navigate through an assortment of JavaScript samples that vividly exemplify Dashboards.JS, the cutting-edge data analytics tool designed to enhance the potential of both Angular and AngularJS applications.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1058,13 +1016,11 @@
     "livePreview": "https://sakai.primeng.org/",
     "templateName": "Sakai Ng",
     "description": "Sakai Angular stands as a premier free Angular template meticulously crafted to meet the demands of modern admin dashboard development. With its sleek design and robust functionality, Sakai Angular offers developers a powerful toolset to create dynamic and visually stunning dashboards. Built upon Angular's solid foundation, this template ensures seamless integration, scalability, and ease of customization, making it an ideal choice for projects of any scale or complexity. Whether you're a seasoned developer or new to Angular, Sakai Angular provides an intuitive interface and comprehensive documentation, enabling swift and efficient development without compromising on quality.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1089,7 +1045,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1123,7 +1079,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1156,7 +1112,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1184,7 +1140,7 @@
     "createdOn": "06-May-2020",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1217,7 +1173,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1248,7 +1204,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1273,7 +1229,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1289,13 +1245,11 @@
     "livePreview": "https://krispo.github.io/angular-nvd3/#/",
     "templateName": "Angular-nvD3",
     "description": "Angular-nvD3 is an AngularJS directive for NVD3 re-usable charting libraries (based on D3) that supports Angular 2. This open-source project enables software designers and developers to easily customize their charts with the help of JSON API. Providing a variety of charts (bullet charts, candlestick charts, parallel coordinates, etc.). Angular-nvD3 allows managing properties of models with their original structure being kept in JSON models. At the moment, this directive has more than 1,300 stars on GitHub.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1311,13 +1265,11 @@
     "livePreview": "https://screenisland.com/",
     "templateName": "Maverix",
     "description": "The Maverix Bootstrap Theme coupled with the AngularJS Boilerplate offers a robust and versatile solution for web developers seeking to create modern and responsive web applications. Maverix Bootstrap Theme provides a sleek and visually appealing design framework built upon the popular Bootstrap framework, ensuring cross-browser compatibility and ease of customization. Complemented by the AngularJS Boilerplate, developers benefit from a structured and efficient starting point for AngularJS-based projects, facilitating rapid development and scalability.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1333,13 +1285,11 @@
     "livePreview": "https://rawgit.com/start-angular/ani-theme/master/dist/index.html#/dashboard/overview",
     "templateName": "Ani Dashboard",
     "description": "The Ani Free AngularJS Dashboard Theme offers an intuitive and feature-rich platform for web developers to create dynamic and visually stunning dashboards and web applications. With its clean and modern design, Ani provides users with a seamless navigation experience across various devices and screen sizes. Leveraging the power of AngularJS, developers can easily integrate dynamic data and interactive elements into their projects, enhancing user engagement and productivity. Whether building enterprise dashboards, data visualization tools, or management interfaces, Ani empowers developers to accelerate their development process while maintaining high standards of design and functionality.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1355,13 +1305,11 @@
     "livePreview": "https://adminlte.io/themes/v3/",
     "templateName": "AdminLTE Angular 2",
     "description": "AdminLTE is widely known for being one of the best open source admin dashboard & control panel themes around the web. Built on top of Bootstrap 3, AdminLTE provides a range of responsive, reusable, and commonly used components. This version is built on top of Angular 2, so you can start building your SPA soon.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1377,13 +1325,11 @@
     "livePreview": "https://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/dashboard",
     "templateName": "SB Admin BS4 Angular 4",
     "description": "SB is a very simple admin template built with Bootstrap 4 and Angular 4. This is an open source project, so the price of this template is free. SB supports any type of browsers including FIrefox, Chrome, and IE11. The small modules of this template let you get started quickly.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1399,13 +1345,11 @@
     "livePreview": "https://mohdrashid.github.io/PaperAdmin/#/dashboard",
     "templateName": "Paper Admin",
     "description": "An admin template that is built with AngularJS 4 and Bootstrap 4 under MIT license. Its built-in components make dashboard development very simple. Paper admin consists of features like list views, calender's, pie charts with status and CRUD(Create, Read, Update, Delete) functionality.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1430,7 +1374,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1455,7 +1399,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1480,7 +1424,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1505,7 +1449,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1521,13 +1465,11 @@
     "livePreview": "https://sb-clean-blog.startbootstrap.com/",
     "templateName": "SB Clean Blog Angular",
     "description": "Introducing an open-sourced Bootstrap-themed Angular 9 starter project, meticulously designed to streamline the development process for modern web applications. This starter project integrates the robust functionalities of Angular 9 with the sleek, responsive design capabilities of Bootstrap, providing developers with a solid foundation to build upon. It features a comprehensive setup with pre-configured components, modular architecture, and best practices in code organization and performance optimization. Ideal for both beginners and seasoned developers, this project serves as a versatile and scalable starting point, accelerating the creation of dynamic, user-friendly web interfaces.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1543,13 +1485,11 @@
     "livePreview": "https://sb-admin-angular.startbootstrap.com/dashboard",
     "templateName": "SB Admin Angular",
     "description": "Introducing a free, open-source Angular admin dashboard template, crafted by the experts at Start Bootstrap. This template combines the power and flexibility of Angular with the sleek, modern aesthetics of Bootstrap, offering a comprehensive solution for building dynamic, user-friendly admin dashboards. Designed with developers in mind, it features a robust set of pre-configured components, responsive design elements, and a modular architecture that ensures easy customization and scalability. Ideal for both novice and experienced developers, this template simplifies the development process, enabling rapid deployment of sophisticated admin interfaces.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1574,7 +1514,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1599,7 +1539,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1624,7 +1564,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1649,7 +1589,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1665,13 +1605,11 @@
     "livePreview": "https://ninjacodegen.github.io/angular-landing-page/",
     "templateName": "Angular Landing Page",
     "description": "Our stunning Angular landing page, integrated with Firebase, offers a seamless and interactive user experience. It features a robust chat system, engaging polls, and dynamic galleries that showcase your content beautifully. Enhanced with smooth animations and scrolling effects, this landing page captivates visitors and provides a modern, responsive interface. The Firebase integration ensures real-time data synchronization and secure backend support, making it a perfect solution for dynamic and feature-rich web applications.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1687,13 +1625,11 @@
     "livePreview": "https://ninjacodegen.github.io/ncg-crud-ngx-md/",
     "templateName": "ncg crud ngx md",
     "description": "The Angular 4+ Material Design CRUD/Admin app, developed by NinjaCodeGen, delivers a powerful and intuitive user interface for managing data and administrative tasks. Utilizing Angular's robust framework combined with the sleek aesthetics of Material Design, this application ensures a seamless and visually appealing experience. It includes comprehensive CRUD (Create, Read, Update, Delete) functionalities, enabling efficient data handling and management. The app's modular design and clean code architecture make it highly maintainable and scalable, catering to a wide range of business needs.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1709,13 +1645,11 @@
     "livePreview": "https://ninjacodegen.github.io/ncg-crud-ngx-bs/",
     "templateName": "ncg crud ngx bs",
     "description": "The Angular 4+ Bootstrap 4 CRUD/Admin app by NinjaCodegen offers a robust solution for developing scalable and efficient administrative interfaces and CRUD (Create, Read, Update, Delete) applications. Leveraging the powerful Angular framework, this app ensures high performance and responsiveness, while the integration with Bootstrap 4 provides a sleek, modern, and user-friendly design. The combination of these technologies facilitates rapid development and easy customization, making it ideal for both small projects and large enterprise applications. NinjaCodegen's expertise is evident in the seamless integration of these technologies, resulting in a tool that not only accelerates development time but also enhances the overall user experience and application functionality.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1731,13 +1665,11 @@
     "livePreview": "https://ninjacodegen.github.io/ncg-crud-ngx-kui/",
     "templateName": "ncg crud ngx kui",
     "description": "The Angular 4+ Kendo UI CRUD/Admin app by NinjaCodegen delivers a powerful and efficient solution for building dynamic administrative interfaces and CRUD (Create, Read, Update, Delete) applications. This app combines the robust capabilities of Angular with the comprehensive and versatile components of Kendo UI, ensuring high performance and an intuitive user experience. With its rich set of UI components, Kendo UI enhances the app's functionality and aesthetics, allowing for easy customization and rapid development. NinjaCodegen's integration of these technologies results in a scalable, user-friendly, and professional-grade application, making it an excellent choice for both small-scale and enterprise-level projects.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1765,7 +1697,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1781,13 +1713,11 @@
     "livePreview": "https://angular-starter-buttercms.vercel.app/",
     "templateName": "Angular Starter Buttercms",
     "description": "This Angular starter project fully integrates with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality. All of the included sample content is automatically created in your account dashboard when you sign up for a free trial of ButterCMS.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1803,13 +1733,11 @@
     "livePreview": "http://mobileangularui.com/demo/#/",
     "templateName": "Mobile Angular UI",
     "description": "The Angular.js Mobile UI Framework, when integrated with Bootstrap 3, offers a robust solution for developing responsive and user-friendly mobile applications. Angular.js provides a powerful structure for building dynamic single-page applications, enabling developers to create interactive interfaces with ease. By leveraging Bootstrap 3, the framework benefits from a comprehensive set of pre-designed components and a responsive grid system, ensuring that applications are visually appealing and function seamlessly across various devices. This combination not only accelerates the development process but also enhances the user experience by providing a consistent and intuitive interface.",
-    "features": [
-      
-    ],
+    "features": [],
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1842,7 +1770,7 @@
     "createdOn": "15-Aug-2024",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1876,7 +1804,7 @@
     "createdOn": "12-Aug-2024",
     "frameworkName": "Material Angular",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1906,7 +1834,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1935,7 +1863,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1964,7 +1892,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -1991,7 +1919,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2019,7 +1947,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2048,7 +1976,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2081,7 +2009,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2112,7 +2040,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2143,7 +2071,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2174,7 +2102,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2204,7 +2132,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2235,7 +2163,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2267,7 +2195,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2297,7 +2225,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2328,7 +2256,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2358,7 +2286,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2387,7 +2315,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2414,7 +2342,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2444,7 +2372,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2473,7 +2401,7 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
     "ads_link": ""
   },
   {
@@ -2509,7 +2437,92 @@
     "createdOn": "",
     "frameworkName": "",
     "doFollow": false,
-    "ads":false,
+    "ads": false,
+    "ads_link": ""
+  },
+  {
+    "id": 94,
+    "price": 0,
+    "popularity": 1081,
+    "appType": "admin-template",
+    "details": "https://github.com/mdbootstrap/Angular-Bootstrap-Boilerplate/archive/refs/heads/master.zip",
+    "category": "Angular",
+    "imageAlt": "Angular-Bootstrap-Boilerplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/Angular-Bootstrap-Boilerplate.webp",
+    "subtitle": "Angular CRUD application starter with NgRx state management and Firebase backend",
+    "livePreview": "https://mdbootstrap.com/freebies/angular/boilerplate/",
+    "templateName": "Angular Bootstrap Boilerplate",
+    "description": "Free, responsive CRUD application starter with NgRx state management, Firebase backend and material design. Built with the newest Bootstrap 4, Angular 7 and MDBootstrap - powerful and free UI Kit, containing 400+ material UI elements, 600+ material icons, 74 CSS animations, SASS files, templates, tutorials and many more.",
+    "features": [
+      "Angular",
+      "Bootstrap",
+      "MDBootstrap Angular",
+      "NgRx",
+      "Firebase"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": false,
+    "ads": false,
+    "ads_link": ""
+  },
+  {
+    "id": 95,
+    "price": 0,
+    "popularity": 1082,
+    "appType": "landingpage",
+    "details": "https://github.com/ju4n97/angular-boilerplate/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "angular-boilerplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/angular-boilerplate.webp",
+    "subtitle": "Straightforward Angular starter",
+    "livePreview": "https://angularboilerplate.vercel.app/",
+    "templateName": "Angular Boilerplate",
+    "description": "This opinionated Angular starter focuses on the latest Angular features and best practices. It offers essential features for flexibility and scalability, minimizing unnecessary overhead. The codebase is lightweight yet robust, allowing developers to choose their preferred technologies like UI component libraries, state management, server-side rendering, etc. Its flexible boilerplate enables easy customization and adaptation to unique project requirements.",
+    "features": [
+      "Angular 16",
+      "PNPM, esbuild",
+      "Standalone components",
+      "Signals",
+      "Lazy loading",
+      "PWA",
+      "I18n",
+      "TailwindCSS"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": false,
+    "ads": false,
+    "ads_link": ""
+  },
+  {
+    "id": 96,
+    "price": 0,
+    "popularity": 1083,
+    "appType": "admin-template",
+    "details": "https://github.com/ArslanAmeer/angular-boilerplate/archive/refs/heads/main.zip",
+    "category": "Angular",
+    "imageAlt": "ArslanAmeer-angular-boilerplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ArslanAmeer-angular-boilerplate.webp",
+    "subtitle": "A Fully-Configured Angular 20 Boilerplate for Enterprise-Grade Applications",
+    "livePreview": "https://angular-boilerplate.arslanameer.com/",
+    "templateName": "ArslanAmeer Angular Boilerplate",
+    "description": "Get started fast with this Angular 20 boilerplate, crafted for enterprise-level scalability. It integrates critical features like authentication, lazy loading, real-time socket communication, service workers, shell layout (header+sidebar) making it ready to handle everything from SaaS platforms to enterprise dashboards. Built on the latest Angular 20, this template is packed with the newest capabilities and ensures that you adhere to modern development best practices.",
+    "features": [
+      "Angular 20",
+      "PWA",
+      "Scalable folder structure",
+      "Separation of concerns",
+      "Modularization",
+      "Hybrid architecture",
+      "Complete authentication system",
+      "i18n Translation support",
+      "Basic error handling"
+    ],
+    "createdOn": "",
+    "frameworkName": "",
+    "doFollow": false,
+    "ads": false,
     "ads_link": ""
   }
 ]
