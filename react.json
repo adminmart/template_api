@@ -8476,5 +8476,187 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 234,
+    "price": 0,
+    "popularity": 151,
+    "appType": "landingpage",
+    "details": "https://getnextjstemplates.com/products/optura-nextjs-template",
+    "category": "NextJs",
+    "imageAlt": "optura-nextjs-template",
+    "imageSrc": "https://getnextjstemplates.com/images/template-images/optura/optura-nextjs-template.jpg",
+    "subtitle": "Optura is a design agency creating fast, modern, and scalable websites.",
+    "livePreview": "https://optura-agency.vercel.app/?ref=36",
+    "templateName": "Optura Agency NextJs Template",
+    "description": "Optura is your creative digital partner, combining technology, design, and strategy to build exceptional online experiences. We specialize in fast, responsive, and scalable websites powered by Next.js, designed to help brands grow and succeed. From eye-catching UI/UX design to SEO-friendly development, every project is crafted with precision and innovation. With Optura, your brand benefits from smart solutions, seamless performance, and a personal touch that ensures success in the digital world.",
+    "features": [
+      "Modern and clean design with user friendly codebase",
+      "Built with Nextjs, React, TailwindCss and Shadcn UI",
+      "6+ Fully responsive Pre built Inner pages",
+      "Detailed documentation for customization",
+      "Perfect Light & Dark mode Support",
+      "Components based code structure",
+      "Authentication by next auth"
+    ],
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      }
+    ],
+    "createdOn": "07-Oct-2025",
+    "frameworkName": ""
+  },
+  {
+    "id": 235,
+    "price": 0,
+    "popularity": 152,
+    "appType": "landingpage",
+    "details": "https://getnextjstemplates.com/products/typefolio-nextjs-template",
+    "category": "NextJs",
+    "imageAlt": "typefolio-nextjs-template",
+    "imageSrc": "https://getnextjstemplates.com/images/template-images/typefolio-nextjs-template.webp",
+    "subtitle": "Clean, fast one-pager to showcase your portfolio.",
+    "livePreview": "https://typefolio-nextjs.vercel.app/?ref=36",
+    "templateName": "Typefolio NextJs Template",
+    "description": "Typefolio is a clean and modern one-page portfolio template built with Next.js. It loads fast, looks great on all screen sizes, and is simple to customize. Perfect for developers, designers, and creatives who want to showcase their work online with style and ease.",
+    "features": [
+      "Super fast with Next.js tech",
+      "Clean and minimal portfolio layout",
+      "SEO-optimized and fast loading",
+      "Ideal for developers and designers",
+      "Looks great on all devices",
+      "Easy to change and update",
+      "Great for personal or work sites"
+    ],
+    "categories": [
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      }
+    ],
+    "createdOn": "25-Jul-2025",
+    "frameworkName": ""
+  },
+  {
+    "id": 236,
+    "price": 0,
+    "popularity": 153,
+    "appType": "landingpage",
+    "details": "https://getnextjstemplates.com/products/docsta-nextjs-documentation-template",
+    "category": "NextJs",
+    "imageAlt": "docsta-nextjs-template",
+    "imageSrc": "https://getnextjstemplates.com/images/template-images/docsta-nextjs-template.webp",
+    "subtitle": "A free, top-quality Next.js template for fast documentation.",
+    "livePreview": "https://docsta-nextjs.vercel.app/?ref=36",
+    "templateName": "Docsta Nextjs Documentation Template",
+    "description": "Docsta is a fast, clean, and modern documentation template built with Next.js and Tailwind CSS. It's easy to use, developer-friendly, and perfect for startups, open-source projects, APIs, and more. Save time with a ready-to-use, polished docs page.",
+    "features": [
+      "Seamless Content Management with Sanity Studio",
+      "Optimized for Performance",
+      "Dark & Light Mode Support",
+      "Customizable Content Models",
+      "Fully responsive design for all screen sizes",
+      "Organized folder structure for easy development"
+    ],
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "startup",
+        "label": "StartUp"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      }
+    ],
+    "createdOn": "24-Jun-2025",
+    "frameworkName": ""
+  },
+  {
+    "id": 237,
+    "price": 0,
+    "popularity": 154,
+    "appType": "landingpage",
+    "details": "https://getnextjstemplates.com/products/pixelize-portfolio-nextjs-template",
+    "category": "NextJs",
+    "imageAlt": "pixelize-nextjs-template",
+    "imageSrc": "https://getnextjstemplates.com/images/template-images/pixelize-nextjs-template.webp",
+    "subtitle": "Pixelize helps you create a personal portfolio and online project showcase",
+    "livePreview": "https://pixelize-nextjs.vercel.app/?ref=36",
+    "templateName": "Pixelize Portfolio Nextjs Template",
+    "description": "Pixelize is a free Landing Page to show your projects online. Built with Next.js and Tailwind CSS, it’s clean, easy to edit, and looks great on all devices. Perfect for anyone who wants a quick, stylish portfolio.",
+    "features": [
+      "Optimized for Performance",
+      "Dark & Light Mode Support",
+      "Dynamic Content Previews",
+      "Customizable Content Models",
+      "Fully responsive design for all screen sizes",
+      "Organized folder structure for easy development"
+    ],
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      }
+    ],
+    "createdOn": "24-Jun-2025",
+    "frameworkName": ""
   }
 ]
