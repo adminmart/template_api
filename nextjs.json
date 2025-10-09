@@ -8278,5 +8278,122 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 230,
+    "price": 0,
+    "popularity": 1173,
+    "appType": "landingpage",
+    "details": "https://github.com/denoland/fresh/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "fresh",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/fresh.webp",
+    "subtitle": "The next-gen web framework.",
+    "livePreview": "https://fresh.deno.dev/",
+    "templateName": "Fresh",
+    "description": "Fresh is a next-generation web framework designed with a strong focus on speed, reliability, and simplicity. By leveraging modern web standards and a lightweight architecture, it enables developers to build highly performant applications with minimal overhead. Its simplicity reduces complexity in both development and deployment, ensuring cleaner code and faster iteration cycles",
+    "features": [
+      "Island based client hydration for maximum interactivity.",
+      "Zero runtime overhead: no JS is shipped to the client by default.",
+      "No configuration necessary.",
+      "ReactTypeScript support out of the box.",
+      "File-system routing à la Next.js."
+    ],
+    "createdOn": "07-May-2021",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "price": 0,
+    "popularity": 1174,
+    "appType": "website",
+    "details": "https://github.com/coollabsio/next-image-transformation/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "next-image-transformation",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/next-image-transformation.webp",
+    "subtitle": "Drop-in replacement for Vercel's Nextjs image optimization service. Cloud version",
+    "livePreview": "https://images.coollabs.io/",
+    "templateName": "Next Image Transformation",
+    "description": "A drop-in replacement for Vercel’s Next.js image optimization service, the cloud version delivers the same seamless developer experience with enhanced scalability and flexibility. Designed to integrate effortlessly into existing Next.js applications, it eliminates the need for major code changes while providing powerful, cloud-native image processing capabilities",
+    "features": [
+      "Login to your Coolify instance or the cloud.",
+      "Create a new service and select the Next.js Image Transformation template.",
+      "Optional: Set the ALLOWED_REMOTE_DOMAINS environment variable to the domain of your images (e.g. example.com,coolify.io). By default, it is set to * which allows any domain.",
+      "Set the your <domain> on the Next Image Transformation service.",
+      "Deploy your service."
+    ],
+    "createdOn": "02-Feb-2024",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "price": 0,
+    "popularity": 1175,
+    "appType": "landingpage",
+    "details": "https://github.com/arihanv/Shush/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "Shush",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/Shush.webp",
+    "subtitle": "Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app",
+    "livePreview": "https://shush.arihanv.com/",
+    "templateName": "Shush",
+    "description": "Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app. The essential goal of this app is to provide a full-stack demo to those interested in running high-performance models and reliable APIs on demand with auto-scaling.",
+    "features": [
+      "Next.js",
+      "TypeScript",
+      "Eslint",
+      "React",
+      "Tailwind CSS",
+      "Post Css",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "19-Nov-2023",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
