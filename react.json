@@ -8658,5 +8658,133 @@
     ],
     "createdOn": "24-Jun-2025",
     "frameworkName": ""
+  },
+  {
+    "id": 238,
+    "price": 0,
+    "popularity": 1177,
+    "appType": "website",
+    "details": "https://github.com/codebushi/nextjs-starter-dimension/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "nextjs-starter-dimension",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-starter-dimension.webp",
+    "subtitle": "Next.js static site starter based on the Dimension template.",
+    "livePreview": "https://nextjs-dimension.surge.sh/",
+    "templateName": "Nextjs Starter Dimension",
+    "description": "Next.js Static Site Starter is a modern and efficient foundation built upon the Dimension template, designed to help developers quickly create fast, responsive, and SEO-friendly static websites. Leveraging the power of Next.js, it offers seamless static generation, optimized performance, and easy deployment workflows",
+    "features": [
+      "Next.js",
+      "React",
+      "Multiple Pages",
+      "Tailwind CSS",
+      "Post Css",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "price": 0,
+    "popularity": 1178,
+    "appType": "landingpage",
+    "details": "https://github.com/Temitayo-spec/Raft-Landing-Page/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "Raft-Landing-Page",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/Raft-Landing-Page.webp",
+    "subtitle": "A landing page built with, Next.js, Styled-Components, GSAP and Framer-Motion 😎✨",
+    "livePreview": "https://raft-landing-page.vercel.app/",
+    "templateName": "Raft Landing Page",
+    "description": "This landing page is a visually engaging and high-performance experience built with Next.js, Styled-Components, GSAP, and Framer Motion. It combines the robustness of Next.js for optimized rendering and SEO with the flexibility of Styled-Components for dynamic, maintainable styling. Smooth, captivating animations powered by GSAP and Framer Motion bring the interface to life, creating an immersive user journey",
+    "features": [
+      "Next.js",
+      "React",
+      "Landing Page",
+      "Eslint",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "price": 0,
+    "popularity": 1179,
+    "appType": "landingpage",
+    "details": "https://github.com/ratheo1/landingpage-pr01/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "landingpage-pr01",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/landingpage-pr01.webp",
+    "subtitle": "This project is a website landing page Fintech made with nextjs, tailwindcss and gsap for the animation",
+    "livePreview": "https://landingpage-pr01.netlify.app/",
+    "templateName": "Fintech",
+    "description": "This project is a Fintech landing page built with Next.js, Tailwind CSS, and GSAP to deliver a modern, responsive, and visually dynamic web experience. Leveraging Next.js for fast performance and SEO optimization, Tailwind CSS for efficient and scalable styling, and GSAP for smooth, professional-grade animations, the website showcases a sleek and engaging interface tailored for financial technology solutions",
+    "features": [
+      "Next.js",
+      "React",
+      "Landing Page",
+      "Eslint",
+      "Tailwind CSS",
+      "Post Css",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
