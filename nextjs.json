@@ -8705,5 +8705,143 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 240,
+    "price": 0,
+    "popularity": 1176,
+    "appType": "landingpage",
+    "details": "https://github.com/nexi-launch/finwise-landing-page/archive/refs/heads/main.zip",
+    "category": "NextJs",
+    "imageAlt": "finwise-landing-page",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/finwise-landing-page.webp",
+    "subtitle": "Finwise is free Next.js template for SaaS startups",
+    "livePreview": "https://finwise-omega.vercel.app/",
+    "templateName": "Finwise",
+    "description": "Finwise is a lightweight, easily configurable, and customizable Next.js and Tailwind CSS landing page template. It’s built to be adaptable, performant, and perfect for any product launch, portfolio, or promotional site.",
+    "features": [
+      "Next.js app router with TypeScript",
+      "Tailwind CSS v3 for flexible styling customization",
+      "Smooth transitions powered by Framer Motion",
+      "Built-in font optimization with next/font",
+      "Automatic image optimization via next/image",
+      "Access to 31+ icon packs via React Icons",
+      "Near-perfect Lighthouse score",
+      "Modular, responsive, and scalable components",
+      "Free lifetime updates"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "price": 0,
+    "popularity": 1177,
+    "appType": "website",
+    "details": "https://github.com/devwithzain/personal-portfolio/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "personal-portfolio",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/personal-portfolio.webp",
+    "subtitle": "My Personal Portfolio, Created with Next-js, TypeScript, Tailwind-css and Framer-Motion",
+    "livePreview": "https://muhammad-zain-cyan.vercel.app/",
+    "templateName": "Personal Portfolio",
+    "description": "This is my personal portfolio, thoughtfully crafted using Next.js, TypeScript, Tailwind CSS, and Framer Motion. It showcases my skills, projects, and professional journey through a modern, performance-driven interface. Built with clean code and strong architectural practices, the portfolio leverages Next.js for server-side rendering, TypeScript for type safety, Tailwind CSS for responsive and elegant styling, and Framer Motion for smooth, engaging animations—resulting in a seamless and visually appealing user experience.",
+    "features": [
+      "Next.js 14",
+      "React",
+      "Eslint",
+      "Post Css",
+      "Tailwind CSS",
+      "TypeScript Support and Much More ...",
+      "Framer Motion",
+      "Lenis Scroll"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "price": 0,
+    "popularity": 1178,
+    "appType": "landingpage",
+    "details": "https://github.com/devwithzain/flowparty-website-clone/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "flowparty-website-clone",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/flowparty-website-clone.webp",
+    "subtitle": "Flow Party Website clone created with Next JS and TypeScript.",
+    "livePreview": "https://flowparty-website-clone-by-devwithzain.vercel.app/",
+    "templateName": "Flowparty Website Clone",
+    "description": "The Flow Party Website Clone is a meticulously developed project built with Next.js and TypeScript, replicating the original website’s sleek design and dynamic user experience. This clone emphasizes performance, scalability, and maintainability through the use of modern web development practices.",
+    "features": [
+      "Next.js 14",
+      "React",
+      "Eslint",
+      "Post Css",
+      "Tailwind CSS",
+      "TypeScript Support and Much More ...",
+      "Framer Motion",
+      "Lenis Scroll"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
