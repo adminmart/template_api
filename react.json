@@ -8924,5 +8924,131 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 244,
+    "price": 0,
+    "popularity": 1183,
+    "appType": "landingpage",
+    "details": "https://github.com/devwithzain/navigation-menu-05/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "navigation-menu-05",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/navigation-menu-05.webp",
+    "subtitle": "Navigation Menu created by devwithzain",
+    "livePreview": "https://navigation-menu-05-by-devwithzain.vercel.app/",
+    "templateName": "Navigation Menu",
+    "description": "The Navigation Menu created by DevWithZain is a sleek, responsive, and user-friendly component designed to enhance website usability and aesthetics. Built with clean, modern design principles, it ensures seamless navigation across all screen sizes and devices. The menu’s intuitive structure allows users to easily access key sections, improving overall site accessibility and user experience.",
+    "features": [
+      "Next.js 14",
+      "React",
+      "Eslint",
+      "GSAP",
+      "Tailwind CSS",
+      "TypeScript Support and Much More ...",
+      "FRAMER MOTIOn"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "price": 0,
+    "popularity": 1184,
+    "appType": "landingpage",
+    "details": "https://github.com/devwithzain/slider-no-01/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "slider-no-01",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/slider-no-01.webp",
+    "subtitle": "Video Slider created with next JS, TypeScript, Tailwind CSS and GSAP",
+    "livePreview": "https://slider-no-01-by-devwithzain.vercel.app/",
+    "templateName": "Navigation Menu",
+    "description": "The Video Slider, created with Next.js, TypeScript, Tailwind CSS, and GSAP, is a dynamic and visually engaging component designed to deliver smooth, high-performance multimedia experiences. Leveraging the power of Next.js for optimized rendering, TypeScript for robust type safety, and Tailwind CSS for clean, responsive styling, the slider ensures both reliability and aesthetic appeal",
+    "features": [
+      "Next.js 14",
+      "React",
+      "Eslint",
+      "Post Css",
+      "GSAP",
+      "Tailwind CSS",
+      "TypeScript Support and Much More ...",
+      "Framer Motion",
+      "Lenis Scroll"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "price": 0,
+    "popularity": 1185,
+    "appType": "website",
+    "details": "https://github.com/devwithzain/supadupa-website-clone/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "supadupa-website-clone",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/supadupa-website-clone.webp",
+    "subtitle": "SupaDupa website clone created with next js, react js, typescript, tailwindcss, framer-motion, lenis and gsap.",
+    "livePreview": "https://supadupa-website-clone-by-devwithzain.vercel.app/nl",
+    "templateName": "Supadupa Website Clone",
+    "description": "The SupaDupa Website Clone is a high-performance, visually stunning web project built with Next.js, React.js, TypeScript, Tailwind CSS, Framer Motion, Lenis, and GSAP. This clone faithfully replicates the original SupaDupa website’s sleek design and dynamic interactions while showcasing advanced front-end development techniques.",
+    "features": [
+      "Next.js 14",
+      "React",
+      "Eslint",
+      "Post Css",
+      "GSAP",
+      "Tailwind CSS",
+      "TypeScript Support and Much More ...",
+      "Framer Motion",
+      "Lenis Scroll"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "one-pager-templates",
+        "label": "One Pager Templates"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
