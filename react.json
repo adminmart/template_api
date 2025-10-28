@@ -9050,5 +9050,51 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 247,
+    "price": 0,
+    "popularity": 1186,
+    "appType": "landingpage",
+    "details": "https://github.com/devwithzain/light-sass-landing-page/archive/refs/heads/master.zip",
+    "category": "NextJs",
+    "imageAlt": "light-sass-landing-page",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/light-sass-landing-page.webp",
+    "subtitle": "**A sleek and modern landing page built with lightweight Sass for fast, clean, and responsive design.",
+    "livePreview": "https://light-sass-landing-page-devwithzain.vercel.app/",
+    "templateName": "Light Sass landing page",
+    "description": "The Light Sass Landing Page is a modern, responsive, and performance-optimized web template crafted with the power of Sass. Designed with simplicity and elegance in mind, it offers a clean layout, smooth animations, and a fully customizable codebase that makes it easy to adapt for any brand or product.",
+    "features": [
+      "Next.js 14",
+      "React",
+      "Eslint",
+      "Post Css",
+      "Tailwind CSS",
+      "TypeScript Support and Much More ...",
+      "Lenis Scroll",
+      "Google Fonts",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "free",
+        "label": "Free"
+      }
+    ]
   }
 ]
