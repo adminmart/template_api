@@ -5347,5 +5347,72 @@
         ],
         "createdOn": "24-Jun-2025",
         "frameworkName": ""
-    }
+    },
+    {
+    "id": 132,
+    "price": 11,
+    "popularity": 1081,
+    "appType": "admin-template",
+    "details": "1.envato.market/PO7oNM",
+    "category": "Tailwind",
+    "imageAlt": "nextsaas-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextsaas-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://next-saas-next.vercel.app/",
+    "templateName": "NextSaaS | SaaS, Software, Startup Next.js Template",
+    "description": "NextSaaS is a modern Tailwind 4 and NextJS 16 template designed for SaaS, software, and startup websites. It offers clean, responsive layouts, fast performance, and developer-friendly code—making it easy to launch a professional online presence quickly.",
+    "features": [
+      "35 Unique Home pages, including Dark and Light versions",
+      "Tailwind 4, NextJs 15 & React 19 for Faster Development",
+      "TypeScript Support",
+      "100+ Total pages including Dark and Light",
+      "03 Blog Pages",
+      "Next Generation Animation with GSAP",
+      "Award-winning design concepts",
+      "GSAP Animation Included",
+      "Lenis smooth Scroll",
+      "Scroll Animation Included",
+      "Unique Hover Animations",
+      "Based on Tailwind and NextJs",
+      "100% Responsive",
+      "Tested on real devices",
+      "Custom Icon Library",
+      "Flat, modern, and clean design",
+      "Retina Ready",
+      "SEO on-page optimized",
+      "UX ready",
+      "Touch Friendly",
+      "W3C Validate Code",
+      "Mega Menu",
+      "Clean and commented code",
+      "Gradient Image backgrounds",
+      "Smooth Transition Effects",
+      "All Modern Browser Compatible",
+      "24/7 Awesome Support",
+      "Detailed documentation"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  }
 ]

@@ -2789,5 +2789,94 @@
     "doFollow": false,
     "ads": false,
     "ads_link": ""
+  },
+  {
+    "id": 106,
+    "price": 9,
+    "popularity": 1093,
+    "appType": "admin-template",
+    "details": "1.envato.market/Dy406G",
+    "category": "Angular",
+    "imageAlt": "vyzor-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vyzor-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app-router/vyzor-ts/preview/dashboards/sales/",
+    "templateName": "Vyzor – Multipurpose Admin & Dashboard Template",
+    "description": "Vyzor is a next-generation modern admin dashboard template designed to meet the demands of developers, startups, and enterprises. It offers seamless compatibility with major frameworks including Angular, Django, Flask, Laravel, ASP.NET, CodeIgniter, PHP, HTML, Bootstrap, symfony, Cake PHP, Vue, Nuxt, Svelte, Blazor, React Nextjs (App Router) and Inertia. Built with a modular architecture and clean, maintainable code, Vyzor multipurpose responsive dashboard template delivers unmatched flexibility, intuitive layouts, and a fully responsive admin dashboard design — making it ideal for developing high-performance angular dashboards, laravel admin panels, django admin interfaces, angular admin dashboard, nuxt 4 vue laravel inertia dashboard template, cakephp admin dashboard, symfony admin panel, react dashboard template, blazor web app dashboard template and PHP admin systems.",
+    "features": [
+      "30+ Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Responsive Bootstrap 5 Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Chat",
+      "Google Fonts",
+      "3 Types of Maps",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Cart",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Sortable JS",
+      "Tour",
+      "Treeview",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

@@ -9096,5 +9096,211 @@
         "label": "Free"
       }
     ]
+  },
+  {
+    "id": 248,
+    "price": 39,
+    "popularity": 1187,
+    "appType": "admin-template",
+    "details": "1.envato.market/yqVgxW",
+    "category": "React",
+    "imageAlt": "vuexy-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuexy-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://pixinvent.com/vuexy-bootstrap-html-admin-template/",
+    "templateName": "Vuexy - Vuejs, Nuxt, Next.js, HTML, Laravel, Asp.Net & Django Admin Dashboard Template",
+    "description": "Vuexy – Vuejs, Next.js, HTML, Laravel, ASP.NET & Django Admin Dashboard Template – is the most developer friendly & highly customizable Admin Dashboard Template. If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than Vuexy.",
+    "features": [
+      "Next.js 14",
+      "SaaS platforms",
+      "Project management apps",
+      "Ecommerce backends",
+      "CRM systems",
+      "Analytics apps",
+      "Banking apps",
+      "Education apps",
+      "Easy Folder Structure",
+      "Organized Code Structure",
+      "The Hassle-free Setup Process"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "price": 11,
+    "popularity": 1188,
+    "appType": "admin-template",
+    "details": "1.envato.market/PO7oNM",
+    "category": "React",
+    "imageAlt": "nextsaas-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextsaas-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://next-saas-next.vercel.app/",
+    "templateName": "NextSaaS | SaaS, Software, Startup Next.js Template",
+    "description": "NextSaaS is a modern Tailwind 4 and NextJS 16 template designed for SaaS, software, and startup websites. It offers clean, responsive layouts, fast performance, and developer-friendly code—making it easy to launch a professional online presence quickly.",
+    "features": [
+      "35 Unique Home pages, including Dark and Light versions",
+      "Tailwind 4, NextJs 15 & React 19 for Faster Development",
+      "TypeScript Support",
+      "100+ Total pages including Dark and Light",
+      "03 Blog Pages",
+      "Next Generation Animation with GSAP",
+      "Award-winning design concepts",
+      "GSAP Animation Included",
+      "Lenis smooth Scroll",
+      "Scroll Animation Included",
+      "Unique Hover Animations",
+      "Based on Tailwind and NextJs",
+      "100% Responsive",
+      "Tested on real devices",
+      "Custom Icon Library",
+      "Flat, modern, and clean design",
+      "Retina Ready",
+      "SEO on-page optimized",
+      "UX ready",
+      "Touch Friendly",
+      "W3C Validate Code",
+      "Mega Menu",
+      "Clean and commented code",
+      "Gradient Image backgrounds",
+      "Smooth Transition Effects",
+      "All Modern Browser Compatible",
+      "24/7 Awesome Support",
+      "Detailed documentation"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "price": 9,
+    "popularity": 1189,
+    "appType": "admin-template",
+    "details": "1.envato.market/Dy406G",
+    "category": "React",
+    "imageAlt": "vyzor-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vyzor-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app-router/vyzor-ts/preview/dashboards/sales/",
+    "templateName": "Vyzor – Multipurpose Admin & Dashboard Template",
+    "description": "Vyzor is a next-generation modern admin dashboard template designed to meet the demands of developers, startups, and enterprises. It offers seamless compatibility with major frameworks including Angular, Django, Flask, Laravel, ASP.NET, CodeIgniter, PHP, HTML, Bootstrap, symfony, Cake PHP, Vue, Nuxt, Svelte, Blazor, React Nextjs (App Router) and Inertia. Built with a modular architecture and clean, maintainable code, Vyzor multipurpose responsive dashboard template delivers unmatched flexibility, intuitive layouts, and a fully responsive admin dashboard design — making it ideal for developing high-performance angular dashboards, laravel admin panels, django admin interfaces, angular admin dashboard, nuxt 4 vue laravel inertia dashboard template, cakephp admin dashboard, symfony admin panel, react dashboard template, blazor web app dashboard template and PHP admin systems.",
+    "features": [
+      "30+ Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Responsive Bootstrap 5 Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Chat",
+      "Google Fonts",
+      "3 Types of Maps",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Cart",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Sortable JS",
+      "Tour",
+      "Treeview",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
