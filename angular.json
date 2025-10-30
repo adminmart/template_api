@@ -2878,5 +2878,72 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 107,
+    "price": 25,
+    "popularity": 1094,
+    "appType": "admin-template",
+    "details": "1.envato.market/WyVYeA",
+    "category": "Angular",
+    "imageAlt": "velzon-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/velzon-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themesbrand.com/velzon/html/default/index.html",
+    "templateName": "Velzon - Admin & Dashboard Template",
+    "description": "Velzon is a fully responsive and premium Bootstrap 5 Admin & Dashboard Template built in HTML, Next TS, React js, React TS, Angular 19, Vue 3, Laravel + Vue3, Laravel 12, ASP.Net Core 8, React + Inertia, Django, Svelte 4, CodeIgniter, Symfony 7.0, PHP, Ajax, Flask, AIOHTTP, Bottle, Node Js (EJS) & Cake PHP. Whether you’re creating a web app, dashboards, admin panels, eCommerce app, Project management, Crypto admin, CRM, or SASS-based interface then you are at the right place to buy this admin dashboard template. We have used gulp-based build tools and SCSS variables-based modes along with RTL supported except ( Ajax, PHP, Symfony & Nodejs ). You can quickly change the layout or mode by changing data attributes only instead of changing huge lines of code.",
+    "features": [
+      "Dark, Light with RTL Supported",
+      "Multiple Layouts with Responsive",
+      "Fully Responsive Design",
+      "W3C Validated HTML Pages",
+      "Gulp Based Workflow",
+      "Firebase & Fakebackend authentication support in ( Next, React, Angular, Vue )",
+      "Light-Weight, Clean & Commented Code",
+      "Easy to Customize with SCSS Variables",
+      "Unlimited Color options",
+      "Drag & Drop",
+      "Well Organized Folder Structure",
+      "Lifetime Free Updates",
+      "Unlimited Template Possibilities",
+      "GitHub Support",
+      "6 Dashboards",
+      "11 Unique Themes",
+      "12+ apps like Calendar, Chat, Mailbox, eCommerce, Projects, Tasks, CRM, Crypto, Invoices, NFT, Email templates & Support Tickets, Jobs",
+      "Authentication & Error Pages",
+      "One Page, Job & NFT Landing pages",
+      "Profile, Settings, Invoice, Coming soon, Maintenance, Timeline, Pricing, Gallery, FAQ, Terms & Conditions, and many more Pages"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

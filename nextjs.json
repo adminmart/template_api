@@ -9018,58 +9018,8 @@
   },
   {
     "id": 247,
-    "price": 39,
-    "popularity": 1186,
-    "appType": "admin-template",
-    "details": "1.envato.market/yqVgxW",
-    "category": "NextJs",
-    "imageAlt": "vuexy-admin-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vuexy-admin-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://pixinvent.com/vuexy-bootstrap-html-admin-template/",
-    "templateName": "Vuexy - Vuejs, Nuxt, Next.js, HTML, Laravel, Asp.Net & Django Admin Dashboard Template",
-    "description": "Vuexy – Vuejs, Next.js, HTML, Laravel, ASP.NET & Django Admin Dashboard Template – is the most developer friendly & highly customizable Admin Dashboard Template. If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than Vuexy.",
-    "features": [
-      "Next.js 14",
-      "SaaS platforms",
-      "Project management apps",
-      "Ecommerce backends",
-      "CRM systems",
-      "Analytics apps",
-      "Banking apps",
-      "Education apps",
-      "Easy Folder Structure",
-      "Organized Code Structure",
-      "The Hassle-free Setup Process"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "blog",
-        "label": "Blog"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "corporate",
-        "label": "Corporate"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 248,
     "price": 11,
-    "popularity": 1187,
+    "popularity": 1186,
     "appType": "admin-template",
     "details": "1.envato.market/PO7oNM",
     "category": "NextJs",
@@ -9134,9 +9084,9 @@
     ]
   },
   {
-    "id": 249,
+    "id": 248,
     "price": 9,
-    "popularity": 1188,
+    "popularity": 1187,
     "appType": "admin-template",
     "details": "1.envato.market/Dy406G",
     "category": "NextJs",
@@ -9219,6 +9169,182 @@
       {
         "value": "saas",
         "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "price": 25,
+    "popularity": 1188,
+    "appType": "admin-template",
+    "details": "1.envato.market/WyVYeA",
+    "category": "NextJs",
+    "imageAlt": "velzon-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/velzon-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themesbrand.com/velzon/html/default/index.html",
+    "templateName": "Velzon - Admin & Dashboard Template",
+    "description": "Velzon is a fully responsive and premium Bootstrap 5 Admin & Dashboard Template built in HTML, Next TS, React js, React TS, Angular 19, Vue 3, Laravel + Vue3, Laravel 12, ASP.Net Core 8, React + Inertia, Django, Svelte 4, CodeIgniter, Symfony 7.0, PHP, Ajax, Flask, AIOHTTP, Bottle, Node Js (EJS) & Cake PHP. Whether you’re creating a web app, dashboards, admin panels, eCommerce app, Project management, Crypto admin, CRM, or SASS-based interface then you are at the right place to buy this admin dashboard template. We have used gulp-based build tools and SCSS variables-based modes along with RTL supported except ( Ajax, PHP, Symfony & Nodejs ). You can quickly change the layout or mode by changing data attributes only instead of changing huge lines of code.",
+    "features": [
+      "Dark, Light with RTL Supported",
+      "Multiple Layouts with Responsive",
+      "Fully Responsive Design",
+      "W3C Validated HTML Pages",
+      "Gulp Based Workflow",
+      "Firebase & Fakebackend authentication support in ( Next, React, Angular, Vue )",
+      "Light-Weight, Clean & Commented Code",
+      "Easy to Customize with SCSS Variables",
+      "Unlimited Color options",
+      "Drag & Drop",
+      "Well Organized Folder Structure",
+      "Lifetime Free Updates",
+      "Unlimited Template Possibilities",
+      "GitHub Support",
+      "6 Dashboards",
+      "11 Unique Themes",
+      "12+ apps like Calendar, Chat, Mailbox, eCommerce, Projects, Tasks, CRM, Crypto, Invoices, NFT, Email templates & Support Tickets, Jobs",
+      "Authentication & Error Pages",
+      "One Page, Job & NFT Landing pages",
+      "Profile, Settings, Invoice, Coming soon, Maintenance, Timeline, Pricing, Gallery, FAQ, Terms & Conditions, and many more Pages"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "corporate",
+        "label": "Corporate"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "price": 14,
+    "popularity": 1189,
+    "appType": "website",
+    "details": "1.envato.market/JKDqMN",
+    "category": "NextJs",
+    "imageAlt": "lexend-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lexend-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://lexend-nextjs.vercel.app/",
+    "templateName": "Lexend - Software, SaaS & Startup NextJs Template",
+    "description": "Lexend is a high-quality multi-layout Nextjs v15 App Directory template designed for SaaS websites. We understand the need of a modern SaaS website so Lexend provides an excellent user experience, making it easy for visitors to navigate and find the information they need.",
+    "features": [
+      "NextJs v15 App Dir.",
+      "Powered with Bootstrap 5 and UiKit Css",
+      "Light and Dark Versions",
+      "10+ Unique Design Concepts",
+      "45+ Inner Pages",
+      "Shop Pages",
+      "Shop Details Pages",
+      "Cart Pages",
+      "Checkout Pages",
+      "Blog and Single Pages",
+      "Portfolio and Single Pages",
+      "Portfolio Filtering",
+      "Masonry Layouts",
+      "Lightbox: Images, Videos",
+      "Fully Responsive",
+      "Retina Ready",
+      "Parallax Sections",
+      "Smooth and Modern Animation",
+      "Google Maps",
+      "Different Blog Layouts",
+      "Powerful UI Components",
+      "Browser Compatibility (Edge, Chrome, Safari, Firefox, Opera)",
+      "Well Documented",
+      "Clean and Neat Design",
+      "FAQ Included"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "price": 12,
+    "popularity": 1190,
+    "appType": "website",
+    "details": "1.envato.market/YRZdJK",
+    "category": "NextJs",
+    "imageAlt": "agntix-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/agntix-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://agntix-landing.vercel.app/",
+    "templateName": "Agntix - Digital Agency & Creative Portfolio NextJs Template",
+    "description": "Agntix is a smooth, user-friendly, and SEO optimized NextJs templates for Digital Agency & Creative Portfolio website. It’s a versatile solution perfect for a wide range of multiple industries and creative fields — from digital agencies, design studios, AI image generators, architecture hubs, business portfolio, business consulting, and IT solutions to fashion studios, mobile apps, cryptocurrency projects, and personal portfolios.",
+    "features": [
+      "One-time purchase – Free updates forever.",
+      "GSAP Animations — Smooth, high-performance motion effects.",
+      "Webgl Animation — Interactive 2D and 3D Webgl Animation.",
+      "30+ Home Pages to choose from.",
+      "Multiple Header & Footer Styles available.",
+      "Dark Mode Version coming very soon!"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
       }
     ]
   }
