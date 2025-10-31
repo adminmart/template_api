@@ -2945,5 +2945,55 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 108,
+    "price": 29,
+    "popularity": 1095,
+    "appType": "admin-template",
+    "details": "1.envato.market/9LKzPW",
+    "category": "Angular",
+    "imageAlt": "fuse-angular-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/fuse-angular-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular-material.fusetheme.com/dashboards/analytics",
+    "templateName": "Fuse - Angular Admin Template",
+    "description": "Fuse is a modular, multi-layout Angular admin template featuring custom made Application and Page layouts, UI elements and UX best practices. The multi-layout setup allows using multiple template layouts without making any major changes to the general structure of the template. It also allows using a different layout per route.",
+    "features": [
+      "Standalone components.",
+      "Completely built with TailwindCSS.",
+      "Modular design.",
+      "Multiple layouts.",
+      "Ability to set a different layout per route.",
+      "Pre-built and ready to use application and page designs.",
+      "Ready to use page layouts.",
+      "Custom components for admin panel specific use cases.",
+      "Starter project included for faster development.",
+      "Full Angular Material theming support with customizable colors.",
+      "Dark and Light color schemes support."
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

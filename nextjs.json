@@ -9347,5 +9347,118 @@
         "label": "Blog"
       }
     ]
+  },
+  {
+    "id": 252,
+    "price": 29,
+    "popularity": 1191,
+    "appType": "admin-template",
+    "details": "1.envato.market/zxJbme",
+    "category": "NextJs",
+    "imageAlt": "fush-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/fush-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://fuse-react-nextjs-demo.fusetheme.com/dashboards/project",
+    "templateName": "Fuse React - NextJS & Vite Admin Dashboard Template",
+    "description": "Elevate your admin dashboard experience with Fuse React! Fuse React is a top-tier admin dashboard template that combines cutting-edge technology with enterprise-grade features. Fuse React is not just a template; it’s a comprehensive toolkit that empowers you to build and manage your applications with unparalleled ease and flexibility.",
+    "features": [
+      "Advanced Technology Stack",
+      "Material UI & TailwindCSS Integration",
+      "Comprehensive Application Designs",
+      "Customizable Page Designs",
+      "Configurable Template Layouts",
+      "Advanced Features",
+      "Developer-Friendly Tools"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "price": 14,
+    "popularity": 1192,
+    "appType": "website",
+    "details": "1.envato.market/nXmEJo",
+    "category": "NextJs",
+    "imageAlt": "resonance-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/resonance-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://resonance-next-app.vercel.app/",
+    "templateName": "Resonance - Multipurpose Creative NextJs Template",
+    "description": "Resonance is a premium NextJs 14+ App Router Template with different unique design concepts, all based on Bootstrap 5 and designed with accessibility in mind. It also has smooth modern animation effects. Explore a diverse selection of 10 meticulously crafted pre-built website templates, each showcasing a unique visual style.",
+    "features": [
+      "NextJs v15+ App Dir.",
+      "Powered with Bootstrap 5+",
+      "One Page and Multi Page Demos",
+      "Light and Dark Versions",
+      "10+ Unique Design Concepts",
+      "37 Intro Section Variants",
+      "100+ Inner Pages",
+      "20+ Portfolio Pages",
+      "Designed with Accessibility in Mind",
+      "Single Project Pages",
+      "Lazyload for Images",
+      "Light, Dark and Transparent Menu Bars",
+      "Isotope Portfolio Filtering",
+      "Masonry Layouts",
+      "Lightbox: Images, Videos, Iframes, Maps, Modals",
+      "Easy to Customize: Backgrounds, Colors, Content",
+      "Fully Responsive",
+      "Retina Ready",
+      "Parallax Sections",
+      "Smooth and Modern Animation",
+      "Google Maps",
+      "Different Blog Layouts",
+      "5 Posts Variants (Text post, Image, Gallery, Video, Quote)",
+      "Powerful UI Components",
+      "Browser Compatibility (Edge, Chrome, Safari, Firefox, Opera)",
+      "Well Documented",
+      "Clean and Neat Design",
+      "FAQ Included"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ]
   }
 ]

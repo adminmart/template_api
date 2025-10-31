@@ -2723,5 +2723,72 @@
         "label": "Blog"
       }
     ]
+  },
+  {
+    "id": 73,
+    "price": 14,
+    "popularity": 1058,
+    "appType": "website",
+    "details": "1.envato.market/nXmEJo",
+    "category": "NextJs",
+    "imageAlt": "resonance-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/resonance-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://resonance-next-app.vercel.app/",
+    "templateName": "Resonance - Multipurpose Creative NextJs Template",
+    "description": "Resonance is a premium NextJs 14+ App Router Template with different unique design concepts, all based on Bootstrap 5 and designed with accessibility in mind. It also has smooth modern animation effects. Explore a diverse selection of 10 meticulously crafted pre-built website templates, each showcasing a unique visual style.",
+    "features": [
+      "NextJs v15+ App Dir.",
+      "Powered with Bootstrap 5+",
+      "One Page and Multi Page Demos",
+      "Light and Dark Versions",
+      "10+ Unique Design Concepts",
+      "37 Intro Section Variants",
+      "100+ Inner Pages",
+      "20+ Portfolio Pages",
+      "Designed with Accessibility in Mind",
+      "Single Project Pages",
+      "Lazyload for Images",
+      "Light, Dark and Transparent Menu Bars",
+      "Isotope Portfolio Filtering",
+      "Masonry Layouts",
+      "Lightbox: Images, Videos, Iframes, Maps, Modals",
+      "Easy to Customize: Backgrounds, Colors, Content",
+      "Fully Responsive",
+      "Retina Ready",
+      "Parallax Sections",
+      "Smooth and Modern Animation",
+      "Google Maps",
+      "Different Blog Layouts",
+      "5 Posts Variants (Text post, Image, Gallery, Video, Quote)",
+      "Powerful UI Components",
+      "Browser Compatibility (Edge, Chrome, Safari, Firefox, Opera)",
+      "Well Documented",
+      "Clean and Neat Design",
+      "FAQ Included"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      }
+    ]
   }
 ]
