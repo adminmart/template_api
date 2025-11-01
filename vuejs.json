@@ -5465,5 +5465,73 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 142,
+    "price": 29,
+    "popularity": 1119,
+    "appType": "admin-template",
+    "details": "1.envato.market/9LK2j0",
+    "category": "Vue",
+    "imageAlt": "trezo-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/trezo-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://trezo-bs.envytheme.com/dashboard",
+    "templateName": "Trezo - Tailwind, Material, Bootstrap, React, Angular, Vue, Laravel & .NET Admin Dashboard Template",
+    "description": "Trezo is a modern, multipurpose admin dashboard template and landing page kit built for real-world apps. It supports today’s most popular stacks—React, Next.js, Angular, Vue/Nuxt, Laravel, ASP.NET Core, Django, Rails, Symfony, Yii2, Svelte, CakePHP, Golang (Gin), plus HTML + Bootstrap and Tailwind CSS.",
+    "features": [
+      "Built on Bootstrap (v5.x)",
+      "No jQuery Dependency",
+      "npm",
+      "avaScript",
+      "Built with Sass",
+      "Light/Dark Mode",
+      "RTL Support",
+      "Speed Performance",
+      "ApexCharts",
+      "Swiper Slider",
+      "Material Symbols Icons",
+      "RemixIcon",
+      "Table",
+      "File Uploader",
+      "Gallery",
+      "Calendar",
+      "Rich Text Editor",
+      "Date/Time Picker",
+      "Google Fonts",
+      "Google Maps",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

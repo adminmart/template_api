@@ -5414,5 +5414,168 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 133,
+    "price": 9,
+    "popularity": 1082,
+    "appType": "admin-template",
+    "details": "1.envato.market/554KB3",
+    "category": "Tailwind",
+    "imageAlt": "wowdash-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/wowdash-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://wowdash-nextjs-shadcn.vercel.app/dashboard",
+    "templateName": "WowDash - Tailwind & Nextjs Admin Dashboard with shadcn UI",
+    "description": "WowDash is a powerful, flexible, and developer-centric Admin Dashboard Template built using Next.js, Tailwind CSS, and shadcn UI. Whether you’re building analytics platforms, SaaS apps, eCommerce backends, or internal tools, WowDash provides everything you need to get started quickly with modern, reusable UI components and a clean codebase. Designed for scalability and speed, WowDash offers multiple layouts, color schemes, dashboards, and prebuilt applications to accelerate your development process. With full responsiveness and modular architecture, it’s a perfect fit for both startup projects and large enterprise applications.",
+    "features": [
+      "Built with Tailwind & Nextjs",
+      "SASS Supported",
+      "Tailwind & Nextjs Admin Dashboard with shadcn UI",
+      "Style With SASS",
+      "AI & CRM & eCommerce & Cryptocurrency & Investment",
+      "Light & Dark& Box templete",
+      "Style With SASS",
+      "Theme Customizer",
+      "Bookmark Support",
+      "Multiple Language Support",
+      "Attractive Dashboard",
+      "Next Hooks",
+      "No Nextjs",
+      "E-commerce Section",
+      "Image-Crop",
+      "Perfect-Scrollbar",
+      "Chart.js",
+      "Apex Charts",
+      "Todo Apps",
+      "Calender",
+      "Mailbox",
+      "Events, blog and invoice pages",
+      "Chat Apss",
+      "Menu Click ,Menu Hover ,icon click and icon Hover",
+      "Responsive Dashboard",
+      "5 types of chart",
+      "Developer Friendly Commented Code",
+      "Multiple Color Options",
+      "Fully Responsive layout",
+      "Using Webpack",
+      "Using Gulp",
+      "Latest Nextjs",
+      "Font Awesome",
+      "Detailed Documentation",
+      "Clean & Well Commended Codes",
+      "W3C Validated Code",
+      "Many Charts Options",
+      "Multi File upload",
+      "Range Slider",
+      "Data Table",
+      "Google Fonts",
+      "Form Wizards",
+      "Chat Application",
+      "All Modern Browser Supported.",
+      "Well Organized and Easy to Customize",
+      "Free and Lifetime Updates",
+      "24/7 Great Support !!",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "price": 29,
+    "popularity": 1083,
+    "appType": "admin-template",
+    "details": "1.envato.market/9LK2j0",
+    "category": "Tailwind",
+    "imageAlt": "trezo-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/trezo-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://trezo-bs.envytheme.com/dashboard",
+    "templateName": "Trezo - Tailwind, Material, Bootstrap, React, Angular, Vue, Laravel & .NET Admin Dashboard Template",
+    "description": "Trezo is a modern, multipurpose admin dashboard template and landing page kit built for real-world apps. It supports today’s most popular stacks—React, Next.js, Angular, Vue/Nuxt, Laravel, ASP.NET Core, Django, Rails, Symfony, Yii2, Svelte, CakePHP, Golang (Gin), plus HTML + Bootstrap and Tailwind CSS.",
+    "features": [
+      "Built on Bootstrap (v5.x)",
+      "No jQuery Dependency",
+      "npm",
+      "avaScript",
+      "Built with Sass",
+      "Light/Dark Mode",
+      "RTL Support",
+      "Speed Performance",
+      "ApexCharts",
+      "Swiper Slider",
+      "Material Symbols Icons",
+      "RemixIcon",
+      "Table",
+      "File Uploader",
+      "Gallery",
+      "Calendar",
+      "Rich Text Editor",
+      "Date/Time Picker",
+      "Google Fonts",
+      "Google Maps",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

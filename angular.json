@@ -2995,5 +2995,159 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 109,
+    "price": 29,
+    "popularity": 1096,
+    "appType": "admin-template",
+    "details": "1.envato.market/9LK2j0",
+    "category": "Angular",
+    "imageAlt": "trezo-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/trezo-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://trezo-bs.envytheme.com/dashboard",
+    "templateName": "Trezo - Tailwind, Material, Bootstrap, React, Angular, Vue, Laravel & .NET Admin Dashboard Template",
+    "description": "Trezo is a modern, multipurpose admin dashboard template and landing page kit built for real-world apps. It supports today’s most popular stacks—React, Next.js, Angular, Vue/Nuxt, Laravel, ASP.NET Core, Django, Rails, Symfony, Yii2, Svelte, CakePHP, Golang (Gin), plus HTML + Bootstrap and Tailwind CSS.",
+    "features": [
+      "Built on Bootstrap (v5.x)",
+      "No jQuery Dependency",
+      "npm",
+      "avaScript",
+      "Built with Sass",
+      "Light/Dark Mode",
+      "RTL Support",
+      "Speed Performance",
+      "ApexCharts",
+      "Swiper Slider",
+      "Material Symbols Icons",
+      "RemixIcon",
+      "Table",
+      "File Uploader",
+      "Gallery",
+      "Calendar",
+      "Rich Text Editor",
+      "Date/Time Picker",
+      "Google Fonts",
+      "Google Maps",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "price": 59,
+    "popularity": 1097,
+    "appType": "admin-template",
+    "details": "1.envato.market/ra5RN5",
+    "category": "Angular",
+    "imageAlt": "yzen-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/yzen-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/yzen/preview/dashboard/sales",
+    "templateName": "Yzen - Angular NG Bootstrap Admin Template",
+    "description": "Yzen angular web template is a modern and feature-rich angular ngbootstrap admin dashboard tailored for developers, designers, and businesses seeking a highly responsive and user-friendly interface. Designed with clean architecture and optimized performance in mind, yzen angular dashboard delivers a seamless experience for managing, monitoring, and visualizing data in dynamic web angular material templates.",
+    "features": [
+      "180+ Angular Components",
+      "30+ Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Responsive Bootstrap 5 Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Cart",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Sortable JS",
+      "Tour",
+      "Treeview",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
