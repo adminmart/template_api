@@ -3149,5 +3149,74 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 111,
+    "price": 24,
+    "popularity": 1098,
+    "appType": "admin-template",
+    "details": "1.envato.market/e1mjyZ",
+    "category": "Angular",
+    "imageAlt": "olix-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/olix-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/olix/dashboard/shopping-place",
+    "templateName": "Olix – Angular 20 Admin Dashboard Template",
+    "description": "Olix Angular Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework, HTML5 & CSS .It has a huge collection of reusable UI components and integrated with latest plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      "Angular 20 && Node 20.19.0",
+      "No Jquery",
+      "Bootstrap 5x",
+      "Style With SASS",
+      "Type Script",
+      "2 Different Dashboard",
+      "RTL Supported",
+      "Light & Dark templete",
+      "Multiple Color Options",
+      "Fully Responsive layout",
+      "Detailed Documentation",
+      "Clean & Well Commended Codes",
+      "Fully Customizable",
+      "Many Charts Options",
+      "Language Change",
+      "Data Table",
+      "Range Slider",
+      "Blog Page",
+      "Chat Application",
+      "Authentication Page",
+      "Add Eslint Formatter",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

@@ -9704,5 +9704,120 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 256,
+    "price": 24,
+    "popularity": 1195,
+    "appType": "admin-template",
+    "details": "1.envato.market/vPAmeN",
+    "category": "NextJs",
+    "imageAlt": "ubold-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ubold-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://coderthemes.com/ubold-next/dashboard",
+    "templateName": "UBold - Next.Js 16 Admin & Dashboard Template",
+    "description": "UBold is a premium admin dashboard built with Nextjs 16x. It offers a fully responsive design, extensive customization options, and a rich collection of modern UI components. Optimized for high performance, UBold ensures seamless adaptability across devices and browsers. This version includes pre-built layouts, integration with popular React Nextjs libraries and plugins, and ready-to-use applications such as Calendar, Chat, File Manager, E-commerce, CRM, Social Feed, User Management, Projects, Invoice Management, Email, and Support Ticket Pages.",
+    "features": [
+      "Built with Nextjs 16x",
+      "Created using Bootstrap v5.3x",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Intuitive Design",
+      "Light & Dark Versions",
+      "One Page Landing Included (Save $15 USD)",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Intuitive Design",
+      "Light & Dark Modes (Attribute based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Fully Documented",
+      "Rich form, widgets, validation, and wizard",
+      "190+ Pages",
+      "12+ Layouts Supported",
+      "300+ UI Components",
+      "30+ Charts",
+      "11+ Built-in Apps",
+      "2 Variant Styled Auth Pages",
+      "Error pages included",
+      "Stylish pricing page",
+      "10000+ Font Icons"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "price": 9,
+    "popularity": 1197,
+    "appType": "admin-template",
+    "details": "1.envato.market/2a47GM",
+    "category": "NextJs",
+    "imageAlt": "namaa-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/namaa-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://namaa-next-ts.vercel.app/",
+    "templateName": "Namaa - Money Management App Dashboard NextJS Template",
+    "description": "Welcome to the Namaa Theme! This document outlines the key features and capabilities of the theme, designed to provide a robust and flexible foundation for your money management application.",
+    "features": [
+      "Money Management Flow",
+      "Light & Dark",
+      "12+ Pages & 50+ Components",
+      "Tailwind CSS",
+      "TypeScript",
+      "NextJs",
+      "Lucide Icons",
+      "Fully Responsive",
+      "Easy to Customize",
+      "Necessary Tables",
+      "Regular Updates",
+      "Detailed Documentation"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
