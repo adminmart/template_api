@@ -6216,5 +6216,62 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 144,
+    "price": 16,
+    "popularity": 1122,
+    "appType": "admin-template",
+    "details": "1.envato.market/jeqg3n",
+    "category": "Vue",
+    "imageAlt": "dreams-timer-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dreams-timer-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dreamstimer.dreamstechnologies.com/react/template/index",
+    "templateName": "Dreams Timer - Task, Project & Time Tracking Admin Dashboard (React, Nextjs, Html, Angular, Laravel)",
+    "description": "Dreams Timer is a React Admin Dashboard Template for time tracking, project management, and employee productivity. Built with React 19+, Redux Toolkit, and Bootstrap 5, it includes a wide collection of layouts, components, and apps that fit HR dashboards, SaaS panels, and internal management systems.",
+    "features": [
+      "React 19+, Redux Toolkit, Bootstrap 5 & SCSS",
+      "150+ pages and 100+ reusable components",
+      "Light & Dark mode with RTL support",
+      "Authentication pages (Login, Register, 2FA, Lock)",
+      "Analytics and charts with ApexCharts",
+      "Responsive layout with SEO-friendly code",
+      "RTL Layout",
+      "Dark & Light Layouts",
+      "Fully Responsive",
+      "Cross Browser",
+      "Easy Customization",
+      "Quality Code",
+      "Retina Ready",
+      "Well Documentation",
+      "Premade Layouts",
+      "Quick Support",
+      "Light Weighted",
+      "Lifetime Free Updates"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

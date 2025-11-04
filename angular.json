@@ -3218,5 +3218,109 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 112,
+    "price": 16,
+    "popularity": 1099,
+    "appType": "admin-template",
+    "details": "1.envato.market/jeqg3n",
+    "category": "Angular",
+    "imageAlt": "dreams-timer-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dreams-timer-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dreamstimer.dreamstechnologies.com/react/template/index",
+    "templateName": "Dreams Timer - Task, Project & Time Tracking Admin Dashboard (React, Nextjs, Html, Angular, Laravel)",
+    "description": "Dreams Timer is a React Admin Dashboard Template for time tracking, project management, and employee productivity. Built with React 19+, Redux Toolkit, and Bootstrap 5, it includes a wide collection of layouts, components, and apps that fit HR dashboards, SaaS panels, and internal management systems.",
+    "features": [
+      "React 19+, Redux Toolkit, Bootstrap 5 & SCSS",
+      "150+ pages and 100+ reusable components",
+      "Light & Dark mode with RTL support",
+      "Authentication pages (Login, Register, 2FA, Lock)",
+      "Analytics and charts with ApexCharts",
+      "Responsive layout with SEO-friendly code",
+      "RTL Layout",
+      "Dark & Light Layouts",
+      "Fully Responsive",
+      "Cross Browser",
+      "Easy Customization",
+      "Quality Code",
+      "Retina Ready",
+      "Well Documentation",
+      "Premade Layouts",
+      "Quick Support",
+      "Light Weighted",
+      "Lifetime Free Updates"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "price": 22,
+    "popularity": 1100,
+    "appType": "admin-template",
+    "details": "1.envato.market/mOQBdy",
+    "category": "Angular",
+    "imageAlt": "vona-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vona-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://coderthemes.com/vona-angular/dashboard",
+    "templateName": "Vona - Angular 20 Minimal Admin & Dashboard Template",
+    "description": "Vona is a powerful, lightweight, and fully responsive admin dashboard template built with Angular 20 and Bootstrap 5.3.7, designed for performance, flexibility, and seamless integration across today’s most popular frontend frameworks.",
+    "features": [
+      "14 Predefined Color Skins to match your brand",
+      "Built-in support for Light & Dark themes",
+      "Collapsible and responsive sidebar navigation",
+      "Comprehensive UI kit – buttons, cards, badges, modals, tooltips, tabs, and more",
+      "Charts powered by modern libraries",
+      "Easy-to-use forms, tables, modals, and notifications",
+      "Fully responsive layout – works on all devices and screen sizes",
+      "Minimal external dependencies – fast load and clean build"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

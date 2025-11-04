@@ -9819,5 +9819,126 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 259,
+    "price": 16,
+    "popularity": 1198,
+    "appType": "admin-template",
+    "details": "1.envato.market/jeqg3n",
+    "category": "React",
+    "imageAlt": "dreams-timer-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dreams-timer-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dreamstimer.dreamstechnologies.com/react/template/index",
+    "templateName": "Dreams Timer - Task, Project & Time Tracking Admin Dashboard (React, Nextjs, Html, Angular, Laravel)",
+    "description": "Dreams Timer is a React Admin Dashboard Template for time tracking, project management, and employee productivity. Built with React 19+, Redux Toolkit, and Bootstrap 5, it includes a wide collection of layouts, components, and apps that fit HR dashboards, SaaS panels, and internal management systems.",
+    "features": [
+      "React 19+, Redux Toolkit, Bootstrap 5 & SCSS",
+      "150+ pages and 100+ reusable components",
+      "Light & Dark mode with RTL support",
+      "Authentication pages (Login, Register, 2FA, Lock)",
+      "Analytics and charts with ApexCharts",
+      "Responsive layout with SEO-friendly code",
+      "RTL Layout",
+      "Dark & Light Layouts",
+      "Fully Responsive",
+      "Cross Browser",
+      "Easy Customization",
+      "Quality Code",
+      "Retina Ready",
+      "Well Documentation",
+      "Premade Layouts",
+      "Quick Support",
+      "Light Weighted",
+      "Lifetime Free Updates"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "price": 14,
+    "popularity": 1199,
+    "appType": "admin-template",
+    "details": "1.envato.market/3J43KA",
+    "category": "NextJs",
+    "imageAlt": "axelit-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/axelit-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://axelit-next.vercel.app/dashboard/project",
+    "templateName": "Axelit Next Js + Typescript Admin Dashboard Template",
+    "description": "Axelit – Next Js Typescript Admin Dashboard Template – is the most developer friendly & highly recommend easy to use Admin Dashboard Template.",
+    "features": [
+      "Using Next.Js",
+      "2 Different Dashboard",
+      "SCSS Used",
+      "Calender",
+      "Invoice",
+      "Kanban Board",
+      "Profile App",
+      "Timeline App",
+      "FAQ App",
+      "Pricing App",
+      "Gallery App",
+      "Team App",
+      "Chat App",
+      "E-shop App",
+      "Project App",
+      "To-do App",
+      "Api App",
+      "Bookmark App",
+      "File manager App",
+      "Effortless Icon Code Copying",
+      "Your Ultimate Cheatsheet",
+      "Light & Dark",
+      "Fully Responsive layout",
+      "Detailed Documentation",
+      "Clean & Well Commented Codes"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      }
+    ]
   }
 ]
