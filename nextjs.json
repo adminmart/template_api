@@ -9859,5 +9859,176 @@
         "label": "Agency"
       }
     ]
+  },
+  {
+    "id": 260,
+    "price": 15,
+    "popularity": 1199,
+    "appType": "admin-template",
+    "details": "1.envato.market/AP467J",
+    "category": "NextJs",
+    "imageAlt": "silva-next-js-15-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/silva-next-js-15-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://zoyothemes.com/silva/html/",
+    "templateName": "Silva - Next Js 15 Admin & Dashboard Template",
+    "description": "Silva – Next JS 15 is a responsive admin dashboard template for seamless web application management. Using the latest HTML5, CSS3, JS and the powerful Bootstrap v5.3.3 and Next.js 15 framework. It features a clean, user-friendly interface with various attractive styles and a full-screen layout, making it perfect for admin dashboards. You can start small and large projects or update the design in your existing project using Silva Next.js 15. Ensures excellent performance and works well on all devices, keeping your projects fast and flexible.",
+    "features": [
+      "Built with Bootstrap v5.3.3",
+      "Built with Next JS 15",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Creative Design",
+      "Google Fonts",
+      "Light & Dark Modes (Attribute based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Fully Documented",
+      "Rich form, widgets, validation and wizard",
+      "80+ Pages",
+      "200+ UI Components",
+      "Apdex Chart Library",
+      "8 Built-in Apps",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page",
+      "Lifetime Free Updates",
+      "W3C Valid Markup",
+      "Cross Browser Compatibility",
+      "And much more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "price": 26,
+    "popularity": 1200,
+    "appType": "admin-template",
+    "details": "1.envato.market/GKL9L6",
+    "category": "NextJs",
+    "imageAlt": "highdmin-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/highdmin-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://coderthemes.com/highdmin-next/dashboard",
+    "templateName": "Highdmin - NextJs Admin & Dashboard Template",
+    "description": "Highdmin is a premium admin template crafted to simplify web development. Built with NextJS 15x, Bootstrap 5 and modern web technologies like HTML5 and CSS3, this template is fully responsive and highly customizable. Designed with precision, Highdmin features a clean and intuitive interface that effortlessly adapts to any device or browser, making it a versatile choice for any project.",
+    "features": [
+      "Built with NextJS 15x",
+      "Created using Bootstrap v5.3x",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Intuitive Design",
+      "Google Fonts",
+      "Light & Dark Modes (Attribute based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Fully Documented",
+      "Rich form, widgets, validation and wizard",
+      "80+ Pages",
+      "30+ Charts",
+      "7+ Built-in Apps",
+      "RTL & LTR Support",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page",
+      "5000+ Font Icons"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "price": 21,
+    "popularity": 1201,
+    "appType": "admin-template",
+    "details": "1.envato.market/Z6gWOK",
+    "category": "NextJs",
+    "imageAlt": "reback-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/reback-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.techzaa.in/reback-next/dashboard/analytics",
+    "templateName": "Reback - Next.Js Admin & Dashboard Template",
+    "description": "Introducing Reback – the Next.Js Admin & Dashboard Template, a comprehensive premium admin UI Kit. Reback features numerous new design widgets, all fully responsive across all screens. Additionally, it offers 5 different types of layouts for added versatility.",
+    "features": [
+      "Easy customization with extensive use of SCSS variables",
+      "Clean and Modern Design",
+      "Light & Dark Versions (only CSS-based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Easy development and tooling with Gulp workflow",
+      "Fully Documented",
+      "Rich form, validation, and wizard",
+      "85+ Pages",
+      "400+ UI Components",
+      "Charts Library",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
