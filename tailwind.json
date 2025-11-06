@@ -5577,5 +5577,55 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 135,
+    "price": 39,
+    "popularity": 1084,
+    "appType": "admin-template",
+    "details": "1.envato.market/qzP7bO",
+    "category": "Tailwind",
+    "imageAlt": "taskora-project-management-tailwind-css-next-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/taskora-project-management-tailwind-css-next-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://taskora-dashboard.vercel.app/",
+    "templateName": "Taskora - Project Management Tailwind CSS Next JS Admin Dashboard Template",
+    "description": "Taskora is a modern and feature-rich Project Management Admin Dashboard Template built with Next.js 15.3.2 and Tailwind CSS. Designed to streamline project workflows, manage tasks, teams, and deadlines with ease, Taskora offers a clean UI, responsive layout, and highly extensible components that suit a wide variety of project and team management use cases. Whether you’re managing a startup team, freelance projects, or enterprise operations, Taskora adapts seamlessly to your needs.",
+    "features": [
+      "Built with Next.js 15.3.2 and React 19",
+      "Tailwind CSS and Tailwind Merge for utility-first styling",
+      "Modular components with clean architecture",
+      "Fully responsive and mobile-friendly layout",
+      "Dark and Light mode toggle (Next Themes)",
+      "Integrated calendar with react-day-picker and date-fns",
+      "Interactive charts with Recharts",
+      "Drag & drop task handling using react-dnd",
+      "Elegant notifications with Sonner",
+      "Carousel integration via Embla Carousel",
+      "Input OTP, Animated Heights, and more"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

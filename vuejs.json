@@ -5590,5 +5590,66 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 144,
+    "price": 49,
+    "popularity": 1121,
+    "appType": "admin-template",
+    "details": "1.envato.market/ra577G",
+    "category": "NextJs",
+    "imageAlt": "osen-multipurpose-admin-dashboard-flask-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/osen-multipurpose-admin-dashboard-flask-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://coderthemes.com/osen/layouts/index.html",
+    "templateName": "Osen - Multipurpose Admin & Dashboard Template + Figma",
+    "description": "Osen is a premium admin template built with Bootstrap 5.3.7 and supports multiple frameworks, including React 19.x, Next.js 15.x, Angular 19.x, Laravel 12.x, ASP.NET Core 9.x, MVC5, Blazor, PHP 8.x, Django 5.x, Vue 3.x, Ruby on Rails, Spring Boot, Inertia.js with Vue or React (via Laravel), Flask, Symfony 7.x, CodeIgniter 4.x, CakePHP 5.x, and Node.js.",
+    "features": [
+      "Includes Figma Design Files",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Intuitive Design",
+      "Light & Dark Themes (Attribute based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Fully Documented",
+      "Rich form, widgets, validation and wizard",
+      "80+ Pages",
+      "200+ UI Components",
+      "30+ Charts(2 chart library)",
+      "5+ Built-in Apps",
+      "Error pages included",
+      "Stylish pricing page",
+      "4000+ Font Icons"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
