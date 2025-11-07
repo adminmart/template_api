@@ -3435,5 +3435,65 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 216,
+    "price": 59,
+    "popularity": 1103,
+    "appType": "admin-template",
+    "details": "1.envato.market/ra5k3d",
+    "category": "Angular",
+    "imageAlt": "mdash-angular-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mdash-angular-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://mdash-angular-main.netlify.app/dashboards/dashboard1",
+    "templateName": "MDash Angular Dashboard Template",
+    "description": "MDash Angular Dashboard is a powerful Material Angular 19 / CLI WebApp template for admin dashboards and control admin panels. MDash Angular 19 is a modern admin dashboard template built to meet the diverse needs of developers and businesses. With 12 ready-to-use applications such as Calendar, Chat, and Invoice, it offers practical tools to streamline operations and improve productivity. Whether you’re managing tasks, handling communication, or generating invoices, these integrated apps make it easy to get started quickly and efficiently. The template features six unique design variations, giving you the flexibility to tailor the interface to your project’s style. Options like the Minisidebar layout, Dark Theme, and Right-to-Left (RTL) version ensure that your dashboard not only looks great but also functions perfectly in different environments and languages",
+    "features": [
+      "RTL Dashboard version",
+      "Dark and light sidebar themes",
+      "3 unique dashboards",
+      "6 Theme Colors",
+      "80+ Page Templates",
+      "Authguard",
+      "50+ UI Components",
+      "80+ Pages",
+      "200+ UI Components",
+      "Material Angular M3",
+      "Lots of Chart Options",
+      "i18 Angular",
+      "Calendar Design",
+      "3400+ Font icons",
+      "Application Designs",
+      "Completely responsive pages",
+      "6 color skins"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

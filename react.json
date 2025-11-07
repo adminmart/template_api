@@ -10222,5 +10222,116 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 266,
+    "price": 62,
+    "popularity": 1205,
+    "appType": "admin-template",
+    "details": "1.envato.market/e1my01",
+    "category": "NextJs",
+    "imageAlt": "zynix-nextjs-app-router-javascript-react-bootstrap-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/zynix-nextjs-app-router-javascript-react-bootstrap-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app-router/zynix-js/preview/dashboards/sales/",
+    "templateName": "Zynix - NextJS App Router Javascript React Bootstrap Admin Template",
+    "description": "The Zynix react dashboard is a premium nextjs react bootstrap admin template, designed specifically for modern web developers and designers. It provides a seamless and responsive user experience, making it an ideal solution for managing and visualizing data in nextjs dashboard templates. By combining the power of nextjs admin template and the versatility of react bootstrap component, the zynix nextjs admin panel offers a robust platform for building sophisticated admin panels and much more.",
+    "features": [
+      "Seamless Coding",
+      "Built with React-Bootstrap",
+      "Easy to Customize with Sass",
+      "30+ Additional Plugins",
+      "Future Proof Javascript",
+      "W3C Valid",
+      "6 Types Of Icons",
+      "User Pages",
+      "Multiple File Upload",
+      "More NextJs Components",
+      "Easy To Customize",
+      "3 Types Of Charts",
+      "Unlimited Colors",
+      "Ready TO Widgets",
+      "Validation Forms",
+      "Well Documented"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "price": 29,
+    "popularity": 1206,
+    "appType": "admin-template",
+    "details": "1.envato.market/bOn4dM",
+    "category": "NextJs",
+    "imageAlt": "critso-crypto-dashboard-react-nextjs-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/critso-crypto-dashboard-react-nextjs-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://critsonextjs.vercel.app/",
+    "templateName": "Critso - Crypto Dashboard React & NextJS Template",
+    "description": "Critso is a modern admin interface template for cryptocurrency projects, wallets, or digital trading platforms. Built with React and Next.js, Critso offers high performance, good scalability, and a smooth and intuitive user experience. With professional UI design, intuitive dashboards, and various UI components such as financial charts, coin lists, market analysis, wallets, trading, etc., Critso is an ideal choice for developers building blockchain",
+    "features": [
+      "Node.js 16.14 or later, React 19 and NextJs 15 technologies",
+      "09 Unique Pages",
+      "Crypto Dashboard React & NextJS",
+      "Responsive Template",
+      "Free icons used",
+      "Pixel Perfect",
+      "Clean & Unique Design",
+      "Easy to customize",
+      "Retina Ready",
+      "Unlimited Colors",
+      "Filter product",
+      "Parallax Effect",
+      "& much more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
