@@ -10252,5 +10252,146 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 267,
+    "price": 69,
+    "popularity": 1206,
+    "appType": "admin-template",
+    "details": "1.envato.market/55V7vN",
+    "category": "NextJs",
+    "imageAlt": "meno-nextjs-app-router-typescript-react-bootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/meno-nextjs-app-router-typescript-react-bootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app-router/meno-ts/preview/dashboards/sales/",
+    "templateName": "Meno - NextJS App Router Typescript React Bootstrap Admin Dashboard Template",
+    "description": "Meno next js ui framework is a powerful and elegant typescript nextjs admin dashboard template built with nextjs and bootstrap elements, thoughtfully designed for modern developers and UI/UX professionals. It delivers a seamless, fully responsive admin ui experience, empowering users to manage, analyze, and visualize complex data effortlessly. By combining the performance of nextjs ui with the flexibility of bootstrap framework, Meno nextjs dashboard offers a robust foundation for building high-performance react bootstrap admin panels, templates for dashboards, and dynamic web applications with ease. Supercharge your nextjs projects with firebase nextjs — authentication, firestore, and hosting, all in one stack. With firebase nextjs, easily develop scalable and real-time web applications that offer seamless backend and frontend integration.",
+    "features": [
+      "180+ Nextjs Pages",
+      "60+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal Layouts",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "React-Bootstrap Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Message Chat",
+      "2 Types of Maps",
+      "TimeLine",
+      "Google Fonts",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Tour",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Reusable Components",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "price": 25,
+    "popularity": 1207,
+    "appType": "admin-template",
+    "details": "1.envato.market/6yJg4q",
+    "category": "NextJs",
+    "imageAlt": "expenzo-financial-management-platform-nextjs-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/expenzo-financial-management-platform-nextjs-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://v0-expenzo.vercel.app/",
+    "templateName": "Expenzo - Financial Management Platform NextJs Admin Template",
+    "description": "Expenzo is a modern and feature-rich Financial Management Admin Template built with Next.js, designed to streamline and visualize financial data with precision and style. It offers a clean, responsive, and intuitive interface, making it ideal for financial dashboards, budgeting tools, expense tracking systems, and accounting platforms. Built on a scalable architecture, Expenzo ensures high performance, seamless navigation, and effortless customization. With integrated charts, dynamic tables, and reusable UI components, it empowers developers to build robust financial applications efficiently.",
+    "features": [
+      "Next v15.2.4",
+      "React v18.2.0",
+      "Fully Responsive",
+      "Radix",
+      "Recharts",
+      "Framer Motion",
+      "Tailwind",
+      "Clean, Modern, and Unique Design",
+      "Sonner",
+      "Embla Carousel",
+      "Cross-Browser Compatibility",
+      "Fast Loading & Performance Optimized",
+      "Easy to Customize Code Structure"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
