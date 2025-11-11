@@ -10474,5 +10474,146 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 270,
+    "price": 69,
+    "popularity": 1209,
+    "appType": "admin-template",
+    "details": "1.envato.market/3JGYxA",
+    "category": "NextJs",
+    "imageAlt": "mamix-nextjs-app-router-typescript-tailwind-css-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mamix-nextjs-app-router-typescript-tailwind-css-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/tailwind/app-router/mamix-ts/preview/dashboards/sales/",
+    "templateName": "Mamix - NextJS App Router Typescript Tailwind Css Admin Template",
+    "description": "Mamix next js with typescript is a premier nextjs tailwind admin dashboard template meticulously crafted for modern web developers and designers. It offers a seamless, responsive user experience, making it ideal for managing and visualizing data in web applications. Combining nextjs with the flexibility of tailwind, mamix tailwind nextjs ui admin dashboard delivers a top-tier solution for sophisticated admin panels and more. Mamix next js admin dashboard template offers an exceptional user experience on all devices. Built with tailwind css in next js framework, it features a responsive layout that adapts seamlessly to any screen size, ensuring smooth performance, high speed, and flexibility for developers and users alike.",
+    "features": [
+      "240+ Nextjs Pages",
+      "60+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "React-Bootstrap Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Message Chat",
+      "3 Types of Maps",
+      "Timeline",
+      "Message Chat",
+      "Google Fonts",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Classified Pages",
+      "Domain Pages",
+      "Marketplace Pages",
+      "Real Estate Pages",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Tour",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Reusable Components",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "price": 49,
+    "popularity": 1210,
+    "appType": "admin-template",
+    "details": "1.envato.market/qz7VKq",
+    "category": "NextJs",
+    "imageAlt": "medixpro-medical-admin-dashboard-next-js-template-for-doctors-clinics",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/medixpro-medical-admin-dashboard-next-js-template-for-doctors-clinics.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://medixpro.vercel.app/",
+    "templateName": "Medixpro - Medical Admin Dashboard Next JS Template For Doctors & Clinics",
+    "description": "Medixpro is a thoughtfully designed Medical Admin Dashboard Template built with Next.js, Tailwind CSS, and TypeScript, tailored for modern clinics, hospitals, and healthcare professionals. With clean architecture and robust performance, it streamlines the management of appointments, patients, records, and analytics – all in one beautifully structured interface.",
+    "features": [
+      "Built with Next.js and TypeScript for scalability",
+      "Styled using Tailwind CSS with Shadcn UI",
+      "Form management via React Hook Form with Zod validation",
+      "Charting and data visualization using Recharts",
+      "Real-time interactions with Sonner toast notifications",
+      "Drag & drop support using React DnD",
+      "Fully responsive, clean, and intuitive layout",
+      "Modern icon set powered by Lucide React"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

@@ -3553,5 +3553,96 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 218,
+    "price": 19,
+    "popularity": 1105,
+    "appType": "admin-template",
+    "details": "1.envato.market/LKQg1a",
+    "category": "Angular",
+    "imageAlt": "wowdash-angular-19-admin-dashboard-template-multipurpose",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/wowdash-angular-19-admin-dashboard-template-multipurpose.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://wowdash-angular.netlify.app/home",
+    "templateName": "WowDash - Angular 19 - Admin Dashboard Template Multipurpose",
+    "description": "WowDash is a cutting-edge, multipurpose Angular 19 admin dashboard template built for speed, scalability, and modern UI/UX. Whether you’re building a CRM, SaaS platform, project management tool, analytics panel, or eCommerce admin—WowDash delivers a developer-friendly and stunningly responsive design to supercharge your workflow.",
+    "features": [
+      "Built with Angular 19",
+      "SASS Supported",
+      "Bootstrap 5x",
+      "Style With SASS",
+      "AI & CRM & eCommerce & Cryptocurrency & Investment",
+      "Light & Dark& Box templete",
+      "Devloped with React 18.2.0",
+      "Node v20.11.0",
+      "React-redux-toolkit",
+      "React With TypeScript",
+      "Style With SASS",
+      "Theme Customizer",
+      "Bookmark Support",
+      "Multiple Language Support",
+      "Attractive Dashboard",
+      "React Hooks",
+      "No Jquery",
+      "E-commerce Section",
+      "Image-Crop",
+      "Perfect-Scrollbar",
+      "Chart.js",
+      "Apex Charts",
+      "Todo Apps",
+      "Calender",
+      "Mailbox",
+      "Events, blog and invoice pages",
+      "Chat Apss",
+      "Menu Click ,Menu Hover ,icon click and icon Hover",
+      "Responsive Bootstrap 5 Framework",
+      "5 types of chart",
+      "Developer Friendly Commented Code",
+      "Multiple Color Options",
+      "Fully Responsive layout",
+      "Using Webpack",
+      "Using Gulp",
+      "Latest Jquery",
+      "Font Awesome",
+      "Detailed Documentation",
+      "Clean & Well Commended Codes",
+      "W3C Validated Code",
+      "Many Charts Options",
+      "Multi File upload",
+      "Range Slider",
+      "Data Table",
+      "Google Fonts",
+      "Form Wizards",
+      "Chat Application",
+      "All Modern Browser Supported.",
+      "Well Organized and Easy to Customize",
+      "Free and Lifetime Updates",
+      "24/7 Great Support !!",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
