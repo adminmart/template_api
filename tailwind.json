@@ -5717,5 +5717,56 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 137,
+    "price": 29,
+    "popularity": 1086,
+    "appType": "admin-template",
+    "details": "1.envato.market/6yJz6N",
+    "category": "Tailwind",
+    "imageAlt": "evank-tailwind-css-nextjs-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/evank-tailwind-css-nextjs-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://evank.prexius.com/",
+    "templateName": "Evank - Tailwind CSS Next.js Admin Template",
+    "description": "Evank – Tailwind Next.js Personal Finance Admin Template is a sleek and modern dashboard solution designed to help users efficiently manage personal finances with clarity and style. Built with Next.js and Tailwind CSS, Evank ensures top-notch performance, responsiveness, and scalability. The template features an elegant light and dark mode, allowing users to switch themes seamlessly for an optimal viewing experience. With its clean UI components, intuitive navigation, and fully customizable design system, Evank empowers developers to quickly build professional-grade finance management applications, dashboards, or SaaS platforms with minimal effort.",
+    "features": [
+      "2 Theme Colors",
+      "Dark & Light Sidebar",
+      "45+ Page Templates",
+      "150+ UI Components",
+      "Tailwind CSS",
+      "2000+ Font Icons",
+      "Fully Responsive",
+      "Easy to Customize",
+      "Rechart Options",
+      "Lots of Table Examples",
+      "Regular Updates",
+      "Detailed Documentation"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
