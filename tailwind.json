@@ -5768,5 +5768,145 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 138,
+    "price": 71,
+    "popularity": 1087,
+    "appType": "admin-template",
+    "details": "1.envato.market/RGk3M7",
+    "category": "Tailwind",
+    "imageAlt": "xintra-nextjs-page-router-typescript-tailwind-css-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/xintra-nextjs-page-router-typescript-tailwind-css-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/tailwind/page/xintra-ts/preview/components/dashboard/sales/",
+    "templateName": "Xintra - NextJS Page Router Typescript Tailwind CSS Admin Dashboard Template",
+    "description": "Xintra tailwind css nextjs ui is a cutting-edge nextjs typescript admin dashboard template, designed specifically for modern web developers and designers. This nextjs firebase setup provides a seamless, responsive experience, making it the perfect choice for managing and visualizing data within web applications. By combining the power of nextjs framework with the flexibility of typescript, xintra type script nextjs tailwind admin template offers a high-performance solution for building sophisticated admin panels and much more.",
+    "features": [
+      "180+ Nextjs Pages",
+      "60+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal Layouts",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "TailwindCSS Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Message Chat",
+      "2 Types of Maps",
+      "TimeLine",
+      "Google Fonts",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Tour",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Reusable Components",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "price": 29,
+    "popularity": 1088,
+    "appType": "admin-template",
+    "details": "1.envato.market/jevAka",
+    "category": "NextJs",
+    "imageAlt": "enfix-shadcn-tailwind-nextjs-finance-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/enfix-shadcn-tailwind-nextjs-finance-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://enfix.prexius.com/",
+    "templateName": "Enfix - ShadCN Tailwind Next.js Finance Admin Template",
+    "description": "Money Management refers to the process of managing an individual’s or a household’s financial resources with the goal of achieving financial stability and meeting both short-term and long-term financial objectives.",
+    "features": [
+      "2 Theme Colors",
+      "Dark & Light Sidebar",
+      "45+ Page Templates",
+      "150+ UI Components",
+      "Tailwind CSS",
+      "2000+ Font Icons",
+      "Fully Responsive",
+      "Easy to Customize",
+      "Rechart Options",
+      "Lots of Table Examples",
+      "Regular Updates",
+      "Detailed Documentation"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
