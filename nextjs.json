@@ -10991,5 +10991,60 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 278,
+    "price": 28,
+    "popularity": 1217,
+    "appType": "admin-template",
+    "details": "1.envato.market/ra77Pj",
+    "category": "NextJs",
+    "imageAlt": "dastone-next-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dastone-next-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://mannatthemes.com/dastone-bs5/default/index.html",
+    "templateName": "Dastone - Next Js Admin & Dashboard Template",
+    "description": "Dastone is a premium admin template built with Bootstrap 5.3.3 and NextJs 15x. It offers a fully responsive design, extensive customization options, and a rich collection of UI components. Dastone ensures high performance and seamless adaptability across devices and browsers. It features pre-built layouts, supports popular libraries and plugins for enhanced functionality, and includes apps such as Calendar, Chat, File Manager, Users Management, Projects, Analytics, Invoice Management, Email, and Task Management (Kanban Board Page).",
+    "features": [
+      "Using NextJs 15x",
+      "Created using Bootstrap v5.3.3",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Intuitive Design",
+      "Vertical, Dark and RTL Layouts",
+      "Light, Dark and Navy Blue Sidebar",
+      "Fully Documented",
+      "100+ Pages",
+      "Multi Charts Library",
+      "Error pages included",
+      "Stylish pricing page",
+      "9000+ Font Icons"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

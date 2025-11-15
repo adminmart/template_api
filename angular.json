@@ -3770,5 +3770,148 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 221,
+    "price": 69,
+    "popularity": 1108,
+    "appType": "admin-template",
+    "details": "1.envato.market/9LXX3e",
+    "category": "Angular",
+    "imageAlt": "meno-angular-ngbootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/meno-angular-ngbootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/meno/preview/dashboards/sales",
+    "templateName": "Meno - Angular NgBootstrap Admin Dashboard Template",
+    "description": "Meno Angular Dashboard is a premium, feature-rich Angular NG bootstrap admin template meticulously designed to meet the demands of modern web developers and designers, offering a powerful and flexible solution for building dynamic, responsive admin panels. With its fully responsive design, the Meno ng Bootstrap Angular admin dashboard provides a seamless and intuitive user admin UI experience, making it ideal for efficiently managing and visualizing data within web applications. By harnessing the power of Angular and the flexibility of NgBootstrap, the Meno Angular admin panel delivers a powerful, user-friendly solution for building prestigious admin panels, Angular dashboards, and much more.",
+    "features": [
+      "180+ Angular Components",
+      "30+ Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Ng-Bootstrap Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Cart",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Sortable JS",
+      "Tour",
+      "Treeview",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "price": 16,
+    "popularity": 1109,
+    "appType": "admin-template",
+    "details": "1.envato.market/2aAAqG",
+    "category": "Angular",
+    "imageAlt": "metor-angular-19-restaurant-food-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/metor-angular-19-restaurant-food-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://foxpixel.vercel.app/metor/index.html",
+    "templateName": "Metor - Angular 19 Restaurant Food Admin Dashboard Template",
+    "description": "Metor is a premium, fully responsive admin UI Kit designed for restaurant and food-related web applications. Built with Bootstrap v5.3.3 and modern web technologies like SCSS and JavaScript, Metor features a sleek, intuitive design that enhances user experience and streamlines development.",
+    "features": [
+      "Built with Angular v19x & Bootstrap v5.3.3",
+      "Easy customization with extensive use of SCSS variables",
+      "Clean and Modern Design",
+      "Light & Dark Versions (only CSS-based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Easy development and tooling with Gulp workflow",
+      "Fully Documented",
+      "Rich form, validation, and wizard",
+      "99+ Pages",
+      "400+ UI Components",
+      "Charts Library",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
