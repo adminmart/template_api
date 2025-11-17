@@ -3913,5 +3913,215 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 223,
+    "price": 21,
+    "popularity": 1110,
+    "appType": "admin-template",
+    "details": "1.envato.market/19mE9a",
+    "category": "Angular",
+    "imageAlt": "velonic-angular-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/velonic-angular-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://techzaa.in/velonic-angular/dashboard",
+    "templateName": "Velonic - Angular Admin & Dashboard Template",
+    "description": "Velonic is a fully featured premium admin template built on top of awesome Angular & Bootstrap, modern web technology. It has many ready-to-use hand crafted components. The template is fully responsive and easy to customize, and the code is super easy to understand and gives power to any developer to turn this template into real web application.",
+    "features": [
+      "Built with Angular",
+      "Built with Bootstrap",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Modern Design",
+      "Light & Dark Versions (only css based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Easy development and tooling with Gulp workflow",
+      "Fully Documented",
+      "Rich form, validation and wizard",
+      "80+ Pages",
+      "400+ UI Components",
+      "Charts library",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page",
+      "5000+ Font Icons"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "price": 69,
+    "popularity": 1111,
+    "appType": "admin-template",
+    "details": "1.envato.market/2aAnKg",
+    "category": "Angular",
+    "imageAlt": "zeno-bootstrap-admin-angular-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/zeno-bootstrap-admin-angular-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/zeno/preview/dashboards/sales",
+    "templateName": "Zeno - Bootstrap Admin Angular Dashboard Template",
+    "description": "Zeno Angular ng template redefines how developers and designers approach admin dashboard templates in Angular. Crafted with precision, this angular ng bootstrap template delivers an unparalleled user experience, ensuring a seamless and responsive interface for managing and visualizing data across various web templates. By blending Angular’s robust capabilities with the versatility of ng Bootstrap, the Zeno Angular framework provides an innovative, customizable, and intuitive solution for building high-performance admin panels, templates for dashboards in Angular, and beyond—empowering you to create sophisticated, user-centric applications with ease and flexibility.",
+    "features": [
+      "180+ Angular Components",
+      "30+ Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Ng-Bootstrap Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Cart",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Sortable JS",
+      "Tour",
+      "Treeview",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "price": 23,
+    "popularity": 1112,
+    "appType": "admin-template",
+    "details": "1.envato.market/Bn6qx1",
+    "category": "Angular",
+    "imageAlt": "hando-angular-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hando-angular-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://hando-angular.vercel.app/index",
+    "templateName": "Hando - Angular Admin Dashboard Template",
+    "description": "Hando is a clean, modern, and fully responsive admin and dashboard template built with the latest Angular 19x and Bootstrap 5.3.3. Designed for speed and flexibility, it delivers a smooth, intuitive user experience with a sleek, professional look.",
+    "features": [
+      "Built using Bootstrap 5.3.3",
+      "Built with Angular 19x",
+      "Fully Responsive Design",
+      "Easy customizations with extensive use of SCSS variables",
+      "W3C Validated HTML Pages",
+      "Gulp Based Workflow",
+      "Google Fonts",
+      "Lifetime Free Updates",
+      "Authentication & Error Pages",
+      "3 Dashboards",
+      "Vertical Layouts",
+      "HTML5 & CSS3",
+      "Image Gallery",
+      "Form Elements",
+      "Calendar App",
+      "SCSS Support",
+      "90+ pages",
+      "Pricing Tables",
+      "Invoice Page",
+      "To-Do List Page",
+      "Contact List Page",
+      "300+ Ui Components",
+      "Datatables",
+      "Well Documented",
+      "Profile, Settings, Pricing, Coming soon, Maintenance, Timeline, FAQ, Invoice, and many more Pages",
+      "And much more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
