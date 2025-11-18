@@ -11127,5 +11127,203 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 280,
+    "price": 39,
+    "popularity": 1219,
+    "appType": "admin-template",
+    "details": "1.envato.market/EEmEVK",
+    "category": "NextJs",
+    "imageAlt": "studio-nextjs-15x-html-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/studio-nextjs-15x-html-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://seantheme.com/studio-nextjs/",
+    "templateName": "Studio - Next.js 15.x + HTML Admin Template",
+    "description": "ReactStudio is the new premium and fully responsive Bootstrap 5 admin template which built on top of the popular framework Next.js 15.x with Bootstrap 5 compatible. Concept of design for Studio is based on the FLAT design and finally it comes out with a clean and neat design. It is built on top of the popular Bootstrap Framework. Besides that, it is bundled with a lot of third party plugins, reusable widget and much more…",
+    "features": [
+      "Built on top of Next.js 15.x with Node 22+ compatible",
+      "Next.js 15..x demo and startup version (jQuery free)",
+      "Built in POS System UI",
+      "jQuery demo and startup version",
+      "Super clean design",
+      "Built with Bootstrap 5.3.7",
+      "FontAwesome Icons with 2000+ icons",
+      "Extended Bootstrap 5 UI Components",
+      "Webpack 5.x Support",
+      "Scss variable control",
+      "30+ styled plugins",
+      "30+ unique pages",
+      "Unlimited widget combination",
+      "HTML5 Flexbox support",
+      "Well documented"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "price": 59,
+    "popularity": 1220,
+    "appType": "admin-template",
+    "details": "1.envato.market/POXOq6",
+    "category": "NextJs",
+    "imageAlt": "xintra-nextjs-approuter-typescript-tailwind-admin-panel-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/xintra-nextjs-approuter-typescript-tailwind-admin-panel-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/tailwind/app/xintra-ts/preview/dashboard/sales/",
+    "templateName": "Xintra - NextJS AppRouter Typescript Tailwind Admin Panel Dashboard Template",
+    "description": "The Xintra Nextjs Tailwind template offers extensive support for a variety of Next js widgets and Tailwind components, giving developers the flexibility to create fully customized admin dashboards. As a feature-rich Next js Tailwind admin template, it provides all the tools necessary to build a responsive, dynamic dashboard. Whether you’re seeking an advanced Next js dashboard template, a sophisticated admin panel, or a complete Nextjs Tailwind admin solution, the Xintra Nextjs template offers unmatched flexibility, scalability, and ease of use to meet all your Nextjs Tailwind template application development needs.",
+    "features": [
+      "180+ Nextjs Pages",
+      "60+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal Layouts",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "React-Tailwind Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Message Chat",
+      "2 Types of Maps",
+      "TimeLine",
+      "Google Fonts",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Tour",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Reusable Components",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "price": 21,
+    "popularity": 1221,
+    "appType": "admin-template",
+    "details": "1.envato.market/xLWLjk",
+    "category": "NextJs",
+    "imageAlt": "techmin-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/techmin-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.techzaa.in/techmin_r/dashboard",
+    "templateName": "Techmin - Next.Js Admin & Dashboard Template",
+    "description": "Techmin – Nextjs Bootstrap Admin & Dashboard Template is a fully featured premium admin UI Kit built on top of awesome Bootstrap & Nextjs. It has many ready to use hand crafted components. The UI Kit is fully responsive, easy to customize, and the code is super easy to understand and gives power to any developer to turn this UI Kit into real web application.",
+    "features": [
+      "Built with Bootstrap",
+      "Built with Nextjs",
+      "Easy customisation with extensive use of SCSS variables",
+      "Clean and Modern Design",
+      "Light & Dark Versions (only css based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Easy development and tooling with Gulp workflow",
+      "Fully Documented",
+      "Rich form, validation and wizard",
+      "110+ Pages",
+      "400+ UI Components",
+      "Charts library",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page",
+      "5000+ Font Icons"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
