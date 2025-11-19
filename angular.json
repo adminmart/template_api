@@ -4123,5 +4123,243 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 226,
+    "price": 79,
+    "popularity": 1113,
+    "appType": "admin-template",
+    "details": "1.envato.market/OegmZn",
+    "category": "Angular",
+    "imageAlt": "rixzo-ngbootstrap-admin-dashboard-angular-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/rixzo-ngbootstrap-admin-dashboard-angular-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/rixzo/preview/dashboards/sales",
+    "templateName": "Rixzo - NgBootstrap Admin Dashboard Angular Template",
+    "description": "Rixzo dashboard is a premium Angular ngBootstrap admin dashboard template, expertly designed for modern web developers and designers. Offering a seamless and fully responsive user experience, Rixzo Angular Admin Dashboard is perfect for efficiently managing and visualizing data within web templates. By combining the power of Angular with the flexibility of ngBootstrap, the Rixzo admin dashboard delivers an exceptional solution for sophisticated admin panels, data dashboards, and more.",
+    "features": [
+      "180+ Angular Pages",
+      "60+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal Layouts",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Ng-Bootstrap Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Cart",
+      "Order Details",
+      "Wishlist",
+      "Project Pages",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Sortable JS",
+      "Tour",
+      "Treeview",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "price": 69,
+    "popularity": 1114,
+    "appType": "admin-template",
+    "details": "1.envato.market/nXG23x",
+    "category": "Angular",
+    "imageAlt": "dashlot-bootstrap-admin-dashboard-angular-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashlot-bootstrap-admin-dashboard-angular-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/dashlot/preview/crm/dashboard",
+    "templateName": "Dashlot - Bootstrap Admin Dashboard Angular Template",
+    "description": "The Dashlot admin template is a premium Angular ngBootstrap dashboard template, meticulously designed for modern web developers and designers. It ensures a seamless and responsive Angular framework user experience, making it the ideal choice for managing and visualizing data within web templates. By combining Angular Material with the power and flexibility of NgBootstrap, the Dashlot Angular template offers an exceptional solution for creating sophisticated admin panels and much more.",
+    "features": [
+      "140+ Angular Components",
+      "20+ Plugins",
+      "4 Dashboard variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Responsive Angular 19 Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "8 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "price": 59,
+    "popularity": 1115,
+    "appType": "admin-template",
+    "details": "1.envato.market/Z6Oy5W",
+    "category": "Angular",
+    "imageAlt": "mamix-tailwind-admin-angular-material-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mamix-tailwind-admin-angular-material-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/mamix-tailwind/preview/sales",
+    "templateName": "Mamix - Tailwind Admin Angular Material Dashboard Template",
+    "description": "The Mamix admin template is a premier Angular Tailwind admin dashboard template, expertly crafted for modern web developers and designers. It provides a seamless and responsive Angular admin user experience, making it ideal for managing and visualizing data within web templates. By combining Angular with the powerful features of Tailwind, the Mamix Angular template offers a top-tier solution for creating sophisticated and dynamic admin panels.",
+    "features": [
+      "240+ Angular Components",
+      "30+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal Layouts",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Tailwind CSS Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Block Quotes",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "TimeLine",
+      "Message Chat",
+      "Google Fonts",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
