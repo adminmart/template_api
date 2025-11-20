@@ -4361,5 +4361,149 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 229,
+    "price": 89,
+    "popularity": 1116,
+    "appType": "admin-template",
+    "details": "1.envato.market/EEm22n",
+    "category": "Angular",
+    "imageAlt": "xintra-tailwind-css-admin-dashboard-angular-templat",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/xintra-tailwind-css-admin-dashboard-angular-templat.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/xintra-tailwind/preview/dashboards/sales",
+    "templateName": "Xintra - Tailwind CSS Admin Dashboard Angular Template",
+    "description": "Xintra admin dashboard template is a cutting-edge tailwind angular admin dashboard template designed to meet the needs of modern web developers and designers. Featuring a seamless and responsive user interface, the xintra admin panel template is perfect for efficiently managing and visualizing data in diverse web templates. By integrating the power of tailwind css with angular flexibility, xintra is an angular admin template that offers a superior solution for creating advanced, admin ui user-friendly admin panels and dynamic dashboards.",
+    "features": [
+      "180+ Angular Components",
+      "60+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "3 Types of Charts",
+      "Tailwind CSS",
+      "Well Commented Code",
+      "Ngx-Easy Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "Message Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Task",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Sortable JS",
+      "Tour",
+      "Treeview",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "price": 23,
+    "popularity": 1117,
+    "appType": "admin-template",
+    "details": "1.envato.market/yq0WBN",
+    "category": "Angular",
+    "imageAlt": "tapeli-angular-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tapeli-angular-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://tapeli-angular.vercel.app/index",
+    "templateName": "Tapeli - Angular Admin Dashboard Template",
+    "description": "Tapeli – Angular 19x & Bootstrap 5 is a responsive Admin Dashboard Template designed for seamless web application management. Built with the latest HTML5, CSS3, and the powerful Bootstrap v5.3.3 and Angular 19x framework. Tapeli offers a sleek and user-friendly interface. With a wide range of beautiful styles and a full-screen layout, it’s a perfect fit for admin dashboards. You can start small and large projects or update the design in your existing project using Tapeli Angular 19x. Tapeli ensures excellent performance and works well on all devices, keeping your projects fast and flexible.",
+    "features": [
+      "Built using Bootstrap 5.3.3",
+      "Built with Angular 19x",
+      "Fully Responsive Design",
+      "Easy customizations with extensive use of SCSS variables",
+      "W3C Validated HTML Pages",
+      "Gulp Based Workflow",
+      "Google Fonts",
+      "Dark, Light Sidebar with RTL Supported",
+      "Lifetime Free Updates",
+      "Authentication & Error Pages",
+      "2 Dashboads",
+      "Vertical Layouts",
+      "HTML5 & CSS3",
+      "Image Gallery",
+      "Calendar",
+      "SCSS Support",
+      "90+ pages",
+      "300+ Ui Components",
+      "Datatables",
+      "Well Documented",
+      "Profile, Settings, Pricing, Coming soon, Maintenance, Timeline, FAQ, Invoice and many more Pages"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

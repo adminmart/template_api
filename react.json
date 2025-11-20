@@ -11325,5 +11325,63 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 283,
+    "price": 39,
+    "popularity": 1222,
+    "appType": "admin-template",
+    "details": "1.envato.market/7a2dxV",
+    "category": "NextJs",
+    "imageAlt": "quantum-nextjs-15-bootstrap-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/quantum-nextjs-15-bootstrap-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://seantheme.com/quantum-nextjs/",
+    "templateName": "Quantum - Next.js 15 Bootstrap Admin Template",
+    "description": "QUANTUM is the world’s first futuristic HUD-style admin template built on top of the popular Bootstrap 5.3.7 framework. The concept of design for QUANTUM Admin is inspired by cutting-edge HUD UI, resulting in a clean, sleek, and modern design. It’s built on the robust foundation of the Bootstrap framework. Additionally, QUANTUM comes bundled with numerous third-party plugins, reusable widgets, and much more, ensuring maximum flexibility and functionality for your admin dashboard needs.",
+    "features": [
+      "Built with Bootstrap 5.3.7",
+      "Next.js 15.x",
+      "World’s first futuristic admin template",
+      "Built-in Pos System UI",
+      "Next.js 15.x demo and startup version",
+      "Super clean design",
+      "FontAwesome Icons with 2,000+ icons",
+      "Iconify Icons with unlimited icons",
+      "Extended Bootstrap 5 UI Components",
+      "Scss variable control",
+      "50+ styled plugins",
+      "50+ unique pages",
+      "Unlimited widget combination",
+      "HTML5 Flexbox support",
+      "Well documented"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
