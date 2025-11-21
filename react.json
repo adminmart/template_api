@@ -11383,5 +11383,131 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 284,
+    "price": 79,
+    "popularity": 1223,
+    "appType": "admin-template",
+    "details": "1.envato.market/9LRBEj",
+    "category": "NextJs",
+    "imageAlt": "spruha-app-router-react-bootstrap-typescript-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/spruha-app-router-react-bootstrap-typescript-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app/spruha-ts/preview/dashboard/",
+    "templateName": "Spruha - App Router React Bootstrap Typescript Nextjs Admin Dashboard Template",
+    "description": "Spruha admin template is a cutting-edge nextjs react bootstrap admin dashboard template, designed to meet the evolving needs of web developers and designers. With its fully responsive and seamless user interface, Spruha admin dashboard provides the ultimate solution for managing and visualizing data in modern web templates. Powered by nextjs admin dashboard and the flexibility of react bootstrap, this next js template offers unmatched performance and functionality, making it the perfect choice for creating dynamic admin panels and visually appealing dashboards.",
+    "features": [
+      "App Router (No Page Router)",
+      "240+ Next.js Components",
+      "60+ Plugins",
+      "3 Dashboard Variations (Vertical & Horizontal)",
+      "Firebase Authentication",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "Responsive React Bootstrap Framework",
+      "Well-Commented Code",
+      "Filepond",
+      "React Uploader",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Timeline",
+      "Message Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "14 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "User List",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "price": 29,
+    "popularity": 1224,
+    "appType": "admin-template",
+    "details": "1.envato.market/EEmYOe",
+    "category": "NextJs",
+    "imageAlt": "adminto-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/adminto-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.coderthemes.com/adminto-react/dashboard",
+    "templateName": "Adminto - NextJs Admin & Dashboard Template",
+    "description": "Adminto is a premium admin template built with Bootstrap 5.3.3 and NextJs 15x. It offers a fully responsive design, extensive customization options, and a rich collection of UI components. Adminto ensures high performance and seamless adaptability across devices and browsers. It features pre-built layouts, supports popular libraries and plugins for enhanced functionality, and includes apps such as Calendar, Chat, File Manager, Users Management, Projects, Invoice Management, Email, and Task Management (Kanban Board & Details Page).",
+    "features": [
+      "Using NextJs 15x",
+      "Created using Bootstrap v5.3.3",
+      "Easy customizations with extensive use of SCSS variables",
+      "Clean and Intuitive Design",
+      "Light & Dark Modes (Attribute based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Fully Documented",
+      "Rich form, widgets, validation and wizard",
+      "100+ Pages",
+      "200+ UI Components",
+      "30+ Charts",
+      "8+ Built-in Apps",
+      "Error pages included",
+      "Stylish pricing page",
+      "9000+ Font Icons"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
