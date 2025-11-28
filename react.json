@@ -11509,5 +11509,175 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 286,
+    "price": 21,
+    "popularity": 1225,
+    "appType": "admin-template",
+    "details": "1.envato.market/N9OX9N",
+    "category": "NextJs",
+    "imageAlt": "larkon-nextjs-ecommerce-management-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/larkon-nextjs-ecommerce-management-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://techzaa.in/larkon/admin/index.html",
+    "templateName": "Larkon - Next.js Ecommerce Management Admin & Dashboard Template",
+    "description": "Larkon – the Bootstrap 5 & Next.js v14 Admin & Dashboard Template, a comprehensive premium admin UI Kit that harnesses Bootstrap v5.3.3 alongside modern web technologies like CSS, and JS. This premium Responsive Bootstrap 5 UI Kit & Admin Dashboard is designed to enhance your app development journey with captivating design and robust pre-built Bootstrap components, ensuring efficiency and finesse at every step. Larkon features numerous new design widgets, all fully responsive across all screens.",
+    "features": [
+      "Built with Bootstrap v5.3.3",
+      "Built with Next.js v14",
+      "Clean and Modern Design",
+      "Light & Dark Versions (only CSS-based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Fully Documented",
+      "Rich form, validation, and wizard",
+      "85+ Pages",
+      "400+ UI Components",
+      "Charts Library",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page",
+      "Pre-built Layouts Features:",
+      "Multiple Layouts",
+      "Light & Dark Modes",
+      "Light & Dark Topbars",
+      "Light & Dark Sidebars",
+      "LTR & RTL supported",
+      "Small Sidenav Layout (Condensed View)",
+      "Hover, Sidenav Menu,",
+      "Hover Active Sidenav Menu",
+      "Hidden Sidebar Layout"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "price": 16,
+    "popularity": 1226,
+    "appType": "admin-template",
+    "details": "1.envato.market/vPRW43",
+    "category": "NextJs",
+    "imageAlt": "ecme-nextjs-tailwind-admin-template-app-router",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ecme-nextjs-tailwind-admin-template-app-router.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "hthttps://ecme-next.themenate.net/dashboards/ecommerce",
+    "templateName": "Ecme - Next.js Tailwind Admin Templat",
+    "description": "Ecme is not just another web template—it’s a meticulously crafted masterpiece that stands out in a market flooded with generic, poorly designed options. Every aspect of Ecme, from its elegant UI to its robust code architecture, has been thoughtfully designed to ensure unparalleled flexibility and scalability for your projects.",
+    "features": [
+      "Latest version React",
+      "Next.js 15",
+      "TailwindCSS",
+      "Typescript & Javascript",
+      "React hooks based architecture",
+      "Zustand state management",
+      "Next auth integrated",
+      "App router structure",
+      "Prebuild Tailwind components",
+      "Light & Dark mode",
+      "Multiple layouts variation",
+      "Multiple theme colors options",
+      "Fully Responsive",
+      "Flexible Layout",
+      "In built practical demo",
+      "i18n",
+      "React hook form",
+      "RTL Support",
+      "Trusted Support",
+      "Constantly Updates",
+      "Well Documented",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "price": 39,
+    "popularity": 1227,
+    "appType": "admin-template",
+    "details": "1.envato.market/3JDYZn",
+    "category": "NextJs",
+    "imageAlt": "hud-nextjs-15-bootstrap-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hud-nextjs-15-bootstrap-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://seantheme.com/hud-nextjs/",
+    "templateName": "HUD - Next.js 15 Bootstrap Admin Template",
+    "description": "HUD is the world first hud style admin template which built on top of the popular framework Bootstrap 5.3.7. Concept of design for HUD Admin is based on the HUD ui design and finally it comes out with a clean and neat design. It is built on top of the popular Bootstrap Framework. Besides that, it is bundled with a lot of third party plugins, reusable widget and much more…",
+    "features": [
+      "Built with Bootstrap 5.3.7",
+      "Built-in Pos System UI",
+      "Next.js 15 ready",
+      "Super clean design",
+      "FontAwesome Icons with 2,000+ icons",
+      "Extended Bootstrap 5 UI Components",
+      "Scss variable control",
+      "30+ styled plugins",
+      "30+ unique pages",
+      "Unlimited widget combination",
+      "HTML5 Flexbox support",
+      "Well documented"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
