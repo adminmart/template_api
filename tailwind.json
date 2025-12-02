@@ -5349,564 +5349,630 @@
         "frameworkName": ""
     },
     {
-    "id": 132,
-    "price": 11,
-    "popularity": 1081,
-    "appType": "admin-template",
-    "details": "1.envato.market/PO7oNM",
-    "category": "Tailwind",
-    "imageAlt": "nextsaas-admin-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextsaas-admin-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://next-saas-next.vercel.app/",
-    "templateName": "NextSaaS | SaaS, Software, Startup Next.js Template",
-    "description": "NextSaaS is a modern Tailwind 4 and NextJS 16 template designed for SaaS, software, and startup websites. It offers clean, responsive layouts, fast performance, and developer-friendly code—making it easy to launch a professional online presence quickly.",
-    "features": [
-      "35 Unique Home pages, including Dark and Light versions",
-      "Tailwind 4, NextJs 15 & React 19 for Faster Development",
-      "TypeScript Support",
-      "100+ Total pages including Dark and Light",
-      "03 Blog Pages",
-      "Next Generation Animation with GSAP",
-      "Award-winning design concepts",
-      "GSAP Animation Included",
-      "Lenis smooth Scroll",
-      "Scroll Animation Included",
-      "Unique Hover Animations",
-      "Based on Tailwind and NextJs",
-      "100% Responsive",
-      "Tested on real devices",
-      "Custom Icon Library",
-      "Flat, modern, and clean design",
-      "Retina Ready",
-      "SEO on-page optimized",
-      "UX ready",
-      "Touch Friendly",
-      "W3C Validate Code",
-      "Mega Menu",
-      "Clean and commented code",
-      "Gradient Image backgrounds",
-      "Smooth Transition Effects",
-      "All Modern Browser Compatible",
-      "24/7 Awesome Support",
-      "Detailed documentation"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "blog",
-        "label": "Blog"
-      },
-      {
-        "value": "personal",
-        "label": "Personal"
-      },
-      {
-        "value": "corporate",
-        "label": "Corporate"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 133,
-    "price": 9,
-    "popularity": 1082,
-    "appType": "admin-template",
-    "details": "1.envato.market/554KB3",
-    "category": "Tailwind",
-    "imageAlt": "wowdash-admin-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/wowdash-admin-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://wowdash-nextjs-shadcn.vercel.app/dashboard",
-    "templateName": "WowDash - Tailwind & Nextjs Admin Dashboard with shadcn UI",
-    "description": "WowDash is a powerful, flexible, and developer-centric Admin Dashboard Template built using Next.js, Tailwind CSS, and shadcn UI. Whether you’re building analytics platforms, SaaS apps, eCommerce backends, or internal tools, WowDash provides everything you need to get started quickly with modern, reusable UI components and a clean codebase. Designed for scalability and speed, WowDash offers multiple layouts, color schemes, dashboards, and prebuilt applications to accelerate your development process. With full responsiveness and modular architecture, it’s a perfect fit for both startup projects and large enterprise applications.",
-    "features": [
-      "Built with Tailwind & Nextjs",
-      "SASS Supported",
-      "Tailwind & Nextjs Admin Dashboard with shadcn UI",
-      "Style With SASS",
-      "AI & CRM & eCommerce & Cryptocurrency & Investment",
-      "Light & Dark& Box templete",
-      "Style With SASS",
-      "Theme Customizer",
-      "Bookmark Support",
-      "Multiple Language Support",
-      "Attractive Dashboard",
-      "Next Hooks",
-      "No Nextjs",
-      "E-commerce Section",
-      "Image-Crop",
-      "Perfect-Scrollbar",
-      "Chart.js",
-      "Apex Charts",
-      "Todo Apps",
-      "Calender",
-      "Mailbox",
-      "Events, blog and invoice pages",
-      "Chat Apss",
-      "Menu Click ,Menu Hover ,icon click and icon Hover",
-      "Responsive Dashboard",
-      "5 types of chart",
-      "Developer Friendly Commented Code",
-      "Multiple Color Options",
-      "Fully Responsive layout",
-      "Using Webpack",
-      "Using Gulp",
-      "Latest Nextjs",
-      "Font Awesome",
-      "Detailed Documentation",
-      "Clean & Well Commended Codes",
-      "W3C Validated Code",
-      "Many Charts Options",
-      "Multi File upload",
-      "Range Slider",
-      "Data Table",
-      "Google Fonts",
-      "Form Wizards",
-      "Chat Application",
-      "All Modern Browser Supported.",
-      "Well Organized and Easy to Customize",
-      "Free and Lifetime Updates",
-      "24/7 Great Support !!",
-      "And many more…"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "ecommerce",
-        "label": "Ecommerce"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "personal",
-        "label": "Personal"
-      },
-      {
-        "value": "portfolio",
-        "label": "Portfolio"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 134,
-    "price": 29,
-    "popularity": 1083,
-    "appType": "admin-template",
-    "details": "1.envato.market/9LK2j0",
-    "category": "Tailwind",
-    "imageAlt": "trezo-admin-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/trezo-admin-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://trezo-bs.envytheme.com/dashboard",
-    "templateName": "Trezo - Tailwind, Material, Bootstrap, React, Angular, Vue, Laravel & .NET Admin Dashboard Template",
-    "description": "Trezo is a modern, multipurpose admin dashboard template and landing page kit built for real-world apps. It supports today’s most popular stacks—React, Next.js, Angular, Vue/Nuxt, Laravel, ASP.NET Core, Django, Rails, Symfony, Yii2, Svelte, CakePHP, Golang (Gin), plus HTML + Bootstrap and Tailwind CSS.",
-    "features": [
-      "Built on Bootstrap (v5.x)",
-      "No jQuery Dependency",
-      "npm",
-      "avaScript",
-      "Built with Sass",
-      "Light/Dark Mode",
-      "RTL Support",
-      "Speed Performance",
-      "ApexCharts",
-      "Swiper Slider",
-      "Material Symbols Icons",
-      "RemixIcon",
-      "Table",
-      "File Uploader",
-      "Gallery",
-      "Calendar",
-      "Rich Text Editor",
-      "Date/Time Picker",
-      "Google Fonts",
-      "Google Maps",
-      "And many more…"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "ecommerce",
-        "label": "Ecommerce"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "personal",
-        "label": "Personal"
-      },
-      {
-        "value": "portfolio",
-        "label": "Portfolio"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 135,
-    "price": 39,
-    "popularity": 1084,
-    "appType": "admin-template",
-    "details": "1.envato.market/qzP7bO",
-    "category": "Tailwind",
-    "imageAlt": "taskora-project-management-tailwind-css-next-js-admin-dashboard-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/taskora-project-management-tailwind-css-next-js-admin-dashboard-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://taskora-dashboard.vercel.app/",
-    "templateName": "Taskora - Project Management Tailwind CSS Next JS Admin Dashboard Template",
-    "description": "Taskora is a modern and feature-rich Project Management Admin Dashboard Template built with Next.js 15.3.2 and Tailwind CSS. Designed to streamline project workflows, manage tasks, teams, and deadlines with ease, Taskora offers a clean UI, responsive layout, and highly extensible components that suit a wide variety of project and team management use cases. Whether you’re managing a startup team, freelance projects, or enterprise operations, Taskora adapts seamlessly to your needs.",
-    "features": [
-      "Built with Next.js 15.3.2 and React 19",
-      "Tailwind CSS and Tailwind Merge for utility-first styling",
-      "Modular components with clean architecture",
-      "Fully responsive and mobile-friendly layout",
-      "Dark and Light mode toggle (Next Themes)",
-      "Integrated calendar with react-day-picker and date-fns",
-      "Interactive charts with Recharts",
-      "Drag & drop task handling using react-dnd",
-      "Elegant notifications with Sonner",
-      "Carousel integration via Embla Carousel",
-      "Input OTP, Animated Heights, and more"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "blog",
-        "label": "Blog"
-      },
-      {
-        "value": "portfolio",
-        "label": "Portfolio"
-      },
-      {
-        "value": "personal",
-        "label": "Personal"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 136,
-    "price": 69,
-    "popularity": 1085,
-    "appType": "admin-template",
-    "details": "1.envato.market/3JGYxA",
-    "category": "Tailwind",
-    "imageAlt": "mamix-nextjs-app-router-typescript-tailwind-css-admin-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mamix-nextjs-app-router-typescript-tailwind-css-admin-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://nextjs.spruko.com/tailwind/app-router/mamix-ts/preview/dashboards/sales/",
-    "templateName": "Mamix - NextJS App Router Typescript Tailwind Css Admin Template",
-    "description": "Mamix next js with typescript is a premier nextjs tailwind admin dashboard template meticulously crafted for modern web developers and designers. It offers a seamless, responsive user experience, making it ideal for managing and visualizing data in web applications. Combining nextjs with the flexibility of tailwind, mamix tailwind nextjs ui admin dashboard delivers a top-tier solution for sophisticated admin panels and more. Mamix next js admin dashboard template offers an exceptional user experience on all devices. Built with tailwind css in next js framework, it features a responsive layout that adapts seamlessly to any screen size, ensuring smooth performance, high speed, and flexibility for developers and users alike.",
-    "features": [
-      "240+ Nextjs Pages",
-      "60+ Integrated Plugins",
-      "16 Dashboard Variations",
-      "Vertical & Horizontal",
-      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
-      "3 Types of Charts",
-      "React-Bootstrap Framework",
-      "Well Commented Code",
-      "Grid JS Tables",
-      "Filepond",
-      "Dropzone",
-      "Easy to Customize",
-      "Neat, Clean, and Simple Design",
-      "Message Chat",
-      "3 Types of Maps",
-      "Timeline",
-      "Message Chat",
-      "Google Fonts",
-      "Mail Inbox",
-      "6 Types of Icon Sets",
-      "Lock Screen Pages",
-      "Error Pages",
-      "Shopping Cart",
-      "Checkout",
-      "Order Details",
-      "Wishlist",
-      "Classified Pages",
-      "Domain Pages",
-      "Marketplace Pages",
-      "Real Estate Pages",
-      "Project Pages",
-      "Task",
-      "Jobs",
-      "Profile Settings",
-      "Form Advanced",
-      "Form Wizards",
-      "Media Player",
-      "Ribbons",
-      "Tour",
-      "Professional Company Support",
-      "Regular Updates",
-      "Form Elements",
-      "Image Gallery",
-      "Under Construction Page",
-      "Invoice Page",
-      "Calendar",
-      "Pricing Tables",
-      "Reusable Components",
-      "Very Easy to Create Your Own Site",
-      "More Widgets",
-      "W3C Validated"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "ecommerce",
-        "label": "Ecommerce"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 137,
-    "price": 29,
-    "popularity": 1086,
-    "appType": "admin-template",
-    "details": "1.envato.market/6yJz6N",
-    "category": "Tailwind",
-    "imageAlt": "evank-tailwind-css-nextjs-admin-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/evank-tailwind-css-nextjs-admin-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://evank.prexius.com/",
-    "templateName": "Evank - Tailwind CSS Next.js Admin Template",
-    "description": "Evank – Tailwind Next.js Personal Finance Admin Template is a sleek and modern dashboard solution designed to help users efficiently manage personal finances with clarity and style. Built with Next.js and Tailwind CSS, Evank ensures top-notch performance, responsiveness, and scalability. The template features an elegant light and dark mode, allowing users to switch themes seamlessly for an optimal viewing experience. With its clean UI components, intuitive navigation, and fully customizable design system, Evank empowers developers to quickly build professional-grade finance management applications, dashboards, or SaaS platforms with minimal effort.",
-    "features": [
-      "2 Theme Colors",
-      "Dark & Light Sidebar",
-      "45+ Page Templates",
-      "150+ UI Components",
-      "Tailwind CSS",
-      "2000+ Font Icons",
-      "Fully Responsive",
-      "Easy to Customize",
-      "Rechart Options",
-      "Lots of Table Examples",
-      "Regular Updates",
-      "Detailed Documentation"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "personal",
-        "label": "Personal"
-      },
-      {
-        "value": "blog",
-        "label": "Blog"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 138,
-    "price": 71,
-    "popularity": 1087,
-    "appType": "admin-template",
-    "details": "1.envato.market/RGk3M7",
-    "category": "Tailwind",
-    "imageAlt": "xintra-nextjs-page-router-typescript-tailwind-css-admin-dashboard-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/xintra-nextjs-page-router-typescript-tailwind-css-admin-dashboard-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://nextjs.spruko.com/tailwind/page/xintra-ts/preview/components/dashboard/sales/",
-    "templateName": "Xintra - NextJS Page Router Typescript Tailwind CSS Admin Dashboard Template",
-    "description": "Xintra tailwind css nextjs ui is a cutting-edge nextjs typescript admin dashboard template, designed specifically for modern web developers and designers. This nextjs firebase setup provides a seamless, responsive experience, making it the perfect choice for managing and visualizing data within web applications. By combining the power of nextjs framework with the flexibility of typescript, xintra type script nextjs tailwind admin template offers a high-performance solution for building sophisticated admin panels and much more.",
-    "features": [
-      "180+ Nextjs Pages",
-      "60+ Integrated Plugins",
-      "16 Dashboard Variations",
-      "Vertical & Horizontal Layouts",
-      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
-      "3 Types of Charts",
-      "TailwindCSS Framework",
-      "Well Commented Code",
-      "Grid JS Tables",
-      "Filepond",
-      "Dropzone",
-      "Easy to Customize",
-      "Neat, Clean, and Simple Design",
-      "Message Chat",
-      "2 Types of Maps",
-      "TimeLine",
-      "Google Fonts",
-      "Mail Inbox",
-      "6 Types of Icon Sets",
-      "Lock Screen Pages",
-      "Error Pages",
-      "Shopping Cart",
-      "Checkout",
-      "Order Details",
-      "Wishlist",
-      "Project Pages",
-      "Task",
-      "Jobs",
-      "Profile Settings",
-      "Form Advanced",
-      "Form Wizards",
-      "Media Player",
-      "Ribbons",
-      "Tour",
-      "Professional Company Support",
-      "Regular Updates",
-      "Form Elements",
-      "Image Gallery",
-      "Under Construction Page",
-      "Invoice Page",
-      "Calendar",
-      "Pricing Tables",
-      "Reusable Components",
-      "Very Easy to Create Your Own Site",
-      "More Widgets",
-      "W3C Validated"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "ecommerce",
-        "label": "Ecommerce"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
-      },
-      {
-        "value": "blog",
-        "label": "Blog"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 139,
-    "price": 29,
-    "popularity": 1088,
-    "appType": "admin-template",
-    "details": "1.envato.market/jevAka",
-    "category": "NextJs",
-    "imageAlt": "enfix-shadcn-tailwind-nextjs-finance-admin-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/enfix-shadcn-tailwind-nextjs-finance-admin-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://enfix.prexius.com/",
-    "templateName": "Enfix - ShadCN Tailwind Next.js Finance Admin Template",
-    "description": "Money Management refers to the process of managing an individual’s or a household’s financial resources with the goal of achieving financial stability and meeting both short-term and long-term financial objectives.",
-    "features": [
-      "2 Theme Colors",
-      "Dark & Light Sidebar",
-      "45+ Page Templates",
-      "150+ UI Components",
-      "Tailwind CSS",
-      "2000+ Font Icons",
-      "Fully Responsive",
-      "Easy to Customize",
-      "Rechart Options",
-      "Lots of Table Examples",
-      "Regular Updates",
-      "Detailed Documentation"
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "personal",
-        "label": "Personal"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
-      },
-      {
-        "value": "blog",
-        "label": "Blog"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  }
+        "id": 132,
+        "price": 11,
+        "popularity": 1081,
+        "appType": "admin-template",
+        "details": "1.envato.market/PO7oNM",
+        "category": "Tailwind",
+        "imageAlt": "nextsaas-admin-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextsaas-admin-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://next-saas-next.vercel.app/",
+        "templateName": "NextSaaS | SaaS, Software, Startup Next.js Template",
+        "description": "NextSaaS is a modern Tailwind 4 and NextJS 16 template designed for SaaS, software, and startup websites. It offers clean, responsive layouts, fast performance, and developer-friendly code—making it easy to launch a professional online presence quickly.",
+        "features": [
+            "35 Unique Home pages, including Dark and Light versions",
+            "Tailwind 4, NextJs 15 & React 19 for Faster Development",
+            "TypeScript Support",
+            "100+ Total pages including Dark and Light",
+            "03 Blog Pages",
+            "Next Generation Animation with GSAP",
+            "Award-winning design concepts",
+            "GSAP Animation Included",
+            "Lenis smooth Scroll",
+            "Scroll Animation Included",
+            "Unique Hover Animations",
+            "Based on Tailwind and NextJs",
+            "100% Responsive",
+            "Tested on real devices",
+            "Custom Icon Library",
+            "Flat, modern, and clean design",
+            "Retina Ready",
+            "SEO on-page optimized",
+            "UX ready",
+            "Touch Friendly",
+            "W3C Validate Code",
+            "Mega Menu",
+            "Clean and commented code",
+            "Gradient Image backgrounds",
+            "Smooth Transition Effects",
+            "All Modern Browser Compatible",
+            "24/7 Awesome Support",
+            "Detailed documentation"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "blog",
+                "label": "Blog"
+            },
+            {
+                "value": "personal",
+                "label": "Personal"
+            },
+            {
+                "value": "corporate",
+                "label": "Corporate"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "price": 9,
+        "popularity": 1082,
+        "appType": "admin-template",
+        "details": "1.envato.market/554KB3",
+        "category": "Tailwind",
+        "imageAlt": "wowdash-admin-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/wowdash-admin-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://wowdash-nextjs-shadcn.vercel.app/dashboard",
+        "templateName": "WowDash - Tailwind & Nextjs Admin Dashboard with shadcn UI",
+        "description": "WowDash is a powerful, flexible, and developer-centric Admin Dashboard Template built using Next.js, Tailwind CSS, and shadcn UI. Whether you’re building analytics platforms, SaaS apps, eCommerce backends, or internal tools, WowDash provides everything you need to get started quickly with modern, reusable UI components and a clean codebase. Designed for scalability and speed, WowDash offers multiple layouts, color schemes, dashboards, and prebuilt applications to accelerate your development process. With full responsiveness and modular architecture, it’s a perfect fit for both startup projects and large enterprise applications.",
+        "features": [
+            "Built with Tailwind & Nextjs",
+            "SASS Supported",
+            "Tailwind & Nextjs Admin Dashboard with shadcn UI",
+            "Style With SASS",
+            "AI & CRM & eCommerce & Cryptocurrency & Investment",
+            "Light & Dark& Box templete",
+            "Style With SASS",
+            "Theme Customizer",
+            "Bookmark Support",
+            "Multiple Language Support",
+            "Attractive Dashboard",
+            "Next Hooks",
+            "No Nextjs",
+            "E-commerce Section",
+            "Image-Crop",
+            "Perfect-Scrollbar",
+            "Chart.js",
+            "Apex Charts",
+            "Todo Apps",
+            "Calender",
+            "Mailbox",
+            "Events, blog and invoice pages",
+            "Chat Apss",
+            "Menu Click ,Menu Hover ,icon click and icon Hover",
+            "Responsive Dashboard",
+            "5 types of chart",
+            "Developer Friendly Commented Code",
+            "Multiple Color Options",
+            "Fully Responsive layout",
+            "Using Webpack",
+            "Using Gulp",
+            "Latest Nextjs",
+            "Font Awesome",
+            "Detailed Documentation",
+            "Clean & Well Commended Codes",
+            "W3C Validated Code",
+            "Many Charts Options",
+            "Multi File upload",
+            "Range Slider",
+            "Data Table",
+            "Google Fonts",
+            "Form Wizards",
+            "Chat Application",
+            "All Modern Browser Supported.",
+            "Well Organized and Easy to Customize",
+            "Free and Lifetime Updates",
+            "24/7 Great Support !!",
+            "And many more…"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "ecommerce",
+                "label": "Ecommerce"
+            },
+            {
+                "value": "business",
+                "label": "Business"
+            },
+            {
+                "value": "personal",
+                "label": "Personal"
+            },
+            {
+                "value": "portfolio",
+                "label": "Portfolio"
+            },
+            {
+                "value": "agency",
+                "label": "Agency"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "price": 29,
+        "popularity": 1083,
+        "appType": "admin-template",
+        "details": "1.envato.market/9LK2j0",
+        "category": "Tailwind",
+        "imageAlt": "trezo-admin-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/trezo-admin-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://trezo-bs.envytheme.com/dashboard",
+        "templateName": "Trezo - Tailwind, Material, Bootstrap, React, Angular, Vue, Laravel & .NET Admin Dashboard Template",
+        "description": "Trezo is a modern, multipurpose admin dashboard template and landing page kit built for real-world apps. It supports today’s most popular stacks—React, Next.js, Angular, Vue/Nuxt, Laravel, ASP.NET Core, Django, Rails, Symfony, Yii2, Svelte, CakePHP, Golang (Gin), plus HTML + Bootstrap and Tailwind CSS.",
+        "features": [
+            "Built on Bootstrap (v5.x)",
+            "No jQuery Dependency",
+            "npm",
+            "avaScript",
+            "Built with Sass",
+            "Light/Dark Mode",
+            "RTL Support",
+            "Speed Performance",
+            "ApexCharts",
+            "Swiper Slider",
+            "Material Symbols Icons",
+            "RemixIcon",
+            "Table",
+            "File Uploader",
+            "Gallery",
+            "Calendar",
+            "Rich Text Editor",
+            "Date/Time Picker",
+            "Google Fonts",
+            "Google Maps",
+            "And many more…"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "ecommerce",
+                "label": "Ecommerce"
+            },
+            {
+                "value": "business",
+                "label": "Business"
+            },
+            {
+                "value": "personal",
+                "label": "Personal"
+            },
+            {
+                "value": "portfolio",
+                "label": "Portfolio"
+            },
+            {
+                "value": "agency",
+                "label": "Agency"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "price": 39,
+        "popularity": 1084,
+        "appType": "admin-template",
+        "details": "1.envato.market/qzP7bO",
+        "category": "Tailwind",
+        "imageAlt": "taskora-project-management-tailwind-css-next-js-admin-dashboard-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/taskora-project-management-tailwind-css-next-js-admin-dashboard-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://taskora-dashboard.vercel.app/",
+        "templateName": "Taskora - Project Management Tailwind CSS Next JS Admin Dashboard Template",
+        "description": "Taskora is a modern and feature-rich Project Management Admin Dashboard Template built with Next.js 15.3.2 and Tailwind CSS. Designed to streamline project workflows, manage tasks, teams, and deadlines with ease, Taskora offers a clean UI, responsive layout, and highly extensible components that suit a wide variety of project and team management use cases. Whether you’re managing a startup team, freelance projects, or enterprise operations, Taskora adapts seamlessly to your needs.",
+        "features": [
+            "Built with Next.js 15.3.2 and React 19",
+            "Tailwind CSS and Tailwind Merge for utility-first styling",
+            "Modular components with clean architecture",
+            "Fully responsive and mobile-friendly layout",
+            "Dark and Light mode toggle (Next Themes)",
+            "Integrated calendar with react-day-picker and date-fns",
+            "Interactive charts with Recharts",
+            "Drag & drop task handling using react-dnd",
+            "Elegant notifications with Sonner",
+            "Carousel integration via Embla Carousel",
+            "Input OTP, Animated Heights, and more"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "blog",
+                "label": "Blog"
+            },
+            {
+                "value": "portfolio",
+                "label": "Portfolio"
+            },
+            {
+                "value": "personal",
+                "label": "Personal"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "price": 69,
+        "popularity": 1085,
+        "appType": "admin-template",
+        "details": "1.envato.market/3JGYxA",
+        "category": "Tailwind",
+        "imageAlt": "mamix-nextjs-app-router-typescript-tailwind-css-admin-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/mamix-nextjs-app-router-typescript-tailwind-css-admin-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://nextjs.spruko.com/tailwind/app-router/mamix-ts/preview/dashboards/sales/",
+        "templateName": "Mamix - NextJS App Router Typescript Tailwind Css Admin Template",
+        "description": "Mamix next js with typescript is a premier nextjs tailwind admin dashboard template meticulously crafted for modern web developers and designers. It offers a seamless, responsive user experience, making it ideal for managing and visualizing data in web applications. Combining nextjs with the flexibility of tailwind, mamix tailwind nextjs ui admin dashboard delivers a top-tier solution for sophisticated admin panels and more. Mamix next js admin dashboard template offers an exceptional user experience on all devices. Built with tailwind css in next js framework, it features a responsive layout that adapts seamlessly to any screen size, ensuring smooth performance, high speed, and flexibility for developers and users alike.",
+        "features": [
+            "240+ Nextjs Pages",
+            "60+ Integrated Plugins",
+            "16 Dashboard Variations",
+            "Vertical & Horizontal",
+            "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+            "3 Types of Charts",
+            "React-Bootstrap Framework",
+            "Well Commented Code",
+            "Grid JS Tables",
+            "Filepond",
+            "Dropzone",
+            "Easy to Customize",
+            "Neat, Clean, and Simple Design",
+            "Message Chat",
+            "3 Types of Maps",
+            "Timeline",
+            "Message Chat",
+            "Google Fonts",
+            "Mail Inbox",
+            "6 Types of Icon Sets",
+            "Lock Screen Pages",
+            "Error Pages",
+            "Shopping Cart",
+            "Checkout",
+            "Order Details",
+            "Wishlist",
+            "Classified Pages",
+            "Domain Pages",
+            "Marketplace Pages",
+            "Real Estate Pages",
+            "Project Pages",
+            "Task",
+            "Jobs",
+            "Profile Settings",
+            "Form Advanced",
+            "Form Wizards",
+            "Media Player",
+            "Ribbons",
+            "Tour",
+            "Professional Company Support",
+            "Regular Updates",
+            "Form Elements",
+            "Image Gallery",
+            "Under Construction Page",
+            "Invoice Page",
+            "Calendar",
+            "Pricing Tables",
+            "Reusable Components",
+            "Very Easy to Create Your Own Site",
+            "More Widgets",
+            "W3C Validated"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "business",
+                "label": "Business"
+            },
+            {
+                "value": "ecommerce",
+                "label": "Ecommerce"
+            },
+            {
+                "value": "agency",
+                "label": "Agency"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "price": 29,
+        "popularity": 1086,
+        "appType": "admin-template",
+        "details": "1.envato.market/6yJz6N",
+        "category": "Tailwind",
+        "imageAlt": "evank-tailwind-css-nextjs-admin-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/evank-tailwind-css-nextjs-admin-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://evank.prexius.com/",
+        "templateName": "Evank - Tailwind CSS Next.js Admin Template",
+        "description": "Evank – Tailwind Next.js Personal Finance Admin Template is a sleek and modern dashboard solution designed to help users efficiently manage personal finances with clarity and style. Built with Next.js and Tailwind CSS, Evank ensures top-notch performance, responsiveness, and scalability. The template features an elegant light and dark mode, allowing users to switch themes seamlessly for an optimal viewing experience. With its clean UI components, intuitive navigation, and fully customizable design system, Evank empowers developers to quickly build professional-grade finance management applications, dashboards, or SaaS platforms with minimal effort.",
+        "features": [
+            "2 Theme Colors",
+            "Dark & Light Sidebar",
+            "45+ Page Templates",
+            "150+ UI Components",
+            "Tailwind CSS",
+            "2000+ Font Icons",
+            "Fully Responsive",
+            "Easy to Customize",
+            "Rechart Options",
+            "Lots of Table Examples",
+            "Regular Updates",
+            "Detailed Documentation"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "business",
+                "label": "Business"
+            },
+            {
+                "value": "personal",
+                "label": "Personal"
+            },
+            {
+                "value": "blog",
+                "label": "Blog"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "price": 71,
+        "popularity": 1087,
+        "appType": "admin-template",
+        "details": "1.envato.market/RGk3M7",
+        "category": "Tailwind",
+        "imageAlt": "xintra-nextjs-page-router-typescript-tailwind-css-admin-dashboard-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/xintra-nextjs-page-router-typescript-tailwind-css-admin-dashboard-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://nextjs.spruko.com/tailwind/page/xintra-ts/preview/components/dashboard/sales/",
+        "templateName": "Xintra - NextJS Page Router Typescript Tailwind CSS Admin Dashboard Template",
+        "description": "Xintra tailwind css nextjs ui is a cutting-edge nextjs typescript admin dashboard template, designed specifically for modern web developers and designers. This nextjs firebase setup provides a seamless, responsive experience, making it the perfect choice for managing and visualizing data within web applications. By combining the power of nextjs framework with the flexibility of typescript, xintra type script nextjs tailwind admin template offers a high-performance solution for building sophisticated admin panels and much more.",
+        "features": [
+            "180+ Nextjs Pages",
+            "60+ Integrated Plugins",
+            "16 Dashboard Variations",
+            "Vertical & Horizontal Layouts",
+            "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+            "3 Types of Charts",
+            "TailwindCSS Framework",
+            "Well Commented Code",
+            "Grid JS Tables",
+            "Filepond",
+            "Dropzone",
+            "Easy to Customize",
+            "Neat, Clean, and Simple Design",
+            "Message Chat",
+            "2 Types of Maps",
+            "TimeLine",
+            "Google Fonts",
+            "Mail Inbox",
+            "6 Types of Icon Sets",
+            "Lock Screen Pages",
+            "Error Pages",
+            "Shopping Cart",
+            "Checkout",
+            "Order Details",
+            "Wishlist",
+            "Project Pages",
+            "Task",
+            "Jobs",
+            "Profile Settings",
+            "Form Advanced",
+            "Form Wizards",
+            "Media Player",
+            "Ribbons",
+            "Tour",
+            "Professional Company Support",
+            "Regular Updates",
+            "Form Elements",
+            "Image Gallery",
+            "Under Construction Page",
+            "Invoice Page",
+            "Calendar",
+            "Pricing Tables",
+            "Reusable Components",
+            "Very Easy to Create Your Own Site",
+            "More Widgets",
+            "W3C Validated"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "business",
+                "label": "Business"
+            },
+            {
+                "value": "ecommerce",
+                "label": "Ecommerce"
+            },
+            {
+                "value": "agency",
+                "label": "Agency"
+            },
+            {
+                "value": "blog",
+                "label": "Blog"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "price": 29,
+        "popularity": 1088,
+        "appType": "admin-template",
+        "details": "1.envato.market/jevAka",
+        "category": "NextJs",
+        "imageAlt": "enfix-shadcn-tailwind-nextjs-finance-admin-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/enfix-shadcn-tailwind-nextjs-finance-admin-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://enfix.prexius.com/",
+        "templateName": "Enfix - ShadCN Tailwind Next.js Finance Admin Template",
+        "description": "Money Management refers to the process of managing an individual’s or a household’s financial resources with the goal of achieving financial stability and meeting both short-term and long-term financial objectives.",
+        "features": [
+            "2 Theme Colors",
+            "Dark & Light Sidebar",
+            "45+ Page Templates",
+            "150+ UI Components",
+            "Tailwind CSS",
+            "2000+ Font Icons",
+            "Fully Responsive",
+            "Easy to Customize",
+            "Rechart Options",
+            "Lots of Table Examples",
+            "Regular Updates",
+            "Detailed Documentation"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "personal",
+                "label": "Personal"
+            },
+            {
+                "value": "agency",
+                "label": "Agency"
+            },
+            {
+                "value": "blog",
+                "label": "Blog"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "price": 19,
+        "popularity": 1089,
+        "appType": "admin-template",
+        "details": "1.envato.market/VxqXO6",
+        "category": "Tailwind",
+        "imageAlt": "wowdash-codeigniter-admin-dashboard-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/wowdash-codeigniter-admin-dashboard-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://wow-dash.com/demo/index.html",
+        "templateName": "WowDash - Tailwind, Bootstrap, React, Next, Node JS, Django, Php, Laravel ASP.net Admin Dashboard",
+        "description": "WowDash, developed by Wowtheme7, is a next-generation, multipurpose admin dashboard template that offers unparalleled flexibility and performance. Whether you’re a developer, startup, or enterprise, WowDash provides the perfect foundation for creating feature-rich, scalable web applications across diverse industries. From E-commerce to CRM, Analytics, Education LMS, and beyond, WowDash is the all-in-one solution for modern businesses.",
+        "features": [
+            "Bootstrap 5x",
+            "Style With SASS",
+            "11+ Different Dashboard",
+            "AI & CRM & eCommerce & Cryptocurrency & Investment",
+            "Light & Dark& Box templete",
+            "Light & Dark& Box templete",
+            "Multiple Color Options",
+            "Fully Responsive layout",
+            "Using Webpack",
+            "Using Gulp",
+            "Latest Jquery",
+            "Font Awesome",
+            "Detailed Documentation",
+            "Clean & Well Commended Codes",
+            "W3C Validated Code",
+            "Many Charts Options",
+            "Multi File upload",
+            "Range Slider",
+            "Data Table",
+            "Google Fonts",
+            "Form Wizards",
+            "Chat Application",
+            "All Modern Browser Supported.",
+            "Well Organized and Easy to Customize",
+            "Free and Lifetime Updates",
+            "24/7 Great Support !!",
+            "And many more…"
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "personal",
+                "label": "Personal"
+            },
+            {
+                "value": "blog",
+                "label": "Blog"
+            },
+            {
+                "value": "agency",
+                "label": "Agency"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    }
 ]

@@ -5651,5 +5651,71 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 145,
+    "price": 19,
+    "popularity": 1122,
+    "appType": "admin-template",
+    "details": "1.envato.market/VxqXO6",
+    "category": "Vue",
+    "imageAlt": "wowdash-codeigniter-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/wowdash-codeigniter-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://wow-dash.com/demo/index.html",
+    "templateName": "WowDash - Tailwind, Bootstrap, React, Next, Node JS, Django, Php, Laravel ASP.net Admin Dashboard",
+    "description": "WowDash, developed by Wowtheme7, is a next-generation, multipurpose admin dashboard template that offers unparalleled flexibility and performance. Whether you’re a developer, startup, or enterprise, WowDash provides the perfect foundation for creating feature-rich, scalable web applications across diverse industries. From E-commerce to CRM, Analytics, Education LMS, and beyond, WowDash is the all-in-one solution for modern businesses.",
+    "features": [
+      "Bootstrap 5x",
+      "Style With SASS",
+      "11+ Different Dashboard",
+      "AI & CRM & eCommerce & Cryptocurrency & Investment",
+      "Light & Dark& Box templete",
+      "Light & Dark& Box templete",
+      "Multiple Color Options",
+      "Fully Responsive layout",
+      "Using Webpack",
+      "Using Gulp",
+      "Latest Jquery",
+      "Font Awesome",
+      "Detailed Documentation",
+      "Clean & Well Commended Codes",
+      "W3C Validated Code",
+      "Many Charts Options",
+      "Multi File upload",
+      "Range Slider",
+      "Data Table",
+      "Google Fonts",
+      "Form Wizards",
+      "Chat Application",
+      "All Modern Browser Supported.",
+      "Well Organized and Easy to Customize",
+      "Free and Lifetime Updates",
+      "24/7 Great Support !!",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
