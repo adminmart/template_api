@@ -11721,5 +11721,67 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 290,
+    "price": 14,
+    "popularity": 1229,
+    "appType": "admin-template",
+    "details": "1.envato.market/Z69g5K",
+    "category": "NextJs",
+    "imageAlt": "raadmin-next-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/raadmin-next-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://ra-admin-next.vercel.app/dashboard/ecommerce",
+    "templateName": "Ra-admin Next JS Admin Dashboard Template",
+    "description": "Ra-Admin Next JS Admin Dashboard Template is a modern, high-performance administrative interface built with Next.js, designed to deliver a clean, intuitive, and scalable management experience. Tailored for developers and businesses, it offers a responsive layout, reusable components, and seamless integration with popular APIs and backend technologies. With its optimized architecture, advanced UI elements, and customizable design system, Ra-Admin ensures efficient data handling, faster development cycles, and a polished user experience across all devices. Perfect for SaaS platforms, internal tools, and enterprise applications, it simplifies dashboard creation while maintaining professional quality and robust functionality.",
+    "features": [
+      "Using NextJs",
+      "4 Different Dashboard",
+      "SCSS Used",
+      "Calender",
+      "Invoice",
+      "Kanban Board",
+      "Profile App",
+      "Timeline App",
+      "FAQ App",
+      "Pricing App",
+      "Gallery App",
+      "Team App",
+      "Chat App",
+      "E-shop App",
+      "Project App",
+      "To-do App",
+      "File manager App",
+      "Effortless Icon Code Copying",
+      "Your Ultimate Cheatsheet",
+      "Light & Dark",
+      "Fully Responsive layout",
+      "Detailed Documentation",
+      "Clean & Well Commended Codes"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
