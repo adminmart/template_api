@@ -11864,5 +11864,91 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 292,
+    "price": 19,
+    "popularity": 1231,
+    "appType": "admin-template",
+    "details": "1.envato.market/jeoP3n",
+    "category": "NextJs",
+    "imageAlt": "wowdash-next-js-admin-dashboard-template-multipurpose",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/wowdash-next-js-admin-dashboard-template-multipurpose.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.wowdash.wowtheme7.com/index-1",
+    "templateName": "WowDash - Next JS - Admin Dashboard Template Multipurpose",
+    "description": "WowDash is a modern, responsive, and fully customizable admin dashboard template built with Next JS & Bootstrap 5. It is designed to cater to a wide range of web applications, including admin panels, project management systems, CRM, CMS, and e-commerce dashboards. With its clean design and extensive features, WowDash provides a robust foundation for any backend application.",
+    "features": [
+      "Built with Next JS",
+      "SASS Supported",
+      "Bootstrap 5x",
+      "Style With SASS",
+      "AI & CRM & eCommerce & Cryptocurrency & Investment",
+      "Light & Dark & Box templete",
+      "Theme Customizer",
+      "Bookmark Support",
+      "Multiple Language Support",
+      "Attractive Dashboard",
+      "Next Hooks",
+      "No Jquery",
+      "E-commerce Section",
+      "Image-Crop",
+      "Perfect-Scrollbar",
+      "Chart.js",
+      "Apex Charts",
+      "Todo Apps",
+      "Calender",
+      "Mailbox",
+      "Events, blog and invoice pages",
+      "Chat Apps",
+      "Menu Click, Menu Hover, icon click and icon Hover",
+      "Responsive Bootstrap 5 Framework",
+      "5 types of chart",
+      "Developer Friendly Commented Code",
+      "Multiple Color Options",
+      "Fully Responsive layout",
+      "Using Webpack",
+      "Using Gulp",
+      "Latest Jquery",
+      "Font Awesome",
+      "Detailed Documentation",
+      "Clean & Well Commented Codes",
+      "W3C Validated Code",
+      "Many Charts Options",
+      "Multi File upload",
+      "Range Slider",
+      "Data Table",
+      "Google Fonts",
+      "Form Wizards",
+      "Chat Application",
+      "All Modern Browser Supported.",
+      "Well Organized and Easy to Customize",
+      "Free and Lifetime Updates",
+      "24/7 Great Support !!",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

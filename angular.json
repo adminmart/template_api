@@ -4805,5 +4805,116 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 236,
+    "price": 29,
+    "popularity": 1123,
+    "appType": "admin-template",
+    "details": "1.envato.market/QjmBXo",
+    "category": "Angular",
+    "imageAlt": "greeva-angular-19-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/greeva-angular-19-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.coderthemes.com/greeva-angular/index",
+    "templateName": "Greeva - Angular 19 Admin & Dashboard Template",
+    "description": "Greeva is a premium admin template crafted to simplify web development. Built with Angular 19x, Bootstrap 5 and modern web technologies like HTML5 and CSS3, this template is fully responsive and highly customizable. Designed with precision, Greeva features a clean and intuitive interface that effortlessly adapts to any device or browser, making it a versatile choice for any project.",
+    "features": [
+      [
+        "Built with Angular 19x",
+        "Created using Bootstrap v5.3.3",
+        "Easy customizations with extensive use of SCSS variables",
+        "Clean and Intuitive Design",
+        "Light & Dark Themes (Attribute based)",
+        "Fully responsive and works across all modern/supported browsers, and devices",
+        "Fully Documented",
+        "Rich form, widgets, validation and wizard",
+        "80+ Pages",
+        "200+ UI Components",
+        "30+ Charts(2 chart library)",
+        "5+ Built-in Apps",
+        "RTL & LTR Support",
+        "Error pages included",
+        "Stylish pricing page",
+        "5000+ Font Icons"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "price": 12,
+    "popularity": 1124,
+    "appType": "admin-template",
+    "details": "1.envato.market/6yrv5q",
+    "category": "Angular",
+    "imageAlt": "sliced-pro-aspnet-core-mvc-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sliced-pro-aspnet-core-mvc-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://srbthemes.kcubeinfotech.com/sliced-pro/html/index.html",
+    "templateName": "Sliced Pro - Angular, Laravel, ASP.Net Core, MVC & CakePHP Admin & Dashboard Template",
+    "description": "Sliced Pro is a powerful admin dashboard template built with Angular 18, Laravel 11, ASP.Net Core 8 & MVC 5, CakePHP. Sliced Pro comes with dozens of functional designs to help you get started quickly. With a wide range of beautiful styles and a full-screen layout, it’s a perfect fit for admin dashboards, CRM, CMS, LMS panels, etc. If you are looking to build your app to the next level – Sliced Pro is the way to go!",
+    "features": [
+      [
+        "Built with Angular 18, Laravel 11, ASP.Net Core 8 & MVC 5, CakePHP",
+        "Built with TailwindCSS v3.4.14",
+        "Light & Dark & RTL Supported",
+        "Multiple Layouts",
+        "Multiple Sidebar Color Option",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Font Based Icons",
+        "Email Application",
+        "Chat Application",
+        "Invoices pages",
+        "Contacts and Profile page",
+        "Tables",
+        "Forms",
+        "Google Fonts",
+        "Authorized Page",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
