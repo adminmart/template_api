@@ -11950,5 +11950,52 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 293,
+    "price": 29,
+    "popularity": 1232,
+    "appType": "admin-template",
+    "details": "1.envato.market/N9d2ZN",
+    "category": "NextJs",
+    "imageAlt": "hrm-crm-next-js-dashboard-template-manez",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hrm-crm-next-js-dashboard-template-manez.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://manez-dashboard.vercel.app/",
+    "templateName": "HRM & CRM Next js Dashboard Template | Manez",
+    "description": "Manez is a fully featured HRM & CRM dashboard template powered by the latest technologies like React, Next.js, TypeScript, Tailwind CSS, and Material UI. It’s aimed at optimizing human resource and customer relationship management. Manez fuses the beauty of modern design with incredible functionality. From Apexcharts for deep insight through visualizations of data to Material Tables, which enable fast and efficient handling of data, and FullCalendar for smooth scheduling, this template ensures fluent, trouble-free management of workforce and client interactions alike. Manez helps you to streamline operations, improve collaboration, and make data-driven decisions with ease, whether your business is big or small. Its responsive design and user-friendly interface make it the perfect solution to transform your HRM and CRM processes.",
+    "features": [
+      "Fully Responsive Layout",
+      "Light and Dark Themes",
+      "RTL Version Available",
+      "Multiple Dashboard Variations",
+      "Interactive Charts and Graphs",
+      "Data Tables with Sorting and Filtering",
+      "Customizable Widgets",
+      "Form Validation and Wizards",
+      "Calendar Integration",
+      "Support for RTL Languages",
+      "Well-documented Code",
+      "Regular Updates"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

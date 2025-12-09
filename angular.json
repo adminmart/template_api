@@ -4916,5 +4916,153 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 238,
+    "price": 19,
+    "popularity": 1125,
+    "appType": "admin-template",
+    "details": "1.envato.market/qzRObO",
+    "category": "Angular",
+    "imageAlt": "luxuria-angular-19-material-design-admin-dashboar-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/luxuria-angular-19-material-design-admin-dashboar-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://www.einfosoft.com/templates/admin/luxuria/source/light/#/dashboard/dashboard1",
+    "templateName": "Luxuria- Angular 20+ Hotel Admin Material Design Dashboard Template",
+    "description": "Luxuria is a powerful and feature-rich admin dashboard template specifically designed for hotel management systems. Built using Angular 20 and the Angular CLI, Luxuria leverages Material Design to provide a modern, clean, and user-friendly interface. Ideal for hotels, resorts, and hospitality businesses, Luxuria includes a comprehensive set of pre-designed components to streamline hotel operations and enhance customer experience.",
+    "features": [
+      [
+        "Built with Angular 20+ and Material Design 3",
+        "Role-Based Authentication",
+        "Standalone & Reusable Components",
+        "Separate Modules for Each Role",
+        "Page Access Restrictions",
+        "Integrated AuthGuard",
+        "No jQuery Required",
+        "AOT Compatible",
+        "SASS Styling",
+        "Fully RTL Template",
+        "Comprehensive Calendar Application",
+        "Task Management Application",
+        "Contacts Application",
+        "Material Design Components",
+        "Seven Pre-Defined Color Skins",
+        "Light, Dark, and RTL Templates",
+        "One-Click Theme Switches",
+        "Multi-Language Integration",
+        "Fully Responsive Layout",
+        "Validation Forms",
+        "Cross-Browser Support",
+        "Nested Routing",
+        "Multiple Color Options",
+        "Comprehensive Documentation",
+        "Clean and Well-Commented Code",
+        "W3C Validated Code",
+        "Five Different Chart Libraries",
+        "Google Fonts Integration",
+        "Form Wizards",
+        "Integrated Chat Application",
+        "And Many More Features"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "price": 59,
+    "popularity": 1126,
+    "appType": "admin-template",
+    "details": "1.envato.market/09rRbY",
+    "category": "Angular",
+    "imageAlt": "zynix-angular-ngbootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/zynix-angular-ngbootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/zynix/preview/sales",
+    "templateName": "Zynix - Ngbootstrap Angular Dashboard Template",
+    "description": "Zynix Angular Admin Panel is an advanced Angular ng-bootstrap dashboard template, crafted with precision for modern developers and designers. It provides a fully responsive and user-friendly interface, ideal for managing and visualizing data within an admin panel. By combining Angular’s powerful framework with ng-bootstrap’s flexibility, the Zynix Angular Admin Dashboard is a top-tier solution for building sophisticated admin panels and dashboards.",
+    "features": [
+      [
+        "180+ Angular Components",
+        "30+ Plugins",
+        "16 Dashboard Variations (Vertical & Horizontal)",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+        "3 Types of Charts",
+        "Angular Framework",
+        "Well Commented Code",
+        "Ngx Easy Tables",
+        "Filepond",
+        "Dropzone",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Timeline",
+        "Message Chat",
+        "Google Fonts",
+        "2 Type of Map",
+        "Mail Inbox",
+        "6 Types of Icon Sets",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Professional Company Support",
+        "Regular Updates",
+        "Very Easy to Create Your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
