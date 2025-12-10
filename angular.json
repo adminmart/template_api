@@ -5064,5 +5064,123 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 240,
+    "price": 21,
+    "popularity": 1127,
+    "appType": "admin-template",
+    "details": "1.envato.market/XmPK25",
+    "category": "Angular",
+    "imageAlt": "larkon-angular-ecommerce-management-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/larkon-angular-ecommerce-management-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://techzaa.in/larkon/admin/index.html",
+    "templateName": "Larkon - Angular 19 Ecommerce Management Admin & Dashboard Template",
+    "description": "Larkon – the Bootstrap 5 & Angular 19 Admin & Dashboard Template, a comprehensive premium admin UI Kit that harnesses Bootstrap v5.3.3 alongside modern web technologies like CSS, and JS. This premium Responsive Bootstrap 5 UI Kit & Admin Dashboard is designed to enhance your app development journey with captivating design and robust pre-built Bootstrap components, ensuring efficiency and finesse at every step. Larkon features numerous new design widgets, all fully responsive across all screens.",
+    "features": [
+      [
+        "Built with Bootstrap v5.3.3",
+        "Built with Angular 19",
+        "Clean and Modern Design",
+        "Light & Dark Versions (only CSS-based)",
+        "Fully responsive and works across all modern/supported browsers, and devices",
+        "Fully Documented",
+        "Rich form, validation, and wizard",
+        "85+ Pages",
+        "400+ UI Components",
+        "Charts Library",
+        "RTL & LTR Support",
+        "Error pages included",
+        "Stylish pricing page",
+        "Pre-built Layouts Features",
+        "Multiple Layouts",
+        "Light & Dark Modes",
+        "Light & Dark Topbars",
+        "Light & Dark Sidebars",
+        "LTR & RTL supported",
+        "Small Sidenav Layout (Condensed View)",
+        "Hover, Sidenav Menu",
+        "Hover Active Sidenav Menu",
+        "Hidden Sidebar Layout"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "price": 19,
+    "popularity": 1128,
+    "appType": "admin-template",
+    "details": "1.envato.market/GK62QB",
+    "category": "Angular",
+    "imageAlt": "chatzy-angular-18-chat-app-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chatzy-angular-18-chat-app-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/chatzy/messenger",
+    "templateName": "Chatzy – Angular 20 Chat App Template",
+    "description": "Chatzy is a chat template. Built with Bootstrap 5 Framework & angular 20, HTML5, SCSS/CSS and typescript. This template comes with around 30+ Screens . It has a huge collection of reusable UI components and integrated with latest plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Angular 20",
+        "Node 20.19.0 & Angular CLI: 20",
+        "Bootstrap 5x",
+        "Style With SASS",
+        "No Jquery",
+        "Type Script",
+        "RTL Supported",
+        "Light & Darktemplete",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commended Codes",
+        "Fully Customizable",
+        "Blog Page",
+        "Authentication Page",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

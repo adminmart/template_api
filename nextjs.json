@@ -11916,5 +11916,66 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 293,
+    "price": 25,
+    "popularity": 1232,
+    "appType": "admin-template",
+    "details": "1.envato.market/55exLD",
+    "category": "NextJs",
+    "imageAlt": "w3crm-react-next-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/w3crm-react-next-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://crm-next-gilt.vercel.app/",
+    "templateName": "W3CRM - React Next Js Admin Dashboard Template",
+    "description": "W3CRM is a modern and feature–rich React Next.js Admin Dashboard Template designed to simplify customer relationship management and business analytics. Built with a clean and scalable architecture, it delivers an intuitive interface that enhances productivity and decision-making. Equipped with dynamic dashboards, responsive layouts, modular UI components, and seamless navigation, W3CRM ensures a smooth user experience across devices. Its performance-optimized and developer-friendly codebase allows easy customization, integration, and scalability for startups, enterprises, or SaaS-based platforms. Whether you are managing leads, tracking customer activities, or visualizing sales data, W3CRM provides a professional, efficient, and user-centric CRM dashboard solution.",
+    "features": [
+      "Next 14",
+      "React",
+      "60+ Pages Available",
+      "Light Gallery",
+      "Light And Dark Mode",
+      "React Bootstrap",
+      "Swiper",
+      "High Speed Performance",
+      "Super Responsive for All Latest Browsers and Mobile Devices",
+      "SEO Optimized",
+      "Clean Coded",
+      "Free Google Web Fonts",
+      "Free Icon Fonts (Font Awesome)",
+      "Customizable & Organized",
+      "Table Sorting",
+      "React Table",
+      "Scroll",
+      "Toastify",
+      "Error Page Available",
+      "Wizard",
+      "Cross Browser Compatibility",
+      "Fast Supports",
+      "Counter",
+      "Modern, Professional Design",
+      "Flexible Layout",
+      "All Files are Well Commented"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
