@@ -5182,5 +5182,141 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 242,
+    "price": 79,
+    "popularity": 1129,
+    "appType": "admin-template",
+    "details": "1.envato.market/YR5mxe",
+    "category": "Angular",
+    "imageAlt": "xintra-angular-ngbootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/xintra-angular-ngbootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/xintra/preview/dashboards/sales",
+    "templateName": "Xintra - Angular Admin Dashboard Ngbootstrap Template",
+    "description": "Xintra angular dashboard is a premium angular ngbootstrap admin dashboard template expertly designed for modern web developers and designers. It offers a seamless, responsive angular admin panel user experience, making it the perfect tool for managing and visualizing data within angular dashboards templates. By combining the robust capabilities of angular with the flexibility of ngbootstrap, Xintra angular admin template offers a superior solution for building sophisticated admin panels, angular dashboards, and more.",
+    "features": [
+      [
+        "180+ Angular Pages",
+        "60+ Integrated Plugins",
+        "16 Dashboard Variations",
+        "Vertical & Horizontal Menu Layouts",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+        "3 Types of Charts",
+        "Ng-Bootstrap Framework",
+        "Well-Commented Code",
+        "Grid JS Tables",
+        "Filepond Integration",
+        "Dropzone Support",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Message Chat Feature",
+        "3 Types of Maps",
+        "Google Fonts",
+        "Mail Inbox",
+        "6 Types of Icon Sets",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Classified Pages",
+        "Domain Pages",
+        "Marketplace Pages",
+        "Real Estate Pages",
+        "Project Pages",
+        "Task Management",
+        "Job Listings",
+        "Profile Settings",
+        "Form Advanced Elements",
+        "Form Wizards",
+        "Media Player",
+        "Ribbons",
+        "Tour Guide Feature",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar Integration",
+        "Pricing Tables",
+        "Very Easy to Create Your Own Site",
+        "More Widgets",
+        "W3C Validated Code"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "price": 28,
+    "popularity": 1130,
+    "appType": "admin-template",
+    "details": "1.envato.market/QjqdL6",
+    "category": "Angular",
+    "imageAlt": "rizz-angular-18-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/rizz-angular-18-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://mannatthemes.com/rizz/default/index.html",
+    "templateName": "Rizz - Angular 19 Admin & Dashboard Template",
+    "description": "Rizz – Angular 19 is a fully featured responsive admin & dashboard template. We have used gulp-based build tools and SCSS variables-based modes along supported. You can quickly change the sidebar color or mode by changing data attributes only instead of changing huge lines of code. We have written complete minimal code for the beautiful UI. Rizz also support Dark and Light modes and many other options that help you in creating a new project.",
+    "features": [
+      [
+        "Dark, Light",
+        "Fully Responsive Design",
+        "W3C Validated HTML Pages",
+        "Gulp Based Workflow",
+        "Light-Weight, Clean & Commented Code",
+        "Easy to Customize with SCSS Variables",
+        "Drag & Drop",
+        "Well Organized Folder Structure",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities",
+        "2 Dashboards",
+        "Apps like Calendar, Chat, eCommerce, Projects, Tasks, Invoices, Email templates",
+        "Authentication & Error Pages",
+        "Profile, Settings, Invoice, Maintenance, Timeline, Pricing, Gallery, FAQ, Terms & Conditions, and many more Pages"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
