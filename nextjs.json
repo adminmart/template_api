@@ -12059,5 +12059,52 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 295,
+    "price": 21,
+    "popularity": 1234,
+    "appType": "admin-template",
+    "details": "1.envato.market/nXOKXR",
+    "category": "NextJs",
+    "imageAlt": "dosix-neaxt-js-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dosix-neaxt-js-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themesbrand.com/dosix/layouts/index.html",
+    "templateName": "Dosix - Next TS Admin & Dashboard Template",
+    "description": "Dosix is a fully responsive and premium React Next TS & Bootstrap 5.3.3 Admin & Dashboard Template. Whether you’re creating a Web App, Doctors Dashboards, Admin Panels, eCommerce App, Learning, CRM, or Real Estate then you are at the right place to buy a Dosix admin dashboard template. Fully responsive with RTL supported. You can quickly change the layout or mode by changing data attributes only instead of changing huge lines of code. We have written complete minimal code for the beautiful UI. Dosix has 5 types of layouts ( Vertical, Horizontal, Detached, Two Column, & Hovered ) with multiple options of layouts like Fixed & Scrollable. Also support Dark, Light, and RTL modes and many other options.",
+    "features": [
+      "Build with Bootstrap v5.3.3",
+      "Build with React Next TS",
+      "Dark, Light with RTL Supported",
+      "Multiple Layouts",
+      "Fully Responsive Design",
+      "W3C Validated HTML Pages",
+      "Light-Weight Code",
+      "Lifetime Free Updates",
+      "Unlimited Template Possibilities",
+      "Doctors Dashboard, Appointments, Calendar, Chat, Mailbox, eCommerce, Invoices Tickets, Real Estate Apps",
+      "Authentication & Error Pages",
+      "Profile, Settings, Pricing, Coming soon, Maintenance, Timeline, Privacy Policy, Term & Conditions, FAQ and many more Pages"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

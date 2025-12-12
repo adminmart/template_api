@@ -5318,5 +5318,113 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 244,
+    "price": 22,
+    "popularity": 1131,
+    "appType": "admin-template",
+    "details": "1.envato.market/WyjeXn",
+    "category": "Angular",
+    "imageAlt": "invoika-angular-18-invoice-management-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/invoika-angular-18-invoice-management-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.themesbrand.com/invoika/angular/v-light/pages",
+    "templateName": "Invoika - Angular 18 Invoice Management Admin Template",
+    "description": "Invoika Angular 18 is a complete Invoice management template with all the invoice features. You can create Invoices, products, users with taxes, payments with reports, transactions, and authentication pages designed with Bootstrap 5 and Angular 18 with fully responsive on all devices. Vertical and horizontal layouts with Dark, Light & RTL supported and multiple options for sidebars like ( Compact, Icon View & Small Hover View, Detached ).",
+    "features": [
+      [
+        "Build with Angular 18",
+        "Build with Bootstrap v5.3.3",
+        "HTML5 / SCSS",
+        "Easy to Customize with SCSS Variables",
+        "Light-Weight Code",
+        "Dark, Light with RTL Supported",
+        "Multi-language support",
+        "Fully Responsive Design",
+        "W3C Validated HTML Pages",
+        "Pure JavaScript ( no jQuery )",
+        "Auth Pages",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "price": 21,
+    "popularity": 1132,
+    "appType": "admin-template",
+    "details": "1.envato.market/mO6K4y",
+    "category": "Angular",
+    "imageAlt": "lahomes-angular-18-real-estate-management-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lahomes-angular-18-real-estate-management-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.techzaa.in/lahomes-angular/dashboards/analytics",
+    "templateName": "Lahomes - Angular 18 Real Estate Management Admin Dashboard Template",
+    "description": "Lahome – Angular 18 Real Estate Management Admin & Dashboard HTML Template, a comprehensive premium admin UI Kit that harnesses Bootstrap v5.3.3 and Angular 18. This premium Responsive Bootstrap 5 UI Kit & Admin Dashboard is designed to enhance your app development journey with captivating design and robust pre-built Bootstrap components, ensuring efficiency and finesse at every step. It features numerous new design widgets, all fully responsive across all screens.",
+    "features": [
+      [
+        "Built with Bootstrap v5.3.3",
+        "Built with Angular 18",
+        "Easy customization with extensive use of SCSS variables",
+        "Clean and Modern Design",
+        "Light & Dark Versions (only CSS-based)",
+        "Fully responsive and works across all modern/supported browsers, and devices",
+        "Easy development and tooling with Gulp workflow",
+        "Fully Documented",
+        "Rich form, validation, and wizard",
+        "85+ Pages",
+        "400+ UI Components",
+        "Charts Library",
+        "RTL & LTR Support",
+        "Error pages included",
+        "Stylish pricing page",
+        "Pre-built Layouts Features:",
+        "Multiple Layouts",
+        "Light & Dark Modes",
+        "Light & Dark Topbars",
+        "Light & Dark Sidebars",
+        "LTR & RTL supported",
+        "Small Sidenav Layout (Condensed View)",
+        "Hover, Sidenav Menu,",
+        "Hover Active Sidenav Menu",
+        "Hidden Sidebar Layout"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
