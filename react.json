@@ -12301,5 +12301,189 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 299,
+    "price": 21,
+    "popularity": 1238,
+    "appType": "admin-template",
+    "details": "1.envato.market/2aPGoG",
+    "category": "NextJs",
+    "imageAlt": "lahomes-nextjs-real-estate-management-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lahomes-nextjs-real-estate-management-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.techzaa.in/lahomes_n/dashboards/analytics",
+    "templateName": "Lahomes - Nextjs Real Estate Management Admin & Dashboard Template",
+    "description": "Lahome – React Nextjs 16 Real Estate Management Admin & Dashboard Template, a comprehensive premium admin UI Kit that harnesses Bootstrap v5.3.8 and Nextjs. This premium Responsive Bootstrap 5 UI Kit & Admin Dashboard is designed to enhance your app development journey with captivating design and robust pre-built Bootstrap components, ensuring efficiency and finesse at every step. It features numerous new design widgets, all fully responsive across all screens.",
+    "features": [
+      "Built with Nextjs 16",
+      "Built with Bootstrap v5.3.8",
+      "Easy customization with extensive use of SCSS variables",
+      "Clean and Modern Design",
+      "Light & Dark Versions (only CSS-based)",
+      "Fully responsive and works across all modern/supported browsers, and devices",
+      "Easy development and tooling with Gulp workflow",
+      "Fully Documented",
+      "Rich form, validation, and wizard",
+      "85+ Pages",
+      "400+ UI Components",
+      "Charts Library",
+      "RTL & LTR Support",
+      "Error pages included",
+      "Stylish pricing page",
+      "Pre-built Layouts Features:",
+      "Multiple Layouts",
+      "Light & Dark Modes",
+      "Light & Dark Topbars",
+      "Light & Dark Sidebars",
+      "LTR & RTL supported",
+      "Small Sidenav Layout (Condensed View)",
+      "Hover, Sidenav Menu,",
+      "Hover Active Sidenav Menu",
+      "Hidden Sidebar Layout"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "price": 35,
+    "popularity": 1239,
+    "appType": "admin-template",
+    "details": "1.envato.market/JK3g5e",
+    "category": "NextJs",
+    "imageAlt": "lucid-next-js-wailwind-css-admin-template-and-ui-kit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lucid-next-js-wailwind-css-admin-template-and-ui-kit.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://lucid-next.wrraptheme.com/",
+    "templateName": "LUCID - Next.js + Tailwind CSS Admin Dashboard Template and Ui Kit",
+    "description": "Lucid NextJs Admin Template is a popular open-source WebApp NextJs template for NextJs admin dashboards and admin panels. It’s a responsive Admin template, which is based on the NextJs JS + Tailwindcss framework. It utilizes all of the Tailwindcss components integrated with NextJs layout standards and re-styles many commonly used plugins to create a consistent design that can be used as a NextJs application.",
+    "features": [
+      "Responsive layout (desktops, tablets, mobile devices)",
+      "Tailwind css 3.4.1",
+      "Next Js",
+      "5+ Unique Themes",
+      "Dark version full support",
+      "5 Different App",
+      "40+ Inner Pages",
+      "Clean and Flat design",
+      "Customizable charts and graphs",
+      "Clean & Well Commented Codes",
+      "Using Functional Reusable Components",
+      "Two level submenu",
+      "FREE Lifetime Updates"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "price": 59,
+    "popularity": 1240,
+    "appType": "admin-template",
+    "details": "1.envato.market/GK6AA6",
+    "category": "NextJs",
+    "imageAlt": "nextjs-javacsript-approuter-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nextjs-javacsript-approuter-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app/spruha-js/preview/dashboard/",
+    "templateName": "Spruha - Javascript AppRouter Nextjs Admin Dashboard Template",
+    "description": "Spruha nextjs admin dashboard template is a premier meticulously crafted for modern web developers and designers. It offers a seamless, responsive user experience, making it ideal for managing and visualizing data in dashboard web applications. Combining nextjs admin dashboard with the flexibility of reactBootstrap, Spruha admin dashboard template delivers a top-tier solution for sophisticated user web admin panel template and best dashboards,and more.",
+    "features": [
+      "App Router (No Page Router)",
+      "150+ NextJs components",
+      "50+ Plugins",
+      "3 Dashboards Variations (Vertical & Horizontal)",
+      "Firebase Authentication",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "Responsive React Bootstrap Framework",
+      "Well Commented Code",
+      "Filepond",
+      "React Uploader",
+      "Easy to customize",
+      "Neat, clean, and simple design",
+      "TimeLine",
+      "Message Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "14 Types of Icon sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "User List",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
