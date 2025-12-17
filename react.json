@@ -12485,5 +12485,75 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 302,
+    "price": 19,
+    "popularity": 1241,
+    "appType": "admin-template",
+    "details": "1.envato.market/QjBYB3",
+    "category": "NextJs",
+    "imageAlt": "admiro-react-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/admiro-react-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://admiro-next.vercel.app/dashboard/default",
+    "templateName": "Admiro – React Nextjs Admin & Dashboard Template",
+    "description": "Admiro Admin is a full featured, multipurpose, premium Nextjs admin template built with Nextjs & Bootstrap 5 Framework.It has a huge collection of reusable UI components and integrated with latest plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      "Devloped with Next 15.1.6",
+      "Node 22.13.1",
+      "React-redux-toolkit",
+      "Using TypeScript",
+      "Style With SASS",
+      "Theme CustomizerQuick Search",
+      "Bookmark Support",
+      "Multiple Language Support",
+      "Attractive Dashboard",
+      "React Hooks",
+      "No Jquery",
+      "E-commerce Section",
+      "Image-Crop",
+      "Perfect-Scrollbar",
+      "Chart.js",
+      "Apex Charts",
+      "3 Different Dashboard",
+      "Light, Dark, Box Templete",
+      "Fully Responsive Layout",
+      "Font Awesome",
+      "Detailed Documentation",
+      "Clean & Well Commended Codes",
+      "W3C Validated Code",
+      "Many Charts Options",
+      "Multi File Upload",
+      "Range Slider",
+      "Data Table",
+      "Google Fonts",
+      "Form Wizards",
+      "Chat Application",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

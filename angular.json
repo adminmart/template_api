@@ -5478,5 +5478,109 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 247,
+    "price": 21,
+    "popularity": 1134,
+    "appType": "admin-template",
+    "details": "1.envato.market/vPXDGv",
+    "category": "Angular",
+    "imageAlt": "rasket-angular-bootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/rasket-angular-bootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.techzaa.in/rasket_r/dashboard/analytics",
+    "templateName": "Rasket - Angular & Bootstrap Admin Dashboard Template",
+    "description": "Rasket – Angular & Bootstrap Admin & Dashboard Template stands as a comprehensive premium admin UI Kit Template, harnessing the capabilities of Bootstrap v5.3.3 alongside contemporary web technologies such as SCSS, and JS, all enveloped in a sleek new brutalist design aesthetic. Laden with meticulously crafted components, this UI Kit ensures full responsiveness and high customizability, and boasts intuitive code to grasp, facilitating developers to effortlessly fashion it into a fully functional web application.",
+    "features": [
+      [
+        "Built with Bootstrap v5.3.3",
+        "Built with Angular 18",
+        "Easy customization with extensive use of SCSS variables",
+        "Clean and Modern Design",
+        "Light & Dark Versions (only CSS-based)",
+        "Fully responsive and works across all modern/supported browsers, and devices",
+        "Easy development and tooling with Gulp workflow",
+        "Fully Documented",
+        "Rich form, validation, and wizard",
+        "110+ Pages",
+        "400+ UI Components",
+        "Charts Library",
+        "RTL & LTR Support",
+        "Error pages included",
+        "Stylish pricing page"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "price": 39,
+    "popularity": 1135,
+    "appType": "admin-template",
+    "details": "1.envato.market/196GE9",
+    "category": "Angular",
+    "imageAlt": "quantum-angular-18-bootstrap-5-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/quantum-angular-18-bootstrap-5-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://seantheme.com/quantum-angular/dashboard",
+    "templateName": "Quantum - Angular 20 Bootstrap 5 Admin Template",
+    "description": "QUANTUM is the world’s first futuristic HUD-style admin template built on top of the popular Bootstrap 5.3.7 framework. The concept of design for QUANTUM Admin is inspired by cutting-edge HUD UI, resulting in a clean, sleek, and modern design. It’s built on the robust foundation of the Bootstrap framework. Additionally, QUANTUM comes bundled with numerous third-party plugins, reusable widgets, and much more, ensuring maximum flexibility and functionality for your admin dashboard needs.",
+    "features": [
+      [
+        "Built with Bootstrap 5.3.7",
+        "Angular 20.x",
+        "World’s first futuristic admin template",
+        "Built-in Pos System UI",
+        "Angular 20.x demo and startup version",
+        "Super clean design",
+        "FontAwesome Icons with 2,000+ icons",
+        "Iconify Icons with unlimited icons",
+        "Extended Bootstrap 5 UI Components",
+        "Scss variable control",
+        "50+ styled plugins",
+        "50+ unique pages",
+        "Unlimited widget combination",
+        "HTML5 Flexbox support",
+        "Well documented"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
