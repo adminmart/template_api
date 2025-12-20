@@ -12474,5 +12474,238 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 302,
+    "price": 59,
+    "popularity": 1241,
+    "appType": "admin-template",
+    "details": "1.envato.market/LKJWRo",
+    "category": "NextJs",
+    "imageAlt": "mamix-nextjs-approuter-javascript-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mamix-nextjs-approuter-javascript-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app/mamix-js/preview/dashboards/sales/",
+    "templateName": "Mamix - NextJS AppRouter Javascript Admin Template",
+    "description": "Mamix is a state-of-the-art NextJS React Bootstrap admin dashboard template, designed meticulously to meet the demands of modern web developers and designers. This all-encompassing app router javascript admin panel template provides an intuitive and robust solution for managing and visualizing data within web applications. Whether you are building sophisticated nextjs dashboard templates or versatile web apps, Mamix next js admin panel combines the power of NextJS with the flexibility of ReactBootstrap, offering a seamless and responsive user experience.",
+    "features": [
+      "App Router",
+      "230+ Pages",
+      "60+ Integrated Plugins",
+      "16 Dashboard Variations",
+      "Vertical & Horizontal Layouts",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "React-Bootstrap Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Message Chat",
+      "3 Types of Maps",
+      "Timeline",
+      "Google Fonts",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Classified Pages",
+      "Domain Pages",
+      "Marketplace Pages",
+      "Real Estate Pages",
+      "Project Pages",
+      "Task Management",
+      "Jobs",
+      "Profile Settings",
+      "Form Advanced",
+      "Form Wizards",
+      "Media Player",
+      "Ribbons",
+      "Tour",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "price": 59,
+    "popularity": 1242,
+    "appType": "admin-template",
+    "details": "1.envato.market/o4ABVE",
+    "category": "NextJs",
+    "imageAlt": "valex-nextjs-pagerouer-typescript-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/valex-nextjs-pagerouer-typescript-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/page/valex-ts/preview/components/dashboard/dashboard/",
+    "templateName": "Valex - NextJS PageRouter Typescript Dashboard Template",
+    "description": "Valex dashboard nextjs template is an innovative and versatile NextJS ReactBootstrap admin dashboard template, meticulously designed for forward-thinking front end developers and designers. This next js template isn’t just another admin panel; it’s a comprehensive toolkit engineered to streamline your nextjs typescript web applications with a sleek, responsive, and user-centric interface. Valex next js admin panel stands out by harnessing the power of NextJS and the flexibility of ReactBootstrap, ensuring a top-notch experience for building sophisticated admin dashboards, and complex web management systems.",
+    "features": [
+      "Page Router (No App Router)",
+      "120+ Next.js Components",
+      "60+ Plugins",
+      "3 Types of Dashboards",
+      "Firebase Authentication",
+      "Vertical & Horizontal Layouts",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "Responsive React Bootstrap Framework",
+      "Well Commented Code",
+      "Filepond",
+      "React Uploader",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Timeline",
+      "Message Chat",
+      "Google Fonts",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "14 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "User List",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "price": 19,
+    "popularity": 1243,
+    "appType": "admin-template",
+    "details": "1.envato.market/jePB5v",
+    "category": "NextJs",
+    "imageAlt": "dunzo-react-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dunzo-react-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dunzo-next-mu.vercel.app/dashboard/ecommerce",
+    "templateName": "Dunzo – React Nextjs Admin & Dashboard Template",
+    "description": "Dunzo React Nextjs Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework, HTML5, CSS and No JQuery.It has a huge collection of reusable UI components. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      "Developed with Nextjs 15.1.6",
+      "Node 22.13.1",
+      "React-redux-toolkit",
+      "Using TypeScript",
+      "Style With SASS",
+      "Theme Customizer",
+      "Quick Search",
+      "Bookmark Support",
+      "Multiple Language Support",
+      "Attractive Dashboard",
+      "React Hooks",
+      "No Jquery",
+      "E-commerce Section",
+      "Image-Crop",
+      "Perfect-Scrollbar",
+      "Chart.js",
+      "Apex Charts",
+      "3 Different Dashboard",
+      "Light, Dark, Box Template",
+      "Fully Responsive Layout",
+      "Font Awesome",
+      "Detailed Documentation",
+      "Clean & Well Commented Codes",
+      "W3C Validated Code",
+      "Many Charts Options",
+      "Multi File Upload",
+      "Range Slider",
+      "Data Table",
+      "Google Fonts",
+      "Form Wizards",
+      "Chat Application",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
