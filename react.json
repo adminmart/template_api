@@ -12788,5 +12788,147 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 306,
+    "price": 69,
+    "popularity": 1245,
+    "appType": "admin-template",
+    "details": "1.envato.market/Z62j0z",
+    "category": "NextJs",
+    "imageAlt": "nowa-nextjs-page-router-typescript-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nowa-nextjs-page-router-typescript-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/page/nowa-ts/preview/components/dashboards/dashboard1/",
+    "templateName": "Nowa - Page Router Typescript Nextjs Admin Dashboard Template",
+    "description": "Nowa is a premier NextJS admin panel and React Bootstrap admin dashboard template, meticulously designed to meet the needs of modern web developers and designers. This NextJS React Bootstrap dashboard template offers a seamless, responsive user experience, making it an ideal choice for managing and visualizing data in web applications. Combining the power of NextJS with the flexibility of React Bootstrap, Nowa simple dashboard template stands out as a top-tier solution for admin panel design, perfect for sophisticated admin dashboards and beyond.",
+    "features": [
+      "130+ NextJS Pages",
+      "60+ Plugins",
+      "3 Dashboard variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, icon click, and icon Hover",
+      "3 types of Charts",
+      "Responsive React Bootstrap 5 Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to customize",
+      "Neat, clean, and simple design",
+      "Timeline",
+      "Message Chat",
+      "Google Fonts",
+      "3 Types of Maps",
+      "Mail Inbox",
+      "Profile",
+      "7 Types of Icon sets",
+      "Lock screen Pages",
+      "Error Pages",
+      "Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create your Own Site",
+      "More Widgets",
+      "Regular Updates",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "price": 79,
+    "popularity": 1246,
+    "appType": "admin-template",
+    "details": "1.envato.market/09bKkE",
+    "category": "NextJs",
+    "imageAlt": "ynex-nextjs-approuer-typescript-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ynex-nextjs-approuer-typescript-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app/ynex-ts/preview/dashboards/crm/",
+    "templateName": "Ynex - AppRouter Typescript Nextjs Admin Template",
+    "description": "Ynex next js admin panel is a comprehensive NextJS React Bootstrap admin dashboard template, designed to elevate modern web development next js admin projects. It offers a seamless and responsive user experience, making it ideal for managing and visualizing data in next js typescript web applications, dashboards, and admin panels. Ynex nextjs dashboard combines the power of NextJS, React Bootstrap to deliver a top-tier solution for admin dashboard design, perfect for sophisticated next js admin portals, user interfaces, and more. Whether you’re a full stack developer, front end developer, or working with backend technologies, Ynex’s nextjs bootstrap flexibility ensures it meets all your needs.",
+    "features": [
+      "App-Router",
+      "170+ NextJs components",
+      "70+ integrated Plugins",
+      "12 Dashboard variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "Responsive Tailwind CSS Framework",
+      "Well Commented Code",
+      "Easy to customize",
+      "Neat, clean, and simple design",
+      "Timeline",
+      "Editable Text",
+      "Message Chat",
+      "Google Fonts",
+      "Form-Wizards",
+      "2 Types of Map",
+      "Mail Inbox",
+      "6 Types of Icon sets",
+      "Lock screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Form Wizards",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "React full-Calendar",
+      "Pricing Tables",
+      "Very Easy to Create your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
