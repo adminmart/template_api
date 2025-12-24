@@ -13154,5 +13154,76 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 311,
+    "price": 59,
+    "popularity": 1250,
+    "appType": "admin-template",
+    "details": "1.envato.market/dOxBvM",
+    "category": "NextJs",
+    "imageAlt": "ynex-nextjs-approuter-javascript-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ynex-nextjs-approuter-javascript-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app/ynex-js/preview/dashboards/crm/",
+    "templateName": "Ynex - NextJs AppRouter Javascript Admin Template",
+    "description": "Introducing the Ynex – NextJs Javascript approuter Admin Panel React Bootstrap Template, the ultimate solution for web development. This comprehensive approuter admin panel template is designed to elevate your admin nextjs projects with a blend of modern template dashboard user interface design. Ideal for creating admin template next js dashboard templates, it features an intuitive admin panel that simplifies management tasks. The admin UI ensures a smooth user experience, while the straightforward admin template provides a powerful framework for all your admin dashboard needs. Enhance your nextjs admin dashboard web development process with this versatile and user-friendly static nextjs firebase template, crafted to meet the highest standards of dashboard user interface design and aesthetics.",
+    "features": [
+      "App-Router",
+      "170+ NextJs components",
+      "70+ integrated Plugins",
+      "12 Dashboard variations",
+      "Vertical & Horizontal",
+      "Menu Click, Menu Hover, Icon Click and Icon Hover",
+      "Responsive Tailwind CSS Framework",
+      "Well Commented Code",
+      "Easy to Customize",
+      "Neat, Clean and Simple Design",
+      "Timeline",
+      "Editable Text",
+      "Message Chat",
+      "Google Fonts",
+      "Form-Wizards",
+      "2 Types of Map",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Form Wizards",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "React Full-Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

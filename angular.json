@@ -5654,5 +5654,149 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 250,
+    "price": 79,
+    "popularity": 1137,
+    "appType": "admin-template",
+    "details": "1.envato.market/Z62avq",
+    "category": "Angular",
+    "imageAlt": "udon-angular-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/udon-angular-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/udon/preview/dashboard/sales",
+    "templateName": "Udon - Bootstrap Admin Dashboard Angular Template",
+    "description": "Udon is a cli interface angular template designed for adminportal and angular templating. This angular website admin dashboard template leverages angular technology and is perfect for building robust angular applications admin dashboard ui. Udon seamlessly integrates angular ng template and angularui elements, making it an ideal solution for ng template in ngbootstrap and angular ui framework projects. Whether you’re a seasoned angular developer or a software development company, this template simplifies the development process with its modern admin panel ui design and comprehensive feature set, including angular typescript and ngbootstrap.",
+    "features": [
+      [
+        "150+ Angular Pages",
+        "30+ Plugins",
+        "13 Dashboard Variations (Vertical & Horizontal)",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+        "3 Types of Charts",
+        "Angular Bootstrap Framework",
+        "Well Commented Code",
+        "Grid JS Tables",
+        "Filepond",
+        "Dropzone",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Timeline",
+        "Message Chat",
+        "Google Fonts",
+        "1 Type of Map",
+        "Mail Inbox",
+        "6 Types of Icon Sets",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Professional Company Support",
+        "Regular Updates",
+        "Very Easy to Create Your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "price": 19,
+    "popularity": 1138,
+    "appType": "admin-template",
+    "details": "1.envato.market/POoxgz",
+    "category": "Angular",
+    "imageAlt": "zono-angular-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/zono-angular-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/zono/dashboard/default",
+    "templateName": "Zono – Angular 20 Admin Dashboard Template",
+    "description": "Zono Admin is a full featured, multipurpose, premium Angular admin template built with Angular & Bootstrap 5 Framework.It has a huge collection of reusable UI components and integrated with latest plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Angular 20",
+        "Node 20.19.0 & Angular CLI: 20",
+        "Bootstrap 5x",
+        "Style With SASS",
+        "No Jquery",
+        "Type Script",
+        "2 Different Dashboard",
+        "Light & Dark & Box template",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Many Charts Options",
+        "Multi File upload",
+        "Bookmark",
+        "Search",
+        "Language Change",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Chat Application",
+        "Gallery",
+        "Maps",
+        "Editors",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
