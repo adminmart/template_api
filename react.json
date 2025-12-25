@@ -13225,5 +13225,127 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 312,
+    "price": 39,
+    "popularity": 1251,
+    "appType": "admin-template",
+    "details": "1.envato.market/EEk4eQ",
+    "category": "React",
+    "imageAlt": "rizz-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/rizz-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://mannatthemes.com/rizz/default/index.html",
+    "templateName": "Rizz - Admin & Dashboard Template",
+    "description": "Rizz is a fully responsive and premium Bootstrap 5 Admin & Dashboard Template built in HTML, React js, Angular 18, Vue 3, Laravel 11, Django, Svelte 4, CodeIgniter, Symfony 7.0, PHP, Node Js (EJS) & Cake PHP. Whether you’re creating a web app, dashboards, admin panels, eCommerce app, Project management, or SASS-based interface then you are at the right place to buy this admin dashboard template.",
+    "features": [
+      "Dark, Light",
+      "Fully Responsive Design",
+      "W3C Validated HTML Pages",
+      "Gulp Based Workflow",
+      "Light-Weight, Clean & Commented Code",
+      "Easy to Customize with SCSS Variables",
+      "Drag & Drop",
+      "Well Organized Folder Structure",
+      "Lifetime Free Updates",
+      "Unlimited Template Possibilities",
+      "2 Dashboards",
+      "Figma files",
+      "Apps like Calendar, Chat, eCommerce, Projects, Tasks, Invoices, Email templates",
+      "Authentication & Error Pages",
+      "Profile, Settings, Invoice, Maintenance, Timeline, Pricing, Gallery, FAQ, Terms & Conditions, and many more Pages"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "price": 59,
+    "popularity": 1253,
+    "appType": "admin-template",
+    "details": "1.envato.market/POo54X",
+    "category": "NextJs",
+    "imageAlt": "synto-nextjs-approuter-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/synto-nextjs-approuter-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/tailwind/app/synto-ts/preview/dashboards/sales/",
+    "templateName": "Synto - Nextjs AppRouter Admin Template Dashboard",
+    "description": "Synto is a comprehensive and versatile solution designed to meet all your administrative needs. This Tailwind CSS template offers a seamless user experience, combining modern design aesthetics with robust functionality.",
+    "features": [
+      "App-Router",
+      "130-Pages",
+      "60+ integrated Plugins",
+      "12 Dashboard variations",
+      "Vertical & Horizontal",
+      "140+ NextJs components",
+      "Menu Click, Menu Hover, icon click, and icon Hover",
+      "Responsive Tailwind CSS Framework",
+      "Well Commented Code",
+      "Easy to customize",
+      "Neat, clean, and simple design",
+      "Timeline",
+      "Editable Text",
+      "Message Chat",
+      "Google Fonts",
+      "Form-Wizards",
+      "2 Types of Maps",
+      "Mail Inbox",
+      "2 Types of Icon sets",
+      "Lock screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Form Wizards",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "React full-Calendar",
+      "Pricing Tables",
+      "Very Easy to Create your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
