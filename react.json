@@ -13347,5 +13347,78 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 314,
+    "price": 79,
+    "popularity": 1253,
+    "appType": "admin-template",
+    "details": "1.envato.market/QjBmjx",
+    "category": "NextJs",
+    "imageAlt": "ynex-nextjs-app-router-javascript-dashboard-remplate",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ynex-nextjs-app-router-javascript-dashboard-remplate.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/tailwind/app/ynex-js/preview/dashboards/crm/",
+    "templateName": "Ynex - Nextjs App Router Javascript Dashboard Template",
+    "description": "Welcome to the future of web administration! Introducing the Ynex Tailwind CSS Dashboard Template, crafted meticulously to empower your online presence. Our admin templates offer a seamless experience for managing your web applications or projects with finesse and efficiency. Ynex, the ultimate Next js App Router JavaScript Dashboard Template, is built with Next js and styled with Bootstrap 5, ensuring seamless integration of powerful features and stunning aesthetics.",
+    "features": [
+      "170+ Components",
+      "60+ Integrated Plugins",
+      "12 Dashboard variations (Vertical & Horizontal)",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 types of Charts",
+      "Tailwind CSS Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Timeline",
+      "Message Chat",
+      "Google Fonts",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Professional Company Support",
+      "Regular Updates",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

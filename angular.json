@@ -5914,5 +5914,138 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 254,
+    "price": 18,
+    "popularity": 1141,
+    "appType": "admin-template",
+    "details": "1.envato.market/YRO65q",
+    "category": "Angular",
+    "imageAlt": "admira-angular-18-material-design-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/admira-angular-18-material-design-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://www.einfosoft.com/templates/admin/admira/source/light/#/dashboard/dashboard1",
+    "templateName": "Admira - Angular 20+ Material Design Admin Dashboard Template",
+    "description": "Admira is a modern Angular Material Design Admin Dashboard template built with Material UI, Angular, and TypeScript. This Angular admin template Includes a variety of reusable, professional, and responsive components with numerous design variations.Because you won’t have to start from scratch, our Admin theme includes collections of beautifully designed demos that will save you a ton of time and work.",
+    "features": [
+      "Angular 20+",
+      "Angular Material 20.0.3 with Material 3",
+      "No jQuery",
+      "No Bootstrap",
+      "AOT Compatible",
+      "Style With SASS",
+      "Full RTL Template",
+      "2 Type of menus (Left-Menu & Horizontal-Menu )",
+      "AuthGuard Integrated on page",
+      "Full Functional Calendar App",
+      "Full Functional Task App",
+      "Full Functional Contacts App",
+      "7 Pre-Defined Color Skins",
+      "Light, Dark & RTL Full Templates",
+      "One click Dark & Light Switch Template",
+      "Multi Language Integration (English, German, Spanish)",
+      "Validation Forms",
+      "Cross Browsers Support",
+      "Nested Routing",
+      "Fully Responsive layout",
+      "Detailed Documentation",
+      "Clean & Well Commended Codes",
+      "W3C Validated Code",
+      "5 Different Charts Libraries",
+      "Google Fonts",
+      "Google Maps",
+      "Form Wizards",
+      "And many more…"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "price": 69,
+    "popularity": 1142,
+    "appType": "admin-template",
+    "details": "1.envato.market/RGzBA2",
+    "category": "Angular",
+    "imageAlt": "velvet-angular-ng-bootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/velvet-angular-ng-bootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/velvet/preview/dashboards/sales",
+    "templateName": "Velvet - Ng Bootstrap Angular Admin Dashboard Template",
+    "description": "Welcome to Velvet, your ultimate solution for Angular Typescript development. Designed for angular developers and businesses alike, Velvet leverages the powerful angular framework and integrates seamlessly with Ng Bootstrap, ensuring a robust and responsive angular dashboard experience.",
+    "features": [
+      "150+ Angular Components",
+      "30+ Plugins",
+      "12 Dashboard Variations (Vertical & Horizontal)",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "Angular Bootstrap Framework",
+      "Well Commented Code",
+      "Grid JS Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Timeline",
+      "Message Chat",
+      "Google Fonts",
+      "1 Type of Map",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Professional Company Support",
+      "Regular Updates",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
