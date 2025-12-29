@@ -13420,5 +13420,152 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 315,
+    "price": 69,
+    "popularity": 1254,
+    "appType": "admin-template",
+    "details": "1.envato.market/GKxjEE",
+    "category": "NextJs",
+    "imageAlt": "dashlot-nextjs-typescript-react-bootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashlot-nextjs-typescript-react-bootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/page/dashlot-ts/preview/components/crm/crmdashboard/",
+    "templateName": "Dashlot - NextJS Typescript React Bootstrap Admin Panel Dashboard Template",
+    "description": "Dashlot – NextJS TypeScript React Bootstrap Admin Dashboard Template is the ultimate solution for developers looking for a powerful and efficient admin panel. Built with NextJS, TypeScript, and React, it offers a seamless development experience with a robust page router. This admin dashboard template provides a comprehensive admin UI, featuring the best dashboard design to streamline your workflow. Whether you need an admin panel template, a dashboard app, or a complete web dashboard template, Dashlot has you covered. It integrates NextJS and Firebase for real-time data management and authentication, making it a versatile choice for modern applications.",
+    "features": [
+      [
+        "Page Router",
+        "140+ Nextjs Components",
+        "60+ Plugins",
+        "4 Types of Dashboards",
+        "Firebase Authentication",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+        "3 Types of Charts",
+        "Responsive React Bootstrap Framework",
+        "Well Commented Code",
+        "Filepond",
+        "React Uploader",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Timeline",
+        "Message Chat",
+        "Google Fonts",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "8 Types of Icon Sets",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Userlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Very Easy to Create Your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "price": 79,
+    "popularity": 1255,
+    "appType": "admin-template",
+    "details": "1.envato.market/MAPXgP",
+    "category": "NextJs",
+    "imageAlt": "scifi-nextjs-app-router-javascript-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/scifi-nextjs-app-router-javascript-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app/scifi-js/preview/dashboard/gaming/",
+    "templateName": "SCIFI - App Router Javascript Nextjs Admin Dashboard Template",
+    "description": "Welcome to the forefront of dashboard in nextjs web administration! Introducing the SCIFI – Nextjs App Router Javascript Admin Dashboard Template, meticulously crafted to empower your online presence. Our next js admin dashboard template offers a seamless experience for managing your web applications or Nextjs projects with finesse and efficiency.",
+    "features": [
+      [
+        "App Router",
+        "180+ NextJs Components",
+        "70+ Plugins",
+        "12 Dashboard Variations",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, icon click and icon Hover",
+        "3 types of Charts",
+        "Responsive React-Bootstrap Framework",
+        "Well Commented Code",
+        "Grid JS Tables",
+        "Filepond",
+        "Dropzone",
+        "Easy to customize",
+        "Neat, clean and simple design",
+        "Message Chat",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "6 Types of Icon sets",
+        "Lock screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Very Easy to Create your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

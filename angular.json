@@ -6047,5 +6047,75 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 256,
+    "price": 59,
+    "popularity": 1143,
+    "appType": "admin-template",
+    "details": "1.envato.market/BnNXRy",
+    "category": "Angular",
+    "imageAlt": "scifi-angular-framework-ngbootstrap-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/scifi-angular-framework-ngbootstrap-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/scifi/preview/dashboards/gaming",
+    "templateName": "SCIFI - Angular Framework Ngbootstrap Dashboard Template",
+    "description": "Angular Framework Ngbootstrap Dashboard Template, a cutting-edge Angular template designed for seamless integration with Angular components. This template dashboard is powered by Angular Bootstrap, leveraging Bootstrap ng for a responsive and modern front-end framework. Perfect for creating a robust admin dashboard template, it caters to the needs of every front end framework Angular developer and Angular developers looking for a comprehensive solution.",
+    "features": [
+      "90+ Angular Components",
+      "30+ Plugins",
+      "12 Dashboard Variations (Vertical & Horizontal)",
+      "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+      "3 Types of Charts",
+      "Angular Framework",
+      "Well Commented Code",
+      "Ngx Easy Tables",
+      "Filepond",
+      "Dropzone",
+      "Easy to Customize",
+      "Neat, Clean, and Simple Design",
+      "Timeline",
+      "Message Chat",
+      "Google Fonts",
+      "2 Type of Map",
+      "Mail Inbox",
+      "6 Types of Icon Sets",
+      "Lock Screen Pages",
+      "Error Pages",
+      "Shopping Cart",
+      "Checkout",
+      "Order Details",
+      "Wishlist",
+      "Form Elements",
+      "Image Gallery",
+      "Under Construction Page",
+      "Invoice Page",
+      "Calendar",
+      "Pricing Tables",
+      "Professional Company Support",
+      "Regular Updates",
+      "Very Easy to Create Your Own Site",
+      "More Widgets",
+      "W3C Validated"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
