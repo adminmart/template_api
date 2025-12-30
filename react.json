@@ -13351,7 +13351,7 @@
   {
     "id": 314,
     "price": 79,
-    "popularity": 1253,
+    "popularity": 1254,
     "appType": "admin-template",
     "details": "1.envato.market/QjBmjx",
     "category": "NextJs",
@@ -13424,7 +13424,7 @@
   {
     "id": 315,
     "price": 69,
-    "popularity": 1254,
+    "popularity": 1255,
     "appType": "admin-template",
     "details": "1.envato.market/GKxjEE",
     "category": "NextJs",
@@ -13499,7 +13499,7 @@
   {
     "id": 316,
     "price": 79,
-    "popularity": 1255,
+    "popularity": 1256,
     "appType": "admin-template",
     "details": "1.envato.market/MAPXgP",
     "category": "NextJs",
@@ -13544,6 +13544,147 @@
         "Calendar",
         "Pricing Tables",
         "Very Easy to Create your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "price": 79,
+    "popularity": 1257,
+    "appType": "admin-template",
+    "details": "1.envato.market/09gYyR",
+    "category": "NextJs",
+    "imageAlt": "vexel-next-javascript-template-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vexel-next-javascript-template-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/vexel-js/preview/components/dashboard/indexpage/",
+    "templateName": "Vexel - Nextjs javascript Template Dashboard",
+    "description": "Introducing the “Vexel – Next js Javascript React Bootstrap Admin Template,” a sophisticated solution built on the React Bootstrap next js javascript framework, ensuring continuous updates for a seamless experience! With a plethora of features and functionalities, this Vexel admin dash template serves as your gateway to effortlessly manage your nextjs admin templates.",
+    "features": [
+      [
+        "130+ Nextjs components",
+        "50+ Plugins",
+        "Single Dashboard",
+        "Firebase Authentication",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, icon click, and icon Hover",
+        "3 types of Charts",
+        "Responsive React Bootstrap Framework",
+        "Well Commented Code",
+        "Filepond",
+        "React uploader",
+        "Easy to customize",
+        "Neat, clean, and simple design",
+        "TimeLine",
+        "Message Chat",
+        "Google Fonts",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "10 Types of Icon sets",
+        "Lock screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Userlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Very Easy to Create your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "price": 79,
+    "popularity": 1257,
+    "appType": "admin-template",
+    "details": "1.envato.market/o4xnVg",
+    "category": "NextJs",
+    "imageAlt": "scifi-nextjs-app-router-typescript-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/scifi-nextjs-app-router-typescript-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/app/scifi-ts/preview/dashboard/gaming/",
+    "templateName": "SCIFI - Nextjs App Router Typescript Dashboard Template",
+    "description": "Welcome to the future of web administration! Introducing the Sci-Fi Futuristic Glowing HUD Display react Bootstrap Dashboard Template, the ultimate solution Sci-fi futuristic hud dashboard crafted meticulously to empower your online presence. Our futuristic dashboard user interface HUD admin templates offer a seamless experience for managing your web applications or Web New Futuristic User Interface Projects with HUD elements finesse and efficiency. This powerful HUD, Sci-fi UI, UX, kit nextjs Firebase ract bootstrap CSS Dashboard Design Template, the SCIFI Futuristic UI Kit nextjs Admin Panel Template, offers a comprehensive set of features and benefits for effortless Hud Interface web development.",
+    "features": [
+      [
+        "App Router",
+        "180+ NextJs Components",
+        "70+ Plugins",
+        "12 Dashboard Variations",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+        "3 types of Charts",
+        "Responsive React-Bootstrap Framework",
+        "Well Commented Code",
+        "Grid JS Tables",
+        "Filepond",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Message Chat",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "6 Types of Icon Sets",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Very Easy to Create Your Own Site",
         "More Widgets",
         "W3C Validated"
       ]

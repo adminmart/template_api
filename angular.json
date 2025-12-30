@@ -6117,5 +6117,61 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 257,
+    "price": 18,
+    "popularity": 1144,
+    "appType": "admin-template",
+    "details": "1.envato.market/o4xn0O",
+    "category": "Angular",
+    "imageAlt": "maxton-laravel-11-bootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/maxton-laravel-11-bootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://codervent.com/maxton/demo/vertical-menu/index.html",
+    "templateName": "Maxton - Bootstrap5, Laravel, Angular, ASP.Net, MVC, Nodejs, Symfony, php, YII, CodeIgniter",
+    "description": "Maxton Admin & Dashboard is a versatile and comprehensive admin panel solution designed to meet the needs of various web development frameworks. Developed across nine different versions, Maxton ensures compatibility and flexibility, allowing developers to integrate it seamlessly into their projects regardless of the technology stack they use.",
+    "features": [
+      "70+ Responsive HTML Pages",
+      "Range Slider",
+      "Different Type Form Layouts",
+      "Multiple Chart Options",
+      "W3C Validated Code",
+      "Login/ Registration Pages",
+      "200+ UI Icons",
+      "Easy to Customizable",
+      "Multiple Table Layout Examples",
+      "Fully Responsive Pages",
+      "Data Table with Paging & Sorting",
+      "Validation Forms",
+      "Forms Wizard",
+      "Invoice Page",
+      "User Profile Page",
+      "Different Type Notifications & Sweet Alerts",
+      "Animated Models",
+      "Compatible with Small, Medium & Large Screens",
+      "Simple Static Widgets",
+      "Multiple Data Widgets",
+      "Well Documentation"
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
