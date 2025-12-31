@@ -6450,5 +6450,56 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 148,
+    "price": 29,
+    "popularity": 1126,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/JK9m9v",
+    "category": "Nuxt",
+    "imageAlt": "reback-multipurpose-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/reback-multipurpose-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://techzaa.in/reback/admin/index.html",
+    "templateName": "Reback - Multipurpose Admin & Dashboard Template",
+    "description": "Introducing Reback – the Bootstrap Admin & Dashboard HTML Template, a comprehensive premium admin UI Kit that leverages Bootstrap v5.3.3 and modern web technologies like HTML5, SCSS, and JS Reback is available in a wide range of frameworks, including HTML, React 18, Next 14, Angular 18, Vue 3, Nuxt 3, Svelte, Laravel 10, Django, CodeIgniter, Symfony, PHP, Node.js, Cake PHP, ASP Core, ASP MVC and Figma.",
+    "features": [
+      [
+        "Built with Bootstrap v5.3.3",
+        "Easy customization with extensive use of SCSS variables",
+        "Clean and Modern Design",
+        "Light & Dark Versions (only CSS-based)",
+        "Fully responsive and works across all modern/supported browsers, and devices",
+        "Easy development and tooling with Gulp workflow",
+        "Fully Documented",
+        "Rich form, validation, and wizard",
+        "85+ Pages",
+        "400+ UI Components",
+        "Charts Library",
+        "RTL & LTR Support",
+        "Error pages included",
+        "Stylish pricing page"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
