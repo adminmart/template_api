@@ -14054,5 +14054,79 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 324,
+    "price": 59,
+    "popularity": 1263,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/YRXLLj",
+    "category": "NextJs",
+    "imageAlt": "ynex-nextjs-typescript-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ynex-nextjs-typescript-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/ynex-ts/preview/components/dashboard/crm/",
+    "templateName": "Ynex - Nextjs Typescript Admin Dashboard UI Template",
+    "description": "Explore the power of Ynex NextJs Typescript Admin Dashboard Template – your ultimate solution for cutting-edge nextjs dashboards powered by Nextjs and React. Ynex NextJs Typescript Admin Panel React Bootstrap Template is a versatile and feature-rich platform crafted to meet diverse development needs. Boasting an extensive collection of Nextjs styled components and numerous plugins, including nextjs styled components, this nextjs admin template provides developers with a robust foundation to build optimized admin dashboards.",
+    "features": [
+      [
+        "Page Router",
+        "170+ NextJs tsx components",
+        "70+ integrated Plugins",
+        "12 Dashboard variations",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, icon click and icon Hover",
+        "3 types of Charts",
+        "React-Bootstrap Framework",
+        "Well Commented Code",
+        "Grid JS Tables",
+        "Filepond",
+        "Dropzone",
+        "Easy to customize",
+        "Neat, clean and simple design",
+        "TimeLine",
+        "Editable Text",
+        "Message Chat",
+        "Google Fonts",
+        "Mail Inbox",
+        "6 Types of Icon sets",
+        "Lock screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "React full-Calendar",
+        "Pricing Tables",
+        "Very Easy to Create your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

@@ -6287,5 +6287,142 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 260,
+    "price": 19,
+    "popularity": 1147,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/N95X22",
+    "category": "Angular",
+    "imageAlt": "edmin-angular-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/edmin-angular-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/edmin/dashboard/default",
+    "templateName": "Edmin – Angular 20 Admin Dashboard Template",
+    "description": "Edmin Angular Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework, HTML5 & CSS .It has a huge collection of reusable UI components and integrated with latest plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Angular 20",
+        "Node 20.19.0 & Angular CLI: 20",
+        "Bootstrap 5x",
+        "Style With SASS",
+        "No Jquery",
+        "Type Script",
+        "3 Different Dashboard",
+        "Light & Dark & Box templete",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commended Codes",
+        "W3C Validated Code",
+        "Many Charts Options",
+        "Multi File upload",
+        "Bookmark",
+        "Search",
+        "Language Change",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Chat Application",
+        "Gallery",
+        "Maps",
+        "Editors",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "price": 79,
+    "popularity": 1148,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/yqaWO3",
+    "category": "Angular",
+    "imageAlt": "ynex-angular-ng-bootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ynex-angular-ng-bootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/ynex/preview/dashboards/crm",
+    "templateName": "Ynex - Angular NG Bootstrap Admin Template",
+    "description": "Ynex is a powerful angular admin dashboard template crafted for developers and designers who want a sleek, responsive, and intuitive admin ui interface. Built with modern workflows and clean code, ynex angular ng template offers a solid foundation for managing and visualizing data across various web templatess.",
+    "features": [
+      [
+        "130+ Angular components",
+        "30+ integrated Plugins",
+        "12 Dashboard variations",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, Icon Click and Icon Hover",
+        "Responsive Ng-Bootstrap CSS Framework",
+        "Well Commented Code",
+        "Easy to customize",
+        "Neat, clean and simple design",
+        "TimeLine",
+        "Editable Text",
+        "Message Chat",
+        "Google Fonts",
+        "Leaflet Map",
+        "Mail Inbox",
+        "6 Types of Icon sets",
+        "Lock screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Angular full-Calendar",
+        "Pricing Tables",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
