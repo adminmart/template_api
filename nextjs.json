@@ -14047,5 +14047,134 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 324,
+    "price": 29,
+    "popularity": 1263,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/o4xb2Y",
+    "category": "NextJs",
+    "imageAlt": "remos-ecommerce-admin-dashboard-react-nextjs-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/remos-ecommerce-admin-dashboard-react-nextjs-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://remosnextjs.vercel.app/",
+    "templateName": "Remos - eCommerce Admin Dashboard React NextJS Template",
+    "description": "Remos – eCommerce Admin Dashboard React NextJS Template for Administration, Advanced Settings, Categories, Customer Activity, Dashboard, Data Visualization, Management Panel, Multi-Vendor, Online Stores, Product Management. Separate charts and graphs can provide the best visibility for your data and statistics, designed with the modern age demand. It is a fully responsive template for all types of devices. Works on all major web browsers, Desktops, iPhone, iPad, Tablet, and all other smartphone devices.",
+    "features": [
+      [
+        "Node.js 16.14 or later. and NextJs 13 technologies",
+        "04 Home Pages",
+        "30+ Inner Pages",
+        "Dark/Light Mode",
+        "Free Google Fonts",
+        "Detailed Documentation",
+        "Super Clear and Clean Layout",
+        "Fully responsive and mobile friendly",
+        "Pixel Perfect",
+        "Every page is fully layered and organized with proper names",
+        "Coded to be developer friendly",
+        "Free Font Based Icons",
+        "Retina Ready",
+        "Complete Mobile UI App",
+        "Excellent Support",
+        "Cross Browser Compatible",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "price": 49,
+    "popularity": 1264,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/POekoq",
+    "category": "NextJs",
+    "imageAlt": "vexel-next-js-typescript-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vexel-next-js-typescript-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/vexel-ts/preview/components/dashboard/indexpage/",
+    "templateName": "Vexel - Next js Typescript Dashboard Template",
+    "description": "Introducing the “Vexel – next js React Bootstrap Admin Dashboard Template,” a sophisticated solution built on the React Bootstrap next js framework, ensuring continuous updates for a seamless experience! With a plethora of features and functionalities, this Vexel admin dash template serves as your gateway to effortlessly manage your next js admin dashboard.",
+    "features": [
+      [
+        "Page Router",
+        "130+ Nextjs components",
+        "50+ Plugins",
+        "Single Dashboard",
+        "Firebase Authentication",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, icon click and icon Hover",
+        "3 types of Charts",
+        "Responsive React Bootstrap Framework",
+        "Well Commented Code",
+        "Filepond",
+        "React uploader",
+        "Easy to customize",
+        "Neat, clean and simple design",
+        "TimeLine",
+        "Message Chat",
+        "Google Fonts",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "10 Types of Icon sets",
+        "Lock screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Userlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Very Easy to Create your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
