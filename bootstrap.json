@@ -3138,5 +3138,50 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 80,
+    "price": 25,
+    "popularity": 1065,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/BnmOV4",
+    "category": "React",
+    "imageAlt": "light-able-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/light-able-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://html.phoenixcoded.net/light-able/bootstrap/dashboard/index.html",
+    "templateName": "Light Able Admin & Dashboard Template",
+    "description": "Light Able is a top-rated admin dashboard template on Themeforest. Available in Bootstrap 5, React, Angular, NextJs, ASP.Net Core 8, Laravel, Django, VueJs, NodeJs, django, flask, Symphony, MVC5 and Cake PHP. and this responsive template offers a comprehensive suite of tools to power your web app. Whether you’re creating an eCommerce platform, CRM, or SaaS-based interface, Light Able has you covered. This template provides a dynamic and customisable solution for your backend needs. Over 6K+ customers, from startups to Fortune companies, have used our Dashboard Products to build their projects. Explore this versatile admin dashboard template and elevate your web app today.",
+    "features": [
+      [
+        "Light/Dark/Auto Vertical Layout options.",
+        "Live customizer to playaround real-time with design.",
+        "Code Standard that makes easy developer experience (DX).",
+        "Retina Ready and Mobile-first responsive design.",
+        "Modern User Interface with easy user experience",
+        "Easy to use folder structure",
+        "Well Commented code style",
+        "Easy Documentation Guide"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
