@@ -8479,7 +8479,7 @@
   },
   {
     "id": 234,
-    "price": 0,
+    "price": 29,
     "popularity": 151,
     "appType": "landingpage",
     "details": "https://getnextjstemplates.com/products/optura-nextjs-template",
@@ -14496,6 +14496,147 @@
       {
         "value": "portfolio",
         "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "price": 29,
+    "popularity": 1270,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/2ab3QA",
+    "category": "React",
+    "imageAlt": "yuri-html-react-angular-next-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/yuri-html-react-angular-next-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://www.react.pixelstrap.net/yuri/dashboard/default",
+    "templateName": "Yuri- HTML, React, Angular,Django,Vue Nuxt & Next Js Admin Dashboard Template",
+    "description": "Yuri Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 , react,next & angular .It has a huge collection of reusable UI components and integrated with latest plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Developed with Bootstrap 5x Admin Template",
+        "Developed with React 19.0.0 && Node 24.11.0 Vite: 7.1.12",
+        "Developed with Angular 21 && Node version 24.0.0",
+        "Next Version: 16.1.1 && React Version: 19.2.3 && Node: 25.2.1",
+        "Developed with Vue 3.4.18 && Node 20.9.0",
+        "Django version Developed with Django 4.1.4",
+        "Developed with Nuxt 4.1.0 && Node 22.14.0",
+        "Style With SASS Admin Template",
+        "Html with PUG Admin Template",
+        "Using Gulp",
+        "Using Webpack",
+        "3 Different Dashboard",
+        "Light & Dark & Box template",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Data Table Export to CSV, Excel, PDF, Copy and Print",
+        "Many Charts Options",
+        "Multi File upload",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Form Wizards",
+        "Chat Application",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "price": 89,
+    "popularity": 1271,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/rakxDy",
+    "category": "NextJs",
+    "imageAlt": "ynex-react-typescript-tailwind-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ynex-react-typescript-tailwind-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/ynex-ts-tailwind/preview/components/dashboards/crm/",
+    "templateName": "Ynex - Nextjs Typescript Tailwind Admin Dashboard Template",
+    "description": "Welcome to the future of web administration! Introducing the Ynex dashboard Tailwind CSS Responsive Admin Panel Template, the ultimate solution crafted meticulously to empower your online presence. Our admintemplates offers a seamless experience for managing your web applications or Web Projects with finesse and efficiency. This NextJs Typescript Template primarily focuses on Client Components. The decision to utilize Client Components was driven by the absence of a backend in the template.",
+    "features": [
+      [
+        "170+ Components",
+        "60+ Integrated Plugins",
+        "12 Dashboard Variations",
+        "Vertical & Horizontal Layouts",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover Functionality",
+        "3 Types of Charts",
+        "Tailwind CSS Framework",
+        "Well-Commented Code",
+        "Grid JS Tables",
+        "Filepond Integration",
+        "Dropzone Integration",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Timeline Feature",
+        "Message Chat Functionality",
+        "Google Fonts Integration",
+        "Mail Inbox",
+        "6 Types of Icon Sets",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart Feature",
+        "Checkout Functionality",
+        "Order Details Page",
+        "Wishlist Feature",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Pricing Tables",
+        "Very Easy to Create Your Own Site",
+        "Additional Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
       },
       {
         "value": "saas",
