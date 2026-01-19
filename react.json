@@ -14685,5 +14685,50 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 334,
+    "price": 17,
+    "popularity": 1273,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/5524Zb",
+    "category": "NextJs",
+    "imageAlt": "able-pro-react-nextjs-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/able-pro-react-nextjs-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://able-pro-material-next-ts-navy.vercel.app/dashboard/default",
+    "templateName": "Able Pro Nextjs MUI React Admin Dashboard Template",
+    "description": "Able Pro stands out as an excellent admin dashboard template that you can find on Themeforest. It’s crafted using React Nextjs and features a sleek MUI design, making it perfect for your web application. Whether you’re working on an eCommerce site, a CRM, or any SaaS-based project, Able Pro has got you covered. It’s not just responsive but also offers a wide range of tools to support your backend needs. The template is dynamic and customizable, supporting Bootstrap 5. Able Pro has proven itself as a reliable choice for various projects. Take a closer look at this versatile admin dashboard template and enhance your web app effortlessly.",
+    "features": [
+      [
+        "Light/Dark/Auto Vertical Layout options.",
+        "Live customizer to playaround real-time with design.",
+        "Code Standard that makes easy developer experience (DX).",
+        "Retina Ready and Mobile-first responsive design.",
+        "Modern User Interface with easy user experience",
+        "Easy to use folder structure",
+        "Well Commented code style",
+        "Easy Documentation Guide"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

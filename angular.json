@@ -6892,5 +6892,132 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 270,
+    "price": 19,
+    "popularity": 1157,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/e1ymr6",
+    "category": "Angular",
+    "imageAlt": "riho-angular-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/riho-angular-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/riho/dashboard/default",
+    "templateName": "Riho – Angular 21 Admin Dashboard Template",
+    "description": "Riho Admin is a full featured, multipurpose, premium Angular admin template built with Angular & Bootstrap 5 Framework.It has a huge collection of reusable UI components and integrated with latest plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Angular 21",
+        "Node: 24",
+        "Angular CLI: 21",
+        "Bootstrap 5x",
+        "Style With SASS",
+        "No Jquery",
+        "Type Script",
+        "3 Different Dashboard",
+        "Light & Dark & Box template",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Many Charts Options",
+        "Multi File upload",
+        "Bookmark",
+        "Search",
+        "Language Change",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Chat Application",
+        "Gallery",
+        "Maps",
+        "Editors",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "price": 11,
+    "popularity": 1158,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/gOM3Gg",
+    "category": "Angular",
+    "imageAlt": "vristo-multipurpose-tailwind-angularjs-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vristo-multipurpose-tailwind-angularjs-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.vristo.sbthemes.com/",
+    "templateName": "Vristo – Multipurpose Tailwind Angular 20 Admin Template",
+    "description": "Vristo – Multipurpose Tailwind AngularJS Admin Template is a powerful CRM admin template based on Tailwind CSS. It comes with a bunch of working apps to build your next back-end application with ease. Our CRM Admin theme contains collections of well-designed demos that will save you a lot of time and effort by not having to start from scratch.",
+    "features": [
+      [
+        "Build with Tailwind CSS 3.4+",
+        "Build with Angular 20+",
+        "Build with Typescript",
+        "Figma Available",
+        "Pure Javascript, No jQuery Dependency",
+        "i18n Multilingual Support",
+        "Code Splitting, Lazy loading",
+        "Fully Responsive Layout",
+        "Multiple Dashboard",
+        "Multiple navigation styles (Vertical/Horizontal/Collapsible)",
+        "Multiple Layouts (Full Width/Boxed)",
+        "Multiple Navbars (Static/Floating/Sticky)",
+        "Light, Dark & Semi Dark mode",
+        "Flexible Charts",
+        "Custom design for DataTables",
+        "Pre-built Apps (Chat, Mailbox, Todo List, Notes, Scrumboard, Contacts, Invoices, Calendar, User Profile etc.)",
+        "Pre-built Pages (FAQs, Helpdesk, Privacy Policy, Coming Soon, Error Pages, etc.)",
+        "Multiple Authentication pages layouts",
+        "Pricing",
+        "Lightbox",
+        "Drag & Drop",
+        "Feather & Fontawesome Icons",
+        "Unlimited Template Possibilities",
+        "Organized Folder Structure",
+        "Clean & Commented Code",
+        "Well Documented",
+        "FREE Lifetime Updates",
+        "6 months of free support included",
+        "And Many More…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
