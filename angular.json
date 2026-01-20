@@ -7019,5 +7019,50 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 272,
+    "price": 17,
+    "popularity": 1159,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/dONXB3",
+    "category": "Angular",
+    "imageAlt": "able-pro-angular-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/able-pro-angular-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://ableproadmin.com/angular/default/dashboard/default",
+    "templateName": "Able Pro Angular 21 Dashboard Template",
+    "description": "Able Pro stands out as an excellent admin dashboard template that you can find on Themeforest. It’s crafted using Angular Material and features a sleek material design, making it perfect for your web application. Whether you’re working on an eCommerce site, a CRM, or any SaaS-based project, Able Pro has got you covered. It’s not just responsive but also offers a wide range of tools to support your backend needs. The template is dynamic and customizable, supporting material ui. Able Pro has proven itself as a reliable choice for various projects. Take a closer look at this versatile admin dashboard template and enhance your web app effortlessly.",
+    "features": [
+      [
+        "Light/Dark/Auto Vertical Layout options.",
+        "Live customizer to play around real-time with design.",
+        "Code Standard that makes easy developer experience (DX).",
+        "Retina Ready and Mobile-first responsive design.",
+        "Modern User Interface with easy user experience",
+        "Easy to use folder structure",
+        "Well Commented code style",
+        "Easy Documentation Guide"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

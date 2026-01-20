@@ -14607,5 +14607,79 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 334,
+    "price": 59,
+    "popularity": 1273,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/N91d7q",
+    "category": "NextJs",
+    "imageAlt": "ynex-nextjs-bootstrap-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ynex-nextjs-bootstrap-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/ynex/preview/components/dashboard/crm/",
+    "templateName": "Ynex - Bootstrap Nextjs Admin Dashboard Template",
+    "description": "Ynex NextJs Javascript Admin Panel Bootstrap Template is a versatile and feature-rich platform crafted to meet diverse development needs. Boasting an extensive collection of over 170+ styled components nextjs and 60+ plugins, including nextjs styled components, this nextjs admin template provides developers with a robust foundation to build optimized admin dashboards.",
+    "features": [
+      [
+        "Page Router",
+        "170+ React components",
+        "60+ integrated Plugins",
+        "12 Dashboard variations",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, icon click and icon Hover",
+        "3 types of Charts",
+        "React-Bootstrap Framework",
+        "Well Commented Code",
+        "Grid JS Tables",
+        "Filepond",
+        "Dropzone",
+        "Easy to customize",
+        "Neat, clean and simple design",
+        "TimeLine",
+        "Editable Text",
+        "Message Chat",
+        "Google Fonts",
+        "Mail Inbox",
+        "6 Types of Icon sets",
+        "Lock screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "React full-Calendar",
+        "Pricing Tables",
+        "Very Easy to Create your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
