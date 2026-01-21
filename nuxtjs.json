@@ -6566,5 +6566,74 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 150,
+    "price": 39,
+    "popularity": 1128,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/bORbDk",
+    "category": "Vue",
+    "imageAlt": "bankhub-fintech-and-banking-nextjs-tailwind-css-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/bankhub-fintech-and-banking-nextjs-tailwind-css-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://bankhub-nextjs.softivuspro.com/",
+    "templateName": "Bankhub - Vuejs, Next.js, HTML, Laravel, Angular, Tailwind CSS Fintech and Banking Admin Dashboard",
+    "description": "BankHub – Vuejs, Next.js, HTML, Laravel, Admin Dashboard Template – is the most developer friendly & highly customizable Admin Dashboard Template. If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than BankHub. We’ve followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want.Elevate your financial admin experience with Bankhub’s responsive design, tailored features, and robust technology stack. Ideal for creating intuitive and efficient interfaces for your FinTech projects.",
+    "features": [
+      [
+        "Build with Tailwind CSS",
+        "Build with React JS 18.",
+        "Build with React TS 18.",
+        "Build with Vue + Laravel + Inertia",
+        "Build with Angular 17",
+        "Build with Vue 3",
+        "Build with Laravel 10* with Vite",
+        "Build with Laravel + Vue 3 with Inertia, Vite",
+        "Dark, Light with RTL Supported",
+        "Multiple Layouts with Responsive",
+        "Fully Responsive Design",
+        "W3C Validated HTML Pages",
+        "Light-Weight, Clean & Commented Code",
+        "Easy to Customize with SCSS Variables",
+        "Unlimited Color options",
+        "Well Organized Folder Structure",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities",
+        "Authentication & Error Pages",
+        "Vertical, Horizontal & Detached",
+        "Light & Dark Modes",
+        "Fluid & Boxed Width",
+        "Fixed & Scrollable Positions",
+        "Light & Dark Topbars",
+        "Default, Compact, Small Icon & Icon Hovered Sidebars",
+        "Light & Colored Sidebars",
+        "LTR & RTL supported",
+        "Preloader option"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

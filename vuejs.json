@@ -5174,7 +5174,7 @@
   {
     "id": 137,
     "price": 0,
-    "popularity": 1117,
+    "popularity": 1118,
     "appType": "website",
     "details": "https://github.com/Rauliqbal/super-portfolio/archive/refs/heads/main.zip",
     "category": "Nuxt",
@@ -5380,7 +5380,7 @@
   {
     "id": 141,
     "price": 9,
-    "popularity": 1118,
+    "popularity": 1119,
     "appType": "admin-template",
     "details": "https://1.envato.market/Dy406G",
     "category": "Vue",
@@ -5469,7 +5469,7 @@
   {
     "id": 142,
     "price": 29,
-    "popularity": 1119,
+    "popularity": 1120,
     "appType": "admin-template",
     "details": "https://1.envato.market/9LK2j0",
     "category": "Vue",
@@ -5537,7 +5537,7 @@
   {
     "id": 143,
     "price": 16,
-    "popularity": 1120,
+    "popularity": 1121,
     "appType": "admin-template",
     "details": "https://1.envato.market/jeqg3n",
     "category": "Vue",
@@ -5594,7 +5594,7 @@
   {
     "id": 144,
     "price": 49,
-    "popularity": 1121,
+    "popularity": 1122,
     "appType": "admin-template",
     "details": "https://1.envato.market/ra577G",
     "category": "NextJs",
@@ -5655,7 +5655,7 @@
   {
     "id": 145,
     "price": 19,
-    "popularity": 1122,
+    "popularity": 1123,
     "appType": "admin-template",
     "details": "https://1.envato.market/VxqXO6",
     "category": "Vue",
@@ -5721,7 +5721,7 @@
   {
     "id": 146,
     "price": 39,
-    "popularity": 1123,
+    "popularity": 1124,
     "appType": "admin-template",
     "details": "https://1.envato.market/EEk4eQ",
     "category": "Vue",
@@ -5771,7 +5771,7 @@
   {
     "id": 147,
     "price": 29,
-    "popularity": 1124,
+    "popularity": 1125,
     "appType": "admin-template",
     "details": "https://1.envato.market/JK9m9v",
     "category": "Vue",
@@ -5822,7 +5822,7 @@
   {
     "id": 148,
     "price": 25,
-    "popularity": 1125,
+    "popularity": 1126,
     "appType": "admin-template",
     "details": "https://1.envato.market/BnmOV4",
     "category": "Vue",
@@ -5867,7 +5867,7 @@
   {
     "id": 149,
     "price": 29,
-    "popularity": 1126,
+    "popularity": 1127,
     "appType": "admin-template",
     "details": "https://1.envato.market/2ab3QA",
     "category": "Vue",
@@ -5922,6 +5922,75 @@
       {
         "value": "business",
         "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "price": 39,
+    "popularity": 1128,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/bORbDk",
+    "category": "Vue",
+    "imageAlt": "bankhub-fintech-and-banking-nextjs-tailwind-css-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/bankhub-fintech-and-banking-nextjs-tailwind-css-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://bankhub-nextjs.softivuspro.com/",
+    "templateName": "Bankhub - Vuejs, Next.js, HTML, Laravel, Angular, Tailwind CSS Fintech and Banking Admin Dashboard",
+    "description": "BankHub – Vuejs, Next.js, HTML, Laravel, Admin Dashboard Template – is the most developer friendly & highly customizable Admin Dashboard Template. If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than BankHub. We’ve followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want.Elevate your financial admin experience with Bankhub’s responsive design, tailored features, and robust technology stack. Ideal for creating intuitive and efficient interfaces for your FinTech projects.",
+    "features": [
+      [
+        "Build with Tailwind CSS",
+        "Build with React JS 18.",
+        "Build with React TS 18.",
+        "Build with Vue + Laravel + Inertia",
+        "Build with Angular 17",
+        "Build with Vue 3",
+        "Build with Laravel 10* with Vite",
+        "Build with Laravel + Vue 3 with Inertia, Vite",
+        "Dark, Light with RTL Supported",
+        "Multiple Layouts with Responsive",
+        "Fully Responsive Design",
+        "W3C Validated HTML Pages",
+        "Light-Weight, Clean & Commented Code",
+        "Easy to Customize with SCSS Variables",
+        "Unlimited Color options",
+        "Well Organized Folder Structure",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities",
+        "Authentication & Error Pages",
+        "Vertical, Horizontal & Detached",
+        "Light & Dark Modes",
+        "Fluid & Boxed Width",
+        "Fixed & Scrollable Positions",
+        "Light & Dark Topbars",
+        "Default, Compact, Small Icon & Icon Hovered Sidebars",
+        "Light & Colored Sidebars",
+        "LTR & RTL supported",
+        "Preloader option"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
       },
       {
         "value": "saas",
