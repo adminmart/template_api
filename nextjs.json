@@ -14892,5 +14892,128 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 338,
+    "price": 16,
+    "popularity": 1277,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/4G6ajM",
+    "category": "NextJs",
+    "imageAlt": "tailwick-tailwind-css-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwick-tailwind-css-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themesdesign.in/tailwick/reactjs/index",
+    "templateName": "Tailwick - Tailwind, React, Next.js, Angular, Vue Nuxt, Laravel, Rails Admin Dashboard HTML Template",
+    "description": "Tailwick is a powerful, modern, and user-friendly Tailwind CSS Admin & Dashboard Template designed for developers who value flexibility, speed, and simplicity. It’s fully responsive, highly customizable, and packed with pre-built pages, layouts, and components to help you build professional web applications faster than ever.",
+    "features": [
+      [
+        "Build with TailwindCSS v4.1.x",
+        "Build with Vite",
+        "Multiple Layouts",
+        "Dark, Light with RTL Supported",
+        "Fully Responsive Design",
+        "Light-Weight Code",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities",
+        "Sidebar with many color option support",
+        "Authentication & Error Pages",
+        "Profile, Pricing, Coming soon, Maintenance, Timeline, FAQ and many more Pages"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "price": 69,
+    "popularity": 1278,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/WyBOrP",
+    "category": "NextJs",
+    "imageAlt": "spruha-next-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/spruha-next-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/spruha-ts/preview/components/dashboard/dashboard/",
+    "templateName": "Spruha - Next JS Typescript Admin Template",
+    "description": "Spruha is a cutting-edge nextjs react typescript bootstrap admin dashboard template crafted for developers and designers who prioritize performance, scalability, and modern aesthetics. Featuring a clean codebase and fully responsive design, Spruha next js dashboard template offers an intuitive and powerful interface for monitoring, managing, and visualizing web application data. Whether you’re developing a CRM system, a SaaS backend, or an internal bootstrap admin panel, Spruha next js material ui dashboard react template provides a rock-solid foundation for professional web projects.",
+    "features": [
+      [
+        "Page Router",
+        "130+ Next.js Components",
+        "20+ Integrated Plugins",
+        "3 Dashboard Variations",
+        "Vertical & Horizontal Layouts",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover Options",
+        "Responsive Bootstrap Framework",
+        "Well-Commented Code",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Timeline",
+        "Editable Text",
+        "Message Chat",
+        "Google Fonts",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "14 Types of Icons",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Professional Company Support",
+        "Regular Updates",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "React Full-Calendar",
+        "Pricing Tables",
+        "Very Easy to Create Your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
