@@ -7249,5 +7249,70 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 276,
+    "price": 19,
+    "popularity": 1163,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/bORVqB",
+    "category": "Angular",
+    "imageAlt": "dunzo-angular-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dunzo-angular-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/dunzo/dashboard/default",
+    "templateName": "Dunzo Angular 21 Admin Dashboard Template",
+    "description": "Dunzo Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework and angular.It has a huge collection of reusable UI components and integrated with latest version. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Angular : 21",
+        "Node: 24.0.0",
+        "Angular CLI: 21",
+        "Bootstrap 5x",
+        "Style With SASS",
+        "No Jquery",
+        "Type Script",
+        "3 Different Dashboard",
+        "Light & Dark & Box templete",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commended Codes",
+        "W3C Validated Code",
+        "Many Charts Options",
+        "Multi File upload",
+        "Bookmark",
+        "Search",
+        "Language Change",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Chat Application",
+        "Gallery",
+        "Maps",
+        "Editors",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
