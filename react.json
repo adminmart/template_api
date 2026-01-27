@@ -15276,5 +15276,121 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 343,
+    "price": 29,
+    "popularity": 1282,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/4G6x6L",
+    "category": "NextJs",
+    "imageAlt": "ekash-personal-finance-management-admin-dashboard-nextjs-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ekash-personal-finance-management-admin-dashboard-nextjs-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://ekash-next.vercel.app/",
+    "templateName": "Ekash - Personal Finance Management Admin Dashboard Nextjs Template",
+    "description": "Personal Finance Management refers to the process of managing an individual’s or a household’s financial resources with the goal of achieving financial stability and meeting both short-term and long-term financial objectives.",
+    "features": [
+      [
+        "2 Theme Colors",
+        "Dark & Light Sidebar",
+        "45+ Page Templates",
+        "150+ UI Components",
+        "Bootstrap 5x",
+        "2000+ Font Icons",
+        "Fully Responsive",
+        "SassBase CSS",
+        "Easy to Customize",
+        "Lots of Chart Options",
+        "Lots of Table Examples",
+        "Regular Updates",
+        "Detailed Documentation",
+        "Dedicated Support"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "price": 29,
+    "popularity": 1283,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/EEQPbW",
+    "category": "NextJs",
+    "imageAlt": "dashboi-multipurpose-react-next-js-tailwind-css-dashboard-system",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashboi-multipurpose-react-next-js-tailwind-css-dashboard-system.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dashboi-one.vercel.app/dashboards/personal-1",
+    "templateName": "Dashboi - Multipurpose React Next JS Tailwind CSS Dashboard System",
+    "description": "Dashboi is a comprehensive dashboard system built using React, Next.js, TypeScript, and Tailwind CSS. This multipurpose dashboard solution combines a wide array of cutting-edge technologies and essential packages to offer a robust toolkit for dashboard creation.",
+    "features": [
+      [
+        "Built on Pure React+Next.js without jQuery",
+        "Single and Multi-page Template",
+        "Built on React 18.2.0, Next.js 13.5.6, Tailwindcss & Sass",
+        "Headlessui",
+        "React Modal Video",
+        "React Range Slider Input",
+        "Reactjs",
+        "Nextjs",
+        "next-themes",
+        "bootstrap",
+        "prismjs",
+        "react-modal-video",
+        "react-responsive",
+        "react-slick",
+        "sass",
+        "ES6+",
+        "Retina Ready",
+        "Responsive in Any Device",
+        "Creative Layout",
+        "Fast, Lightweight & Powerful",
+        "Smooth Transition Effects",
+        "Integrated with FontAwesome & Flaticon",
+        "Awesome Customized Slider",
+        "W3 Valid",
+        "SEO Friendly",
+        "Developer Friendly",
+        "Easily Customizable",
+        "Detailed Documentation"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

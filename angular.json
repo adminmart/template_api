@@ -7314,5 +7314,56 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 277,
+    "price": 22,
+    "popularity": 1164,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/3Jba9X",
+    "category": "Angular",
+    "imageAlt": "doot-angular-16-chat-app-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/doot-angular-16-chat-app-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.themesbrand.com/doot/angular/light/",
+    "templateName": "Doot - Angular 21 Chat App Template",
+    "description": "Doot is a powerful and responsive chat template built with Angular 21x & Bootstrap 5. Doot allows you to add new users, create channels or groups, Reply – Forward – Copy & Delete messages. We have provided Audio call, Video call popup design, and Map and contact card design. It’s fully responsive on all devices. We have created JSON files for contact, users & group messages. Also, we have provided a theme background color and image options for a modern look.",
+    "features": [
+      [
+        "Built with Anglar 21x with Bootstrap v5x",
+        "RTL & LTR with Light & Dark Supported",
+        "Single and Channel chat design",
+        "Send messages functionality. Without any Backend",
+        "Audio – Video Call and Bookmark page design",
+        "Profile & Setting page design",
+        "SASS Powered",
+        "Sketch, Figma & Adobe XD Available",
+        "Fully Responsive Layout",
+        "Authentication Pages Included",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Well documented",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
