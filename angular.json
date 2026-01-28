@@ -7365,5 +7365,202 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 278,
+    "price": 19,
+    "popularity": 1165,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/EEQXd9",
+    "category": "Angular",
+    "imageAlt": "cion-angular-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cion-angular-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/cion/dashboard/default",
+    "templateName": "Cion Angular 21 Admin Dashboard Template",
+    "description": "Cion Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework and angular.It has a huge collection of reusable UI components and integrated with latest version. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Bootstrap 5x",
+        "Style With SASS",
+        "Node 24.0.0 & Angular CLI: 21",
+        "No Jquery",
+        "2 Different Dashboard",
+        "Light & Dark & Box templete",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commended Codes",
+        "W3C Validated Code",
+        "Many Charts Options",
+        "Multi File upload",
+        "Bookmark",
+        "Search",
+        "Language Change",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Chat Application",
+        "Gallery",
+        "Maps",
+        "Editors",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "price": 23,
+    "popularity": 1166,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/JK50a2",
+    "category": "Angular",
+    "imageAlt": "vixon-angular-16-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vixon-angular-16-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.themesbrand.com/vixon/angular/v-light/",
+    "templateName": "Vixon - Angular 17 Admin & Dashboard Template",
+    "description": "Vixon is a fully responsive and premium Angular 17 & Bootstrap 5.3.2 Admin & Dashboard Template. Whether you’re creating a Web App, Dashboards, Admin Panels, eCommerce App or SASS-based interface using Angular then you are at the right place to buy a Vixon admin dashboard template. We have used scss variables-based modes along with RTL support. You can quickly change the layout or mode by changing data attributes only instead of changing huge lines of code. We have written complete minimal code for the beautiful UI. Vixon has 5 types of layouts ( Vertical, Horizontal, Detached, Two Column, & Hovered ) with multiple options of layouts like Fixed & Scrollable. Also support Dark, Light, and RTL modes and many other options.",
+    "features": [
+      [
+        "Build with Angular 17x",
+        "Build with Bootstrap v5.3x",
+        "Dark, Light with RTL Supported",
+        "Multiple Layouts",
+        "Fully Responsive Design",
+        "W3C Validated HTML Pages",
+        "Light-Weight Code",
+        "SASS Powered",
+        "Easy to Customize with SCSS Variables",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities",
+        "Calendar, Chat, Email, Contacts, File Manager, TO DO, Invoices, Kanban Board Apps",
+        "Authentication & Error Pages",
+        "Profile, Settings, Pricing, Coming soon, Maintenance, Timeline, Privacy Policy, FAQ and many more Pages"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "price": 69,
+    "popularity": 1167,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/OeGQQP",
+    "category": "Angular",
+    "imageAlt": "synto-angular-tailwind-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/synto-angular-tailwind-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.spruko.com/synto/preview/dashboard/sales",
+    "templateName": "Synto - Angular Tailwind Admin Panel Template",
+    "description": "Synto is a powerful tailwind css angular admin dashboard template crafted for developers and UI designers who demand high performance, flexibility, and modern aesthetics. With a clean codebase and fully responsive layout, Synto ng template in angular delivers an intuitive and seamless experience for managing, monitoring, and visualizing application data. Whether you’re developing a CRM, SaaS backend, or internal admin system, Synto tailwind css admin dashboard provides the scalability and structure required for today’s web applications.",
+    "features": [
+      [
+        "Integrated Firebase for User Authentication",
+        "Google Fonts Integration",
+        "SCSS Powered Styling",
+        "2 Menu Types: Left Menu & Horizontal Menu",
+        "Dark & Light Mode Options",
+        "30+ Integrated Plugins",
+        "3 Types of Charts",
+        "2 Types of Icons",
+        "Accordion Component",
+        "Time Picker",
+        "Date Picker",
+        "Date, Month & Year Range Picker",
+        "Multiple Select Input",
+        "Interactive Calendar",
+        "Animated Counters",
+        "Carousel Slider",
+        "Select2 Integration",
+        "Sweet Alerts",
+        "Mail Inbox Interface",
+        "Mail Compose Page",
+        "Modal Dialogs",
+        "Range Slider",
+        "Rating Component",
+        "File Upload Feature",
+        "Message Chat Module",
+        "Advanced Form Elements",
+        "Data Tables",
+        "Lock Screen Page",
+        "Error Page",
+        "Under Construction Page",
+        "User Profile Page",
+        "Invoice Page",
+        "Pricing Tables",
+        "Progress Bars",
+        "Additional Widgets",
+        "Tailwind CSS Responsive Framework",
+        "Well-Commented and Developer-Friendly Code",
+        "Regular Lifetime Updates",
+        "Easy to Customize and Extend",
+        "Clean, Minimalist, and Modern Design",
+        "W3C Validated Code",
+        "Professional Helpdesk Support",
+        "Very Easy to Create Your Own Admin Panel"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
