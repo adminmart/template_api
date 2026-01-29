@@ -15269,5 +15269,127 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 344,
+    "price": 14,
+    "popularity": 1283,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/nXDMA7",
+    "category": "NextJs",
+    "imageAlt": "bankco-react-nextjs-tailwind-admin-templates",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/bankco-react-nextjs-tailwind-admin-templates.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://bankco-next.vercel.app/",
+    "templateName": "Bankco - React NextJS Tailwind Admin Templates",
+    "description": "Our Bankco – React NextJS Tailwind Admin Templates is designed to meet the unique needs of financial and analytical companies seeking a powerful and modern admin and dashboard solution. Bankco – React NextJS Tailwind Admin Templates is built with the latest versions of React Next.js and powered by Tailwind CSS, this template offers a robust foundation for creating intuitive and data-rich web applications.",
+    "features": [
+      [
+        "Tailwind CSS",
+        "Nextjs v12",
+        "Reactjs v18.2.0",
+        "Using Functional Reusable Components",
+        "Reactjs hooks",
+        "Custom React hooks",
+        "React Router v5.3.0",
+        "React slick carousel",
+        "React Lightbox",
+        "React-countup",
+        "eslint v7.11.0",
+        "Babel-eslint v10.1.0",
+        "Prettier v2.4.1",
+        "Fully Responsive Layouts",
+        "Responsive Navigation Menu",
+        "RTL mode feature for Home page 1",
+        "Dark mode feature for Home page 1",
+        "API fetch example in Shops page",
+        "No jQuery",
+        "Well Documented",
+        "Regular update",
+        "Dedicated support",
+        "and much much more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "price": 59,
+    "popularity": 1284,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/zx1MB6",
+    "category": "NextJs",
+    "imageAlt": "jampack-robust-nextjs-saas-app-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/jampack-robust-nextjs-saas-app-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://next-jampack-classic.vercel.app/dashboard",
+    "templateName": "Jampack - Robust Next.js SaaS App Template",
+    "description": "Introducing Jampack, the premium dashboard and admin template thoughtfully built on the foundations of Next.js and React-Bootstrap. Jampack offers a wide array of operational, strategic, analytical, and collaborative applications. Elevate your web project with the power of Jampack.",
+    "features": [
+      [
+        "Next.js",
+        "App Router",
+        "React Hooks based Architecture",
+        "10+ Conceptual Apps",
+        "1000+ UI Elements",
+        "Responsive Layout",
+        "Lots of Widgets",
+        "Vector Google Maps",
+        "1500+ Icons",
+        "Chart Options",
+        "React Table",
+        "Form Elements with Validation",
+        "Multi File Upload",
+        "Authentication Pages",
+        "Error Pages",
+        "Apps Examples",
+        "Lightbox Gallery",
+        "Carousels",
+        "Modal Windows",
+        "Text Editor",
+        "No jQuery",
+        "Easy to Customise",
+        "24×7 Support",
+        "Detailed Online Documentation",
+        "Free Updates Lifetime"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

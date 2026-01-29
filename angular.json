@@ -7562,5 +7562,67 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 281,
+    "price": 19,
+    "popularity": 1168,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/qzrMNL",
+    "category": "Angular",
+    "imageAlt": "boho-angular-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/boho-angular-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/boho/dashboard/default",
+    "templateName": "Boho - Angular 21 Admin Dashboard",
+    "description": "Boho Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework and angular.It has a huge collection of reusable UI components and integrated with latest version. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Bootstrap 5x",
+        "Style With SASS",
+        "Developed with Angular 21, Node 24.0.0 & Angular CLI 21",
+        "No jQuery",
+        "2 Different Dashboards",
+        "Light, Dark & Boxed Templates",
+        "Multiple Color Options",
+        "Fully Responsive Layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Many Charts Options",
+        "Multi File Upload",
+        "Bookmark",
+        "Search",
+        "Language Change",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Chat Application",
+        "Gallery",
+        "Maps",
+        "Editors",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
