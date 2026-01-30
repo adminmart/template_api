@@ -6026,5 +6026,68 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 142,
+    "price": 12,
+    "popularity": 1091,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/o4Q7YE",
+    "category": "Tailwind",
+    "imageAlt": "sliced-laravel-10-tailwind-css-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sliced-laravel-10-tailwind-css-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://sliced-tailwind.netlify.app/html/",
+    "templateName": "Sliced - Laravel 12, React, Angular, Blazor, Vue, Svelte & Tailwind CSS Admin & Dashboard Template",
+    "description": "Sliced is a powerful admin dashboard template built in React, Svelte, Laravel 12, Blazor .Net 6, Angular 20, Vue 3, NodeJS, PHP, Symfony, Yii2, CakePHP & CodeIgniter with Tailwind CSS v4 framework & Alpine Js. Sliced comes with dozens of functional designs to help you get started quickly. The template’s utilization of the popular Tailwind CSS framework ensures responsive and mobile-friendly design elements, adapting seamlessly to various screen sizes and devices.",
+    "features": [
+      [
+        "Built with Laravel 12 & TailwindCSS v4.1.11 & Alpine Js",
+        "Built with React 18",
+        "Built with Svelte",
+        "Built with Blazor .Net 6",
+        "Built with Angular 20",
+        "Built with Vue 3",
+        "Built with NodeJS",
+        "Built with PHP",
+        "Built with Symfony",
+        "Built with Yii2",
+        "Built with CakePHP",
+        "Built with CodeIgniter",
+        "Light, Dark & RTL Supported",
+        "Multiple Layouts",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Font Based Icons",
+        "Email Application",
+        "Chat Application",
+        "Invoices pages",
+        "Contacts and Profile page",
+        "Tables",
+        "Forms",
+        "Google Fonts",
+        "Authorized Page",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

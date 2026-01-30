@@ -3183,5 +3183,81 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 81,
+    "price": 16,
+    "popularity": 1066,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/bOREEP",
+    "category": "Bootstrap",
+    "imageAlt": "judia-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/judia-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themesbrand.com/judia/html/index.html",
+    "templateName": "Judia - Bootstrap, React, Angular, Vuejs, Laravel, Django, ASP.Net Core, MVC5 Admin Dashboard Theme",
+    "description": "Judia is a fully responsive and Premium Multipurpose Admin & Dashboard Template built with Bootstrap 5.3.1, React 18x, Angular 16, Vue 3, Laravel 10, Django, ASP.Net Core 7, ASP.Net MVC5, Codeigniter 4, Symfony, PHP, Ajax, NodeJs, Flask & CakePHP 4.3 versions. Create Web Applications that Scale and Perform Efficiently. Experience an admin template that’s prepared for production, user-friendly, and provides you with easy access to both reliability and customization.",
+    "features": [
+      [
+        "Build with Bootstrap v5.3.1",
+        "Build with React 18.* with Toolkit",
+        "Build with Angular 16 with NGRX",
+        "Build with Vue3",
+        "Build with Laravel 10",
+        "Build with Django",
+        "Build with ASP.Net Core7",
+        "Build with ASP.Net MVC5",
+        "Build with Codeigniter 4",
+        "Build with Symfony",
+        "Build with PHP",
+        "Build with Ajax",
+        "Build with NodeJs",
+        "Build with Flask",
+        "Build with CakePHP 4.3",
+        "Dark, Light, Brand with RTL Supported",
+        "Fully Responsive Design",
+        "W3C Validated HTML Pages",
+        "Gulp Based Workflow",
+        "Light-Weight Code",
+        "SASS Powered",
+        "Easy to Customize with SCSS Variables",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities",
+        "Calendar, Chat, Crypto, Customers, File Manager Invoices, Notes, To Do Apps",
+        "Authentication & Error Pages",
+        "Profile, Pricing, Coming soon, Maintenance, Timeline, Privacy Policy, FAQ and many more Pages",
+        "Layout Features:",
+        "Borderless & Border Card Layouts",
+        "Light, Dark & Brand Modes",
+        "Fluid & Boxed Width",
+        "Fixed & Scrollable Positions",
+        "Light & Dark or Background Pattern Topbars",
+        "LTR & RTL supported",
+        "Preloader Option"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

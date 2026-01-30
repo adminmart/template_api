@@ -15391,5 +15391,190 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 346,
+    "price": 14,
+    "popularity": 1285,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/090evE",
+    "category": "NextJs",
+    "imageAlt": "techwave-ai-react-nextjs-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/techwave-ai-react-nextjs-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://techwave-nextjs.vercel.app/",
+    "templateName": "TechWave - AI React NextJS Admin Template",
+    "description": "TechWave is a dynamic React NextJs dashboard template that leverages the capabilities of artificial intelligence (AI) to enhance image generation and chat bot functionalities. Designed as a versatile solution, TechWave empowers users to integrate AI chat bots or AI image generation platforms into their existing systems.",
+    "features": [
+      [
+        "Fully Responsive HTML5",
+        "Online Documentation",
+        "CSS3 Animations",
+        "SEO optimized",
+        "Mobile Navigations",
+        "Fully Responsive to all devices",
+        "Developer Friendly Coding",
+        "Very Well Documented",
+        "Free Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "price": 12,
+    "popularity": 1286,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/o4Q7YE",
+    "category": "React",
+    "imageAlt": "sliced-laravel-10-tailwind-css-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sliced-laravel-10-tailwind-css-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://sliced-react.vercel.app/index",
+    "templateName": "Sliced - Laravel 12, React, Angular, Blazor, Vue, Svelte & Tailwind CSS Admin & Dashboard Template",
+    "description": "Sliced is a powerful admin dashboard template built in React, Svelte, Laravel 12, Blazor .Net 6, Angular 20, Vue 3, NodeJS, PHP, Symfony, Yii2, CakePHP & CodeIgniter with Tailwind CSS v4 framework & Alpine Js. Sliced comes with dozens of functional designs to help you get started quickly. The template’s utilization of the popular Tailwind CSS framework ensures responsive and mobile-friendly design elements, adapting seamlessly to various screen sizes and devices.",
+    "features": [
+      [
+        "Built with Laravel 12 & TailwindCSS v4.1.11 & Alpine Js",
+        "Built with React 18",
+        "Built with Svelte",
+        "Built with Blazor .Net 6",
+        "Built with Angular 20",
+        "Built with Vue 3",
+        "Built with NodeJS",
+        "Built with PHP",
+        "Built with Symfony",
+        "Built with Yii2",
+        "Built with CakePHP",
+        "Built with CodeIgniter",
+        "Light, Dark & RTL Supported",
+        "Multiple Layouts",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Font Based Icons",
+        "Email Application",
+        "Chat Application",
+        "Invoices pages",
+        "Contacts and Profile page",
+        "Tables",
+        "Forms",
+        "Google Fonts",
+        "Authorized Page",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "price": 16,
+    "popularity": 1287,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/bOREEP",
+    "category": "React",
+    "imageAlt": "judia-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/judia-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.themesbrand.com/judia/react/h-light/dashboard",
+    "templateName": "Judia - Bootstrap, React, Angular, Vuejs, Laravel, Django, ASP.Net Core, MVC5 Admin Dashboard Theme",
+    "description": "Judia is a fully responsive and Premium Multipurpose Admin & Dashboard Template built with Bootstrap 5.3.1, React 18x, Angular 16, Vue 3, Laravel 10, Django, ASP.Net Core 7, ASP.Net MVC5, Codeigniter 4, Symfony, PHP, Ajax, NodeJs, Flask & CakePHP 4.3 versions. Create Web Applications that Scale and Perform Efficiently. Experience an admin template that’s prepared for production, user-friendly, and provides you with easy access to both reliability and customization.",
+    "features": [
+      [
+        "Build with Bootstrap v5.3.1",
+        "Build with React 18.* with Toolkit",
+        "Build with Angular 16 with NGRX",
+        "Build with Vue3",
+        "Build with Laravel 10",
+        "Build with Django",
+        "Build with ASP.Net Core7",
+        "Build with ASP.Net MVC5",
+        "Build with Codeigniter 4",
+        "Build with Symfony",
+        "Build with PHP",
+        "Build with Ajax",
+        "Build with NodeJs",
+        "Build with Flask",
+        "Build with CakePHP 4.3",
+        "Dark, Light, Brand with RTL Supported",
+        "Fully Responsive Design",
+        "W3C Validated HTML Pages",
+        "Gulp Based Workflow",
+        "Light-Weight Code",
+        "SASS Powered",
+        "Easy to Customize with SCSS Variables",
+        "Lifetime Free Updates",
+        "Unlimited Template Possibilities",
+        "Calendar, Chat, Crypto, Customers, File Manager Invoices, Notes, To Do Apps",
+        "Authentication & Error Pages",
+        "Profile, Pricing, Coming soon, Maintenance, Timeline, Privacy Policy, FAQ and many more Pages",
+        "Layout Features:",
+        "Borderless & Border Card Layouts",
+        "Light, Dark & Brand Modes",
+        "Fluid & Boxed Width",
+        "Fixed & Scrollable Positions",
+        "Light & Dark or Background Pattern Topbars",
+        "LTR & RTL supported",
+        "Preloader Option"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
