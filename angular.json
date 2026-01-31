@@ -7763,5 +7763,113 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 284,
+    "price": 19,
+    "popularity": 1171,
+    "appType": "landingpage",
+    "details": "https://1.envato.market/VxoJmR",
+    "category": "Angular",
+    "imageAlt": "chitchat-perfect-chat-and-discussion-angular-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chitchat-perfect-chat-and-discussion-angular-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://angular.pixelstrap.net/chitchat/messenger",
+    "templateName": "Chitchat - Angular 21 Chat App Template",
+    "description": "Chitchat is a modern and fully responsive Angular 21 Chat App Template designed to help developers build real-time messaging applications with speed and confidence. Crafted with clean, scalable code and a well-structured architecture, Chitchat offers a seamless user experience across all devices. The template includes thoughtfully designed chat interfaces, user conversations, contact lists, and message states, making it ideal for social platforms, team collaboration tools, and customer support systems.",
+    "features": [
+      [
+        "Bootstrap 5",
+        "Developed with Angular 21",
+        "Style With SASS",
+        "Landing page, email templates included",
+        "Light, Dark & Boxed Templates",
+        "Multiple Color Options",
+        "Fully Responsive Layout",
+        "Font Awesome 5",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Google Fonts (Poppins)",
+        "Chat Application",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "'landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "price": 22,
+    "popularity": 1172,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/090gGL",
+    "category": "Angular",
+    "imageAlt": "steex-angular-16-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/steex-angular-16-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.themesbrand.com/steex/angular/default/",
+    "templateName": "Steex - Angular 21 Admin & Dashboard Template",
+    "description": "Welcome to Steex - admin and dashboard template! It is built with Angular Typescriptand Bootstrap 5.3x! We have used SCSS to write fewer lines of code, which improves performance and allows us to create better-looking designs. We have also used root variables to manage themes, so you can switch between them quickly without reloading the page or adding extra lines of code. Whether you’re building a web app, eCommerce platform, CRM, or real estate project, Steex has got you covered. With its fully responsive and RTL-supported design, Steex ensures that your web app or dashboard looks great on all devices.",
+    "features": [
+      [
+        "Build with Angular 21x & Bootstrap v5.3x",
+        "Auth with Firebase And Fake-backend support",
+        "Multi-language support with i18n ( JSON object )",
+        "Pure Components Based Angular, no jQuery",
+        "Dark, Light with RTL Supported",
+        "Multiple Layouts",
+        "Multiple Themes",
+        "Fully Responsive Design",
+        "SASS Supported",
+        "Light-Weight Code",
+        "Lifetime Free Updates",
+        "Easy to Customize with SCSS Variables",
+        "Unlimited Template Possibilities",
+        "Calendar, Chat, Mailbox, eCommerce, File Manager, Learning, Invoices, Support Tickets, Real Estate Apps",
+        "Authentication & Error Pages",
+        "Profile, Settings, Pricing, Coming soon, Maintenance, Timeline, Privacy Policy, Contact, FAQ, and many more Pages"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "real-estate",
+        "label": "Real Estate"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
