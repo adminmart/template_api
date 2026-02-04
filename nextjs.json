@@ -15964,5 +15964,131 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 355,
+    "price": 59,
+    "popularity": 1293,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/JKgRdE",
+    "category": "React",
+    "imageAlt": "jampack-powerful-reactbootstrap-saas-app-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/jampack-powerful-reactbootstrap-saas-app-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react-jampack-classic.netlify.app/dashboard",
+    "templateName": "Jampack - Powerful React-Bootstrap SaaS App Template",
+    "description": "Jampack is a premium quality dashboard and admin template built on React 18+, React-Bootstrap, Redux, and React-Redux. Jampack includes many operational, strategic, analytical, and collaborative applications. Jampack is a React-Bootstrap & Sass-based solid core framework that works well for all screen sizes and modern browsers. HTML5 validated code kept simple and orderly so that any developer can pick it up easily.",
+    "features": [
+      [
+        "React Hooks based Architecture",
+        "10+ Conceptual Apps",
+        "1000+ UI Elements",
+        "Responsive Layout",
+        "Lots of Widgets",
+        "Vector Google Maps",
+        "1500+ Icons",
+        "Chart Options",
+        "React Table",
+        "Form Elements with Validation",
+        "Multi File Upload",
+        "Authentication Pages",
+        "Error Pages",
+        "Apps Examples",
+        "Lightbox Gallery",
+        "Carousels",
+        "Modal Windows",
+        "Text Editor",
+        "No jQuery",
+        "Easy to Customise",
+        "24×7 Support",
+        "Detailed Online Documentation",
+        "Free Updates Lifetime"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "price": 14,
+    "popularity": 1294,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/JKgRdE",
+    "category": "NextJs",
+    "imageAlt": "etherdash-react-next-js-web3-nft-crypto-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/etherdash-react-next-js-web3-nft-crypto-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://ether-dash.vercel.app/",
+    "templateName": "Etherdash - React Next JS Web3 NFT Crypto Dashboard",
+    "description": "Etherdash is a modern and versatile Web3 NFT Crypto Dashboard Template designed with the latest technologies such as React, NextJS, TypeScript, and Tailwind CSS. With a clean and user-friendly interface, Etherdash provides a reliable and efficient solution for your metaverse business needs.",
+    "features": [
+      [
+        "Built on Pure React + Next.js without jQuery",
+        "28+ Pages Available",
+        "Single and Multi-page Template",
+        "Built on React 18.2.0, Next.js 13.2.4",
+        "Reactjs",
+        "Nextjs",
+        "framer-motion",
+        "next-themes",
+        "react-apexcharts",
+        "react-loader-spinner",
+        "google Icons",
+        "react-responsive",
+        "react-table",
+        "typescript",
+        "headlessui",
+        "tailwindcss",
+        "ES6+",
+        "Retina Ready",
+        "Responsive in Any Device",
+        "Creative Layout",
+        "Fast, Lightweight & Powerful",
+        "Smooth Transition Effects",
+        "Integrated with FontAwesome & Flaticon",
+        "Awesome Customized Slider",
+        "W3 Valid",
+        "SEO Friendly",
+        "Developer Friendly",
+        "Easily Customizable",
+        "Detailed Documentation"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

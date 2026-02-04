@@ -6826,5 +6826,51 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 154,
+    "price": 49,
+    "popularity": 1132,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/bOWjzv",
+    "category": "Nuxt",
+    "imageAlt": "tairo-multipurpose-nuxt-tailwind-css-dashboard-system",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tairo-multipurpose-nuxt-tailwind-css-dashboard-system.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://tairo.cssninja.io/dashboards",
+    "templateName": "Tairo - Multipurpose Nuxt Tailwind CSS Dashboard System",
+    "description": "Tairo is not a theme or a simple template, it is a full dashboard design system. Tairo is a full rewrite of Vuero using Nuxt and Tailwind CSS instead of Vue and Bulma. It provides ready pages to start building your application effortlessly, as well as a set of additional elements that will help you create new pages for your specific needs. Everything you need to start is there, dashboards, forms, layouts, profile, apps, elements, components and much more. Tairo ships with Shuriken UI, its own UI library, offering many customizations options.",
+    "features": [
+      [
+        "100+ demo pages",
+        "Blazing fast Vite bundler",
+        "Nuxt extensible layers",
+        "Native SSR and SEO",
+        "Hot Reloading",
+        "Graphic assets",
+        "Configurable UI library",
+        "Native Dark Mode",
+        "RTL support"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
