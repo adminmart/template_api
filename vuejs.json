@@ -6234,5 +6234,86 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 155,
+    "price": 11,
+    "popularity": 1133,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/LKzWPZ",
+    "category": "Vue",
+    "imageAlt": "vristo-multipurpose-tailwind-css-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/vristo-multipurpose-tailwind-css-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://vue.vristo.sbthemes.com/",
+    "templateName": "Vristo – Tailwind Admin Template HTML, Angular 20, NextJS App Router, ReactJS, VueJS, Nuxt, Laravel",
+    "description": "Vristo – Multipurpose Tailwind CSS Admin Template is a powerful CRM admin template based on Tailwind CSS. It comes with a bunch of working apps to build your next back-end application with ease. Our CRM Admin theme contains collections of well-designed demos that will save you a lot of time and effort by not having to start from scratch. Vristo admin template also comes with multitude of reusable components such as buttons, charts, widgets, forms, tables and a bunch of elements that you can include in your project. The design is responsive and is 100% adapted to mobile devices of all sizes.",
+    "features": [
+      [
+        "Build with Tailwind CSS 3.4+",
+        "Build with HTML 5",
+        "Build with Angular 20+",
+        "Build with React 18+",
+        "Build with Vue 3+",
+        "Build with Next 16",
+        "Build with Nuxt 3+",
+        "Build with PHP",
+        "Build with Laravel",
+        "Build with ReactJS + Laravel",
+        "Build with VueJS + Laravel",
+        "Build with CakePHP",
+        "Build with CodeIgnitor",
+        "Build with Symfony",
+        "Build with Django",
+        "Build with Ruby on Rails",
+        "Build with AdonisJS",
+        "Build with Vite",
+        "Figma Available",
+        "Pure Javascript, No jQuery Dependency",
+        "i18n Multilingual Support",
+        "Code Splitting, Lazy loading",
+        "Fully Responsive Layout",
+        "Multiple Dashboard",
+        "Multiple navigation styles (Vertical/Horizontal/Collapsible)",
+        "Multiple Layouts (Full Width/Boxed)",
+        "Multiple Navbars (Static/Floating/Sticky)",
+        "Light, Dark & Semi Dark mode",
+        "Flexible Charts",
+        "Custom design for DataTables",
+        "Pre-built Apps (Chat, Mailbox, Todo List, Notes, Scrumboard, Contacts, Invoices, Calendar, User Profile etc.)",
+        "Pre-built Pages (FAQs, Helpdesk, Privacy Policy, Coming Soon, Error Pages, etc.)",
+        "Multiple Authentication pages layouts",
+        "Pricing",
+        "Lightbox",
+        "Drag & Drop",
+        "Feather & Fontawesome Icons",
+        "Unlimited Template Possibilities",
+        "Organized Folder Structure",
+        "Clean & Commented Code",
+        "Well Documented",
+        "FREE Lifetime Updates",
+        "6 months of free support included",
+        "And Many More…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
