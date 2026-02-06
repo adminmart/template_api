@@ -16311,5 +16311,193 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 360,
+    "price": 22,
+    "popularity": 1298,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/raAyBD",
+    "category": "React",
+    "imageAlt": "incrypto-cryptocurrencies-react-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/incrypto-cryptocurrencies-react-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://incrypto.merku.love/",
+    "templateName": "VriInCrypto – Cryptocurrencies React Dashboard",
+    "description": "InCrypto is a relevant and cool-designed Cryptocurrencies Dashboard UI built on pure React. It is perfect for cryptocurrency exchange, crypto and bitcoin services, NFT products management, fintech, wallet, Bitcoin Crypto Currency, blockchain ICO, Asset management and similar. The dashboard looks great and is adapted for both desktop and mobile apps.",
+    "features": [
+      [
+        "Pure React user interface",
+        "All in one for NTF and Cryptocurrencies",
+        "UX is based on real research",
+        "RTL support",
+        "Light/Dark theme",
+        "30+ types of dashboard widgets",
+        "Support chat UI",
+        "Notifications UI",
+        "Account management UI",
+        "Log in/Log out page",
+        "W3C quality marked code",
+        "Built-in accessibility tools",
+        "Used modern best practices in code",
+        "Responsive dashboard",
+        "Fully cross-browser code",
+        "Totally SEO optimized",
+        "Perfectly organised code",
+        "Next generation CSS and JS practices",
+        "Graphs included",
+        "Rich flexible typography",
+        "Ready for iOS and Android devices",
+        "Incredible softly responsive layouts",
+        "Designed and developed in the heart of the bravery",
+        "Lifetime updates and bug fixing",
+        "Detailed quick start guide for newbies",
+        "6 months of premium support for ThemeForest buyers"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "price": 18,
+    "popularity": 1299,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/kO7vP3",
+    "category": "React",
+    "imageAlt": "enzo-bootstrap-5-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/enzo-bootstrap-5-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.pixelstrap.net/enzo/dashboard/default",
+    "templateName": "Enzo - Bootstrap 5,Angular, React, Vue JS & Asp.Net Admin Dashboard Template",
+    "description": "Enzo Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework, HTML5, CSS and JQuery.It has a huge collection of reusable UI components and integrated with latest jQuery plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Bootstrap 5x",
+        "Developed with Vue 3.5.4, TypeScript, Composition API & Node 20.13.1",
+        "Developed with React 19.0.0, Node 24.11.0 & Vite 7.1.12",
+        "Developed with Angular 21 & Node 24.0.0",
+        "Style With SASS",
+        "HTML with PUG",
+        "Using Gulp",
+        "Latest jQuery",
+        "2 Different Dashboards",
+        "Light, Dark & Boxed Templates",
+        "Multiple Color Options",
+        "Fully Responsive Layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Data Table Export to CSV, Excel, PDF, Copy and Print",
+        "Many Charts Options",
+        "Multi File Upload",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Form Wizards",
+        "Chat Application",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "price": 25,
+    "popularity": 1300,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/2aGeeg",
+    "category": "NextJs",
+    "imageAlt": "admash-material-design-react-next-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/admash-material-design-react-next-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://admash-admin.envytheme.com/en/",
+    "templateName": "Admash - Next.js 16 Material Design Admin & Dashboard Template",
+    "description": "Admash is a high-performance Material Design admin dashboard template built for modern web applications. Whether you’re creating analytics platforms, CRM dashboards, SaaS admin panels, project management tools, or internal business systems, Admash provides a clean, scalable, and developer-friendly foundation. This update supercharges performance, refreshes the UI libraries, and ensures compatibility with the latest frameworks for a future-proof build.",
+    "features": [
+      [
+        "eCommerce, Analytics, Project Management, and LMS Courses Dashboard",
+        "101+ Pages and 349+ Components Available",
+        "Built on React 19.2.1, Next.js 16.0.7 (App Routing), and Material UI 7.x",
+        "No jQuery Dependency",
+        "Light and Dark Mode",
+        "Modern Design",
+        "RTL Support for Arabic and Hebrew Languages",
+        "Multilingual Features for Language Translation",
+        "Easy to Customize and Expands",
+        "Components Based Style",
+        "ApexCharts & Recharts",
+        "RTE Text Editor",
+        "Modern Swiper Slider v11.x",
+        "React Dropzone",
+        "Fast, Lightweight & Powerful",
+        "Integrated with RemixIcon & Material Icons",
+        "Responsive in Any Device",
+        "Retina Ready",
+        "Free Google Font",
+        "Easily Customizable",
+        "Developer Friendly",
+        "Well Documented"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
