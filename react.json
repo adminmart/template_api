@@ -16622,5 +16622,204 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 364,
+    "price": 69,
+    "popularity": 1302,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/o4j2xE",
+    "category": "NextJs",
+    "imageAlt": "sash-nextjs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sash-nextjs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nextjs.spruko.com/bootstrap/page/sash-js/preview/components/dashboard/dashboard/",
+    "templateName": "Sash – Nextjs Javascript Admin & Dashboard Template",
+    "description": "Sash is a modern html bootstrap template dashboard, designed for easy data management and visualization with a responsive, intuitive interface. Discover Sash, a powerful and modern nextjs admin template built with nextjs and React-Bootstrap. Featuring 100+ components, RTL support, charts, maps, tables, and firebase integration. Ideal for dashboards, admin panels, and web applications.",
+    "features": [
+      [
+        "JavaScript Version",
+        "Next.js 13",
+        "React-18",
+        "React-Bootstrap",
+        "100+ React Components",
+        "Message Chat",
+        "Mail Inbox",
+        "Widgets Static",
+        "1 Dashboard",
+        "Different Layouts",
+        "RTL Support",
+        "TimeLine",
+        "Form Advanced",
+        "Form Editor",
+        "Email",
+        "Calendar",
+        "11 Different Types of Icons",
+        "Form Elements",
+        "Attractive Gallery",
+        "Invoice Pages",
+        "Media Object",
+        "Pricing Tables",
+        "More Widgets",
+        "Error Pages",
+        "Under Construction Page",
+        "Lock Screen, Registration, Forget Password",
+        "2 Attractive Maps (Leaflet & React Simple Maps)",
+        "3 Attractive Charts (Apex, Chart.js, ECharts)",
+        "Custom Pages",
+        "W3C Validated",
+        "24×7 Professional Company Support",
+        "Very Easy to Create Your Own Site",
+        "Neat, Clean and Simple Design",
+        "Easy to Customize"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "price": 20,
+    "popularity": 1303,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/qze1xn",
+    "category": "React",
+    "imageAlt": "dashbyte-bootstrap-5-dashboard-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashbyte-bootstrap-5-dashboard-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themepixels.site/demo/dashbyte/dashboard/sales.html",
+    "templateName": "Dashbyte React & Bootstrap 5 Dashboard & Admin Template",
+    "description": "Dashbyte, a premium quality dashboard and admin template built on React 18+ and Bootstrap 5. It has Light and Dark template mode with 3 sidebar skins that will make it more attractive. It also have some ready to use web app templates such as Calendar, Contacts, Email, Chat and more for your digital products and services. It is fully responsive built using SCSS Preprocessor, HTML5, CSS3 and jQuery plugins. It can also be used for most type of dashboard and applications such as Analytics, Key Performance Indicator and much more. Amazing flexibility and re-usability.",
+    "features": [
+      [
+        "React 18+",
+        "Bootstrap 5.2.3",
+        "RTL Support",
+        "Fully Responsive Layout",
+        "HTML5 W3C Valid",
+        "SCSS Powered",
+        "jQuery Powered",
+        "100+ HTML5 Templates",
+        "1000+ Font Icons",
+        "Hundreds of reusable ui components",
+        "8 Pre-Built Dashboard Templates",
+        "8 Pre-Built Applications Templates",
+        "Responsive Sidebar Menu",
+        "One Page Application Capable",
+        "Stunning Dashboard Charts (Flot, Morris, Chart JS, Peity)",
+        "Form Tags, Masks, Validator, Pickers and more",
+        "WYSIWYG Editor",
+        "Colored Tables and Grid JS Tables",
+        "Leaflet Maps and Vector Maps",
+        "Dark and Light Template Mode Skins",
+        "Addons Utilities and Helper Classes",
+        "Unlimited Theme Possibilities",
+        "FREE Lifetime Updates",
+        "and much much more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "price": 69,
+    "popularity": 1304,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/PO2oQY",
+    "category": "React",
+    "imageAlt": "valex-react-typescript-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/valex-react-typescript-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.spruko.com/valex-ts/preview/index/",
+    "templateName": "Valex – React TypeScript Admin Dashboard Template",
+    "description": "Valex is a cutting-edge react typescript bootstrap dashboard template designed for developers and designers who prioritize performance, flexibility, and style. With its clean code and fully responsive layouts, Valex react admin template provides an intuitive interface for managing, monitoring, and visualizing data within your web applications. Whether you’re building a CRM, a SaaS backend, or an internal bootstrap admin panel, Valex bootstrap typescript react admin dashboard offers the perfect foundation for scalable, robust projects.",
+    "features": [
+      [
+        "React V18.3.1",
+        "React-router-dom V6.23.1",
+        "Vite V5.2.0",
+        "React-bootstrap V2.10.2",
+        "130+ React Components",
+        "Message Chat",
+        "Mail Inbox",
+        "Widgets Static",
+        "Single Dashboard",
+        "TimeLine",
+        "Form Advanced",
+        "Form Editor",
+        "To-Do Task",
+        "Email",
+        "Calendar",
+        "Form Elements",
+        "Invoice Pages",
+        "Media Object",
+        "Pricing Tables",
+        "More Widgets",
+        "Error Pages",
+        "Ecommerce Pages with Redux",
+        "Under Construction Page",
+        "Lock Screen, Registration, Forget Password",
+        "Custom Pages",
+        "W3C Validated",
+        "Good Professional Company Support",
+        "Very Easy to Create Your Own Site",
+        "Neat, Clean, and Simple Design",
+        "Easy to Customize"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
