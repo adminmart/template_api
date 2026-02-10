@@ -7015,5 +7015,141 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 157,
+    "price": 24,
+    "popularity": 1135,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/5kabA3",
+    "category": "Vue",
+    "imageAlt": "nftmax-vue-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nftmax-vue-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nftmaxv.quomodosoft.com/",
+    "templateName": "NFTMAX- Vue Admin Templates",
+    "description": "NFTMAX- Vue Admin Dashboard Template is crafted with care and love. While making NFTMAX- NFT VUE Admin & Dashboard we kept in mind that what is required and necessary for an Admin & Dashboard for NFT Marketplace. We believe we have covered up each and every single aspect of a Dashboard Design.NFTMAX- Vue Admin Dashboard Template Specially made for NFT Buy Selling Marketplace and Porfolios.",
+    "features": [
+      [
+        "Tailwindcss ^3.0.24",
+        "Vue CLI 3",
+        "Vue CVA",
+        "chart.js ^3.7.1",
+        "eslint v7.11.0",
+        "Babel-eslint v10.1.0",
+        "40+ Dashboard Pages",
+        "200+ Components / Different layouts",
+        "Authentication and Authentication Features",
+        "Middlewares for authenticated users",
+        "Smart Drawer",
+        "Chartjs design customization",
+        "Custom React hooks",
+        "Drag and drop feature for product upload",
+        "Toast Notification",
+        "Using Functional Reusable Components",
+        "Pixel perfect design",
+        "Fully Responsive Layouts",
+        "Responsive Navigation Menu",
+        "No jQuery",
+        "Well Documented",
+        "Regular update",
+        "Dedicated support",
+        "and much much more…",
+        "Fully Responsive Bootstrap 4x",
+        "Clean, Modern & Beautiful Design",
+        "Google Fonts",
+        "100% Valid Code",
+        "Unlimited customization",
+        "3000+ Font Icon",
+        "Lifetime Support"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "price": 19,
+    "popularity": 1136,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/xJE9Zd",
+    "category": "Vue",
+    "imageAlt": "tivo-bootstrap-5-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tivo-bootstrap-5-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://www.vue.pixelstrap.net/tivo/dashboards/default",
+    "templateName": "Tivo - Angular 21, React, Vue Js, Laravel & HTML Admin Dashboard Template",
+    "description": "Tivo Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework, HTML5, CSS and JQuery.It has a huge collection of reusable UI components and integrated with latest jQuery plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Build with Bootstrap 5x Html Admin Dashboard",
+        "Developed with React 19.0.0 & Node 24.11.0 (Vite: 7.1.12)",
+        "Build with Laravel 9 Admin Dashboard",
+        "Developed with Vue 3.5.4 (Optional API) & Node v20.13.1 & npm 10.5.2",
+        "Vue Frontend details: Node version 20.13.1",
+        "Developed with Angular 21 & Node 24.0.0 (Angular CLI: 21)",
+        "Style With SASS",
+        "HTML with PUG",
+        "Using Gulp",
+        "Latest jQuery",
+        "2 Different Dashboards",
+        "Light, Dark & Boxed Templates",
+        "Multiple Color Options",
+        "Fully Responsive Layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Data Table Export to CSV, Excel, PDF, Copy and Print",
+        "Many Charts Options",
+        "Multi File Upload",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Form Wizards",
+        "Chat Application",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
