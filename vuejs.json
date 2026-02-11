@@ -6513,5 +6513,126 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 159,
+    "price": 19,
+    "popularity": 1137,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/qWDAxg",
+    "category": "Vue",
+    "imageAlt": "odix-vuejs-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/odix-vuejs-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://vue.envytheme.com/odix/",
+    "templateName": "Odix -Vuejs Admin Dashboard Template",
+    "description": "Odix is a clean modern Vue.js Admin Dashboard template. It has different reusable and professional responsive components with multiple variations, such as Website Analytics, HR Admin, and LMS Courses. It also contains a mega-collection of features that can help use this template for small to large sizes of projects, including web and mobile apps.",
+    "features": [
+      [
+        "Website Analytics, HR Admin, and LMS Courses Dashboard",
+        "88+ Pages Available",
+        "Built on Vue.js v3+, Bootstrap 5.x, and Sass",
+        "No jQuery Dependency",
+        "ApexCharts",
+        "Fast Loading Speed",
+        "SEO Friendly",
+        "Retina Ready",
+        "Clean And Professional Coding",
+        "Creative Layout",
+        "Responsive in Any Device",
+        "Fast, Lightweight & Powerful",
+        "Smooth Transition Effects",
+        "Integrated with BoxIcons, RemixIcon & Font Awesome Icons",
+        "Free Google Fonts",
+        "Developer Friendly Code",
+        "Free Update",
+        "Easily Customizable",
+        "Well Commented Code",
+        "Detailed Documentation"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "price": 19,
+    "popularity": 1138,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/PzjK4R",
+    "category": "Vue",
+    "imageAlt": "koho-bootstrap-5-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/koho-bootstrap-5-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://vue.pixelstrap.net/koho/dashboard/default",
+    "templateName": "Koho - Bootstrap 5, React, Angular, Vue, Asp.Net & Laravel 10 Dashboard Template",
+    "description": "Koho Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework, HTML5, CSS and JQuery.It has a huge collection of reusable UI components and integrated with latest jQuery plugins. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Developed with Bootstrap 5x Admin Template",
+        "Developed with Laravel 10 Admin Template",
+        "Admin details Vue version is 3.2.40 (optional Api)",
+        "Vue Frontend details: Node version 18.16.0",
+        "Developed with Angular 21 & Node version 24.0.0 (Angular CLI: 21)",
+        "Developed with React 19.0.0 & Node 24.11.0 (Vite: 7.1.12)",
+        "Style With SASS",
+        "HTML with PUG",
+        "Using Gulp",
+        "Latest jQuery",
+        "2 Different Dashboards",
+        "Light, Dark & Boxed Templates",
+        "Multiple Color Options",
+        "Fully Responsive Layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Data Table Export to CSV, Excel, PDF, Copy and Print",
+        "Many Charts Options",
+        "Multi File Upload",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Form Wizards",
+        "Chat Application",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
