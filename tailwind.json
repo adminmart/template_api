@@ -5976,118 +5976,172 @@
         ]
     },
     {
-    "id": 141,
-    "price": 16,
-    "popularity": 1090,
-    "appType": "admin-template",
-    "details": "https://1.envato.market/4G6ajM",
-    "category": "Tailwind",
-    "imageAlt": "tailwick-tailwind-css-admin-dashboard-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwick-tailwind-css-admin-dashboard-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://themesdesign.in/tailwick/reactjs/index",
-    "templateName": "Tailwick - Tailwind, React, Next.js, Angular, Vue Nuxt, Laravel, Rails Admin Dashboard HTML Template",
-    "description": "Tailwick is a powerful, modern, and user-friendly Tailwind CSS Admin & Dashboard Template designed for developers who value flexibility, speed, and simplicity. It’s fully responsive, highly customizable, and packed with pre-built pages, layouts, and components to help you build professional web applications faster than ever.",
-    "features": [
-      [
-        "Build with TailwindCSS v4.1.x",
-        "Build with Vite",
-        "Multiple Layouts",
-        "Dark, Light with RTL Supported",
-        "Fully Responsive Design",
-        "Light-Weight Code",
-        "Lifetime Free Updates",
-        "Unlimited Template Possibilities",
-        "Sidebar with many color option support",
-        "Authentication & Error Pages",
-        "Profile, Pricing, Coming soon, Maintenance, Timeline, FAQ and many more Pages"
-      ]
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "ecommerce",
-        "label": "Ecommerce"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "blog",
-        "label": "Blog"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 142,
-    "price": 12,
-    "popularity": 1091,
-    "appType": "admin-template",
-    "details": "https://1.envato.market/o4Q7YE",
-    "category": "Tailwind",
-    "imageAlt": "sliced-laravel-10-tailwind-css-admin-dashboard-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sliced-laravel-10-tailwind-css-admin-dashboard-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://sliced-tailwind.netlify.app/html/",
-    "templateName": "Sliced - Laravel 12, React, Angular, Blazor, Vue, Svelte & Tailwind CSS Admin & Dashboard Template",
-    "description": "Sliced is a powerful admin dashboard template built in React, Svelte, Laravel 12, Blazor .Net 6, Angular 20, Vue 3, NodeJS, PHP, Symfony, Yii2, CakePHP & CodeIgniter with Tailwind CSS v4 framework & Alpine Js. Sliced comes with dozens of functional designs to help you get started quickly. The template’s utilization of the popular Tailwind CSS framework ensures responsive and mobile-friendly design elements, adapting seamlessly to various screen sizes and devices.",
-    "features": [
-      [
-        "Built with Laravel 12 & TailwindCSS v4.1.11 & Alpine Js",
-        "Built with React 18",
-        "Built with Svelte",
-        "Built with Blazor .Net 6",
-        "Built with Angular 20",
-        "Built with Vue 3",
-        "Built with NodeJS",
-        "Built with PHP",
-        "Built with Symfony",
-        "Built with Yii2",
-        "Built with CakePHP",
-        "Built with CodeIgniter",
-        "Light, Dark & RTL Supported",
-        "Multiple Layouts",
-        "Clean & Well Commented Codes",
-        "W3C Validated Code",
-        "Font Based Icons",
-        "Email Application",
-        "Chat Application",
-        "Invoices pages",
-        "Contacts and Profile page",
-        "Tables",
-        "Forms",
-        "Google Fonts",
-        "Authorized Page",
-        "FREE Lifetime Updates"
-      ]
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "ecommerce",
-        "label": "Ecommerce"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  }
+        "id": 141,
+        "price": 16,
+        "popularity": 1090,
+        "appType": "admin-template",
+        "details": "https://1.envato.market/4G6ajM",
+        "category": "Tailwind",
+        "imageAlt": "tailwick-tailwind-css-admin-dashboard-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/tailwick-tailwind-css-admin-dashboard-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://themesdesign.in/tailwick/reactjs/index",
+        "templateName": "Tailwick - Tailwind, React, Next.js, Angular, Vue Nuxt, Laravel, Rails Admin Dashboard HTML Template",
+        "description": "Tailwick is a powerful, modern, and user-friendly Tailwind CSS Admin & Dashboard Template designed for developers who value flexibility, speed, and simplicity. It’s fully responsive, highly customizable, and packed with pre-built pages, layouts, and components to help you build professional web applications faster than ever.",
+        "features": [
+            [
+                "Build with TailwindCSS v4.1.x",
+                "Build with Vite",
+                "Multiple Layouts",
+                "Dark, Light with RTL Supported",
+                "Fully Responsive Design",
+                "Light-Weight Code",
+                "Lifetime Free Updates",
+                "Unlimited Template Possibilities",
+                "Sidebar with many color option support",
+                "Authentication & Error Pages",
+                "Profile, Pricing, Coming soon, Maintenance, Timeline, FAQ and many more Pages"
+            ]
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "ecommerce",
+                "label": "Ecommerce"
+            },
+            {
+                "value": "business",
+                "label": "Business"
+            },
+            {
+                "value": "blog",
+                "label": "Blog"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "price": 12,
+        "popularity": 1091,
+        "appType": "admin-template",
+        "details": "https://1.envato.market/o4Q7YE",
+        "category": "Tailwind",
+        "imageAlt": "sliced-laravel-10-tailwind-css-admin-dashboard-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/sliced-laravel-10-tailwind-css-admin-dashboard-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://sliced-tailwind.netlify.app/html/",
+        "templateName": "Sliced - Laravel 12, React, Angular, Blazor, Vue, Svelte & Tailwind CSS Admin & Dashboard Template",
+        "description": "Sliced is a powerful admin dashboard template built in React, Svelte, Laravel 12, Blazor .Net 6, Angular 20, Vue 3, NodeJS, PHP, Symfony, Yii2, CakePHP & CodeIgniter with Tailwind CSS v4 framework & Alpine Js. Sliced comes with dozens of functional designs to help you get started quickly. The template’s utilization of the popular Tailwind CSS framework ensures responsive and mobile-friendly design elements, adapting seamlessly to various screen sizes and devices.",
+        "features": [
+            [
+                "Built with Laravel 12 & TailwindCSS v4.1.11 & Alpine Js",
+                "Built with React 18",
+                "Built with Svelte",
+                "Built with Blazor .Net 6",
+                "Built with Angular 20",
+                "Built with Vue 3",
+                "Built with NodeJS",
+                "Built with PHP",
+                "Built with Symfony",
+                "Built with Yii2",
+                "Built with CakePHP",
+                "Built with CodeIgniter",
+                "Light, Dark & RTL Supported",
+                "Multiple Layouts",
+                "Clean & Well Commented Codes",
+                "W3C Validated Code",
+                "Font Based Icons",
+                "Email Application",
+                "Chat Application",
+                "Invoices pages",
+                "Contacts and Profile page",
+                "Tables",
+                "Forms",
+                "Google Fonts",
+                "Authorized Page",
+                "FREE Lifetime Updates"
+            ]
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "ecommerce",
+                "label": "Ecommerce"
+            },
+            {
+                "value": "agency",
+                "label": "Agency"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "price": 12,
+        "popularity": 1092,
+        "appType": "admin-template",
+        "details": "https://1.envato.market/YVDjRP",
+        "category": "Tailwind",
+        "imageAlt": "hexadash-svelte-multipurpose-admin-dashboard-template",
+        "imageSrc": "https://adminmart.github.io/template_api/images/ext/hexadash-svelte-multipurpose-admin-dashboard-template.webp",
+        "subtitle": "Premium Admin Dashboard Template",
+        "livePreview": "https://hexadash-tailwind-css.vercel.app/",
+        "templateName": "HexaDash – Multipurpose Admin Dashboard Template (Svelte, React, Vue, Angular, Laravel & More)",
+        "description": "HexaDash is a modern, feature-rich multipurpose admin dashboard template designed to accelerate your web application development. Built with cutting-edge technologies like Bootstrap, Tailwind, React, Vue, Angular, Svelte, Node.js, Laravel, Django, and more — HexaDash offers high performance, clean design, and a developer-friendly experience. Whether you’re building SaaS apps, project management dashboards, or analytics platforms, HexaDash provides the tools and flexibility you need.",
+        "features": [
+            [
+                "Build On latest Tailwind CSS",
+                "Fully Responsive Design",
+                "HTML5 & CSS3",
+                "No SCSS",
+                "No Jquery",
+                "Clean Code",
+                "Eslint validated",
+                "Supporting CSS, JS files",
+                "Used NPM and Gulp",
+                "2 Demo Page",
+                "90+ Components",
+                "50+ Pages",
+                "Apex Charts",
+                "Google Maps",
+                "Vector Maps",
+                "RTL Ready",
+                "Dark mode Ready"
+            ]
+        ],
+        "createdOn": "",
+        "categories": [
+            {
+                "value": "admin-dashboard",
+                "label": "Admin Dashboard"
+            },
+            {
+                "value": "business",
+                "label": "Business"
+            },
+            {
+                "value": "ecommerce",
+                "label": "Ecommerce"
+            },
+            {
+                "value": "saas",
+                "label": "Saas"
+            }
+        ]
+    }
 ]

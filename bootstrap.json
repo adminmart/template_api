@@ -3392,7 +3392,7 @@
     "popularity": 1069,
     "appType": "admin-template",
     "details": "https://1.envato.market/E0bene",
-    "category": "React",
+    "category": "Bootstrap",
     "imageAlt": "dashcode-admin-dashboard-template",
     "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashcode-admin-dashboard-template.webp",
     "subtitle": "Premium Admin Dashboard Template",
@@ -3432,6 +3432,62 @@
       {
         "value": "blog",
         "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "price": 12,
+    "popularity": 1070,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/YVDjRP",
+    "category": "Bootstrap",
+    "imageAlt": "hexadash-svelte-multipurpose-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hexadash-svelte-multipurpose-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://hub.sovware.com/hexadash-html/ltr/",
+    "templateName": "HexaDash – Multipurpose Admin Dashboard Template (Svelte, React, Vue, Angular, Laravel & More)",
+    "description": "HexaDash is a modern, feature-rich multipurpose admin dashboard template designed to accelerate your web application development. Built with cutting-edge technologies like Bootstrap, Tailwind, React, Vue, Angular, Svelte, Node.js, Laravel, Django, and more — HexaDash offers high performance, clean design, and a developer-friendly experience. Whether you’re building SaaS apps, project management dashboards, or analytics platforms, HexaDash provides the tools and flexibility you need.",
+    "features": [
+      [
+        "Build On latest Bootstrap 5",
+        "10+ Dashboard Pages",
+        "150+ Components",
+        "95+ Pages",
+        "19+ Apps",
+        "HTML5 & CSS3",
+        "Eslint validated",
+        "Code Splitting",
+        "Performance Optimized",
+        "Maintained Simplicity",
+        "Supporting CSS, JS files",
+        "Used BEM, NPM and Gulp",
+        "Apps: Mail, Chat, Ecommerce, To-Do, Note, Contacts, Calendar and many more",
+        "Icons: Unicons, Font Awesome, Line Awesome",
+        "Chartjs, Google Charts, Rechart Charts, Peity Charts",
+        "Google Maps, Openstreet Maps (Leaflet), Vector Maps",
+        "RTL Ready",
+        "Dark mode Ready",
+        "Crossbrowser Compatible with IE10+"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
       },
       {
         "value": "saas",

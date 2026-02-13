@@ -8115,5 +8115,61 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 290,
+    "price": 12,
+    "popularity": 1177,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/YVDjRP",
+    "category": "Angular",
+    "imageAlt": "hexadash-svelte-multipurpose-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hexadash-svelte-multipurpose-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://hexadash-angular.vercel.app/dashboard/demo-one",
+    "templateName": "HexaDash – Multipurpose Admin Dashboard Template (Svelte, React, Vue, Angular, Laravel & More)",
+    "description": "HexaDash is a modern, feature-rich multipurpose admin dashboard template designed to accelerate your web application development. Built with cutting-edge technologies like Bootstrap, Tailwind, React, Vue, Angular, Svelte, Node.js, Laravel, Django, and more — HexaDash offers high performance, clean design, and a developer-friendly experience. Whether you’re building SaaS apps, project management dashboards, or analytics platforms, HexaDash provides the tools and flexibility you need.",
+    "features": [
+      [
+        "Build With Angular 17.3.5",
+        "Modern Design",
+        "Fully Responsive Design",
+        "Create Angular App Supported",
+        "Built on TypeScript",
+        "Ant Design 16.1.0 compatible",
+        "Tailwind CSS 3.4.3",
+        "Angular Library Based components (No Jquery)",
+        "Angular Router Dom",
+        "Sass",
+        "Two Homepage (More are coming soon)",
+        "Dark Mode",
+        "RTL Supported",
+        "Sidebar & Top Menu",
+        "Easy to Customized with Tailwind Classes",
+        "Email, Projects, Chat, Todo, Contact & many more apps.",
+        "Settings, Gallery, Pricing, Banners, Maintenance, 404, Terms & Conditions, Coming Soon and many more pages.",
+        "Clean Code",
+        "Code Splitting"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

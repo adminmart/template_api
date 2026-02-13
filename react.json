@@ -17221,5 +17221,169 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 373,
+    "price": 12,
+    "popularity": 1311,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/YVDjRP",
+    "category": "React",
+    "imageAlt": "hexadash-svelte-multipurpose-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hexadash-svelte-multipurpose-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://hub.sovware.com/hexadash-react/admin",
+    "templateName": "HexaDash – Multipurpose Admin Dashboard Template (Svelte, React, Vue, Angular, Laravel & More)",
+    "description": "HexaDash is a modern, feature-rich multipurpose admin dashboard template designed to accelerate your web application development. Built with cutting-edge technologies like Bootstrap, Tailwind, React, Vue, Angular, Svelte, Node.js, Laravel, Django, and more — HexaDash offers high performance, clean design, and a developer-friendly experience. Whether you’re building SaaS apps, project management dashboards, or analytics platforms, HexaDash provides the tools and flexibility you need.",
+    "features": [
+      [
+        "Build with React 18.0.0",
+        "10+ Dashboard Page",
+        "15+ Apps",
+        "Styled Components",
+        "Create React App Supported",
+        "Antd 4.18.8 compatible",
+        "Firebase Authentication & CRUD with APIs",
+        "Axios CRUD with Rest APIs",
+        "React Hooks",
+        "Redux-thunk",
+        "Multi-language support with i18n ( JSON object )",
+        "Easy to Customize with Ant Design variables",
+        "Async Loading",
+        "LTR & RTL Supported",
+        "Light & Dark Mode Supported",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "price": 69,
+    "popularity": 1312,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/vDz02A",
+    "category": "React",
+    "imageAlt": "dashtic-react-js-and-vite-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashtic-react-js-and-vite-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.spruko.com/dashtic/preview/dashboard/dashboard01/",
+    "templateName": "Dashtic – React Javascript Admin Dashboard Template",
+    "description": "Dashtic – admin dashboard template is fully responsive, multipurpose and easy to use.This admin template Includes 220+ react component & 70+ React plugins. This modern admin template is for Multipurpose Use, also pre built with Reactstrap template design. This admin template designed with vertical & horizontal-menu, Light and dark variant colored design.",
+    "features": [
+      [
+        "React-redux",
+        "Firebase Authentication",
+        "No JQuery Dependency",
+        "React-Routing",
+        "Different Layouts",
+        "10 Different types of Icons",
+        "Editable DataTables",
+        "2 Attractive Maps using Leaflet maps and React-simple-maps",
+        "3 Attractive Charts using Apex, Chartjs, Echarts",
+        "RTL Support",
+        "File Upload",
+        "Wizards",
+        "Attractive Gallery",
+        "Color Variation (Light and Dark theme Layouts)",
+        "Boxed Style, Body Style, fixed and scrollable features",
+        "Color Variations for menu and header (Light, Dark and Color)",
+        "Menu Variation (Horizontal(Top) and Vertical(Side) Menu)",
+        "Slick carousels",
+        "React-select2",
+        "rc-color-picker",
+        "react-step-progress",
+        "react-toastify",
+        "@mui/x-tree-view",
+        "Material-ui",
+        "Filepond"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "price": 39,
+    "popularity": 1313,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/envQqg",
+    "category": "React",
+    "imageAlt": "hud-react-18-bootstrap-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hud-react-18-bootstrap-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://seantheme.com/hud-react/dashboard",
+    "templateName": "HUD - React 19 Bootstrap Admin Template",
+    "description": "HUD is the world first hud style admin template which built on top of the popular framework Bootstrap 5.3.7. Concept of design for HUD Admin is based on the HUD ui design and finally it comes out with a clean and neat design. It is built on top of the popular Bootstrap Framework. Besides that, it is bundled with a lot of third party plugins, reusable widget and much more…",
+    "features": [
+      [
+        "Built with Bootstrap 5.3.7",
+        "Built-in Pos System UI",
+        "React 19 ready",
+        "Super clean design",
+        "FontAwesome Icons with 2,000+ icons",
+        "Extended Bootstrap 5 UI Components",
+        "Scss variable control",
+        "30+ styled plugins",
+        "30+ unique pages",
+        "Unlimited widget combination",
+        "HTML5 Flexbox support",
+        "Well documented"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
