@@ -17536,5 +17536,148 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 378,
+    "price": 25,
+    "popularity": 1316,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/vDzkXy",
+    "category": "React",
+    "imageAlt": "finlab-react-redux-crypto-trading-ui-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/finlab-react-redux-crypto-trading-ui-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://finlab-vite.vercel.app/dashboard",
+    "templateName": "FinLab | React Redux Crypto Trading UI Admin Dashboard Template",
+    "description": "FinLab | React Redux Crypto Trading UI Admin Dashboard Template is a modern and highly responsive admin solution designed specifically for cryptocurrency trading platforms and fintech applications. Built with React and powered by Redux for efficient state management, FinLab delivers a seamless user experience with dynamic data handling, scalable architecture, and clean code structure. The template features professionally crafted dashboards, real-time trading views, portfolio analytics, market overviews, transaction histories, and user management interfaces—making it ideal for crypto exchanges, blockchain startups, and investment platforms.",
+    "features": [
+      [
+        "Built on Latest React",
+        "60+ Pages Available",
+        "6+ Pre Demo Available",
+        "6+ Menu Style Available",
+        "15+ Color Skin",
+        "Fully Responsive",
+        "Ready to use widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CKEditor",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "price": 20,
+    "popularity": 1317,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/KBKmrA",
+    "category": "React",
+    "imageAlt": "medux-medical-react-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/medux-medical-react-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://meduxtemplate.merku.love/dashboard_a",
+    "templateName": "Medux – Medical React Dashboard",
+    "description": "MedUX is a powerful all-encompassing Medical Dashboard UI Kit built on pure React. It is perfect for different kinds of admin/customer dashboards and mobile apps. The dashboard can be used for Hospitals, Doсtors, Perinatal Centers, Private Hospitals, Medical Laboratory, Analytics, Traffic Accounting, Stock Trading, Cryptocurrency, Task Manager and Scheduler, Regional Sales Accounting, CRM, Chat and Users Management.",
+    "features": [
+      [
+        "Pure React user interface",
+        "Biggest medical UI on the market",
+        "UX is based on real medical researches",
+        "RTL support",
+        "Light/Dark theme",
+        "Editable dashboard layout",
+        "42+ types of dashboard widgets",
+        "Appointments and schedules calendar",
+        "Messenger UI",
+        "Interactive world pandemic map",
+        "Patient reviews and doctors rating",
+        "Innovative booking UI",
+        "Task manager interface",
+        "Live appointments calendar",
+        "W3C quality marked code",
+        "Built-in accessibility tools",
+        "Perfectly accessibility test scores",
+        "Used modern best practices in code",
+        "Drag-and-drop lists",
+        "Responsive dashboard",
+        "Fully cross-browser code",
+        "Totally SEO optimized",
+        "Perfectly organised code",
+        "Next generation CSS and JS practices",
+        "11 different dashboard layouts",
+        "Set of groundbreaking graphs and charts",
+        "Special and unique medical widgets",
+        "Doctor and patient UI",
+        "Used modern best practices in code",
+        "Rich flexible typography",
+        "Ready for iOS and Android devices",
+        "Incredible softly responsive layouts",
+        "Designed and developed in the heart of the bravery",
+        "Lifetime updates and bug fixing",
+        "Detailed quick start guide for newbies",
+        "6 months of premium support for ThemeForest buyers"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

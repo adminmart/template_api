@@ -6870,5 +6870,60 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 165,
+    "price": 39,
+    "popularity": 1143,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/m4Rq9q",
+    "category": "Vue",
+    "imageAlt": "gull-vue-tailwind-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/gull-vue-tailwind-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://gull-vue-tailwind.vercel.app/dashboards/dashboard-version-one",
+    "templateName": "Gull - Vue Tailwind Admin Template",
+    "description": "Gull is a modern Vue 3 & TailwindCss 3 admin template and UI framework. It is fully responsive and built using SASS, Vue 3, CSS3 and Javascript plugins and packed with smart developer tools such as Vite, Babel and Browsersync. It can be used for building all kind of Cross-platform Application and Web application backends like custom admin panel, admin dashboard, accounting software, project management, chat application, eCommerce backends, CMS, CRM, ERP or SAAS.",
+    "features": [
+      [
+        "Minimal, Intuitive and Fully Responsive Design (compatible with major browsers, tablets and phones)",
+        "Vuejs 3 framework",
+        "TailwindCss 3 framework",
+        "5+ Dashboard versions",
+        "Datatables",
+        "Full screen search",
+        "2000+ premium iconsmind icons included",
+        "Login Pages",
+        "SignUp pages",
+        "Forgot password page",
+        "Not found page",
+        "30+ Card widgets",
+        "Custom loader and spinners",
+        "Custom switch, radio, checkboxes",
+        "Modal dialog, Confirm dialog",
+        "Apexchart for Data visualization",
+        "Clean & Commented Code",
+        "Online documentation"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
