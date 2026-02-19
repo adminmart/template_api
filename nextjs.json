@@ -17733,5 +17733,199 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 382,
+    "price": 22,
+    "popularity": 1320,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/1GeqQa",
+    "category": "React",
+    "imageAlt": "elstar-react-tailwind-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/elstar-react-tailwind-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://elstar.themenate.net/app/project/dashboard",
+    "templateName": "Elstar - React Admin Tailwind Template (React 19)",
+    "description": "Elstar is a complete React admin template with developer experience friendly & highly scalable, it comes with a complete set of UI components meticulously crafted with Tailwind CSS, it fulfilled most of the use case to create modern and beautiful UI and application Elstar offers several themes and layout options that allow you to update the style of your application in no time, it also supports dark theme & multiple locales including RTL languages.",
+    "features": [
+      [
+        "Latest version React",
+        "Vite",
+        "TailwindCSS",
+        "Typescript",
+        "React hooks based architecture",
+        "Redux toolkits",
+        "React router 6",
+        "REST Api integration ready",
+        "Prebuild Tailwind components",
+        "Light & Dark mode",
+        "Multiple layouts variation",
+        "Multiple theme colors options",
+        "Fully Responsive",
+        "Flexible Layout",
+        "In built practical demo",
+        "i18n",
+        "RTL Support",
+        "Trusted Support",
+        "Constantly Updates",
+        "Well Documented",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "price": 17,
+    "popularity": 1321,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/jRXo0e",
+    "category": "React",
+    "imageAlt": "cryptoon-crypto-react-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/cryptoon-crypto-react-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://pixelwibes.com/template/cryptoon/react/",
+    "templateName": "Cryptoon - Crypto React Admin Template",
+    "description": "Cryptoon , a next-generation modern and clean Bootstrap 5x dashboard app using flat, modern and minimal design. It is fully responsive and built using an SASS preprocessor. which is based on the React + Bootstrap 5x.",
+    "features": [
+      [
+        "Latest version React",
+        "Vite",
+        "TailwindCSS",
+        "Typescript",
+        "React hooks based architecture",
+        "Redux toolkits",
+        "React router 6",
+        "REST Api integration ready",
+        "Prebuild Tailwind components",
+        "Light & Dark mode",
+        "Multiple layouts variation",
+        "Multiple theme colors options",
+        "Fully Responsive",
+        "Flexible Layout",
+        "In built practical demo",
+        "i18n",
+        "RTL Support",
+        "Trusted Support",
+        "Constantly Updates",
+        "Well Documented",
+        "And many more…",
+        "Light Layouts(i.e.Default)",
+        "Dark Layouts Option",
+        "High Contrast Option",
+        "Ltr to Rtl Layouts Option",
+        "Template Dynamic Color Settings",
+        "Gradient ( Sidebar ) Option",
+        "Google font Settings Option"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "price": 25,
+    "popularity": 1322,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/dyK1WM",
+    "category": "React",
+    "imageAlt": "kamr-react-redux-hotel-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/kamr-react-redux-hotel-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://kamr-vite.vercel.app/dashboard",
+    "templateName": "Kamr : React Redux Hotel Admin Dashboard Template",
+    "description": "Kamr – React Redux Hotel Admin Dashboard Template is a modern and feature-rich admin solution crafted specifically for hotel and hospitality management systems. Built with the power of React and efficient state management using Redux, Kamr delivers a seamless, high-performance user experience for managing bookings, reservations, guests, rooms, staff, payments, and analytics. The template features a clean, responsive design, well-structured components, reusable UI elements, and scalable architecture to accelerate development.",
+    "features": [
+      [
+        "Built on Latest React",
+        "Fully Responsive",
+        "Ready to Use Widgets",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CKEditor",
+        "Form Examples",
+        "Many Chart Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sortable",
+        "SweetAlert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And Many More Features"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
