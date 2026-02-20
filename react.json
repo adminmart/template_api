@@ -18050,5 +18050,249 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 386,
+    "price": 59,
+    "popularity": 1324,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/m4R9JO",
+    "category": "React",
+    "imageAlt": "nowa-react-typescript-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nowa-react-typescript-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.spruko.com/nowa-ts/preview/dashboard/dashboard/",
+    "templateName": "Nowa – React TypeScript Admin Template",
+    "description": "Nowa dashboard ui template is a cutting-edge react typescript bootstrap dashboard template, designed specifically for modern web developers and designers. It ensures a smooth, responsive user experience, making it the perfect choice for managing and visualizing data in dynamic web applications. By combining the power of TypeScript with the versatility of Bootstrap, Nowa typescript bootstrap dashboard react template provides an advanced, easy-to-use solution for creating sophisticated bootstrap admin panels and beyond.",
+    "features": [
+      [
+        "150+ React Components",
+        "React-18",
+        "React-Bootstrap Responsive Framework",
+        "React-Router-dom",
+        "Message Chat",
+        "Mail Inbox",
+        "Widgets",
+        "3 Dashboard",
+        "Vertical & Horizontal",
+        "Menu Click, Menu Hover, icon click, and icon Hover",
+        "3 types of Charts",
+        "Well Commented Code",
+        "TimeLine",
+        "Form Advanced",
+        "Form Editor",
+        "Email",
+        "React full-Calendar",
+        "Form Elements",
+        "Invoice Pages",
+        "Media Object",
+        "Pricing Tables",
+        "More Widgets",
+        "3 different Error Pages",
+        "Under Construction Page",
+        "Lock Screen, Registration, Forget Password",
+        "Custom Pages",
+        "W3c Validated",
+        "24 * 7 Professional Company Support",
+        "Very easy to create your own site",
+        "Neat, clean and simple design",
+        "Easy to customize"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "price": 69,
+    "popularity": 1325,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/yZgJ6b",
+    "category": "React",
+    "imageAlt": "nowa-react-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nowa-react-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.spruko.com/nowa/preview/dashboard/dashboard1/",
+    "templateName": "Nowa – React JS Admin Dashboard Template",
+    "description": "Nowa is a premier javascript react bootstrap admin template meticulously crafted for modern web developers and designers. It offers a seamless, responsive user experience, making it ideal for managing and visualizing data in web applications. Combining react javascript framework with the flexibility of Bootstrap 5, Nowa admin dashboard in react js delivers a top-tier solution for sophisticated bootstrap admin panels and more.",
+    "features": [
+      [
+        "React 18",
+        "Chart.js",
+        "ApexCharts",
+        "Full Calendar",
+        "NPM",
+        "React Chart",
+        "React Bootstrap",
+        "No jQuery Dependency",
+        "Routing",
+        "Different Layouts",
+        "Over 100 React Components",
+        "Attractive Charts using Apex, Chart.js, NVD3, and ECharts",
+        "Menu Variations (Horizontal and Vertical)",
+        "Color Themes (Light, Dark, and Transparent)",
+        "Data Tables",
+        "File Upload",
+        "Easy to Customize",
+        "Timeline",
+        "Slick Carousels",
+        "Dropzone",
+        "Editable Text",
+        "Message Chat",
+        "Mail Inbox",
+        "Widgets",
+        "Interactive Maps using Leaflet and React Simple Maps",
+        "Rich Text Editors (2 Types)",
+        "DataTables (3 Types)",
+        "Icon Sets (12 Types)",
+        "RTL Ready",
+        "SCSS Powered",
+        "Google Fonts",
+        "Multipurpose Bootstrap Dashboard",
+        "Responsive Template",
+        "Well Commented Code",
+        "Neat, Clean, and Simple Design",
+        "React Bootstrap Carousel",
+        "Settings Page",
+        "Blog Details",
+        "Form Advanced Elements",
+        "User Profile",
+        "Authentication Pages",
+        "Error Pages",
+        "File Attachments",
+        "Notifications List Page",
+        "Shop",
+        "Product Details",
+        "Cart",
+        "Checkout",
+        "Wishlist",
+        "File Manager",
+        "Image Gallery",
+        "Lock Screen Pages",
+        "Shopping Cart",
+        "Form Elements",
+        "Under Construction Page",
+        "Invoice Page",
+        "Calendar",
+        "Media Object",
+        "Pricing Tables",
+        "More Widgets",
+        "Regular Updates",
+        "W3C Validated",
+        "Professional Team Support"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "price": 59,
+    "popularity": 1326,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/4a5OjM",
+    "category": "React",
+    "imageAlt": "sash-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sash-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.spruko.com/sash/preview/dashboard",
+    "templateName": "Sash - ReactTS Admin & Dashboard Template",
+    "description": "Sash admin ui is a sleek and modern TypeScript-based react dashboard bootstrap template built for developers and designers who value performance, adaptability, and clean user interface design. With responsive layouts and well-structured code, it delivers a seamless experience for managing, tracking, and presenting web application data. Whether you’re working on a CRM, SaaS platform, or internal admin interface, Sash react bootstrap dashboard admin template provides a reliable and scalable starting point.",
+    "features": [
+      [
+        "React-dom",
+        "Vite",
+        "Different Layouts",
+        "TypeScript",
+        "React-bootstrap",
+        "170+ React Components",
+        "Message Chat",
+        "Mail Inbox",
+        "Static Widgets",
+        "Single Dashboard",
+        "Timeline",
+        "Advanced Forms",
+        "Form Editor",
+        "Email Templates",
+        "React FullCalendar",
+        "Form Elements",
+        "Invoice Page",
+        "Media Objects",
+        "Pricing Tables",
+        "More Widgets",
+        "Error Pages",
+        "Attractive Gallery",
+        "Under Construction Page",
+        "Lock Screen, Registration, Forgot Password Pages",
+        "Custom Pages",
+        "Boxed Style, Fixed, and Scrollable Features",
+        "Color Variation (Light, Dark, Gradient, and Transparent Theme Layouts)",
+        "Color Variations for Menu and Header (Light, Dark, Gradient, and Transparent)",
+        "Menu Variation (Horizontal [Top] and Vertical [Side] Menu)",
+        "Wizards",
+        "W3C Validated",
+        "24/7 Professional Company Support",
+        "Easy site creation",
+        "Neat, clean, and simple design",
+        "Easy customization"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
