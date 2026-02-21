@@ -8221,5 +8221,62 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 292,
+    "price": 24,
+    "popularity": 1179,
+    "appType": "website",
+    "details": "https://1.envato.market/zzaaP7",
+    "category": "Angular",
+    "imageAlt": "dreams-lms-online-course-html-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dreams-lms-online-course-html-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dreamslms.dreamstechnologies.com/angular/template/index",
+    "templateName": "Dreams LMS – Online Learning & Course Management Template (React, Nextjs, Angular, Vue, Html)",
+    "description": "Dreams LMS is a modern and powerful Learning Management System (LMS) template designed for online schools, colleges, universities, academies, coaches, and training centers. It features beautifully crafted course pages, student dashboards, instructor dashboards, and a fully responsive layout to deliver an engaging eLearning experience across all devices.",
+    "features": [
+      [
+        "Course listing & category-based search",
+        "Featured & trending courses",
+        "Instructor profiles & course pages",
+        "Blog and content pages",
+        "Instructor dashboard",
+        "Course management",
+        "Student enrollments",
+        "Earnings & payouts UI",
+        "Reviews & ratings",
+        "Ticketing & support pages",
+        "Student dashboard",
+        "Course subscriptions",
+        "Billing & invoices",
+        "Notifications & referrals",
+        "Profile & privacy settings",
+        "Bootstrap 5, HTML5 & SCSS",
+        "SEO optimized & fast loading",
+        "Cross-browser compatibility",
+        "Clean, well-commented code",
+        "Mobile-first responsive design"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

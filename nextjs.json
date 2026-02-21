@@ -18171,5 +18171,216 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 388,
+    "price": 24,
+    "popularity": 1326,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/n411oa",
+    "category": "React",
+    "imageAlt": "invome-react-redux-invoicing-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/invome-react-redux-invoicing-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://invome-vite.vercel.app/dashboard",
+    "templateName": "Invome : React Redux Invoicing Admin Dashboard Template",
+    "description": "Invome – React Redux Invoicing Admin Dashboard Template is a modern and feature-rich solution designed to streamline billing and financial management workflows. Built with the power of React and Redux, Invome delivers a highly responsive, scalable, and performance-optimized admin interface tailored for invoicing applications, accounting systems, and finance-based SaaS platforms. The template features clean UI components, intuitive dashboards, detailed invoice management pages, and fully customizable layouts to accelerate development time.",
+    "features": [
+      [
+        "Built on Latest React",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "60+ HTML Pages Available",
+        "6+ Pre Demo Available",
+        "6+ Menu Style Available",
+        "15+ Color Skin",
+        "Use Light Gallery",
+        "Light And Dark Theme",
+        "Horizontal Navigation Available",
+        "High Speed Performance",
+        "Summernote",
+        "Markdown",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Noui Slider",
+        "Sweetalert",
+        "Toaster",
+        "Chatbox",
+        "Clean Coded",
+        "Free Google Web Fonts",
+        "Free Icon Fonts (Font Awesome)",
+        "Error Page Available",
+        "Cross Browser Compatibility",
+        "Fast Supports",
+        "Modern, Professional Design",
+        "Flexible Layout",
+        "All Files are Well Commented"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "price": 69,
+    "popularity": 1327,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/7XmmnO",
+    "category": "React",
+    "imageAlt": "spruha-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/spruha-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.spruko.com/spruha-js/preview/dashboard/dashboard",
+    "templateName": "Spruha – ReactJS Admin & Dashboard Template",
+    "description": "Spruha latest design ui template is a high-quality javascript react bootstrap admin dashboard template, thoughtfully designed for modern developers and UI designers. It delivers a responsive and intuitive user experience, making it perfect for managing, monitoring, and visualizing data in dynamic web applications. Built with JavaScript and powered by React Bootstrap framework, Spruha javascript dashboard bootstrap template offers a robust foundation for building elegant and feature-rich admin panels.",
+    "features": [
+      [
+        "150+ React Components",
+        "50+ Plugins",
+        "3 Dashboards Variations (Vertical & Horizontal)",
+        "Firebase Authentication",
+        "Menu Click, Menu Hover, Icon Click, and Icon Hover",
+        "3 Types of Charts",
+        "Responsive React Bootstrap Framework",
+        "Well Commented Code",
+        "Grid JS Tables",
+        "Filepond",
+        "React Uploader",
+        "Easy to Customize",
+        "Neat, Clean, and Simple Design",
+        "Timeline",
+        "Message Chat",
+        "Google Fonts",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "14 Types of Icon Sets",
+        "Lock Screen Pages",
+        "Error Pages",
+        "Shopping Cart",
+        "Checkout",
+        "Order Details",
+        "Wishlist",
+        "Userlist",
+        "Form Elements",
+        "Image Gallery",
+        "Under Construction Page",
+        "Invoice Page",
+        "React Full Calendar",
+        "Pricing Tables",
+        "Professional Company Support",
+        "Regular Updates",
+        "Very Easy to Create Your Own Site",
+        "More Widgets",
+        "W3C Validated"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "price": 24,
+    "popularity": 1328,
+    "appType": "website",
+    "details": "https://1.envato.market/zzaaP7",
+    "category": "NextJs",
+    "imageAlt": "dreams-lms-online-course-html-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dreams-lms-online-course-html-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dreamslms.dreamstechnologies.com/nextjs/template/home",
+    "templateName": "Dreams LMS – Online Learning & Course Management Template (React, Nextjs, Angular, Vue, Html)",
+    "description": "Dreams LMS is a modern and powerful Learning Management System (LMS) template designed for online schools, colleges, universities, academies, coaches, and training centers. It features beautifully crafted course pages, student dashboards, instructor dashboards, and a fully responsive layout to deliver an engaging eLearning experience across all devices.",
+    "features": [
+      [
+        "Course listing & category-based search",
+        "Featured & trending courses",
+        "Instructor profiles & course pages",
+        "Blog and content pages",
+        "Instructor dashboard",
+        "Course management",
+        "Student enrollments",
+        "Earnings & payouts UI",
+        "Reviews & ratings",
+        "Ticketing & support pages",
+        "Student dashboard",
+        "Course subscriptions",
+        "Billing & invoices",
+        "Notifications & referrals",
+        "Profile & privacy settings",
+        "Bootstrap 5, HTML5 & SCSS",
+        "SEO optimized & fast loading",
+        "Cross-browser compatibility",
+        "Clean, well-commented code",
+        "Mobile-first responsive design"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "website-template",
+        "label": "Website Template"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
