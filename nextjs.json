@@ -18382,5 +18382,202 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 391,
+    "price": 28,
+    "popularity": 1329,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/en4qXX",
+    "category": "React",
+    "imageAlt": "dreamspos-pos-inventory-management-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dreamspos-pos-inventory-management-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dreamspos.dreamstechnologies.com/react/template/index",
+    "templateName": "DreamsPOS - Retail & Restaurant POS, Inventory & Billing Admin Dashboard (React, Vue, Angular, Html)",
+    "description": "Dreams POS is a modern POS & Inventory Management Admin Dashboard Template designed for retail stores, supermarkets, restaurants, pharmacies, laundry businesses, wholesale operations, and POS SaaS platforms. It provides ready-made UI layouts for POS billing, cashier operations, inventory tracking, and sales analytics.",
+    "features": [
+      [
+        "Bootstrap",
+        "Fully Responsive",
+        "Pure Javascript",
+        "Quick Support",
+        "Well Documentation",
+        "Cross Browser",
+        "SASS Support",
+        "Dark & Light Layouts",
+        "Premade Layouts",
+        "RTL Layout",
+        "Easy Customization",
+        "Lifetime Free Updates",
+        "Complete frontend source code",
+        "280+ ready to use UI pages",
+        "200+ reusable UI components",
+        "SCSS & Tailwind source files",
+        "Charts, tables, and form layouts",
+        "Documentation & lifetime updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "price": 19,
+    "popularity": 1330,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/Gbjn9V",
+    "category": "React",
+    "imageAlt": "getskills-react-redux-online-learning-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/getskills-react-redux-online-learning-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://getskills-react.vercel.app/secondary-sidebar",
+    "templateName": "GetSkills : React Redux Online Learning Admin Template",
+    "description": "GetSkills is a modern and feature-rich React Redux Online Learning Admin Template designed to streamline the management of eLearning platforms. Built with the latest React and Redux technologies, it delivers a highly responsive, scalable, and performance-optimized experience for administrators. The template includes thoughtfully crafted dashboards, course management interfaces, student tracking modules, analytics widgets, and reusable UI components that accelerate development.",
+    "features": [
+      [
+        "60+ React Pages Available",
+        "6+ Pre Demo Available",
+        "6+ Menu Style Available",
+        "15+ Color Skin",
+        "Built on Latest React",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "Summernote",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Noui Slider",
+        "Sweetalert",
+        "Toaster",
+        "Lightbox",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "price": 9,
+    "popularity": 1331,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/qWnAd5",
+    "category": "React",
+    "imageAlt": "travl-react-redux-hotel-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/travl-react-redux-hotel-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://travl-vite.vercel.app/dashboard",
+    "templateName": "Travl : React Redux Hotel Admin Dashboard Template",
+    "description": "Travl is a modern and feature-rich React Redux Hotel Admin Dashboard Template designed to streamline hotel and hospitality management with efficiency and style. Built with the latest React and Redux architecture, Travl delivers a highly responsive and performance-optimized interface that simplifies reservations, bookings, guest management, and operational analytics. The template features clean UI components, customizable layouts, and scalable code structure, making it ideal for hotels, resorts, and travel businesses seeking a professional admin solution.",
+    "features": [
+      [
+        "Built on Latest React",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CkEditor",
+        "Markdown",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

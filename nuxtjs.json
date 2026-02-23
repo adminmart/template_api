@@ -7670,5 +7670,64 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 168,
+    "price": 28,
+    "popularity": 1146,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/en4qXX",
+    "category": "Vue",
+    "imageAlt": "dreamspos-pos-inventory-management-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dreamspos-pos-inventory-management-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dreamspos.dreamstechnologies.com/vue/template/dashboard/admin-dashboard",
+    "templateName": "DreamsPOS - Retail & Restaurant POS, Inventory & Billing Admin Dashboard (React, Vue, Angular, Html)",
+    "description": "Dreams POS is a modern POS & Inventory Management Admin Dashboard Template designed for retail stores, supermarkets, restaurants, pharmacies, laundry businesses, wholesale operations, and POS SaaS platforms. It provides ready-made UI layouts for POS billing, cashier operations, inventory tracking, and sales analytics.",
+    "features": [
+      [
+        "Bootstrap",
+        "Fully Responsive",
+        "Pure Javascript",
+        "Quick Support",
+        "Well Documentation",
+        "Cross Browser",
+        "SASS Support",
+        "Dark & Light Layouts",
+        "Premade Layouts",
+        "RTL Layout",
+        "Easy Customization",
+        "Lifetime Free Updates",
+        "Complete frontend source code",
+        "280+ ready to use UI pages",
+        "200+ reusable UI components",
+        "SCSS & Tailwind source files",
+        "Charts, tables, and form layouts",
+        "Documentation & lifetime updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
