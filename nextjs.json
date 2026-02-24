@@ -18579,5 +18579,185 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 394,
+    "price": 17,
+    "popularity": 1332,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/en4ggr",
+    "category": "React",
+    "imageAlt": "criptic-react-next-web3-nft-crypto-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/criptic-react-next-web3-nft-crypto-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://criptic.vercel.app/",
+    "templateName": "Criptic - Crypto Admin Dashboard React Next Web3 NFT Template",
+    "description": "Crypto enthusiasts will rejoice as Criptic delivers a comprehensive array of features tailored to the world of digital currencies. Seamlessly navigate the crypto landscape with integrated functionalities designed specifically for blockchain, NFT, and Bitcoin enthusiasts. With a focus on user-friendliness and efficiency, Criptic empowers you to efficiently manage your digital assets.",
+    "features": [
+      [
+        "React NFT Crypto Dashboard",
+        "Web3 authentication with MetaMask",
+        "Both Light mode and Dark mode",
+        "RTL Support",
+        "Themeing Option",
+        "15+ Ready Made Pages",
+        "NFT Search with filter option",
+        "Layout Change Option",
+        "Buy, Sell, Swap & liquidity Pages",
+        "Next JS App Directory"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "price": 24,
+    "popularity": 1333,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/VOyB23",
+    "category": "React",
+    "imageAlt": "nftmax-nft-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/nftmax-nft-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://nftmaxr.quomodosoft.com/",
+    "templateName": "NFTMAX - Tailwind React Admin Template",
+    "description": "NFTMAX- NFT React Admin & Dashboard is crafted with care and love. While making NFTMAX- NFT React Adnub & Dashboard we kept in mind that what is required and necessary for an Admin & Dashboard for NFT Marketplace. We believe we have covered up each and every single aspect of a Dashboard Design.",
+    "features": [
+      [
+        "40+ Dashboard Pages",
+        "200+ Components / Different layouts",
+        "Authention and Authentication Features",
+        "Middlewares for authenticated users",
+        "Smart Drawer",
+        "Chartjs design customization",
+        "Custom React hooks",
+        "Drag and drop feature for product upload",
+        "Toast Notification",
+        "Using Functional Resuable Components",
+        "Pixel perfect design",
+        "Fully Responsive Layouts",
+        "Responsive Navigation Menu",
+        "No jQuery",
+        "Well Documented",
+        "Regular update",
+        "Dedicated support",
+        "and much much more…",
+        "Fully Responsive Bootstrap 4x",
+        "Clean, Modern & Beautiful Design",
+        "Google Fonts",
+        "100% Valid Code",
+        "Unlimited customization",
+        "3000+ Font Icon",
+        "Lifetime Support"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "price": 25,
+    "popularity": 1334,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/xJ9QOv",
+    "category": "React",
+    "imageAlt": "workload-react-redux-bs5-project-management-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/workload-react-redux-bs5-project-management-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://workload-vite.vercel.app/dashboard",
+    "templateName": "Workload | React Redux Project Management Admin Dashboard Template",
+    "description": "Workload is a modern and performance-driven React Redux Project Management Admin Dashboard Template designed to streamline workflow monitoring and team productivity. Built with the latest React and Redux Toolkit architecture, it delivers a highly responsive, scalable, and developer-friendly environment for managing projects, tasks, resources, and timelines with precision. The template features a clean and intuitive UI, reusable components, advanced charts, task boards, calendar views, and seamless state management to support complex project operations.",
+    "features": [
+      [
+        "Built on Latest React",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CkEditor",
+        "Markdown",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
