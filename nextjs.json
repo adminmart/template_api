@@ -18759,5 +18759,215 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 397,
+    "price": 11,
+    "popularity": 1335,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/X4xo73",
+    "category": "React",
+    "imageAlt": "ebazar-ecommerce-react-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ebazar-ecommerce-react-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://pixelwibes.com/template/ebazar/react/dashboard",
+    "templateName": "Ebazar - Ecommerce React Admin Template",
+    "description": "E-Bazar , Admin Template is a popular React admin dashboard.It’s a responsive Admin template, which is based on the React + Bootstrap 5x. It can be used for most types of dashboard and app templates like Project Management & HR Management",
+    "features": [
+      [
+        "Ecommerce Management",
+        "Products Management",
+        "Inventory Management",
+        "Store Locator",
+        "App Calendar",
+        "Chat App",
+        "Accounts (Invoice, Salary Slip, Expenses)",
+        "Image Cropper",
+        "Form Example",
+        "Icon Example",
+        "Table Example",
+        "Price Example",
+        "UI Components Detail With Example",
+        "Easy to Customize theme option.",
+        "Layout options to easily make the sidebar, Mini sidebar, Rtl & Ltr, Dark & Light, High Contrast",
+        "User pages for login, register, Password reset, Step Authentication, 404 page",
+        "Form, Table,Icon, Charts Example",
+        "Successfully tested on GTmetrix and Google page speed insight",
+        "Easy to customize pages as you will have the power to use prebuilt UI elements on any desired pages with Setting options."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "price": 59,
+    "popularity": 1336,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/L0PoQ0",
+    "category": "React",
+    "imageAlt": "zanex-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/zanex-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.spruko.com/zanex-js/preview/dashboard/",
+    "templateName": "Zanex – React JavaScript Admin Dashboard Template",
+    "description": "Zanex is a feature-rich javascript dashboard react template built for developers, startups, and businesses that need a fast, scalable, and modern interface. It is fully developed using React and completely free from jQuery dependencies, ensuring a lightweight and performance-optimized experience. With a clean code structure and modular components, Zanex bootstrap react admin template helps you build professional web applications like CRM systems, analytics dashboards, SaaS platforms, or internal bootstrap admin panels with ease.",
+    "features": [
+      [
+        "140+ React Pages",
+        "60+ Plugins",
+        "6 Types of Icons",
+        "Message Chat",
+        "3 Types of Charts",
+        "2 Types of Maps",
+        "Mail Inbox",
+        "Widgets Static",
+        "Single Dashboard",
+        "Timeline",
+        "Form Advanced",
+        "Form Editor",
+        "To-Do Task",
+        "Email",
+        "Calendar",
+        "Form Elements",
+        "Invoice Pages",
+        "Media Object",
+        "Pricing Tables",
+        "More Widgets",
+        "Error Pages",
+        "Ecommerce Pages with Redux",
+        "Under Construction Page",
+        "Lock Screen, Registration, Forget Password",
+        "Custom Pages",
+        "W3C Validated",
+        "Good Professional Company Support",
+        "Very Easy to Create Your Own Site",
+        "Neat, Clean, and Simple Design",
+        "Easy to Customize"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "price": 29,
+    "popularity": 1337,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/bk3vxb",
+    "category": "React",
+    "imageAlt": "midone-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/midone-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://midone-react.vercel.app/",
+    "templateName": "Midone - Tailwind CSS React Admin Dashboard Template + HTML Version",
+    "description": "Midone is a responsive and feature-rich admin template built using the utility-first CSS framework Tailwind CSS. It is perfect for developers looking for a ready-made, developer-friendly, and highly customizable admin dashboard. The template includes a wide range of pre-designed UI components and utility classes that can be easily customized without leaving the HTML code.",
+    "features": [
+      [
+        "React 18+",
+        "TailwindCSS 3",
+        "Vite 5",
+        "Redux Toolkit",
+        "PostCss",
+        "Typescript 5+",
+        "50+ Pages",
+        "100+ Components",
+        "3 Menu layouts",
+        "3 Form wizard layouts",
+        "3 Blog layouts",
+        "2 Pricing layouts",
+        "2 Invoice layouts",
+        "3 FAQ layouts",
+        "Login page",
+        "Register page",
+        "Error page",
+        "Update profile page",
+        "Change password page",
+        "3 Users layouts",
+        "3 Profile settings layouts",
+        "Post news applications",
+        "Inbox applications",
+        "File manager applications",
+        "Chat applications",
+        "POS applications",
+        "CRUD applications",
+        "Regular & Tabulator table",
+        "Accordion components",
+        "Button components",
+        "Modal components",
+        "Alert components",
+        "Progressbar components",
+        "Tooltip components",
+        "Dropdown components",
+        "Toast/alert components",
+        "Typography components",
+        "Lucide icons",
+        "Regular form",
+        "Datepicker components",
+        "Tom-select components",
+        "Dropzone components",
+        "Sumernote editor components",
+        "Validation form components",
+        "Chart widget",
+        "Slider widget",
+        "Image zoom widget",
+        "Addon utilities and helper classes",
+        "Free lifetime updates",
+        "And much more.."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
