@@ -7091,5 +7091,61 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 169,
+    "price": 39,
+    "popularity": 1147,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/0GJM1P",
+    "category": "Vue",
+    "imageAlt": "hud-vue-3-bootstrap-5-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/hud-vue-3-bootstrap-5-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://seantheme.com/hud-vue/",
+    "templateName": "HUD - Vue 3 Bootstrap 5 Admin Template",
+    "description": "HUD is the world first hud style admin template which built on top of the popular framework Bootstrap 5.3.7. Concept of design for HUD Admin is based on the HUD ui design and finally it comes out with a clean and neat design. It is built on top of the popular Bootstrap Framework. Besides that, it is bundled with a lot of third party plugins, reusable widget and much more…",
+    "features": [
+      [
+        "Built with Bootstrap 5.3.7",
+        "Built-in Pos System UI",
+        "Dark + Light Mode",
+        "Vue 3 + Vite + Pinia Store ready",
+        "Event Bus Mitt & Axios ready",
+        "Vue 3 demo and startup version",
+        "Super clean design",
+        "FontAwesome Icons with 2,020 icons",
+        "Extended Bootstrap 5 UI Components",
+        "Scss variable control",
+        "30+ styled plugins",
+        "30+ unique pages",
+        "Unlimited widget combination",
+        "HTML5 Flexbox support",
+        "Well documented"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
