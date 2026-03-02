@@ -19396,5 +19396,117 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 406,
+    "price": 22,
+    "popularity": 1344,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/R0ykJy",
+    "category": "React",
+    "imageAlt": "mytask-react-redux-project-management-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mytask-react-redux-project-management-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://pixelwibes.com/template/my-task/react/",
+    "templateName": "Mytask - React Project Management Admin Template",
+    "description": "My-Task React 18 + ReactBootstrap Admin Template, a next-generation modern and clean React 18x & ReactBootstrap dashboard app using flat, modern, and minimal design. It can be used for most types of dashboard and app templates like Project Management & HR Management",
+    "features": [
+      [
+        "React 18x",
+        "React Bootstrap",
+        "User Management",
+        "Role Management",
+        "Authorization",
+        "Project Management",
+        "Attendance",
+        "Hr Management",
+        "Task Management",
+        "App Calendar",
+        "Chat App",
+        "Two easy to customize Light & Dark Version colors.",
+        "Layout options to easily make the sidebar, Mini sidebar, Rtl to Ltr",
+        "User pages for login, register, Password reset, Step Authentication, 404 page",
+        "Easy to customize pages as you will have the power to use prebuilt UI elements on any desired pages with light and dark options."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "price": 29,
+    "popularity": 1345,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/7Xm2mY",
+    "category": "NextJs",
+    "imageAlt": "enftx-nft-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/enftx-nft-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://enftx.vercel.app/",
+    "templateName": "Enftx - NFT Admin Dashboard Nextjs Template + Dark & Light",
+    "description": "ENFTX is the complete UX & UI dashboard for NFT. Here included bids, collection, wallet, and all user setting pages including profile, application, activity, payment method, api, sign in & sign up etc.!",
+    "features": [
+      [
+        "Dashboard",
+        "Bids",
+        "Saved",
+        "Collections",
+        "Wallet",
+        "User Profile",
+        "Profile Settings",
+        "Application",
+        "Security",
+        "Activity",
+        "Payment Method",
+        "Api",
+        "Sign in Page",
+        "Sign up page",
+        "Locked Page",
+        "1 of 2-Step-Verification",
+        "2 of 2-Step-Verification",
+        "Email Verification",
+        "Reset Page"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
