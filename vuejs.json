@@ -7343,5 +7343,109 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 173,
+    "price": 29,
+    "popularity": 1151,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/MKmQNn",
+    "category": "Vue",
+    "imageAlt": "qash-cryptocurrency-exchange-dashboard-vue-js-app",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/qash-cryptocurrency-exchange-dashboard-vue-js-app.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://qash-vue.vercel.app/",
+    "templateName": "Qash - Cryptocurrency Exchange Dashboard Vue JS App",
+    "description": "Qash is the complete Cryptocurrency Exchange Vue App Sign in, Signup, Reset, OTP number, OTP code, About us, Privacy pages included.",
+    "features": [
+      [
+        "Built on VueJs",
+        "ES6+",
+        "No JQuery",
+        "Fast, Lightweight & Powerful",
+        "Built With Bootstrap 5x",
+        "CSS & Sass Included",
+        "Fully Responsive",
+        "Dark & Night Mood",
+        "Pixel Perfect Design",
+        "Easy To Customize",
+        "Cross-browser Compatible",
+        "Icofont",
+        "Cryptocoins font",
+        "Well Documented",
+        "24 hours support",
+        "And Much More"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "price": 19,
+    "popularity": 1152,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/7X5bMd",
+    "category": "Vue",
+    "imageAlt": "chitchat-perfect-chat-and-discussion-vue-js-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chitchat-perfect-chat-and-discussion-vue-js-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://vue.pixelstrap.com/chitchat/messenger/messenger",
+    "templateName": "Chitchat - Perfect Chat and Discussion VUE NUXT JS Template",
+    "description": "Chitchat – Perfect Chat and Discussion Vue Nuxt JS Template is a modern and feature-rich web template designed for building powerful real-time chat and messaging applications. Built with the latest Vue.js and Nuxt.js technologies, it offers a clean, responsive, and highly customizable interface that ensures a seamless user experience across all devices. The template includes well-structured components, optimized performance, and developer-friendly code, making it easy to integrate and extend for various communication platforms such as social chat apps, team collaboration tools, or customer support systems.",
+    "features": [
+      [
+        "nuxt > 4.1.0 && Node version : 24.11.1 (composition Api)",
+        "Bootstrap 5",
+        "Style With SASS",
+        "Landing page, email templates included",
+        "Light & Dark & Box templete",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome 5",
+        "Detailed Documentation",
+        "Clean & Well Commended Codes",
+        "W3C Validated Code",
+        "Google Fonts(Poppins)",
+        "Chat Application",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

@@ -19561,38 +19561,35 @@
   },
   {
     "id": 409,
-    "price": 29,
+    "price": 28,
     "popularity": 1347,
     "appType": "admin-template",
-    "details": "https://1.envato.market/L0Pj7L",
+    "details": "https://1.envato.market/NGkN0b",
     "category": "React",
-    "imageAlt": "ubold-react-admin-dashboard-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/ubold-react-admin-dashboard-template.webp",
+    "imageAlt": "dashlite-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashlite-react-admin-dashboard-template.webp",
     "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://coderthemes.com/ubold-react/dashboard",
-    "templateName": "UBold - React Admin & Dashboard Template (React 19)",
-    "description": "UBold is a premium admin dashboard built with React 19x (both TypeScript and JavaScript). It offers a fully responsive design, extensive customization options, and a rich collection of modern UI components. Optimized for high performance, UBold ensures seamless adaptability across devices and browsers.",
+    "livePreview": "https://react.dashlite.net/demo1/",
+    "templateName": "DashLite - React Admin Dashboard Template",
+    "description": "Softnio is introducing a powerful React based admin dashboard template, built primarily for the ease of developers and programmers. DashLite React comes with all kinds of tools and components that are necessary for the development of any application. The template includes many pre-built pages, built in components and exclusive E-Commerce conceptual apps, all of which is going to make the development phase faster and user friendly.",
     "features": [
       [
-        "Created using Bootstrap v5.3x",
-        "Built with React 19x (Typescript & Javascript)",
-        "Easy customizations with extensive use of SCSS variables",
-        "Clean and Intuitive Design",
-        "Light & Dark Modes (Attribute based)",
-        "Figma Design Files (Save $14 USD)",
-        "One Page Landing Included (Save $15 USD)",
-        "Fully responsive and works across all modern/supported browsers, and devices",
-        "Fully Documented",
-        "Rich form, widgets, validation, and wizard",
-        "190+ Pages",
-        "12+ Layouts Supported",
-        "300+ UI Components",
-        "30+ Charts",
-        "11+ Built-in Apps",
-        "2 Variant Styled Auth Pages",
-        "Error pages included",
-        "Stylish pricing page",
-        "10000+ Font Icons"
+        "Conceptual/Functional Apps based layout.",
+        "Pre-built and Ready to use application pages.",
+        "Lots of Readymade components and elements",
+        "Fully responsive layout and well optimized.",
+        "Dashboard designed for any purpose use.",
+        "Listing (User, Transaction, KYC) & Details pages.",
+        "Card / Boxed Style for User Contact and Projects",
+        "Nice layout for user profile and user details (admin view) page.",
+        "Supports any modern browser including cross-browser compatibility.",
+        "Free premium support for the first 6 months.",
+        "Clean, modern, great UI interface including UX.",
+        "Handmade custom icons to serve exact purpose.",
+        "Hand-crafted Font icons, specially designed for DashLite Template.",
+        "Multiple Applications layout available as Chat, Messages, Calendar.",
+        "Regular update and introduce new features and concepts",
+        "And many more features available"
       ]
     ],
     "createdOn": "",
@@ -19604,47 +19601,6 @@
       {
         "value": "business",
         "label": "Business"
-      },
-      {
-        "value": "ecommerce",
-        "label": "Ecommerce"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      }
-    ]
-  },
-  {
-    "id": 410,
-    "price": 29,
-    "popularity": 1348,
-    "appType": "admin-template",
-    "details": "https://1.envato.market/aN1b0W",
-    "category": "React",
-    "imageAlt": "shreyu-react-admin-dashboard-template",
-    "imageSrc": "https://adminmart.github.io/template_api/images/ext/shreyu-react-admin-dashboard-template.webp",
-    "subtitle": "Premium Admin Dashboard Template",
-    "livePreview": "https://themes.coderthemes.com/shreyu_r/default/dashboard/ecommerce",
-    "templateName": "Shreyu - React Admin & Dashboard Template",
-    "description": "Shreyu is a fully featured premium admin and dashboard template, built using Bootstrap 5.1.3 & React. It comes with tons of carefully designed flexible components, UI elements, application pages, etc. The theme is fully responsive and works across all modern/supported browsers, devices. The well structured code allows easy customization and helps to build a modern web application with great speed. Shreyu can be used to build any modern web application including a saas based interface, custom admin panels, dashboard, CRM, CMS, e-commerce panel, etc.",
-    "features": [
-      [
-        "Built on latest Bootstrap (v5.3x) and Latest React",
-        "Multiple navigation layouts and navigation color schemes",
-        "Easy customizations with extensive use of SCSS variables",
-        "Fully responsive and works across all modern/supported browsers and devices"
-      ]
-    ],
-    "createdOn": "",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
       },
       {
         "value": "ecommerce",
