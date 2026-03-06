@@ -19611,5 +19611,185 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 410,
+    "price": 29,
+    "popularity": 1348,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/WOqN3n",
+    "category": "React",
+    "imageAlt": "dashtar-react-ecommerce-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/dashtar-react-ecommerce-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://dashtar-admin.netlify.app/dashboard",
+    "templateName": "Dashtar - React eCommerce Admin Template",
+    "description": "Dashtar – React eCommerce Admin Template. This is an e-commerce admin template built with React Js and Tailwindcss with Rest API integration. This template backend is ready and is built with node, express, and mongoose schema validation and uses MongoDB for the database. Actually, it’s a complete MERN(MongoDB, Express, React, and Node) project but you can use it according to your need or any kind of e-commerce site admin template.",
+    "features": [
+      [
+        "Complete Full-Stack Project with backend integration.",
+        "Dynamic translation on all dynamic data, like products, categories, attributes, and coupons.",
+        "Product Attributes and Combinaiton.",
+        "Staff creates, updates, and deletes options with necessary validation.",
+        "Product creates, updates, and deletes options with necessary validation.",
+        "Category creates, updates, and deletes options with necessary validation.",
+        "Coupon creates, updates, and deletes options with amount and time validation.",
+        "Setting for controlling admin and store.",
+        "All registered customers list and show their total orders individually.",
+        "Added PWA",
+        "And many more, A demo is worth a thousand words, so check out the demo."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "price": 25,
+    "popularity": 1349,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/B50Pa0",
+    "category": "React",
+    "imageAlt": "fillow-react-redux-saas-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/fillow-react-redux-saas-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://fillow-vite.vercel.app/dashboard",
+    "templateName": "Fillow React Redux SaaS Admin Dashboard Template",
+    "description": "Fillow – React Redux SaaS Admin Dashboard Template is a modern and feature-rich admin template designed to build powerful SaaS platforms, CRM systems, analytics dashboards, and web applications with ease. Built with React and Redux for efficient state management, Fillow provides a highly scalable and maintainable architecture suitable for complex applications.",
+    "features": [
+      [
+        "Built on Latest React",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "CkEditor",
+        "Markdown",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "price": 25,
+    "popularity": 1350,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/NGkbxq",
+    "category": "React",
+    "imageAlt": "innap-react-redux-hotel-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/innap-react-redux-hotel-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://innap-vite.vercel.app/dashboard",
+    "templateName": "Innap : React Redux Hotel Admin Template",
+    "description": "Innap – React Redux Hotel Admin Template is a modern and powerful admin dashboard designed specifically for hotel management systems and hospitality platforms. Built with React and Redux, the template provides a robust and scalable architecture for managing hotel operations efficiently. Innap features a clean, responsive interface along with a wide range of reusable UI components, booking management dashboards, analytics charts, reservation tables, and customer management pages.",
+    "features": [
+      [
+        "Built on Latest React",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CkEditor",
+        "Markdown",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
