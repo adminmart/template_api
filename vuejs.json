@@ -7447,5 +7447,113 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 175,
+    "price": 39,
+    "popularity": 1153,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/k40A2z",
+    "category": "Vue",
+    "imageAlt": "alui-bootstrap-admin-dashboard-theme-ui-kit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/alui-bootstrap-admin-dashboard-theme-ui-kit.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://alui.thememakker.com/vuejs/main/admin/dashboard/index",
+    "templateName": "ALUI | Bootstrap 5, ReactJS, Angular, VueJS, Laravel Admin Dashboard Template",
+    "description": "The ALUI dashboard is built by one of the most trusted Elite Authors in the market for the Admin Dashboard templates and put together all the years of experience together into a single admin dashboard, which is capable enough to fulfill any project requirement across all the possible business domains available now and in future.",
+    "features": [
+      [
+        "Bootstrap 5x",
+        "Light/Dark and High Contrast Versions",
+        "Sidebar with List Menu",
+        "Sidebar with Grid Menu",
+        "Horizontal Menu",
+        "Horizontal + Sidebar Menu",
+        "Multi Level menu",
+        "RTL Supported",
+        "Font Settings",
+        "6 Pre-build Color Theme",
+        "Dynamic Theme Color Settings",
+        "Built in SCSS",
+        "JS Bundling Ready (Bundle)",
+        "Responsive & Interactive",
+        "Elegant & Clean User Interface",
+        "500+ Ready to used widget",
+        "3000+ Font Icons",
+        "Country Flags Font icons",
+        "Google Fonts"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "real-estate",
+        "label": "Real Estate"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "price": 24,
+    "popularity": 1154,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/OYrE0n",
+    "category": "Vue",
+    "imageAlt": "aprycot-restaurant-management-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/aprycot-restaurant-management-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://templates.iqonic.design/aprycot/vue/dist/",
+    "templateName": "Aprycot - Restaurant Management Admin Template (HTML & React)",
+    "description": "Aprycot is a restaurants ordering & management template design is intended for any company that is looking to build their Restaurants app with this template design. It is a modern and versatile dashboard with various ready-to-use apps and utility pages. It consists of the most impressive pages like auth module, error pages, order pages, restaurants pages, invoice, and 3 dashboard page.",
+    "features": [
+      [
+        "Creative and Modern Design",
+        "Built with HTML, Sass, Handlebars (HBS), Gulp",
+        "Gsap (GreenSock) Javascript plugin used for animations",
+        "Clean Code",
+        "Fully Responsive",
+        "Hover Effects",
+        "Easy To Customise",
+        "Cross Browser Optimisation",
+        "HTML5 & CSS3 Validated",
+        "Google Fonts Included",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

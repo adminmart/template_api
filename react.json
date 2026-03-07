@@ -19791,5 +19791,185 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 413,
+    "price": 25,
+    "popularity": 1351,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/xJkood",
+    "category": "React",
+    "imageAlt": "griya-react-redux-real-estate-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/griya-react-redux-real-estate-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://vite-griya.vercel.app/",
+    "templateName": "Griya : React Redux Real Estate Admin Template",
+    "description": "Griya is a modern and feature-rich React Redux Real Estate Admin Template designed to simplify property management and real estate operations. Built with the power of React and Redux, it offers a highly responsive and scalable architecture that ensures smooth performance and efficient state management. The template comes with a clean, professional UI, multiple dashboard layouts, property listing modules, agent management features, and advanced analytics components to help real estate businesses monitor performance and manage data effortlessly.",
+    "features": [
+      [
+        "Built on Latest React 18+",
+        "15+ Color Skin",
+        "Fully Responsive",
+        "Customizable React Bootstrap Components",
+        "Detailed Documentation",
+        "Ready to used widget",
+        "Attractive Calendar",
+        "Timeline",
+        "User Profile",
+        "Markdown",
+        "Form Examples",
+        "Date Picker",
+        "CKEditor",
+        "Many Charts Options",
+        "Invoice",
+        "Toaster",
+        "Sweetalert",
+        "Form Validation",
+        "Use Light Gallery",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Bootstrap",
+        "React Table",
+        "Datatable",
+        "Social",
+        "Table Sorting",
+        "Router",
+        "Scroll",
+        "All Files are Well Commented",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "real-estate",
+        "label": "Real Estate"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "price": 39,
+    "popularity": 1352,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/k40A2z",
+    "category": "React",
+    "imageAlt": "alui-bootstrap-admin-dashboard-theme-ui-kit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/alui-bootstrap-admin-dashboard-theme-ui-kit.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://alui.thememakker.com/reactjs/main/dashboard",
+    "templateName": "ALUI | Bootstrap 5, ReactJS, Angular, VueJS, Laravel Admin Dashboard Template",
+    "description": "The ALUI dashboard is built by one of the most trusted Elite Authors in the market for the Admin Dashboard templates and put together all the years of experience together into a single admin dashboard, which is capable enough to fulfill any project requirement across all the possible business domains available now and in future.",
+    "features": [
+      [
+        "Bootstrap 5x",
+        "Light/Dark and High Contrast Versions",
+        "Sidebar with List Menu",
+        "Sidebar with Grid Menu",
+        "Horizontal Menu",
+        "Horizontal + Sidebar Menu",
+        "Multi Level menu",
+        "RTL Supported",
+        "Font Settings",
+        "6 Pre-build Color Theme",
+        "Dynamic Theme Color Settings",
+        "Built in SCSS",
+        "JS Bundling Ready (Bundle)",
+        "Responsive & Interactive",
+        "Elegant & Clean User Interface",
+        "500+ Ready to used widget",
+        "3000+ Font Icons",
+        "Country Flags Font icons",
+        "Google Fonts"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "real-estate",
+        "label": "Real Estate"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "price": 24,
+    "popularity": 1351,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/OYrE0n",
+    "category": "React",
+    "imageAlt": "aprycot-restaurant-management-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/aprycot-restaurant-management-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://templates.iqonic.design/aprycot/react/build/",
+    "templateName": "Aprycot - Restaurant Management Admin Template (HTML & React)",
+    "description": "Aprycot is a restaurants ordering & management template design is intended for any company that is looking to build their Restaurants app with this template design. It is a modern and versatile dashboard with various ready-to-use apps and utility pages. It consists of the most impressive pages like auth module, error pages, order pages, restaurants pages, invoice, and 3 dashboard page.",
+    "features": [
+      [
+        "Creative and Modern Design",
+        "Built with HTML, Sass, Handlebars (HBS), Gulp",
+        "Gsap (GreenSock) Javascript plugin used for animations",
+        "Clean Code",
+        "Fully Responsive",
+        "Hover Effects",
+        "Easy To Customise",
+        "Cross Browser Optimisation",
+        "HTML5 & CSS3 Validated",
+        "Google Fonts Included",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
