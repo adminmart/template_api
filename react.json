@@ -20181,5 +20181,178 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 419,
+    "price": 21,
+    "popularity": 1355,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/1GrN9x",
+    "category": "React",
+    "imageAlt": "yoda-react-admin-template-react-hooks-redux-toolkit-ant-design",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/yoda-react-admin-template-react-hooks-redux-toolkit-ant-design.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://yoda.hypeople.studio/yoda-admin-template/react/",
+    "templateName": "Yoda - Bootstrap 5 HTML, Vue, React Admin Dashboard Template",
+    "description": "Yoda – React Admin Dashboard Template – is a user-friendly admin dashboard template built for developers based on Ant Design component framework. If you are a developer looking for all the useful features together, we can say that you found what you are looking for. This admin dashboard will light you on this path. Together with the rich features, we have prepared a template that you can customize as you wish.",
+    "features": [
+      [
+        "Free icon pack",
+        "Full-time Support",
+        "Free icon pack",
+        "Full-time Support",
+        "Ready-to-go Widgets",
+        "Responsive Layout",
+        "Quick Search",
+        "Clear Documentation",
+        "Flexible layout",
+        "Easy Customization",
+        "Quality  Clean Code",
+        "Lifetime Free Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "price": 23,
+    "popularity": 1356,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/vDNayO",
+    "category": "React",
+    "imageAlt": "minia-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/minia-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "http://minia-v-light.react.themesbrand.com/dashboard",
+    "templateName": "Minia - React Admin & Dashboard Template",
+    "description": "Minia is a simple and beautiful admin template built with Bootstrap ^5.3.3 and React 18.2.0 with typescript. It has 6+ different layouts and 3 modes ( Dark, Light & RTL ) which are managed by SCSS only. You can simply change to any layouts or mode by changing a couple of lines code. You can start small and large projects or update design in your existing project using Minia React it is very quick and easy as it is beautiful, adroit, and delivers the ultimate user experience.",
+    "features": [
+      [
+        "Built with Bootstrap ^5.3.3",
+        "Built with React 18.2.0 Hooks in Typescript",
+        "Light, Dark with RTL supported",
+        "Multiple Layouts",
+        "6+ Fully Responsive Layout",
+        "SASS Powered",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Font Based Icons",
+        "Email Application",
+        "Chat Application",
+        "Invoices List and Details pages",
+        "Contacts and Profile page",
+        "Data tables",
+        "Google Fonts",
+        "Authorized Pages",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "price": 29,
+    "popularity": 1357,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/GbmN0V",
+    "category": "React",
+    "imageAlt": "viho-bootstrap-5-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/viho-bootstrap-5-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://react.pixelstrap.com/viho/dashboard/default",
+    "templateName": "Viho - HTML, React Js, Angular , Nuxt Js, Next Js, Vue Js, Django , .NET Core & Laravel Dashboard",
+    "description": "Viho Admin is a full featured, multipurpose, premium bootstrap admin template built with Bootstrap 5 Framework, HTML5, CSS and No JQuery.It has a huge collection of reusable UI components. It can be used for all type of Web applications like custom admin panel, app backend, CMS or CRM.",
+    "features": [
+      [
+        "Next Version : 16.1.1 && React Version: 19.2.3 && Node: 25.2.1",
+        "Nuxt version : 4.1.0",
+        "Vue version : 3.5.4 && Node version : 20.13.1 (optional Api)",
+        "Svelet version : 3.0.0",
+        "Devloped with React 19.0.0 && node 24.11.0",
+        "Laravel version includes",
+        "Build with Angular : 21 , Node: 24.0.0 & Angular CLI: 21",
+        "Bootstrap 5x",
+        "Style With SASS",
+        "Html with PUG",
+        "Using Gulp",
+        "Latest Jquery",
+        "2 Different Dashboard",
+        "Light & Dark& Box templete",
+        "Multiple Color Options",
+        "Fully Responsive layout",
+        "Font Awesome",
+        "Detailed Documentation",
+        "Clean & Well Commended Codes",
+        "W3C Validated Code",
+        "Data Table Export to CSV, Excel, PDF, Copy and Print",
+        "Many Charts Options",
+        "Multi File upload",
+        "Range Slider",
+        "Data Table",
+        "Google Fonts",
+        "Form Wizards",
+        "Chat Application",
+        "And many more…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
