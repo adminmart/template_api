@@ -20354,5 +20354,204 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 422,
+    "price": 25,
+    "popularity": 1358,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/yZ2Y2b",
+    "category": "React",
+    "imageAlt": "karciz-react-redux-ticketing-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/karciz-react-redux-ticketing-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://karciz-vite.vercel.app/dashboard",
+    "templateName": "Karciz - React Redux Ticketing Admin Dashboard Template",
+    "description": "Karciz – React Redux Ticketing Admin Dashboard Template is a modern and powerful admin solution designed specifically for ticketing, helpdesk, and support management systems. Built with React and Redux, Karciz delivers a scalable and high-performance architecture that ensures smooth state management and seamless user experience. The template features a clean and intuitive interface, responsive layouts, and a wide range of reusable UI components to accelerate development.",
+    "features": [
+      [
+        "Built on Latest React",
+        "Fully Responsive",
+        "15+ Color Skin",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CkEdior",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Lightbox",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "All Files are Well Commented",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "price": 25,
+    "popularity": 1359,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/0GZVmM",
+    "category": "React",
+    "imageAlt": "uena-react-saas-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/uena-react-saas-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://uena-zeta.vercel.app/",
+    "templateName": "Uena - React Saas Admin Dashboard Template",
+    "description": "Uena – React SaaS Admin Dashboard Template is a modern and feature-rich admin template designed to simplify the development of SaaS applications and web-based platforms. Built with React, Uena offers a clean, responsive, and highly intuitive interface that enhances productivity and user experience. The template includes a variety of reusable UI components, advanced dashboards, data visualization widgets, and well-structured layouts to help developers build powerful admin panels quickly and efficiently.",
+    "features": [
+      [
+        "NexJS",
+        "React",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Timeline",
+        "Invoice",
+        "User Profile",
+        "Summernote",
+        "Markdown",
+        "Form Examples",
+        "Customizable React Bootstrap Components",
+        "Many Charts Options",
+        "Input Slider",
+        "Form Validation",
+        "Form Wizard",
+        "Advanced Form Elements",
+        "Bootstrap",
+        "Social",
+        "Table Sorting",
+        "Datatable",
+        "Date Picker",
+        "React Table",
+        "Noui Slider",
+        "Sortable & Nestable",
+        "Toaster",
+        "Sweetalert",
+        "Kanban",
+        "Rating",
+        "Scroll",
+        "Light Gallery",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "price": 35,
+    "popularity": 1360,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/OYr79Q",
+    "category": "React",
+    "imageAlt": "iconic-boostrap-admin-dashboard-html-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/iconic-boostrap-admin-dashboard-html-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://wrraptheme.com/templates/iconic/dist/index.html",
+    "templateName": "Iconic | HTML, React, Angular, NextJs, Laravel, Bootstrap Admin Dashboard Template",
+    "description": "ICONIC is fully professional, responsive, modern, multi-purpose, and featured Admin template which can be used to create various website, Hospital Dashboard, University Dashboard, RealEstate Dashboard, Project Dashboard, eCommerce Dashboard, Analytical Dashboard, Blog Dashboard, File Manager Dashboard, Admin templates, Admin dashboards, Backend Websites, CMS, CRM or one can also build Blog, Business website and timeline as well as portfolio. ICONIC Admin makes the development process easy and fast for you and aims to help you implement your idea to real time.",
+    "features": [
+      [
+        "Bootstrap",
+        "Angular",
+        "NextJs",
+        "ReactJs",
+        "Laravel",
+        "Light & Dark Versions",
+        "Horizontal Menu Versions",
+        "RTL Full Versions",
+        "6 Unique Color Scheme",
+        "Built in SASS",
+        "JS Bundling Ready (Bundle) New",
+        "Fully Responsive & Interactive",
+        "Elegant & Clean User Interface",
+        "100+ Ready to used widget",
+        "3000+ Icons",
+        "Fully Responsive pages",
+        "Detailed Documentation",
+        "Google fonts (Ubuntu)"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
