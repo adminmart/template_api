@@ -7674,5 +7674,53 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 179,
+    "price": 28,
+    "popularity": 1157,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/jReXNZ",
+    "category": "Vue",
+    "imageAlt": "datum-crm-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/datum-crm-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://templates.iqonic.design/datum-dist/vue/",
+    "templateName": "Datum - CRM Admin Dashboard Template (HTML, React & Vue)",
+    "description": "Introducing Datum, a clean and professional CRM admin dashboard template designed for efficient enterprise management. With a focus on simplicity and clarity, Datum is built with a crisp design layout and supports VueJS, React, and Laravel frameworks. This Bootstrap admin dashboard template encompasses essential enterprise metrics like Sales, Production, Profit, and Products.",
+    "features": [
+      [
+        "Built with HTML, Sass, Handlebars (HBS), Gulp",
+        "Clean Code",
+        "Hover Effects",
+        "Moveable Effect",
+        "UI Element and Charts Module",
+        "Easy To Customise",
+        "Unique, Clean and Modern Design",
+        "Fully Responsive",
+        "Cross Browser Optimisation",
+        "Free Google font and icon used",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

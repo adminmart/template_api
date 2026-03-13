@@ -20606,5 +20606,157 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 427,
+    "price": 24,
+    "popularity": 1362,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/oN4R2o",
+    "category": "React",
+    "imageAlt": "lexa-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lexa-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "http://lexa-v.react.themesbrand.com/dashboard",
+    "templateName": "Lexa - React Admin & Dashboard Template",
+    "description": "Lexa React is a simple and beautiful admin template built with Bootstrap ^5.3.3. It has 6+ different layouts and 3 modes ( Dark, Light & RTL ) which are managed by SCSS only. You can simply change to any layouts or mode by changing a couple of lines code. You can start small and large projects or update design in your existing project using Lexa it is very quick and easy as it is beautiful, adroit, and delivers the ultimate user experience.",
+    "features": [
+      [
+        "Built with Bootstrap ^5.3.3 & React Js",
+        "Light, Dark with RTL supported",
+        "3 Different Color Schemes",
+        "Multiple Layouts",
+        "6+ Fully Responsive Layout",
+        "SASS Powered",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Font Based Icons",
+        "Invoice page",
+        "Data tables",
+        "Google Fonts",
+        "Not authorized Page",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "price": 28,
+    "popularity": 1363,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/jReXNZ",
+    "category": "React",
+    "imageAlt": "datum-crm-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/datum-crm-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://templates.iqonic.design/datum-dist/react/",
+    "templateName": "Datum - CRM Admin Dashboard Template (HTML, React & Vue)",
+    "description": "Introducing Datum, a clean and professional CRM admin dashboard template designed for efficient enterprise management. With a focus on simplicity and clarity, Datum is built with a crisp design layout and supports VueJS, React, and Laravel frameworks. This Bootstrap admin dashboard template encompasses essential enterprise metrics like Sales, Production, Profit, and Products.",
+    "features": [
+      [
+        "Built with HTML, Sass, Handlebars (HBS), Gulp",
+        "Clean Code",
+        "Hover Effects",
+        "Moveable Effect",
+        "UI Element and Charts Module",
+        "Easy To Customise",
+        "Unique, Clean and Modern Design",
+        "Fully Responsive",
+        "Cross Browser Optimisation",
+        "Free Google font and icon used",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "price": 13,
+    "popularity": 1364,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/oN4RmW",
+    "category": "React",
+    "imageAlt": "edunet-react-personal-tutor-lms-dashboard-ui-kit",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/edunet-react-personal-tutor-lms-dashboard-ui-kit.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://edunet.vercel.app/",
+    "templateName": "Edunet - React Personal Tutor LMS Dashboard UI kit",
+    "description": "Edunet – React Personal Tutor LMS Dashboard UI kit Edunet is the complete UX & UI dashboard for the online Learning Management System. Here included Courses, Status, Wallet, etc. Actually here focused on individual course providers or trainers. Here also included profile, application, activity, payment method, API, sign in & sign up, etc.",
+    "features": [
+      [
+        "React",
+        "NextJS Framework",
+        "Reactstrap & Bootstrap 5",
+        "Formik & Yup Validation",
+        "Redux & Redux Thunk",
+        "Clean Code",
+        "Hover Effects",
+        "Moveable Effect",
+        "UI Element and Charts Module",
+        "Easy To Customise",
+        "Unique, Clean and Modern Design",
+        "Fully Responsive",
+        "Cross Browser Optimisation",
+        "Free Google font and icon used",
+        "Well Documented Code",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
