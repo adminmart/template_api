@@ -20881,5 +20881,187 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 431,
+    "price": 25,
+    "popularity": 1366,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/0G9dEE",
+    "category": "React",
+    "imageAlt": "qovex-react-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/qovex-react-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themesbrand.com/qovex/layouts/index.html",
+    "templateName": "Qovex - React Js Admin & Dashboard Template",
+    "description": "Qovex is a simple and beautiful admin template built with the latest React Js & Bootstrap 5.3.3. It has 6+ different layouts and 3 modes ( Dark, Light & RTL ) which are managed by SCSS only. You can simply change to any layouts or mode by changing a couple of lines of code. You can start small and large projects or update design in your existing project using Qovex it is very quick and easy as it is beautiful, adroit, and delivers the ultimate user experience.",
+    "features": [
+      [
+        "Built with Bootstrap 5.3.3 & React 18x",
+        "Light, Dark with RTL supported",
+        "Multiple Layouts",
+        "6+ Fully Responsive Layout",
+        "SASS Powered",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Font Based Icons",
+        "Email Application",
+        "Data tables",
+        "Google Fonts",
+        "Not authorized Page",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "price": 26,
+    "popularity": 1367,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/gROWvO",
+    "category": "React",
+    "imageAlt": "veltrix-react-js-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/veltrix-react-js-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "http://veltrix-v.react.themesbrand.com/dashboard",
+    "templateName": "Veltrix - React Js Admin & Dashboard Template",
+    "description": "Veltrix is a fully featured premium admin dashboard template built in React Redux Saga with firebase / fake-backend authentication and multi-language supports with developer-friendly codes. We have not used jQuery in this template its pure React Js with CRA and fully components based admin template.",
+    "features": [
+      [
+        "Built with Bootstrap v5.3.3",
+        "React Redux – Redux Saga based architecture",
+        "Pure Components based ReactJs, no jQuery",
+        "Create React App with Veltrix Admin Template",
+        "Firebase authentication",
+        "Fake-backend authentication",
+        "Multi-language support with i18n ( JSON object )",
+        "Light, Dark with RTL supported",
+        "Multiple Layouts",
+        "Fully Responsive Layout",
+        "SASS Powered",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Login, register, error pages",
+        "Calendar view",
+        "Form validation",
+        "Invoice with ready print button",
+        "Directory List page",
+        "Google maps",
+        "Drop zone file upload",
+        "Summernote Editor",
+        "6+ Charts Library",
+        "Datatables",
+        "Error pages included",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "price": 25,
+    "popularity": 1368,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/dyO7bq",
+    "category": "React",
+    "imageAlt": "acara-ticketing-admin-dashboard-react-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/acara-ticketing-admin-dashboard-react-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://acara-tau.vercel.app/dashboard",
+    "templateName": "Acara - Ticketing Admin Dashboard React Template",
+    "description": "Acara – Ticketing Admin Dashboard React Template is a modern and feature-rich admin dashboard designed specifically for managing ticketing systems efficiently. Built with the power of React, Acara delivers a fast, responsive, and highly interactive user experience, making it ideal for support platforms, helpdesk systems, and customer service management applications. The template comes with a clean and professional UI, well-structured components, and fully responsive layouts that adapt seamlessly across all devices.",
+    "features": [
+      [
+        "Built on Latest React",
+        "1 Dashboard",
+        "Awesome Customized Slider",
+        "React js",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CkEditor",
+        "Markdown",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
