@@ -21063,5 +21063,392 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 434,
+    "price": 24,
+    "popularity": 1369,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/R0G2qg",
+    "category": "React",
+    "imageAlt": "doar-responsive-react-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/doar-responsive-react-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://doar.jamstacktemplates.dev/",
+    "templateName": "Doar – React Admin Template with Dashboard UI KIT",
+    "description": "Doar – Responsive React Admin Template would be ideal for you if you are a react developer or a react website owner who requires working within a dashboard ui. It gives you numerous options and possibilities that will get you going in little to no time. This modern responsive adminity React admin template is adorned with heaps of material for a speedy outcome that will turn heads.",
+    "features": [
+      [
+        "Build on React Platform (v18.0.0)",
+        "Lerna Monorepo Architecture",
+        "Multi Level menu",
+        "Dark theme",
+        "Flat admin template",
+        "Lightweight",
+        "Bulletproof UI Components with Storybook",
+        "All Components are written in Strict Typescript",
+        "Global State Manage by Redux",
+        "Components Build On Styled Components & Styled System",
+        "Reuseable Components",
+        "Form Validation Check by React Hook Form",
+        "Beautiful Chats Made by ChartJS and Apexcharts",
+        "Interactive Maps",
+        "React Hooks used",
+        "No jQuery Dependency",
+        "4 Pre-built Dashboard Templates",
+        "Pre-built Apps (Mailbox, Chat, Contacts, File Manager, Calendar, etc.)",
+        "Pre-built Pages (Signin, Signup, Error Pages, etc.)",
+        "Responsive Layout",
+        "Google Maps, Leaflet Maps, React Vector Maps",
+        "Google Font & Custom Font",
+        "Font-Awesome & React Feather icon",
+        "Modal collections",
+        "Fully compatible for all major browsers such as Firefox, Safari, Chrome, Vivaldi, Microsoft Edge",
+        "Well Documented",
+        "100% valid W3 web standards.",
+        "Beautiful and Unique Design",
+        "Life Time Free Update",
+        "Amazing 5 stars support",
+        "Best Developer Experience",
+        "and Much More…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "price": 28,
+    "popularity": 1370,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/9VLyYy",
+    "category": "NextJs",
+    "imageAlt": "acorn-bootstrap-html-laravel-net-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/acorn-bootstrap-html-laravel-net-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://acorn-next.crealeaf.com/dashboards/default",
+    "templateName": "Acorn - Nextjs React Admin Dashboard (React 19)",
+    "description": "Acorn is a modern and highly scalable admin dashboard built with the latest Next.js and React 19, designed to streamline the development of powerful web applications. It features a clean, well-structured architecture combined with reusable components, ensuring rapid development and easy maintenance. With its responsive design, optimized performance, and seamless integration capabilities, Acorn provides a robust foundation for building data-driven interfaces such as SaaS platforms, analytics dashboards, and enterprise applications.",
+    "features": [
+      [
+        "React",
+        "Typescript",
+        "MUI",
+        "Tailwind",
+        "Formik",
+        "Next.js",
+        "Eslint",
+        "Prettier",
+        "Responsive Layout",
+        "Google Maps, Leaflet Maps, React Vector Maps",
+        "Fully compatible for all major browsers such as Firefox, Safari, Chrome, Vivaldi, Microsoft Edge",
+        "Well Documented",
+        "Life Time Free Update",
+        "Amazing 5 stars support",
+        "Best Developer Experience",
+        "and Much More…"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "price": 25,
+    "popularity": 1371,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/OYeyqn",
+    "category": "React",
+    "imageAlt": "zenix-crypto-react-admin-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/zenix-crypto-react-admin-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://zenix-react.vercel.app/dashboard",
+    "templateName": "Zenix - React Redux Crypto Admin Dashboard Template",
+    "description": "Zenix is a powerful and modern crypto admin dashboard template built with React and Redux, crafted to simplify the development of secure and scalable cryptocurrency-based applications. It features a well-organized architecture with efficient state management, enabling seamless handling of complex data flows and real-time updates. Designed with a clean, responsive interface and rich UI components, Zenix is ideal for building trading platforms, crypto wallets, analytics dashboards, and fintech solutions.",
+    "features": [
+      [
+        "Built on React Latest Version",
+        "15+ Color Skin",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "CKEditor",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Form Wizard",
+        "Social",
+        "Datatable",
+        "Use Light Gallery",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sortable",
+        "Sweetalert",
+        "Toaster",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "All Files are Well Commented",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "price": 25,
+    "popularity": 1372,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/rEabKR",
+    "category": "React",
+    "imageAlt": "mophy-payment-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mophy-payment-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://mophy-vite.vercel.app/dashboard",
+    "templateName": "MOPHY - Payment React Redux Admin Dashboard Template",
+    "description": "MOPHY is a modern and feature-rich payment administration dashboard template built with React and Redux, designed to streamline financial operations and transaction management. It offers a clean, intuitive user interface combined with powerful state management, ensuring seamless performance and scalability for complex payment workflows. With a well-structured component architecture, responsive design, and customizable UI elements, MOPHY enables developers to build secure, data-driven fintech applications efficiently.",
+    "features": [
+      [
+        "Built on Latest React",
+        "1 Dashboard",
+        "Awesome Customized Slider",
+        "React js",
+        "Redux",
+        "Responsive in Any Device",
+        "React Bootstrap",
+        "React Carousel",
+        "Well Commented Code",
+        "Smooth Transition Effects",
+        "Integrated with FontAwesome",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "CkEditor",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "Creative and Modern Design",
+        "Fast, Lightweight & Powerful",
+        "Easily Customizable",
+        "Detailed Documentation",
+        "High Resolution",
+        "Clean And Professional Coding",
+        "Fast performance",
+        "Fast Loading Speed",
+        "Google Webfont",
+        "Support and Update",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "price": 25,
+    "popularity": 1373,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/KB09N9",
+    "category": "React",
+    "imageAlt": "sego-restaurant-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/sego-restaurant-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://sego-vite.vercel.app/dashboard",
+    "templateName": "Sego - Restaurant React Admin Dashboard Template",
+    "description": "Sego is a modern and elegantly designed restaurant admin dashboard template built with React, tailored to streamline food business operations with efficiency and style. It features a clean, user-friendly interface combined with robust component architecture, enabling seamless management of orders, menus, reservations, and customer data. With responsive layouts, reusable UI components, and smooth performance, Sego empowers developers to create scalable and visually appealing restaurant management systems.",
+    "features": [
+      [
+        "Built on Latest React",
+        "1 Dashboard",
+        "Awesome Customized Slider",
+        "React js",
+        "Fully Responsive",
+        "Ready to used widget",
+        "Detailed Documentation",
+        "Attractive Calendar",
+        "Customizable React Bootstrap Components",
+        "Invoice",
+        "User Profile",
+        "Timeline",
+        "Markdown",
+        "Form Examples",
+        "Many Charts Options",
+        "Form Validation",
+        "Input Slider",
+        "Advanced Form Elements",
+        "Wizard",
+        "Social",
+        "Bootstrap",
+        "Datatable",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "ecommerce",
+        "label": "Ecommerce"
+      },
+      {
+        "value": "portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "price": 35,
+    "popularity": 1374,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/0G9OqR",
+    "category": "React",
+    "imageAlt": "lucid-react-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/lucid-react-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://www.wrraptheme.com/templates/lucid/react/dashboard",
+    "templateName": "LUCID | ReactJs + Bootstrap Admin Dashboard Template",
+    "description": "Lucid React Admin Template is a popular open-source WebApp ReactJS template for React admin dashboards and admin panels. It’s a responsive Admin template, which is based on the React JS 16x + Bootstrap 4x framework. It utilizes all of the Bootstrap components integrated with ReactJS layout standards and re-styles many commonly used plugins to create a consistent design that can be used as a ReactJS application.",
+    "features": [
+      [
+        "React + Redux",
+        "No jQuery",
+        "Bootstrap v4.4.0",
+        "6 Unique Themes",
+        "Dark version full support",
+        "Built in SASS",
+        "JS Bundling Ready (Bundle)",
+        "Fully Responsive & Interactive",
+        "Elegant & Clean User Interface",
+        "Bootstrap UI Elements",
+        "3000+ Icons",
+        "Fully Responsive pages",
+        "Detailed Documentation",
+        "Google fonts (Ubuntu)"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

@@ -8653,5 +8653,74 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 299,
+    "price": 25,
+    "popularity": 1186,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/rEabKR",
+    "category": "Angular",
+    "imageAlt": "mophy-payment-react-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/mophy-payment-react-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://mophy.dexignzone.com/angular/demo/admin",
+    "templateName": "MOPHY - Payment React Redux Admin Dashboard Template",
+    "description": "MOPHY is a modern and feature-rich payment administration dashboard template built with React and Redux, designed to streamline financial operations and transaction management. It offers a clean, intuitive user interface combined with powerful state management, ensuring seamless performance and scalability for complex payment workflows. With a well-structured component architecture, responsive design, and customizable UI elements, MOPHY enables developers to build secure, data-driven fintech applications efficiently.",
+    "features": [
+      [
+        "Built on Latest React",
+        "1 Dashboard",
+        "Awesome Customized Slider",
+        "React js",
+        "Redux",
+        "Responsive in Any Device",
+        "React Bootstrap",
+        "React Carousel",
+        "Well Commented Code",
+        "Smooth Transition Effects",
+        "Integrated with FontAwesome",
+        "Table Sorting",
+        "React Table",
+        "Date Picker",
+        "Sweetalert",
+        "Toaster",
+        "Light Gallery",
+        "CkEditor",
+        "Scroll",
+        "Chatbox",
+        "Router",
+        "Creative and Modern Design",
+        "Fast, Lightweight & Powerful",
+        "Easily Customizable",
+        "Detailed Documentation",
+        "High Resolution",
+        "Clean And Professional Coding",
+        "Fast performance",
+        "Fast Loading Speed",
+        "Google Webfont",
+        "Support and Update",
+        "And many more"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "blog",
+        "label": "Blog"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
