@@ -7722,5 +7722,146 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 180,
+    "price": 29,
+    "popularity": 1158,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/YVRvEr",
+    "category": "Vue",
+    "imageAlt": "tradient-cryptocurrency-exchange-vue-app",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tradient-cryptocurrency-exchange-vue-app.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://tradient-vue.vercel.app/",
+    "templateName": "Tradient - Cryptocurrency Exchange Vue App",
+    "description": "Tradient is the complete Cryptocurrency Exchange VUE JS App Sign in, Signup, Phone and ID card verification, One-time password verify and add a bank, debit card settings and profile, etc pages included.",
+    "features": [
+      [
+        "Font Awesome",
+        "simple-line-icons",
+        "Cryptocoins",
+        "Bootstrap 5",
+        "apexcharts",
+        "bootstrap-vue",
+        "vue-carousel",
+        "vue-router",
+        "vuelidate",
+        "sass",
+        "webpack"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "landing-page",
+        "label": "Landing Page"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "price": 29,
+    "popularity": 1159,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/VOxvLM",
+    "category": "Vue",
+    "imageAlt": "intez-payment-dashboard-vue-app",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/intez-payment-dashboard-vue-app.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://intez-vue-jet.vercel.app/",
+    "templateName": "Intez - Payment Dashboard Vue App",
+    "description": "Intez is the complete UX & UI dashboard for online payment. Here included wallet, payment, invoice, and all user setting pages including profile, application, activity, payment method, api, sign in & sign up etc.",
+    "features": [
+      [
+        "Bootstrap 5",
+        "apexcharts",
+        "bootstrap-vue",
+        "vue-carousel",
+        "vue-router",
+        "vuelidate",
+        "sass",
+        "webpack"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "price": 29,
+    "popularity": 1160,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/YVRYgB",
+    "category": "Vue",
+    "imageAlt": "tradio-cryptocurrency-exchange-vue-app-dashboard",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/tradio-cryptocurrency-exchange-vue-app-dashboard.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://tradio-vuejs.vercel.app/dashboard",
+    "templateName": "Tradio - Cryptocurrency Exchange Vue App Dashboard",
+    "description": "Tradio is the complete Cryptocurrency Exchange VUE JS App Sign in, Signup, Phone and ID card verification, One-time password verify and add a bank, debit card settings and profile, etc pages included.",
+    "features": [
+      [
+        "Font Awesome",
+        "simple-line-icons",
+        "Cryptocoins",
+        "Bootstrap 5",
+        "apexcharts",
+        "bootstrap-vue",
+        "vue-carousel",
+        "vue-router",
+        "vuelidate",
+        "sass",
+        "webpack"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
