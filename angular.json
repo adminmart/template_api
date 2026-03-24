@@ -8722,5 +8722,65 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 300,
+    "price": 35,
+    "popularity": 1187,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/E0EnJn",
+    "category": "Angular",
+    "imageAlt": "kripton-crypto-admin-dashboard-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/kripton-crypto-admin-dashboard-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://kripton.dexignzone.com/angular/demo/admin/index",
+    "templateName": "Kripton - Crypto HTML, React, Angular & Laravel Admin Dashboard Template + RTL Ready",
+    "description": "Kripton is a powerful and versatile crypto admin dashboard template designed to meet the needs of modern blockchain and fintech applications. Built with multiple technologies including HTML, React, Angular, and Laravel, it offers developers the flexibility to choose their preferred stack without compromising performance or scalability. The template features a clean, responsive design with fully optimized layouts, ensuring seamless usability across all devices. With comprehensive UI components, advanced charts, and pre-built pages tailored for cryptocurrency management, Kripton accelerates development while maintaining a professional look and feel.",
+    "features": [
+      [
+        "Bootstrap V5.3.1",
+        "Material V11.2.10",
+        "100% Responsive",
+        "High Performance",
+        "Fully Customizable",
+        "Easy to Use",
+        "Unlimited Options",
+        "Multiple Headers",
+        "W3C Validated",
+        "Touch Enabled",
+        "Multiple Colors",
+        "Use Sass",
+        "Mega Menu",
+        "Well Documented",
+        "Cross Browser",
+        "Modern Design",
+        "Category Style",
+        "OWL Carousel",
+        "Lifetime Updates",
+        "Search options",
+        "Google Fonts",
+        "FontAwesome Icons",
+        "Home Variations"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
