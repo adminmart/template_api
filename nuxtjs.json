@@ -8501,5 +8501,57 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 183,
+    "price": 25,
+    "popularity": 1161,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/5k5O9o",
+    "category": "Vue",
+    "imageAlt": "chatvia-vuejs-chat-app-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/chatvia-vuejs-chat-app-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://themes.themesbrand.com/chatvia/vue/v-light/",
+    "templateName": "Chatvia - VueJs Chat App Template",
+    "description": "Chatvia is built with Bootstrap 5.3.3 and Vue Js , SCSS with responsive with all devices and supported with Dark, light, RTL modes. It has functional and class base components too and we have used Redux-Saga for authentication. This is a static chat app only, We have not added DB related or file save features in this template. Chats are managed by the JSON object only. You can change mode very quickly by doing a single change. It has many features like one to one chat, group chat, contact, send files, online users, new messages from users, authentication pages, and many more. Multi-language support with i18n JSON object. Sketch files are available as a complimentory.",
+    "features": [
+      [
+        "Built with Bootstrap 5.3.3",
+        "Pure Vuejs no jQuery",
+        "Firebase authentication",
+        "Fack-backend authentication",
+        "RTL & LTR Supported",
+        "Fully Responsive Layout",
+        "Sketch files added.",
+        "SASS Powered",
+        "Authentication Pages Included",
+        "Clean & Well Commented Codes",
+        "W3C Validated Code",
+        "Remix Icons",
+        "Google Fonts",
+        "Well documented",
+        "FREE Lifetime Updates"
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
