@@ -22167,5 +22167,53 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 451,
+    "price": 24,
+    "popularity": 1386,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/qWW2qb",
+    "category": "React",
+    "imageAlt": "simpled-html-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/simpled-html-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://apps.meetmighty.com/dashboards/simpled/react/build/",
+    "templateName": "SimpleD - Laravel Vue, React JS HTML SCSS Admin Template",
+    "description": "As name says SimpleDash is a clean and minimal Admin UI Template for your next webapplication project. This web template will save you a ton of time and money. SimpleDash shines with its clean but basic Pages. Its design and looks will make your project look beautiful and elegant. It works seamlessly on all major web browsers, tablets, and phones. Each page is fully responsive and retina ready, making your creation look good on any device.",
+    "features": [
+      [
+        "UI Element and Charts Module",
+        "Easy To Customise",
+        "Unique, Clean and Modern Design",
+        "Built with HTML, Sass, Gulp",
+        "Clean Code",
+        "Hover Effects",
+        "Moveable Effect",
+        "Fully Responsive",
+        "Cross Browser Optimisation",
+        "Free Google font and icon used",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]

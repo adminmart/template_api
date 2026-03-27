@@ -4270,5 +4270,102 @@
         "label": "Saas"
       }
     ]
+  },
+  {
+    "id": 99,
+    "price": 24,
+    "popularity": 1084,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/qWW2qb",
+    "category": "Bootstrap",
+    "imageAlt": "simpled-html-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/simpled-html-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://apps.meetmighty.com/dashboards/simpled/html/backend/index.html",
+    "templateName": "SimpleD - Laravel Vue, React JS HTML SCSS Admin Template",
+    "description": "As name says SimpleDash is a clean and minimal Admin UI Template for your next webapplication project. This web template will save you a ton of time and money. SimpleDash shines with its clean but basic Pages. Its design and looks will make your project look beautiful and elegant. It works seamlessly on all major web browsers, tablets, and phones. Each page is fully responsive and retina ready, making your creation look good on any device.",
+    "features": [
+      [
+        "UI Element and Charts Module",
+        "Easy To Customise",
+        "Unique, Clean and Modern Design",
+        "Built with HTML, Sass, Gulp",
+        "Clean Code",
+        "Hover Effects",
+        "Moveable Effect",
+        "Fully Responsive",
+        "Cross Browser Optimisation",
+        "Free Google font and icon used",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "personal",
+        "label": "Personal"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "price": 29,
+    "popularity": 1085,
+    "appType": "admin-template",
+    "details": "https://1.envato.market/Pzz6DN",
+    "category": "Bootstrap",
+    "imageAlt": "noteplus-note-taking-admin-template",
+    "imageSrc": "https://adminmart.github.io/template_api/images/ext/noteplus-note-taking-admin-template.webp",
+    "subtitle": "Premium Admin Dashboard Template",
+    "livePreview": "https://templates.iqonic.design/note-plus/html/backend/index.html",
+    "templateName": "Noteplus - Note Taking Admin Template (VueJS, Laravel, HTML)",
+    "description": "Noteplus is like EverNote-style web template toolkit for web developers and business entrepreneurs. NotePlus stands out with its uniquely designed utility demos like project planning template, everyday chores space, planning template and so on.. It is a modern and versatile dashboard with various ready-to-use apps and utility pages. It consists of the most impressive pages like User Management Module, auth module, ui pages, form pages, and much more.",
+    "features": [
+      [
+        "Built with HTML, Sass, Handlebars (HBS), Gulp",
+        "Clean Code",
+        "Hover Effects",
+        "Moveable Effect",
+        "UI Element and Charts Module",
+        "Google maps",
+        "Easy To Customise",
+        "Unique, Clean and Modern Design",
+        "Fully Responsive",
+        "Cross Browser Optimisation",
+        "Free Google font and icon used",
+        "And much more…."
+      ]
+    ],
+    "createdOn": "",
+    "categories": [
+      {
+        "value": "admin-dashboard",
+        "label": "Admin Dashboard"
+      },
+      {
+        "value": "business",
+        "label": "Business"
+      },
+      {
+        "value": "agency",
+        "label": "Agency"
+      },
+      {
+        "value": "saas",
+        "label": "Saas"
+      }
+    ]
   }
 ]
