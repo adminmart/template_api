@@ -17,7 +17,7 @@
       }
     ],
     "imageAlt": "modernize-free-vuetify-admin-dashboard-am-min1",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-vuetify-admin-dashboard-am-min1.png",
+    "imageSrc": "https://images.adminmart.com/templates/free/modernize/modernize-free-vuetify-admin-dashboard-am-min1.webp",
     "subtitle": "Free Vuetify + Vue js Admin and dashboard Template",
     "livePreview": "https://modernize-vue3-free.netlify.app/",
     "templateName": "Modernize Free Vuetify + Vue js Admin Dashboard",
@@ -60,7 +60,7 @@
       }
     ],
     "imageAlt": "modernize-vuetify-admin-dashboard-min",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard-min.png",
+    "imageSrc": "https://images.adminmart.com/templates/pro/modernize/modernize-vuetify-admin-dashboard-min.webp",
     "subtitle": "Premium Vuetify 3 & Vue 3 Admin Dashboard Template",
     "livePreview": "https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/#product-demo-section",
     "templateName": "Modernize Vuetify 3 & Vue 3 Admin Dashboard",
@@ -105,7 +105,7 @@
       }
     ],
     "imageAlt": "spike-free-vuetify-vuejs-admin-template-wp",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-vuetify-vuejs-admin-template-wp.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/free/spike/spike-free-vuetify-vuejs-admin-template-wp.webp",
     "subtitle": "Spike VueJs Admin Dashboard is the perfect blend of VueJs",
     "livePreview": "https://spike-vue-free.netlify.app/",
     "templateName": "Spike Free VueJs Admin Template",
@@ -147,7 +147,7 @@
       }
     ],
     "imageAlt": "spike-vuejs-admin-dashboard-prev-img",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-vuejs-admin-dashboard-prev-img.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/pro/spike/spike-vuejs-vuetify-admin-wpn.webp",
     "subtitle": "Vue3 + Vuetify 3 Based Admin",
     "livePreview": "https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/#demos",
     "templateName": "Spike VueJs Admin Dashboard",
@@ -190,7 +190,7 @@
       }
     ],
     "imageAlt": "materialpro-vuejs-lite-admin-wp-20",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-lite-admin-wp-20.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/free/materialpro/materialpro-vuejs-lite-admin-wp-20.webp",
     "subtitle": "Free Vuetify Dashboard Template",
     "livePreview": "https://materialpro-vue-free.netlify.app/",
     "templateName": "MaterialPro Vuetify Admin Lite",
@@ -229,7 +229,7 @@
       }
     ],
     "imageAlt": "materialpro-vuejs-dashboard-template-20",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-dashboard-template-20.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/pro/materialpro/materialpro-vuetify-vue.webp",
     "subtitle": "Vue 3 + Vuetify 3 + Vite + Typescript",
     "livePreview": "https://www.wrappixel.com/templates/materialpro-vuetify-admin/#demos",
     "templateName": "MaterialPro Vue3 Admin Dashboard",
@@ -251,83 +251,6 @@
     "createdOn": "12-May-2020"
   },
   {
-    "id": 7,
-    "price": 0,
-    "popularity": 305,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/flexy-vuejs-admin-free/",
-    "category": "Vue",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "free",
-        "label": "Free"
-      }
-    ],
-    "imageAlt": "flexy-vuejs-free",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/2022/07/flexy-vuejs-free.jpg",
-    "subtitle": "Free Vue3 + Vuetify 3 Dashboard",
-    "livePreview": "https://flexy-vuejs-free.netlify.app/",
-    "templateName": "Flexy VueJs free Admin Template",
-    "description": "You can create hybrid rendering and beautiful looking interfaces for your web application using our Flexy Vuejs Free Admin template. It is based on Vuetify + Vue 3 + ViteJs, which makes your development much easier when you are creating project. It comes with some nicely designed page templates to help you created new pages easily.",
-    "features": [
-      "1 Basic Dashboard",
-      "5+ Page Templates",
-      "5+ UI Components",
-      "4 Integrated Plugins",
-      "Few Ready to Use Widgets",
-      "Sass Base CSS",
-      "1 or 2 Chart Options"
-    ],
-    "createdOn": "15-Jul-2022"
-  },
-  {
-    "id": 8,
-    "price": 49,
-    "popularity": 306,
-    "appType": "admin-template",
-    "details": "https://www.wrappixel.com/templates/flexy-vuetify-dashboard/",
-    "category": "Vue",
-    "categories": [
-      {
-        "value": "admin-dashboard",
-        "label": "Admin Dashboard"
-      },
-      {
-        "value": "ecommers",
-        "label": "Ecommers"
-      },
-      {
-        "value": "website-template",
-        "label": "Website Template"
-      }
-    ],
-    "imageAlt": "fley-vue",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/03/fley-vue.jpg",
-    "subtitle": "Vue3 + Vite + Vuetify 3 + Typescript",
-    "livePreview": "https://www.wrappixel.com/templates/flexy-vuetify-dashboard/#demos",
-    "templateName": "Flexy Vuetify Vue3 Dashboard",
-    "description": "Flexy vue3 Js admin dashboard is based on vuetify v3 and comes with a refreshing look with many ready-to-use features. It is based on famous Google’s material design also it is built with Vite and Typescript. Flexy Vuetify dashboard comes with a few customizable application designs, which can be a great start for you to build a relative application.",
-    "features": [
-      "5 unique demos",
-      "PSDs & Figma for Dashboard Pages",
-      "3 unique dashboardss",
-      "3400+ Font icons",
-      "Completely responsive pages",
-      "Charts & tables",
-      "Dark and light sidebar themes",
-      "Based on Veutify 3",
-      "Widgets and UI components",
-      "Vite + Typescript",
-      "Application Designs",
-      "6 color skins"
-    ],
-    "createdOn": "01-Apr-2022"
-  },
-  {
     "id": 9,
     "price": 0,
     "popularity": 307,
@@ -345,7 +268,7 @@
       }
     ],
     "imageAlt": "materialM-vue-free",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/10/materialM-vue-free.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/free/materialm/materialM-vue-free.webp",
     "subtitle": "Free Vue3 + Vuetify 3 Dashboard",
     "livePreview": "https://materialm-vuejs-free.netlify.app/",
     "templateName": "MaterialM Free Vuetify Vuejs Admin Template",
@@ -387,7 +310,7 @@
       }
     ],
     "imageAlt": "MaterialM-Vuejs-Pro",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-Vuejs-Pro.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/pro/materialm/MaterialM-Vuejs-Pro.webp",
     "subtitle": "Vue3 + Vite + Vuetify 3 + Typescript",
     "livePreview": "https://www.wrappixel.com/templates/materialm-vuejs-vuetify-admin-template/#demos",
     "templateName": "MaterialM Vuejs Vuetify Admin Template",
@@ -430,7 +353,7 @@
       }
     ],
     "imageAlt": "modernize-free-nuxt-admin-dashboard-am-min",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am-min.png",
+    "imageSrc": "https://images.adminmart.com/templates/free/modernize/modernize-free-nuxt-admin-dashboard-am-min.webp",
     "subtitle": "Enhance Your Web Projects with a Contemporary NuxtJs Admin Dashboard Template – Free Download",
     "livePreview": "https://modernize-nuxtjs-free.netlify.app/",
     "templateName": "Modernize Free NuxtJs Admin Dashboard Template",
@@ -471,7 +394,7 @@
       }
     ],
     "imageAlt": "modernize-nuxt-js-admin-dashboard",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png",
+    "imageSrc": "https://images.adminmart.com/templates/pro/modernize/modernize-nuxt-js-admin-dashboard.webp",
     "subtitle": "Premium NuxtJs Admin Dashboard Template",
     "livePreview": "https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/#product-demo-section",
     "templateName": "Modernize Nuxt Js Admin Dashboard",
@@ -496,121 +419,6 @@
     "createdOn": "17-Feb-2023"
   },
   {
-    "id": 13,
-    "price": 0,
-    "popularity": 501,
-    "appType": "website",
-    "details": "https://adminmart.com/product/landingpro-free-nuxt-website-template/",
-    "category": "Nuxt",
-    "categories": [
-      {
-        "value": "landing-page",
-        "label": "Landing Page"
-      },
-      {
-        "value": "free",
-        "label": "Free"
-      }
-    ],
-    "imageAlt": "freelp",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/05/freelp.png",
-    "subtitle": "Launch Your Online Presence with LandingPro – A Free Nuxt Website Template",
-    "livePreview": "https://landingpro-nuxt-free.netlify.app/",
-    "templateName": "LandingPro Free Nuxt Website Template",
-    "description": "Look no further than LandingPro Nuxt js admin, a free nuxt.js website template with several additional features that is eye-catching and elegantly designed. With its sleek design, LandingPro nuxt.js template gives your nuxt project a professional and engaging look. It has everything you need to create an amazing web app.",
-    "features": [
-      "Vue 3+",
-      "NuxtJs 3+",
-      "Vuetify",
-      "10+ Stunning Designed Sections",
-      "10+ Ui Components added",
-      "1 Basic Landingpage",
-      "Code Splitting",
-      "Google Fonts",
-      "Easy Folder Structure",
-      "Organized Code Structure",
-      "The Hassle-free Setup Process"
-    ],
-    "createdOn": "22-May-2023"
-  },
-  {
-    "id": 14,
-    "price": 39,
-    "popularity": 502,
-    "appType": "website",
-    "details": "https://adminmart.com/product/landingpro-nuxt-website-template/",
-    "category": "Nuxt",
-    "categories": [
-      {
-        "value": "landing-page",
-        "label": "Landing Page"
-      },
-      {
-        "value": "ecommers",
-        "label": "Ecommers"
-      },
-      {
-        "value": "website-template",
-        "label": "Website Template"
-      },
-      {
-        "value": "personal",
-        "label": "Personal"
-      },
-      {
-        "value": "portfolio",
-        "label": "Portfolio"
-      },
-      {
-        "value": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "value": "corporate",
-        "label": "Corporate"
-      },
-      {
-        "value": "business",
-        "label": "Business"
-      },
-      {
-        "value": "startup",
-        "label": "StartUp"
-      },
-      {
-        "value": "saas",
-        "label": "Saas"
-      },
-      {
-        "value": "agency",
-        "label": "Agency"
-      }
-    ],
-    "imageAlt": "landingpro-vuetify-nuxtjs-website-template-min",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2023/05/landingpro-vuetify-nuxtjs-website-template-min.png",
-    "subtitle": "Premium NuxtJs Admin web Template",
-    "livePreview": "https://adminmart.com/product/landingpro-nuxt-website-template/#product-demo-section",
-    "templateName": "LandingPro Nuxt Website Template",
-    "description": "Do you need a highly customizable and developer friendly premium nuxt js website template packed with numerous features? LandingPro Next.js Website Template has everything you need. This nuxt.js based website template is designed in accordance with industry standards and best practices to provide you with a unique, yet attractive admin template.",
-    "features": [
-      "Easy Folder Structure",
-      "Organized Code Structure",
-      "The Hassle-free Setup Process",
-      "Vuetify",
-      "Vue 3+",
-      "NuxtJs 3+",
-      "10+ Stunning Designed Landingpage Pages",
-      "4+ Portfolio Variannts",
-      "Code Splitting",
-      "Google Fonts",
-      "70+ Interface Sections Ready to Use",
-      "Axios mock API",
-      "Vue3 Carousel Included",
-      "Figma Design Files"
-    ],
-    "createdOn": "22-May-2023"
-  },
-  {
     "id": 15,
     "price": 0,
     "popularity": 601,
@@ -628,7 +436,7 @@
       }
     ],
     "imageAlt": "spike-free-nuxt-js-admin-template-wp",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-nuxt-js-admin-template-wp.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/free/spike/spike-Nuxt_free.webp",
     "subtitle": "Streamline Your Workflow with Spike – A Free Nuxt Admin Dashboard Template",
     "livePreview": "https://spike-nuxtjs-free.netlify.app/",
     "templateName": "Spike Free Nuxt Admin Dashboard",
@@ -670,7 +478,7 @@
       }
     ],
     "imageAlt": "spike-nuxtjs-admin-dashboard-prev-img",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-nuxtjs-admin-dashboard-prev-img.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/pro/spike/spike-nuxtjs-admin.webp",
     "subtitle": "Premium Nuxt 3 Admin Dashboard",
     "livePreview": "https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/#demos",
     "templateName": "Spike NuxtJs Admin Template",
@@ -713,7 +521,7 @@
       }
     ],
     "imageAlt": "materialpro-nuxtjs-free",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/07/materialpro-nuxtjs-free.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/free/materialpro/materialpro-nuxtjs-free.webp",
     "subtitle": "Optimize Your Admin Interface with MaterialPro – A Free NuxtJs Admin Template",
     "livePreview": "https://materialpro-free-nuxtjs.netlify.app/",
     "templateName": "MaterialPro Free NuxtJs Admin Template",
@@ -751,7 +559,7 @@
       }
     ],
     "imageAlt": "materialpro-nuxtjs",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2022/07/materialpro-nuxtjs.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/pro/materialpro/materialpro-nuxtjs-admin.webp",
     "subtitle": "Premium NuxtJs Admin Dashboard Template",
     "livePreview": "https://www.wrappixel.com/templates/materialpro-nuxtjs/#demos",
     "templateName": "MaterialPro NuxtJs Admin Template",
@@ -794,7 +602,7 @@
       }
     ],
     "imageAlt": "MaterialM-Nuxtjs-pro",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2024/10/MaterialM-Nuxtjs-pro.jpg",
+    "imageSrc": "https://images.wrappixel.com/templates/pro/materialm/MaterialM-Nuxtjs-pro.webp",
     "subtitle": "Premium NuxtJs Admin Dashboard Template",
     "livePreview": "https://www.wrappixel.com/templates/materialm-vuetify-nuxt-js-admin-template/#demos",
     "templateName": "MaterialM Vuetify Nuxt Js Admin Template",
@@ -5230,7 +5038,7 @@
     "details": "https://adminmart.com/product/matdash-free-nuxt-js-admin-template/",
     "category": "Nuxt",
     "imageAlt": "MatDash_Nuxtjs_free_adminmart_img",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2024/12/MatDash_Nuxtjs_free_adminmart_img.webp",
+    "imageSrc": "https://images.adminmart.com/templates/free/matdash/MatDash_Nuxtjs_free_adminmart_img.webp",
     "subtitle": "Enhance Your Web Projects with a Contemporary NuxtJs Admin Dashboard Template – Free Download",
     "livePreview": "https://matdash-nuxtjs-free.netlify.app/",
     "templateName": "MatDash Free Nuxt Js Admin Template",
@@ -5275,7 +5083,7 @@
     "details": "https://adminmart.com/product/matdash-vuetify-nuxt-js-admin-template/",
     "category": "Nuxt",
     "imageAlt": "matdash-nuxtjs-pro",
-    "imageSrc": "https://adminmart.com/wp-content/uploads/2024/10/matdash-nuxtjs-pro.webp",
+    "imageSrc": "https://images.adminmart.com/templates/pro/matdash/matdash-nuxtjs-pro.webp",
     "subtitle": "Premium NuxtJs Admin Dashboard Template",
     "livePreview": "https://adminmart.com/product/matdash-vuetify-nuxt-js-admin-template/#product-demo-section",
     "templateName": "MatDash Vuetify Nuxt Js Admin Template",
@@ -5329,7 +5137,7 @@
     "details": "https://www.wrappixel.com/templates/studiova-nuxtjs-business-agency-template/",
     "category": "Nuxt",
     "imageAlt": "Studiova-Nuxt",
-    "imageSrc": "https://www.wrappixel.com/wp-content/uploads/edd/2025/07/Studiova-Nuxt.webp",
+    "imageSrc": "https://images.wrappixel.com/templates/free/studiova/Studiova-Nuxt.webp",
     "subtitle": "Elevate Your Business or Agency with a Cutting-Edge Nuxt.js Template",
     "livePreview": "https://studiova-nuxt.netlify.app/",
     "templateName": "Studiova Nuxtjs Business & Agency Template",
